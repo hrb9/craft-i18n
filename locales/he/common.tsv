@@ -1,0 +1,1293 @@
+# עברית (he) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+@id	language.name	עברית
+	% of all commits	% מכלל השינויים
+	(Custom)	(מותאם אישית)
+	(none)	(ללא)
+	1 file	קובץ אחד
+	16 bit	16 סיביות
+	24 bit	24 סיביות
+	24 bits/pixel	24 סיביות/פיקסל
+	32 bit	32 סיביות
+	32 bits/pixel	32 סיביות/פיקסל
+	8 bit	8 סיביות
+	About	אודות
+	Absolute	מוחלט
+	Absolute Colorimetric	קולורימטרי מוחלט
+	Accented Edges	קצוות מודגשים
+	Accessibility	נגישות
+	Accurate	מדויק
+	Actions	פעולות
+	Activate Panel	הפעל חלונית
+	Active	פעיל
+	Actual Size	גודל אמיתי
+	Adaptive	מסתגל
+	Add	הוסף
+	Add a comment	הוסף הערה
+	Add Guide	הוסף קו עזר
+	Add to Dictionary	הוסף למילון
+	Add to favorites	הוסף למועדפים
+	Add to Swatches	הוסף לדוגמיות צבע
+	Adjust	התאם
+	Adjustments	התאמות
+	Advanced	מתקדם
+	Align	יישור
+	Align center	יישר למרכז
+	Align Left	יישר לשמאל
+	Align left	יישר לשמאל
+	Align Right	יישר לימין
+	Align right	יישר לימין
+	Align Text	יישור טקסט
+	Align to Selection	יישר לבחירה
+	Alignment	יישור
+	Alignment:	יישור:
+	All	הכול
+	All Caps	אותיות רישיות בלבד
+	All Categories	כל הקטגוריות
+	All files	כל הקבצים
+	All Layers	כל השכבות
+	All pages	כל העמודים
+	All Slices	כל החיתוכים
+	Alpha	אלפא
+	Alt	Alt
+	Always	תמיד
+	Amount	כמות
+	Amount:	כמות:
+	Angle	זווית
+	Angle:	זווית:
+	Angular	זוויתי
+	Animation	הנפשה
+	Animation effects	אפקטי הנפשה
+	Anti-Alias	החלקת קצוות
+	Anti-alias	החלקת קצוות
+	Any	כלשהו
+	Appearance	מראה
+theme	Appearance	מראה
+	Appearance Settings…	הגדרות מראה…
+	Application	יישום
+	Apply	החל
+	Apply Character Style	החל סגנון תו
+	Apply Data Set	החל ערכת נתונים
+	Apply to:	החל על:
+	Arc	קשת
+	Area	שטח
+	Arrange	סידור
+	Arrow	חץ
+	Arrows	חיצים
+	Artboard	משטח יצירה
+	Artboards	משטחי יצירה
+	ArtCraft	ArtCraft
+	ArtCraft Website	אתר ArtCraft
+	ArtCraft website	אתר ArtCraft
+	Artistic	אמנותי
+	Ascending	סדר עולה
+	Aspect Ratio	יחס גובה-רוחב
+	Assign	הקצה
+	Assign Profile…	הקצה פרופיל…
+	Audio	שמע
+	Author	מחבר
+	Author:	מחבר:
+	Auto	אוטומטי
+	Auto ({percent}%)	אוטומטי ({percent}%)
+	Auto Color	צבע אוטומטי
+	Automate	אוטומציה
+	Automatic	אוטומטי
+	Automatically	באופן אוטומטי
+	Available	זמין
+	Average	ממוצע
+	Background	רקע
+	Background Color	צבע רקע
+	Background Contents	תוכן הרקע
+	Backspace	Backspace
+	Balance	איזון
+	Bar	עמודה
+	Baseline	קו בסיס
+	Baseline Shift	היסט קו בסיס
+	Basic	בסיסי
+	Basic Latin	לטינית בסיסית
+	Batch	אצווה
+	Batch…	עיבוד אצווה…
+	Bend:	כיפוף:
+	Bicubic	דו-מעוקב (Bicubic)
+	Binary assets added	נכסים בינאריים שנוספו
+	Binary assets removed	נכסים בינאריים שהוסרו
+	Bitmap	מפת סיביות
+	Black	שחור
+	Black & White	שחור-לבן
+	Black and white	שחור-לבן
+	Black Intensity	עוצמת שחור
+	Blacks	שחורים
+	Blend Mode	מצב מיזוג
+	Blending Mode	מצב מיזוג
+	Block	בלוק
+	Blocks	בלוקים
+	Blue	כחול
+	Blur	טשטוש
+	Blur Angle	זווית טשטוש
+	Bold	מודגש
+	Border	גבול
+	Border Thickness	עובי גבול
+	Borders	גבולות
+	Both	שניהם
+	Both sides	שני הצדדים
+	Bottom	למטה
+	Bottom Left	למטה משמאל
+	Bottom Right	למטה מימין
+	Bottom:	למטה:
+	Break Link	נתק קישור
+	Brick	לבנים
+	Brightness	בהירות
+	Bring Forward	הבא קדימה
+	Bring to Front	הבא לחזית
+	Brown	חום
+	Browse	עיון
+	Browse…	עיון…
+	Brush Size	גודל מברשת
+	Brush Strokes	משיכות מכחול
+	Brushes	מברשות
+	Bulge	בליטה
+	Bullet	תבליט
+	Burlap	יוטה
+	Calculate	חשב
+	Cancel	ביטול
+	Canvas	משטח עבודה
+	Caption	כיתוב
+	Cascade	מדורג
+	Case Sensitive	תלוי רישיות
+	Category	קטגוריה
+	Category:	קטגוריה:
+	Cell Size	גודל תא
+	Center	מרכז
+	Center X	מרכז X
+	Center Y	מרכז Y
+	Centered	ממורכז
+	Centimeters	סנטימטרים
+	Chamfer	שיפוע קצה
+	Change	שנה
+	Change All	שנה הכול
+	Change Case	שנה רישיות
+	Change Panel Layout	שנה פריסת חלוניות
+	Channel	ערוץ
+	Channel Mixer	מערבל ערוצים
+	Channels	ערוצים
+	Character	תו
+	Character Styles	סגנונות תו
+	Characters	תווים
+	Check for Updates	בדוק עדכונים
+	Check for updates	בדוק עדכונים
+	Check Spelling…	בדיקת איות…
+	Checkerboard	לוח שחמט
+	Choose…	בחר…
+	Circle	עיגול
+	City	עיר
+	Clarity	צלילות
+	Classic	קלאסי
+	Clear	נקה
+	Clear All	נקה הכול
+	Clear Guides	נקה קווי עזר
+	Clear History	נקה היסטוריה
+	Clear Recent Files	נקה קבצים אחרונים
+	Clipboard	לוח עריכה
+	Clipping Mask	מסכת חיתוך
+	Clone	שכפול
+	Close	סגור
+	Close (Esc)	סגור (Esc)
+	Close All	סגור הכול
+	Close Panel	סגור חלונית
+	Cmd	Cmd
+	CMYK Color	צבע CMYK
+	CMYK:	CMYK:
+	Coarse Dots	נקודות גסות
+	Collapse	כווץ
+	Collate	איסוף עותקים
+	Color	צבע
+	Color Balance	איזון צבעים
+	Color Burn	צריבת צבע
+	Color Dodge	הבהרת צבע
+	Color Management	ניהול צבע
+	Color Mode	מצב צבע
+	Color Picker	בורר צבעים
+	Color Settings	הגדרות צבע
+	Color Settings…	הגדרות צבע…
+	Color Space	מרחב צבע
+	Color Swatches	דוגמיות צבע
+	Color Table	טבלת צבעים
+	Color:	צבע:
+	Colorize	צביעה
+	Colors	צבעים
+	Colors:	צבעים:
+	Color…	צבע…
+	Colour	צבע
+	Column width	רוחב עמודה
+	Columns	עמודות
+	Columns:	עמודות:
+	Combine	שלב
+	Command	פקודה
+	Commands:	פקודות:
+	Comment	הערה
+	Comments	הערות
+	Commits	שינויים (Commits)
+	Community	קהילה
+	Company	חברה
+	Compare	השווה
+	Comparison	השוואה
+	Compatibility	תאימות
+	Composite	מורכב
+	Compression	דחיסה
+	Cone	חרוט
+	Contains	מכיל
+	Continue	המשך
+	Contrast	ניגודיות
+	Contributors	תורמים
+	Convert	המר
+	Convert to Shape	המר לצורה
+	Convert to sRGB	המר ל-sRGB
+	Copies	עותקים
+	Copies:	עותקים:
+	Copy	העתק
+	Copyright	זכויות יוצרים
+	Copyrighted	מוגן בזכויות יוצרים
+	Corner	פינה
+	Corners	פינות
+	Correction	תיקון
+	Couldn't open {name}: {e}	לא ניתן לפתוח את {name}: {e}
+@msg	Couldn't open {name}: {e}	לא ניתן לפתוח את {name}: {e}
+	Country	מדינה
+	Crack Brightness	בהירות סדקים
+	Crack Depth	עומק סדקים
+	Crack Spacing	מרווח סדקים
+	Create	צור
+	Create Clipping Mask	צור מסכת חיתוך
+	Crop	חיתוך
+	Cross	צלב
+	Crosshatch	קווים מצטלבים
+	Crystallize	גיבוש
+	Crystallize…	גיבוש…
+	Ctrl	Ctrl
+	Current	נוכחי
+	Current page	העמוד הנוכחי
+	Current Time	הזמן הנוכחי
+	Curvature	עקמומיות
+	Curve	עקומה
+	Curves	עקומות
+	Curves…	עקומות…
+	Custom	מותאם אישית
+	Customize…	התאמה אישית…
+	Cut	גזור
+	Cyan	ציאן
+	Dark	כהה
+	Dark Gray	אפור כהה
+	Dark gray	אפור כהה
+	Dark Strokes	משיכות כהות
+	Dark Theme	ערכת נושא כהה
+	Darken	הכהה
+	Darkness	כהות
+	Dashed	מקווקו
+	Data	נתונים
+	Data Sets	ערכות נתונים
+	Date	תאריך
+	Date and Time	תאריך ושעה
+	Date Created	תאריך יצירה
+	Date format	תבנית תאריך
+	Dates	תאריכים
+	De-Interlace	ביטול שזירה
+	Decrease Font Size	הקטן גודל גופן
+	Default	ברירת מחדל
+	Delete	מחק
+	Delete Brush	מחק מברשת
+	Delete Group	מחק קבוצה
+	Delete Layer	מחק שכבה
+	Delete Mask	מחק מסכה
+	Delete Style	מחק סגנון
+	Delete Workspace	מחק סביבת עבודה
+	Deleted	נמחק
+	Delete…	מחק…
+	Depth	עומק
+	Desaturate	בטל רוויה
+	Descending	סדר יורד
+	Description	תיאור
+	Description:	תיאור:
+	Deselect	בטל בחירה
+	Deselect All	בטל בחירת הכול
+	Destination	יעד
+	Destination:	יעד:
+	Details	פרטים
+	Diagonal	אלכסוני
+	Diameter	קוטר
+	Diameter:	קוטר:
+	Diamond	יהלום
+	Difference	הפרש
+	Diffuse Glow	זוהר מפוזר
+	Diffusion	פיזור
+	Digits	ספרות
+	Dimensions	ממדים
+	Direct Selection Tool	כלי בחירה ישירה
+	Direction	כיוון
+	Direction Balance	איזון כיוון
+	Direction:	כיוון:
+	Discard	בטל שינויים
+	Discord	Discord
+	Discretionary Ligatures	ליגטורות רשות
+	Dismiss	סגור
+	Display	תצוגה
+	Display name	שם תצוגה
+	Distance	מרחק
+	Distort	עיוות
+	Distortion	עיוות
+	Distribute	פזר
+	Divide	חלק
+	Dock Panel	עגן חלונית
+	Document	מסמך
+	Document Title	כותרת המסמך
+	Documents	מסמכים
+	Don't Save	אל תשמור
+	Done	סיום
+	Dot	נקודה
+	Dots	נקודות
+	Dotted	מנוקד
+	Double-click	לחיצה כפולה
+	Down	למטה
+	Download	הורדה
+	Draft	טיוטה
+	Draw	ציור
+	Drop Shadow	הצללה
+	Drop Shadow…	הצללה…
+	Duplicate	שכפל
+	Duplicate Layer	שכפל שכבה
+	Duplicate…	שכפל…
+	Duplication	שכפול
+	Duration	משך
+	Dutch	הולנדית
+	Dynamic	דינמי
+	Dynamics	דינמיקה
+	Edge	קצה
+	Edge Brightness	בהירות קצה
+	Edge Intensity	עוצמת קצה
+	Edge Only	קצה בלבד
+	Edge Simplicity	פשטות קצה
+	Edge Thickness	עובי קצה
+	Edge Width	רוחב קצה
+	Edit	עריכה
+	Edit Contents	ערוך תוכן
+	Edit Original	ערוך מקור
+	Edit Toolbar	ערוך סרגל כלים
+	Editing	עריכה
+	Edit…	ערוך…
+	Effect	אפקט
+	Effects	אפקטים
+	Elevation	גובה
+	Eliminate	הסר
+	Ellipse	אליפסה
+	Ellipse Tool	כלי אליפסה
+	Ellipsis	שלוש נקודות
+	Em Dash	קו מפריד ארוך (Em)
+	Em Space	רווח ארוך (Em)
+	Embed	הטמע
+	Emboss	הבלטה
+	En Dash	קו מפריד בינוני (En)
+	En Space	רווח בינוני (En)
+	Enable	הפעל
+	Endpoint	נקודת קצה
+	Enlarged	מוגדל
+	Enter	Enter
+	Entire Font	כל הגופן
+	Envelope DL	מעטפה DL
+	Erase	מחק
+	Eraser	מחק
+	Eraser Tool	כלי מחק
+	Error	שגיאה
+	Even Fields	שדות זוגיים
+	Even pages only	עמודים זוגיים בלבד
+	Exact	מדויק
+	Example: {sample}	דוגמה: {sample}
+	Exclusion	הוצאה מן הכלל
+	Exit	יציאה
+	Expand	הרחב
+	Export	ייצוא
+	Export As	ייצא בשם
+	Export As…	ייצא בשם…
+	Export Options	אפשרויות ייצוא
+	Export PDF	ייצא PDF
+	Export to	ייצא אל
+	Exported to {path}	יוצא אל {path}
+	Exported {path}	יוצא {path}
+	Export…	ייצוא…
+	Exposure	חשיפה
+	Expression	ביטוי
+	Extract	חלץ
+	Eyedropper	טפטפת
+	Eyedropper Tool	כלי טפטפת
+	Faded Film	סרט דהוי
+	Fast	מהיר
+	Favorites	מועדפים
+	Feather	ריכוך קצוות
+	Field	שדה
+	Field properties	מאפייני שדה
+	Fields	שדות
+	Fields:	שדות:
+	File	קובץ
+	File Format	תבנית קובץ
+	File Handling	טיפול בקבצים
+	File Info…	פרטי קובץ…
+	File Name	שם קובץ
+	File Size	גודל קובץ
+@id	file.close	סגור
+	Files	קבצים
+	Fill	מילוי
+	Fill:	מילוי:
+	Filter	מסנן
+	Find	חיפוש
+	Find and Replace	חיפוש והחלפה
+	Find Next	חפש את הבא
+	Find:	חפש:
+	Find…	חיפוש…
+	Fine Dots	נקודות עדינות
+	Finish	סיום
+	First	ראשון
+	First commit	שינוי ראשון
+	Fit	התאם
+	Fit in View	התאם לתצוגה
+	Fixed	קבוע
+	Flash	מבזק
+	Flatten	שטח
+	Flip	הפוך
+	Flip Horizontal	הפוך אופקית
+	Flip Vertical	הפוך אנכית
+	Focus	מיקוד
+	Folder	תיקייה
+	Font	גופן
+	Font Size	גודל גופן
+	Font size	גודל גופן
+	Font Size:	גודל גופן:
+	Font:	גופן:
+	Fonts	גופנים
+	Format	עיצוב
+	Format:	תבנית:
+	Fractions	שברים
+	Frame	מסגרת
+	Free	חופשי
+	Free Transform	שינוי צורה חופשי
+	French	צרפתית
+	Frequency	תדירות
+	From	מאת
+	Frosted	חלבי
+	Full	מלא
+	Full Screen	מסך מלא
+	Full Screen Mode	מצב מסך מלא
+	Functions	פונקציות
+	Gamma	גמא
+	Gamma Correction	תיקון גמא
+	Gamut Warning	אזהרת טווח צבעים
+	Gaussian Blur	טשטוש גאוסי
+	Gaussian Blur…	טשטוש גאוסי…
+	General	כללי
+	General…	כללי…
+	Generate	צור
+	Geometry	גאומטריה
+	German	גרמנית
+	GitHub	GitHub
+	Glass	זכוכית
+	Global	גלובלי
+	Glow	זוהר
+	Glow Brightness	בהירות זוהר
+	Glow Size	גודל זוהר
+	Glyphs	גליפים
+	Good	טוב
+	Gradient	מעבר צבע
+	Gradient Tool	כלי מעבר צבע
+	Gradients	מעברי צבע
+	Grain	גרעיניות
+	Grain Type	סוג גרעיניות
+	Graininess	גרעיניות
+	Grainy Dots	נקודות מגורענות
+	Graphic	גרפי
+	Graphics	גרפיקה
+	Gray	אפור
+	Gray Gamma 2.2	אפור גמא 2.2
+	Grayscale	גווני אפור
+	Green	ירוק
+	Grid	רשת
+	Grid Size:	גודל רשת:
+	Grid view	תצוגת רשת
+	Gridline every	קו רשת כל
+	Group	קבץ
+	Group with	קבץ עם
+	Groups	קבוצות
+	Grout Width	רוחב מישקים
+	Guides	קווי עזר
+	Halftone Pattern	תבנית רשת הדפסה
+	Hand	יד
+	Hand Tool	כלי יד
+	Hard	קשה
+	Hard Light	אור חזק
+	Hard Mix	ערבוב חד
+	Headings	כותרות
+	Heart	לב
+	Height	גובה
+	Height:	גובה:
+	Help	עזרה
+	Hexagon	משושה
+	Hidden	מוסתר
+	Hidden text	טקסט מוסתר
+	Hide	הסתר
+	Hide All	הסתר הכול
+	Hide Grid	הסתר רשת
+	Hide Others	הסתר אחרים
+	High	גבוה
+	High Pass	מעבר גבוהים
+	High Resolution	רזולוציה גבוהה
+	High resolution	רזולוציה גבוהה
+	Highlight Area	אזור הבהרה
+	Highlights	אזורים בהירים
+	Hindi	הינדי
+	Histogram	היסטוגרמה
+	History	היסטוריה
+	Hollow	חלול
+	Home	בית
+	Horizontal	אופקי
+	Horizontal scale	קנה מידה אופקי
+	Horizontally	אופקית
+	Hue	גוון
+	Hue Shift	היסט גוון
+	Hue/Saturation…	גוון/רוויה…
+	Hyphenation	מיקוף
+	Icon	סמל
+	Ignore	התעלם
+	Ignore All	התעלם מהכול
+	Image	תמונה
+	Image Size	גודל תמונה
+	Images	תמונות
+	Import	ייבוא
+	Import…	ייבוא…
+	Inches	אינצ׳ים
+	Increase Font Size	הגדל גודל גופן
+	Index	אינדקס
+	Inflate	ניפוח
+	Info	מידע
+	Inner Glow…	זוהר פנימי…
+	Input:	קלט:
+	Insert	הוספה
+	Inside	בפנים
+	Inspect Document	בדוק מסמך
+	Install Plug-in	התקן תוסף
+	Install Plug-in…	התקן תוסף…
+	Intensity	עוצמה
+	Interface	ממשק
+	Interface Language	שפת ממשק
+	Interface language	שפת ממשק
+	Interface Theme	ערכת נושא לממשק
+	Interlaced	שזור
+	Interpolation	אינטרפולציה
+	Intersect	חיתוך משותף
+	Intersection	חיתוך
+	Invert	הפוך
+	Invert Mask	הפוך מסכה
+	Isolate	בודד
+	Italian	איטלקית
+	Italic	נטוי
+	Japanese	יפנית
+	Join	חיבור
+	Join our Discord	הצטרפו ל-Discord שלנו
+	Join the ArtCraft Discord	הצטרפו ל-Discord של ArtCraft
+	Join the ArtCraft Discord…	הצטרפו ל-Discord של ArtCraft…
+	Join us on Discord	הצטרפו אלינו ב-Discord
+	just now	ממש עכשיו
+	Justification	יישור דו-צדדי
+	Justify	יישר לשני הצדדים
+	Keep:	שמור:
+	Kerning	צימוד אותיות (Kerning)
+	Keyboard Shortcuts	קיצורי מקלדת
+	Keyboard Shortcuts…	קיצורי מקלדת…
+	Keywords	מילות מפתח
+	Kind	סוג
+	Korean	קוריאנית
+	Lab	Lab
+	Label	תווית
+	Labels	תוויות
+	Landscape	לרוחב
+	Language	שפה
+	Language Options	אפשרויות שפה
+	Language:	שפה:
+	Large	גדול
+	Lasso	לאסו
+	Lasso Tool	כלי לאסו
+	Last	אחרון
+	Last commit	שינוי אחרון
+	Later	אחר כך
+	Layer	שכבה
+	Layers	שכבות
+	Layout	פריסה
+	Layout:	פריסה:
+	Leading	מרווח שורות
+	Left	שמאל
+	Left Diagonal	אלכסון שמאלי
+	Left to Right	משמאל לימין
+	Left:	שמאל:
+	Legal	Legal
+	Length	אורך
+	Length:	אורך:
+	Lens Flare	הבהק עדשה
+	Less	פחות
+	Letter	Letter
+	Level	רמה
+	Level 1	רמה 1
+	Level 2	רמה 2
+	Level 3	רמה 3
+	Level 4	רמה 4
+	Levels	רמות
+	Levels…	רמות…
+	Libraries	ספריות
+	Library	ספרייה
+	Light	בהיר
+	Light Blue	תכלת
+	Light Direction	כיוון אור
+	Light Gray	אפור בהיר
+	Light gray	אפור בהיר
+	Light Intensity	עוצמת אור
+	Light Theme	ערכת נושא בהירה
+	Light Type	סוג תאורה
+	Lighten	הבהר
+	Lighter Color	צבע בהיר יותר
+	Lighting	תאורה
+	Lighting Effects	אפקטי תאורה
+	Lightness	בהירות
+	Line	קו
+	Line delta	שינוי בשורות
+	Line spacing	מרווח בין שורות
+	Linear	ליניארי
+	Linear Burn	צריבה ליניארית
+	Linear Gradient	מעבר צבע ליניארי
+	Linear Light	אור ליניארי
+	Lines	קווים
+	Lines +/−	שורות +/−
+	Lines added	שורות שנוספו
+	Lines deleted	שורות שנמחקו
+	Link	קישור
+	Links	קישורים
+	List	רשימה
+	List View	תצוגת רשימה
+	List view	תצוגת רשימה
+	Location	מיקום
+	Location:	מיקום:
+	Lock	נעל
+	Lock Guides	נעל קווי עזר
+	Lock Slices	נעל חיתוכים
+	Locked	נעול
+	Long Lines	קווים ארוכים
+	Long Strokes	משיכות ארוכות
+	Low	נמוך
+	lowercase	אותיות קטנות
+	Luminance	בוהק
+	Luminosity	בהירות אור
+	Magenta	מג׳נטה
+	Magic Wand Tool	כלי מטה קסם
+	Magnification	הגדלה
+	Margins	שוליים
+	Mask	מסכה
+	Masks	מסכות
+	Matte	מט
+	Maximize	הגדל למקסימום
+	Maximum	מקסימום
+	Measure	מדידה
+	Median	חציון
+	Medium	בינוני
+	Medium Dots	נקודות בינוניות
+	Medium Gray	אפור בינוני
+	Medium Lines	קווים בינוניים
+	Merge	מזג
+	Merge Cells	מזג תאים
+	Merge Layers	מזג שכבות
+	Merged PRs	בקשות מיזוג שמוזגו
+	Mesh	רשת עיוות (Mesh)
+	Message:	הודעה:
+	Metadata	מטא-נתונים
+	Method	שיטה
+	Method:	שיטה:
+	Mezzotint	מצוטינט
+	Mezzotint…	מצוטינט…
+	Middle	אמצע
+	Midpoint	נקודת אמצע
+	Midtones	גווני ביניים
+	Millimeters	מילימטרים
+	Minimize	מזער
+	Minimum	מינימום
+	Mirror	מראה
+	Missing	חסר
+	Mobile	נייד
+	Mode	מצב
+	Mode:	מצב:
+	Model	מודל
+	Models	מודלים
+	Modern	מודרני
+	Modified	שונה
+	Modify	שנה
+	Monitor RGB	צג RGB
+	Mono	מונו
+	Monochrome	חד-גוני
+	More	עוד
+	Mosaic	פסיפס
+	Mosaic Tiles	אריחי פסיפס
+	Motion	תנועה
+	Move	הזז
+	Move Down	הזז למטה
+	Move Panel	הזז חלונית
+	Move Up	הזז למעלה
+	Multiply	הכפלה
+	Name	שם
+	Name (A–Z)	שם (א–ת)
+	Name:	שם:
+	Navigation	ניווט
+	Navigator	נווט
+	Neon Glow	זוהר ניאון
+	Never	לעולם לא
+	New	חדש
+	New Document	מסמך חדש
+	New document	מסמך חדש
+	New from Template	חדש מתבנית
+	New Group	קבוצה חדשה
+	New Guide	קו עזר חדש
+	New Layer	שכבה חדשה
+	New Layer…	שכבה חדשה…
+	New Style…	סגנון חדש…
+	New Swatch…	דוגמית צבע חדשה…
+	New Window	חלון חדש
+	New Workspace	סביבת עבודה חדשה
+	New Workspace…	סביבת עבודה חדשה…
+	New…	חדש…
+	Next	הבא
+	Next Appearance Mode	מצב המראה הבא
+	Next Change	השינוי הבא
+	Next Page	העמוד הבא
+	Next page	העמוד הבא
+	No	לא
+	No Color	ללא צבע
+	No Dither	ללא פיזור גוונים
+	No Document	אין מסמך
+	No document	אין מסמך
+	No document open	אין מסמך פתוח
+	No limit	ללא הגבלה
+	No matches.	אין התאמות.
+	No matching commands	אין פקודות תואמות
+	No recent files	אין קבצים אחרונים
+	No results	אין תוצאות
+	No Selection	אין בחירה
+	No selection	אין בחירה
+	Noise	רעש
+	Nonbreaking Space	רווח קשיח
+	None	ללא
+	Normal	רגיל
+	Not available	לא זמין
+	NTSC Colors	צבעי NTSC
+	Number	מספר
+	Object	אובייקט
+	Octagon	מתומן
+	Odd Fields	שדות אי-זוגיים
+	Odd pages only	עמודים אי-זוגיים בלבד
+	Off	כבוי
+	Offline	לא מקוון
+	Offset	היסט
+	Offset:	היסט:
+	OK	אישור
+	Omit	השמט
+	On	פעיל
+	Only Web Colors	צבעי אינטרנט בלבד
+	Opacity	אטימות
+	Opacity:	אטימות:
+	Open	פתח
+	Open link	פתח קישור
+	Open Recent	פתח אחרונים
+	OpenType	OpenType
+	Open…	פתח…
+	Optimized	ממוטב
+	Options	אפשרויות
+	Options…	אפשרויות…
+	Orange	כתום
+	Ordinals	מספרים סודרים
+	Orientation	כיוון עמוד
+	Orientation:	כיוון עמוד:
+	Original	מקורי
+	Other	אחר
+	Outer Glow…	זוהר חיצוני…
+	Outline	קו מתאר
+	Output	פלט
+	Output:	פלט:
+	Outside	בחוץ
+	Oval	אליפסה
+	Overlap:	חפיפה:
+	Overlay	שכבת-על
+	Package…	אריזה…
+	Page	עמוד
+	Page {page} of {pages}	עמוד {page} מתוך {pages}
+	Pages	עמודים
+	Painting	ציור
+	Panel	חלונית
+	Panel menu	תפריט חלונית
+	Panel Options…	אפשרויות חלונית…
+	Panels	חלוניות
+	Paper	נייר
+	Paragraph	פסקה
+	Paragraph Styles	סגנונות פסקה
+	Password	סיסמה
+	Paste	הדבק
+	Paste Special	הדבקה מיוחדת
+	Patchwork	טלאים
+	Path	נתיב
+	Path:	נתיב:
+	Paths	נתיבים
+	Pattern	תבנית
+	Pattern Type	סוג תבנית
+	Pause	השהה
+	Pen	עט
+	Pen Tool	כלי עט
+	Pencil	עיפרון
+	Pencil Tool	כלי עיפרון
+	Pentagon	מחומש
+	Percent	אחוז
+	Percentage	אחוזים
+	Performance	ביצועים
+	Perimeter	היקף
+	Perspective	פרספקטיבה
+	Photo	תמונה
+	Photocopy	צילום מסמכים
+	Picas	פיקה (Picas)
+	Pin Light	אור ממוקד
+	Pink	ורוד
+	Pixel	פיקסל
+	Pixelate	פיקסליזציה
+	Pixels	פיקסלים
+	Play	נגן
+	Plug-ins	תוספים
+	Point	נקודה
+	Pointillize	פוינטיליזם
+	Pointillize…	פוינטיליזם…
+	Points	נקודות
+	Polygon	מצולע
+	Polygon Tool	כלי מצולע
+	Polyline	קו רב-קטעי
+	Portrait	לאורך
+	Portuguese	פורטוגזית
+	Position	מיקום
+	Position:	מיקום:
+	Postcard	גלויה
+	Poster	כרזה
+	Poster Edges	קצוות כרזה
+	Posterization	פוסטריזציה
+	Posterize	פוסטריזציה
+	Preferences	העדפות
+	Preferences…	העדפות…
+	Prefix	קידומת
+	Preserve	שמור
+	Preserve Luminosity	שמור על בהירות אור
+	Preset	הגדרה קבועה מראש
+	Preset Manager	מנהל הגדרות קבועות מראש
+	Preset:	הגדרה קבועה מראש:
+	Presets	הגדרות קבועות מראש
+	Presets:	הגדרות קבועות מראש:
+	Press keys…	לחץ על מקשים…
+	Pressure	לחץ
+	Preview	תצוגה מקדימה
+	Previous	הקודם
+	Previous Change	השינוי הקודם
+	Previous Page	העמוד הקודם
+	Previous page	העמוד הקודם
+	Print	הדפסה
+	Printer	מדפסת
+	Printer:	מדפסת:
+	Printing	הדפסה
+	Print…	הדפסה…
+	Profile	פרופיל
+	Progressive	מדורג (Progressive)
+	Proof Setup	הגדרת הגהה
+	Properties	מאפיינים
+	Protect	הגנה
+	PRs	בקשות מיזוג (PRs)
+	Public Domain	נחלת הכלל
+	Punctuation	פיסוק
+	Purple	סגול
+	Pyramid	פירמידה
+	Quality	איכות
+	Quick Actions	פעולות מהירות
+	Radial	מעגלי
+	Radial Blur	טשטוש מעגלי
+	Radial Blur…	טשטוש מעגלי…
+	Radial Gradient	מעבר צבע מעגלי
+	Radius	רדיוס
+	Radius:	רדיוס:
+	Random	אקראי
+	Range	טווח
+	Range:	טווח:
+	Rasterize	המר לתמונת רסטר
+	Ratio	יחס
+	Rays	קרניים
+	Ready	מוכן
+	Real name	שם אמיתי
+	Recent	אחרונים
+	Recent Colors	צבעים אחרונים
+	Recent Files	קבצים אחרונים
+	Recover	שחזר
+	Rectangle	מלבן
+	Rectangle Tool	כלי מלבן
+	Rectangular	מלבני
+	Red	אדום
+	Redo	בצע שוב
+	Reduce Noise	הפחתת רעש
+	Refine	חדד בחירה
+	Reflected	משתקף
+	Refresh	רענן
+	Regular	רגיל
+	Relative	יחסי
+	Relative Colorimetric	קולורימטרי יחסי
+	Relaxed	מרווח
+	Relief	תבליט
+	Reload	טען מחדש
+	Remove	הסר
+	Remove Background	הסר רקע
+	Remove from favorites	הסר מהמועדפים
+	Rename	שנה שם
+	Rename Group…	שנה שם קבוצה…
+	Rename Style	שנה שם סגנון
+	Rename…	שנה שם…
+	Repeat	חזור
+	Replace	החלף
+	Replace:	החלף ב:
+	Reply	השב
+	Report	דווח
+	Report an Issue…	דווח על בעיה…
+	Reselect	בחר מחדש
+	Reset	איפוס
+	Reset Preferences	אפס העדפות
+	Reset…	איפוס…
+	Resize panel window	שנה גודל חלון חלונית
+	Resize panels	שנה גודל חלוניות
+	Resolution	רזולוציה
+	Resolution:	רזולוציה:
+	Restore	שחזר
+	Result	תוצאה
+	Resume	המשך
+	Reveal in Finder	הצג ב-Finder
+	Reverse	הפוך כיוון
+	Reverse the order	הפוך את הסדר
+	Revert	חזור למקור
+	Review	סקירה
+	RGB	RGB
+	RGB Color	צבע RGB
+	RGB:	RGB:
+	Right	ימין
+	Right Diagonal	אלכסון ימני
+	Right:	ימין:
+	Rotate	סובב
+	Rotate:	סיבוב:
+	Rotation	סיבוב
+	Rotation:	סיבוב:
+	Rounded Rectangle	מלבן מעוגל
+	Roundness	עגלגלות
+	Roundness:	עגלגלות:
+	Rows	שורות
+	Ruler	סרגל
+	Rulers	סרגלים
+	Rulers & Grids	סרגלים ורשתות
+	Russian	רוסית
+	Sample Size	גודל דגימה
+	Sandstone	אבן חול
+	Saturation	רוויה
+	Save	שמור
+	Save a Copy	שמור עותק
+	Save a Copy…	שמור עותק…
+	Save As	שמור בשם
+	Save as PDF	שמור כ-PDF
+	Save as Template	שמור כתבנית
+	Save as Template…	שמור כתבנית…
+	Save As…	שמור בשם…
+	Save Preset…	שמור הגדרה קבועה מראש…
+	Save Selection	שמור בחירה
+	Save Selection…	שמור בחירה…
+	Saved	נשמר
+	Save…	שמור…
+	Scale	קנה מידה
+	Scale:	קנה מידה:
+	Scaling	שינוי קנה מידה
+	Scratch Disks	כונני טיוטה
+	Scratch Disks…	כונני טיוטה…
+	Screen	מסך
+	Screen Mode	מצב מסך
+	Scripts	סקריפטים
+	Search	חיפוש
+	Security	אבטחה
+	Segments	מקטעים
+	Select	בחר
+	Select All	בחר הכול
+	Select Objects	בחר אובייקטים
+	Select:	בחר:
+	Selected pages	עמודים נבחרים
+	Selection	בחירה
+	Selection Tool	כלי בחירה
+	Selective	סלקטיבי
+	Send Backward	העבר אחורה
+	Send to Back	העבר לרקע
+	Sensitivity	רגישות
+	Sent to {printer}	נשלח אל {printer}
+	Services	שירותים
+	Set	הגדר
+	Set as Default	הגדר כברירת מחדל
+	Set:	ערכה:
+	Settings	הגדרות
+	Settings:	הגדרות:
+	Settings…	הגדרות…
+	Shadow	צל
+	Shadows	צללים
+	Shape	צורה
+	Shape Effects	אפקטי צורה
+	Shape:	צורה:
+	Shapes	צורות
+	Share	שתף
+	Sharpen	חידוד
+	Sharpness	חדות
+	Shift	Shift
+	Short Lines	קווים קצרים
+	Short Strokes	משיכות קצרות
+	Shortcut	קיצור דרך
+	Shortcuts	קיצורי דרך
+	Show	הצג
+	Show All	הצג הכול
+	Show Grid	הצג רשת
+	Show Guides	הצג קווי עזר
+	Show in Folder	הצג בתיקייה
+	Show Mask	הצג מסכה
+	Show Mesh	הצג רשת עיוות
+	Show Rulers	הצג סרגלים
+	Show rulers	הצג סרגלים
+	Show Tool Tips	הצג תיאורי כלים
+	Show:	הצג:
+	Sides:	צלעות:
+	Simplify	פשט
+	Size	גודל
+	Size:	גודל:
+	Sketch	רישום
+	Skew	הטיה
+	Slice	חיתוך
+	Slice Options	אפשרויות חיתוך
+	Slice Options…	אפשרויות חיתוך…
+	Slice Tool	כלי חיתוך
+	Slices	חיתוכים
+	Small	קטן
+	Small Caps	אותיות רישיות קטנות
+	Smart Blur	טשטוש חכם
+	Smart Blur…	טשטוש חכם…
+	Smart Guides	קווי עזר חכמים
+	Smart quotes	מירכאות חכמות
+	Smoothness	חלקות
+	Snap to Grid	הצמד לרשת
+	Soft	רך
+	Soft Light	אור רך
+	Soften	רכך
+	Softness	רכות
+	Solarize	סולריזציה
+	Sort	מיון
+	Sort by	מיין לפי
+	Source	מקור
+	Source code on GitHub	קוד מקור ב-GitHub
+	Spaces	רווחים
+	Spacing	ריווח
+	Spacing:	ריווח:
+	Spanish	ספרדית
+	Spatter	התזה
+	Special	מיוחד
+	Speckle	כתמים
+	Speed	מהירות
+	Spelling	איות
+	Spherize	כדוריות
+	Split	פצל
+	Spot Color	צבע ספוט
+	Spray Radius	רדיוס התזה
+	Square	ריבוע
+	Square Size	גודל ריבוע
+	sRGB IEC61966-2.1	sRGB IEC61966-2.1
+	Stacked	מוערם
+	Stained Glass	ויטראז׳
+	Stamp	חותמת
+	Standard	רגיל
+	Standard Ligatures	ליגטורות רגילות
+	Star	כוכב
+	Start at:	התחל ב:
+	Statistics	סטטיסטיקה
+	Status	מצב
+	Status Bar	שורת מצב
+	Stippled	מנוקד
+	Stop	עצור
+	Strength	עוצמה
+	Stretch	מתיחה
+	Strikethrough	קו חוצה
+	Stroke	קו מתאר
+	Stroke Color	צבע קו מתאר
+	Stroke Length	אורך משיכה
+	Stroke Options	אפשרויות קו מתאר
+	Stroke:	קו מתאר:
+	Studio	סטודיו
+	Style	סגנון
+	Style:	סגנון:
+	Styles	סגנונות
+	Stylize	עיצוב אמנותי
+	Subdivisions	חלוקות משנה
+	Subject	נושא
+	Subscript	כתב תחתי
+	Subset	תת-קבוצה
+	Subtitle	כתובית
+	Subtract	חסר
+	Sumi-e	סומי-אה (Sumi-e)
+	Summary	סיכום
+	Superscript	כתב עילי
+	Swatches	דוגמיות צבע
+	Symbol	סמל
+	Symbols	סמלים
+	Sync with system	סנכרן עם המערכת
+	System	מערכת
+	Tab	Tab
+	Table	טבלה
+	Table style	סגנון טבלה
+	Tables	טבלאות
+	Tabloid	Tabloid
+	Tabs	טאבים
+	Taper	היצרות
+	Target	יעד
+	Target:	יעד:
+	Temperature	טמפרטורה
+	Templates	תבניות
+	Text	טקסט
+	Text color	צבע טקסט
+	Text:	טקסט:
+	Texture	מרקם
+	The passwords don't match.	הסיסמאות אינן תואמות.
+	Theme	ערכת נושא
+	Thickness	עובי
+	This document has no bookmarks.	למסמך זה אין סימניות.
+	Threshold	סף
+	Thumbnails	תמונות ממוזערות
+	Tile	אריח
+	Tile Size	גודל אריח
+	Tilt	נטייה
+	Time	זמן
+	Timecode	קוד זמן
+	Timeline	ציר זמן
+	Tint	גוון צבע
+	Tint Color	צבע גוון
+	Title	כותרת
+	To	אל
+	Tolerance	סבילות
+	Tolerance:	סבילות:
+	Tool	כלי
+	Toolbars	סרגלי כלים
+	Tools	כלים
+	Top	למעלה
+	Top Left	למעלה משמאל
+	Top Right	למעלה מימין
+	Top:	למעלה:
+	Total	סה״כ
+	Total:	סה״כ:
+	Tracking	מרווח בין אותיות (Tracking)
+	Transform	שינוי צורה
+	Translate	הזזה
+	Transparency	שקיפות
+	Transparent	שקוף
+	Trap…	לכידת צבע (Trap)…
+	Triangle	משולש
+	Turbulent	מערבולתי
+	Twirl	סחרור
+	Twist	פיתול
+	Type	סוג
+	Type Tool	כלי טקסט
+	Type:	סוג:
+	Typewriter	מכונת כתיבה
+	Type…	טקסט…
+	Typing	הקלדה
+	Underline	קו תחתי
+	Undo	בטל
+	Undo {action}	בטל {action}
+	Ungroup	פרק קבוצה
+	Uniform	אחיד
+	Union	איחוד
+	Units	יחידות
+	Unknown	לא ידוע
+	Unlock	בטל נעילה
+	Unsaved changes	שינויים שלא נשמרו
+	Unsharp Mask	מסכת חידוד
+	Untitled	ללא שם
+	Up	למעלה
+	Update	עדכן
+	Updates	עדכונים
+	UPPERCASE	אותיות רישיות
+	Use Default	השתמש בברירת מחדל
+	User	משתמש
+	Username	שם משתמש
+	Value	ערך
+	Value:	ערך:
+	Variables	משתנים
+	Version	גרסה
+	Version {version}	גרסה {version}
+	Vertical	אנכי
+	Vertical Alignment	יישור אנכי
+	Vertical Type Tool	כלי טקסט אנכי
+	Vertically	אנכית
+	Very High	גבוה מאוד
+	Vibrance	חיות צבע
+	Video	וידאו
+	View	תצוגה
+	Violet	סגול
+	Visibility	נראות
+	Vivid Light	אור עז
+	Voice	קול
+	W:	ר:
+	Warning	אזהרה
+	Warnings	אזהרות
+	Warp	עיוות רשת
+	Watermark	סימן מים
+	Wave	גל
+	Wave…	גל…
+	Web	אינטרנט
+	Website	אתר אינטרנט
+	Weight	משקל
+	Wet	רטוב
+	White	לבן
+	White Intensity	עוצמת לבן
+	White Is High	לבן הוא גבוה
+	Whites	לבנים
+	Width	רוחב
+	Width and Height	רוחב וגובה
+	Width:	רוחב:
+	Window	חלון
+	Windows	חלונות
+	Words	מילים
+	Working CMYK	CMYK עבודה
+	Workspace	סביבת עבודה
+	Workspaces	סביבות עבודה
+	X	X
+	Y	Y
+	Yellow	צהוב
+	Yes	כן
+	yesterday	אתמול
+	Your changes will be lost if you don't save them.	השינויים שלך יאבדו אם לא תשמור אותם.
+	Zoom	מרחק מתצוגה
+	Zoom In	התקרב
+	Zoom in	התקרב
+	Zoom Out	התרחק
+	Zoom out	התרחק
+	Zoom Tool	כלי זכוכית מגדלת
+@plural	{n} commit|{n} commits	שינוי {n}|{n} שינויים|{n} שינויים
+	{n} files	{n} קבצים
+	{n} h ago	לפני {n} שעות
+@plural	{n} item|{n} items	פריט {n}|{n} פריטים|{n} פריטים
+@plural	{n} Layer|{n} Layers	שכבה {n}|{n} שכבות|{n} שכבות
+	{n} min ago	לפני {n} דקות
+@plural	{n} step|{n} steps	צעד {n}|{n} צעדים|{n} צעדים
+	−Bin	−סל
+	● Recording	● מקליט

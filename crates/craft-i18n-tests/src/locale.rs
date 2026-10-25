@@ -1,6 +1,6 @@
 //! Locale directory names and how many plural forms a locale's `@plural` rows list.
 
-use intl_pluralrules::{PluralRuleType, PluralRules};
+use intl_pluralrules::{PluralCategory, PluralRuleType, PluralRules};
 use unic_langid::LanguageIdentifier;
 
 /// Ok when `name` is a BCP 47 tag written in lowercase (`pt-br`, `zh-hans`).
@@ -29,6 +29,7 @@ pub fn plural_forms(locale: &str) -> Result<usize, String> {
     let id: LanguageIdentifier = rules_for
         .parse()
         .map_err(|e| format!("{locale:?} is not a BCP 47 locale: {e}"))?;
+    let is_hebrew = id.language.as_str() == "he";
     let language = LanguageIdentifier::from_parts(id.language, None, None, &[]);
     let rules = PluralRules::create(id, PluralRuleType::CARDINAL)
         .or_else(|_| PluralRules::create(language, PluralRuleType::CARDINAL))
@@ -38,6 +39,11 @@ pub fn plural_forms(locale: &str) -> Result<usize, String> {
         let category = rules
             .select(n)
             .map_err(|e| format!("{locale:?}: plural rules failed on {n}: {e}"))?;
+        // CLDR 44+ (used by craft-libs' icu_plurals) dropped the `many` category for Hebrew,
+        // leaving 3 cardinal forms (one, two, other); intl_pluralrules uses older CLDR tables.
+        if is_hebrew && category == PluralCategory::MANY {
+            continue;
+        }
         if !seen.contains(&category) {
             seen.push(category);
         }
@@ -51,7 +57,7 @@ mod tests {
 
     #[test]
     fn locale_names() {
-        for ok in ["en", "fr", "pt-br", "zh-hans", "zh-hant", "sr-latn"] {
+        for ok in ["en", "fr", "he", "pt-br", "zh-hans", "zh-hant", "sr-latn"] {
             assert!(check_locale_name(ok).is_ok(), "{ok}");
         }
         for bad in ["pt_br", "pt-BR", "zh-Hans", "PT", "", "not a locale"] {
@@ -64,6 +70,7 @@ mod tests {
         for (locale, n) in [
             ("en", 2),
             ("fr", 2),
+            ("he", 3),
             ("ja", 1),
             ("vi", 1),
             ("ru", 3),
