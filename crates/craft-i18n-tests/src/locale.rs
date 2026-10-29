@@ -19,7 +19,8 @@ pub fn check_locale_name(name: &str) -> Result<(), String> {
 /// How many plural forms `locale`'s `@plural` rows list: the CLDR cardinal categories whole
 /// numbers 0..=1000 reach. Categories only fractions or huge numbers reach (French `many`) don't
 /// count, as in the apps. CLDR's `pt` is Brazilian, so Portuguese other than `pt-br` takes
-/// `pt-PT`'s rules, as craft-libs' `craft-i18n` does.
+/// `pt-PT`'s rules, as craft-libs' `craft-i18n` does. Hebrew has 3 (one, two, other), as the apps
+/// count it.
 pub fn plural_forms(locale: &str) -> Result<usize, String> {
     let rules_for = if locale == "pt" || (locale.starts_with("pt-") && locale != "pt-br") {
         "pt-pt"
@@ -39,8 +40,9 @@ pub fn plural_forms(locale: &str) -> Result<usize, String> {
         let category = rules
             .select(n)
             .map_err(|e| format!("{locale:?}: plural rules failed on {n}: {e}"))?;
-        // CLDR 44+ (used by craft-libs' icu_plurals) dropped the `many` category for Hebrew,
-        // leaving 3 cardinal forms (one, two, other); intl_pluralrules uses older CLDR tables.
+        // ponytail: intl_pluralrules carries CLDR 37, which still gives Hebrew `many`; CLDR 42
+        // dropped it, and craft-libs' icu_plurals (CLDR 48) doesn't have it. Hebrew is the only
+        // locale the two disagree on. Check against craft-libs' CLDR data if another one appears.
         if is_hebrew && category == PluralCategory::MANY {
             continue;
         }
