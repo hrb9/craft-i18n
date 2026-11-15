@@ -37,7 +37,7 @@ month	Apr	אפר׳
 	ArtCraft Launcher	ArtCraft Launcher
 	ArtCraft Launcher {version}	ArtCraft Launcher {version}
 	ArtCraft Launcher {version} is available.	ArtCraft Launcher {version} זמין.
-@plural	ArtCraft Launcher · {n} update available|ArtCraft Launcher · {n} updates available	ArtCraft Launcher · עדכון {n} זמין|ArtCraft Launcher · {n} עדכונים זמינים|ArtCraft Launcher · {n} עדכונים זמינים
+@plural	ArtCraft Launcher · {n} update available|ArtCraft Launcher · {n} updates available	ArtCraft Launcher · {n} עדכון זמין|ArtCraft Launcher · {n} עדכונים זמינים|ArtCraft Launcher · {n} עדכונים זמינים
 	ArtCraft on GitHub	ArtCraft ב-GitHub
 	ArtCraft on {name}	ArtCraft ב-{name}
 month	Aug	אוג׳
@@ -275,10 +275,10 @@ wordcraft	Writing and document design	כתיבה ועיצוב מסמכים
 @msg	{name} was removed	{name} הוסר
 	{name} {version}	{name} {version}
 	{name} {v} is available	{name} {v} זמין
-@plural	{n} app|{n} apps	יישום {n}|{n} יישומים|{n} יישומים
-@plural	{n} day ago|{n} days ago	לפני יום {n}|לפני {n} ימים|לפני {n} ימים
-@plural	{n} h ago|{n} h ago	לפני שעה ({n})|לפני {n} שעות|לפני {n} שעות
-@plural	{n} min ago|{n} min ago	לפני דקה ({n})|לפני {n} דקות|לפני {n} דקות
+@plural	{n} app|{n} apps	{n} יישום|{n} יישומים|{n} יישומים
+@plural	{n} day ago|{n} days ago	לפני {n} יום|{n} לפני ימים|{n} לפני ימים
+@plural	{n} h ago|{n} h ago	לפני שעה ({n})|{n} לפני שעות|{n} לפני שעות
+@plural	{n} min ago|{n} min ago	לפני דקה ({n})|{n} לפני דקות|{n} לפני דקות
 @msg	{path} already exists and wasn't installed by ArtCraft Launcher	{path} כבר קיים ולא הותקן על ידי ArtCraft Launcher
 	{path} already exists. Installing {name} will overwrite it.	{path} כבר קיים. התקנת {name} תחליף אותו.
 	{version} installed → {latest} released	{version} מותקנת ← {latest} פורסמה

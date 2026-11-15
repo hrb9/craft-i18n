@@ -160,7 +160,7 @@ swatch	[Registration]	[רישום (Registration)]
 @msg	`library` is a library id or name (see {list})	`library` הוא מזהה או שם של ספרייה (ראה {list})
 @msg	`method` must be classic or perceptual	`method` חייב להיות classic או perceptual
 @msg	`mode` applies to freeform gradients	`mode` חל על מעברי צבע חופשיים
-@msg	`mode` must be grayscale, rgb, hsb, cmyk or websafe	`mode` חייב להיות grayscale,‏ rgb,‏ hsb,‏ cmyk או websafe
+@msg	`mode` must be grayscale, rgb, hsb, cmyk or websafe	`mode` חייב להיות grayscale, rgb, hsb, cmyk או websafe
 @msg	`sampleSize` must be 1, 3 or 5	`sampleSize` חייב להיות 1, 3 או 5
 @msg	`stops` must be an array	`stops` חייב להיות מערך
 @msg	`svg` must be an object of SVG options (see document.formats)	`svg` חייב להיות אובייקט של אפשרויות SVG (ראה document.formats)
@@ -168,7 +168,7 @@ swatch	[Registration]	[רישום (Registration)]
 @msg	`{_1}` is no save command	`{_1}` אינה פקודת שמירה
 @msg	`{area}` is no recovery area name	`{area}` אינו שם אזור שחזור
 @msg	`{color}` is not a colour (#rrggbb or a preset name)	`{color}` אינו צבע (#rrggbb או שם מוגדר מראש)
-@msg	`{file}` isn't a VectorCraft document, a PDF or a PDF-compatible .ai file	`{file}` אינו מסמך VectorCraft, קובץ PDF או קובץ ‎.ai תואם-PDF
+@msg	`{file}` isn't a VectorCraft document, a PDF or a PDF-compatible .ai file	`{file}` אינו מסמך VectorCraft, קובץ PDF או קובץ .ai תואם-PDF
 @msg	`{given}` isn't a library panel (see window.swatchLibrary)	`{given}` אינה חלונית ספרייה (ראה window.swatchLibrary)
 @msg	`{id}` has no envelope dialog	ל-`{id}` אין תיבת דו-שיח של מעטפת
 @msg	`{keep}` is not a side of this axis	`{keep}` אינו צד של ציר זה
@@ -219,7 +219,7 @@ swatch	[Registration]	[רישום (Registration)]
 @msg	a key object sits on that point	אובייקט מפתח נמצא בנקודה זו
 	A later row takes this shortcut	שורה מאוחרת יותר משתמשת בקיצור דרך זה
 @msg	a layer couldn't be read	לא ניתן היה לקרוא שכבה
-	A legacy .ai file holds one artboard: each artboard you check is saved as a separate file.	קובץ ‎.ai מדור קודם מכיל משטח יצירה אחד: כל משטח יצירה שתסמן יישמר כקובץ נפרד.
+	A legacy .ai file holds one artboard: each artboard you check is saved as a separate file.	קובץ .ai מדור קודם מכיל משטח יצירה אחד: כל משטח יצירה שתסמן יישמר כקובץ נפרד.
 @msg	a linked image can't become a gradient mesh: embed it first	תמונה מקושרת אינה יכולה להפוך לרשת מעבר צבע: הטמע אותה תחילה
 	A lower value follows the stroke closely; a higher one gives fewer points and smoother curves.	ערך נמוך יותר עוקב מקרוב אחר המשיכה; ערך גבוה יותר נותן פחות נקודות ועקומות חלקות יותר.
 @msg	a mask has more than one art block	למסכה יש יותר מבלוק גרפיקה אחד
@@ -309,8 +309,8 @@ swatch	[Registration]	[רישום (Registration)]
 	Adjust Options:	אפשרויות התאמה:
 	Advanced Options	אפשרויות מתקדמות
 	After First:	אחרי הראשונות:
-@plural	agrees with {n} default shortcut|agrees with {n} default shortcuts	תואם לקיצור דרך ברירת מחדל {n}|תואם ל-{n} קיצורי דרך ברירת מחדל|תואם ל-{n} קיצורי דרך ברירת מחדל
-@msg	aiVersion 7 writes legacy .ai files; a .ait template is always PDF-compatible	aiVersion 7 כותב קובצי ‎.ai מדור קודם; תבנית ‎.ait היא תמיד תואמת-PDF
+@plural	agrees with {n} default shortcut|agrees with {n} default shortcuts	תואם לקיצור דרך ברירת {n} מחדל|תואם ל-{n} קיצורי דרך ברירת מחדל|תואם ל-{n} קיצורי דרך ברירת מחדל
+@msg	aiVersion 7 writes legacy .ai files; a .ait template is always PDF-compatible	aiVersion 7 כותב קובצי .ai מדור קודם; תבנית .ait היא תמיד תואמת-PDF
 	Align Objects:	יישר אובייקטים:
 	Align On:	יישר לפי:
 	Align Stroke to Center	יישר קו מתאר למרכז
@@ -374,7 +374,7 @@ swatch	Amber	ענבר
 	Anti-alias Rasters	החלקת קצוות לתמונות רסטר
 	Anti-aliased Artwork	גרפיקה עם החלקת קצוות
 	Anti-aliasing:	החלקת קצוות:
-@msg	antiAlias `{id}`: none, art or type	antiAlias `{id}`:‏ none,‏ art או type
+@msg	antiAlias `{id}`: none, art or type	antiAlias `{id}`: none, art או type
 	Any except extracting pages	הכול למעט חילוץ עמודים
 	Any Kind	כל סוג
 	Appearance Attribute	תכונת מראה
@@ -479,7 +479,7 @@ swatch	Aqua	אקווה (טורקיז בהיר)
 	Average…	ממוצע…
 	Away from the Line	הרחק מהקו
 	Axis	ציר
-@msg	axis must be "vertical", "horizontal" or an angle in degrees, not `{v}`	הציר חייב להיות "vertical",‏ "horizontal" או זווית במעלות, לא `{v}`
+@msg	axis must be "vertical", "horizontal" or an angle in degrees, not `{v}`	הציר חייב להיות "vertical", "horizontal" או זווית במעלות, לא `{v}`
 	Axis side	צד ציר
 	Axis:	ציר:
 swatch	Azure	תכלת עז (Azure)
@@ -489,7 +489,7 @@ swatch	Azure	תכלת עז (Azure)
 	Background Color:	צבע רקע:
 	Background Contents:	תוכן הרקע:
 	Background Level	רמת רקע
-@msg	background {other}: transparent, white, black or a colour such as "#ff8800"	רקע {other}:‏ transparent,‏ white,‏ black או צבע כגון "#ff8800"
+@msg	background {other}: transparent, white, black or a colour such as "#ff8800"	רקע {other}: transparent, white, black או צבע כגון "#ff8800"
 	Background:	רקע:
 @msg	bad color {v}	צבע שגוי {v}
 @msg	bad colour `{hex}` (#rrggbb)	צבע שגוי `{hex}` (#rrggbb)
@@ -622,15 +622,15 @@ swatch	Brown	חום
 @msg	can't parse shortcut `{c}`	לא ניתן לפענח את קיצור הדרך `{c}`
 @msg	can't parse shortcut `{s}` for `{k}`	לא ניתן לפענח את קיצור הדרך `{s}` עבור `{k}`
 	Can't print these settings: see the Summary	לא ניתן להדפיס הגדרות אלו: ראה סיכום
-@msg	can't save version {0}: VectorCraft writes versions {MIN_VERSION} to {VERSION}	לא ניתן לשמור גרסה {0}:‏ VectorCraft כותבת גרסאות {MIN_VERSION} עד {VERSION}
+@msg	can't save version {0}: VectorCraft writes versions {MIN_VERSION} to {VERSION}	לא ניתן לשמור גרסה {0}: VectorCraft כותבת גרסאות {MIN_VERSION} עד {VERSION}
 	Can't save “{name}”.	לא ניתן לשמור את “{name}”.
-@msg	can't write .{ext} images	לא ניתן לכתוב תמונות מסוג ‎.{ext}
+@msg	can't write .{ext} images	לא ניתן לכתוב תמונות מסוג .{ext}
 	Cancel Export	בטל ייצוא
 	Cancel Key Object	בטל אובייקט מפתח
 	Cancel Pattern Editing	בטל עריכת תבנית
 @msg	cancelled; nothing was changed	בוטל; דבר לא שונה
 @msg	cannot distort a zero-size bounding box	לא ניתן לעוות תיבה תוחמת בגודל אפס
-@msg	cannot read PDF: {0}	לא ניתן לקרוא PDF:‏ {0}
+@msg	cannot read PDF: {0}	לא ניתן לקרוא PDF: {0}
 @msg	cannot split an open path at its end point	לא ניתן לפצל נתיב פתוח בנקודת הקצה שלו
 	Canvas Color	צבע משטח עבודה
 	Cap	קצה קו
@@ -720,7 +720,7 @@ swatch	Chocolate	שוקולד
 	Click to zoom in, Alt-click to zoom out, drag to pan, double-click to fit	לחץ להתקרבות, Alt+לחיצה להתרחקות, גרור להזזה, לחץ לחיצה כפולה להתאמה
 	Click, then press the key this code stands for (Esc cancels)	לחץ, ולאחר מכן הקש על המקש שקוד זה מייצג (Esc לביטול)
 	Click, then press the new shortcut (Esc cancels)	לחץ, ולאחר מכן הקש על קיצור הדרך החדש (Esc לביטול)
-	Client-side (.html)	צד-לקוח (‎.html)
+	Client-side (.html)	צד-לקוח (.html)
 	Clip	קליפ
 	Clip Complex Regions	חתוך אזורים מורכבים
 	Clip Group	קבוצת חיתוך
@@ -784,7 +784,7 @@ swatch	Coffee	קפה
 	Color Scheme	ערכת צבעים
 	Color Table (4 colors)	טבלת צבעים (4 צבעים)
 	Color Table ({n} color)	טבלת צבעים (צבע {n})
-@plural	Color Table ({n} color)|Color Table ({n} colors)	טבלת צבעים (צבע {n})|טבלת צבעים ({n} צבעים)|טבלת צבעים ({n} צבעים)
+@plural	Color Table ({n} color)|Color Table ({n} colors)	טבלת צבעים ({n} צבע)|טבלת צבעים ({n} צבעים)|טבלת צבעים ({n} צבעים)
 	Color Table ({n} colors)	טבלת צבעים ({n} צבעים)
 	Color Theme	ערכת צבעים
 	Color Themes	ערכות צבעים
@@ -814,7 +814,7 @@ swatch	Coffee	קפה
 	Compatibility:	תאימות:
 	Compatible Gradient and Gradient Mesh Printing	הדפסה תואמת של מעבר צבע ורשת מעבר צבע
 	Compiled or not text	מקומפל או אינו טקסט
-	Compiled script: ask its author for the .jsx file	סקריפט מקומפל: בקש מהמחבר שלו את קובץ ה-‎.jsx
+	Compiled script: ask its author for the .jsx file	סקריפט מקומפל: בקש מהמחבר שלו את קובץ ה-.jsx
 	Complement	משלים
 	Complementary	משלימים
 	Complementary 2	משלימים 2
@@ -847,7 +847,7 @@ swatch	Coffee	קפה
 	Continue in Background	המשך ברקע
 	Contrasty	עתיר ניגודיות
 	Control	בקרה
-@msg	control must be fillStroke, coloring, drawMode or screenMode	הפקד חייב להיות fillStroke,‏ coloring,‏ drawMode או screenMode
+@msg	control must be fillStroke, coloring, drawMode or screenMode	הפקד חייב להיות fillStroke, coloring, drawMode או screenMode
 	Conté Crayon	גירי קונטה (Conté Crayon)
 	Conté Crayon…	גירי קונטה…
 	Convert All Spot Colors to Process	המר את כל צבעי הספוט לצבעי פרוצס
@@ -1064,7 +1064,7 @@ swatch	Cyan Green	ציאן-ירוק
 	Delete these {n} graphic styles?	למחוק {n} סגנונות גרפיים אלה?
 	Delete this saved preset	מחק הגדרה קבועה מראש שמורה זו
 	Delete this {n} graphic style?	למחוק סגנון גרפי {n} זה?
-@plural	Delete this {n} graphic style?|Delete these {n} graphic styles?	למחוק סגנון גרפי {n} זה?|למחוק {n} סגנונות גרפיים אלה?|למחוק {n} סגנונות גרפיים אלה?
+@plural	Delete this {n} graphic style?|Delete these {n} graphic styles?	למחוק סגנון {n} גרפי זה?|{n} למחוק סגנונות גרפיים אלה?|{n} למחוק סגנונות גרפיים אלה?
 	Delete Transparency Flattener Preset	מחק הגדרה קבועה מראש של משטח שקיפות
 	Delete Variable	מחק משתנה
 	Delete Variables	מחק משתנים
@@ -1562,7 +1562,7 @@ file-filter	Flattener presets	הגדרות קבועות מראש למשטח שק
 	Freeform	חופשי
 	Freeform Gradient	מעבר צבע חופשי
 @msg	freeform line {i} must be an array of point indices	קו חופשי {i} חייב להיות מערך של אינדקסי נקודות
-@msg	freeform point {i} needs `at` [x, y] and a valid `color`	נקודה חופשית {i} דורשת `at`‏ [x, y] ו-`color` תקין
+@msg	freeform point {i} needs `at` [x, y] and a valid `color`	נקודה חופשית {i} דורשת `at` [x, y] ו-`color` תקין
 	Frequencies and angles are the output device's to apply.	תדירויות וזוויות נקבעות על ידי התקן הפלט.
 	Fresco	פרסקו
 	Fresco…	פרסקו…
@@ -1589,13 +1589,13 @@ file-filter	Flattener presets	הגדרות קבועות מראש למשטח שק
 	Geometric Guides	קווי עזר גאומטריים
 	Get Preferences	קבל העדפות
 	Get Text Range	קבל טווח טקסט
-	GIF, 128 colours	GIF,‏ 128 צבעים
+	GIF, 128 colours	GIF, 128 צבעים
 @msg	give a fraction `t` from 0 to 1	ציין שבר `t` בין 0 ל-1
-@msg	give both `start` and `end` [x, y] (or neither)	ציין גם `start` וגם `end`‏ [x, y] (או אף אחד מהם)
+@msg	give both `start` and `end` [x, y] (or neither)	ציין גם `start` וגם `end` [x, y] (או אף אחד מהם)
 @msg	give corners of the path: anchors between two straight sides	ציין פינות של הנתיב: נקודות עוגן בין שתי צלעות ישרות
 @msg	give corners of the path: anchors where its sides meet at an angle	ציין פינות של הנתיב: נקודות עוגן שבהן הצלעות נפגשות בזווית
 @msg	give horizontal or vertical	ציין horizontal או vertical
-@msg	give only one of onto, below and above	ציין רק אחד מבין onto,‏ below ו-above
+@msg	give only one of onto, below and above	ציין רק אחד מבין onto, below ו-above
 @msg	give the path `id`	ציין את ה-`id` של הנתיב
 @msg	give the path `id` and the width point `index`	ציין את ה-`id` של הנתיב ואת ה-`index` של נקודת הרוחב
 	Glass…	זכוכית…
@@ -1753,7 +1753,7 @@ effect	Horizontal	אופקי
 	How colours outside the press's gamut are separated.	כיצד מופרדים צבעים שמחוץ לטווח הצבעים של הדפוס.
 	HTML and Images	HTML ותמונות
 	Hyphen Limit:	מגבלת מקפים:
-	Hyphenate	מקף
+	Hyphenate	מיקוף
 	Hyphenate Capitalized Words	מקף מילים באותיות רישיות
 	Hyphenation Zone:	אזור מיקוף:
 	Hyphenation…	מיקוף…
@@ -1825,8 +1825,8 @@ effect	Horizontal	אופקי
 	Includes	כולל
 	Includes itself	כולל את עצמו
 	Increase Font Size by Five Steps	הגדל גודל גופן בחמישה צעדים
-@msg	index must be a number or first, previous, next or last	האינדקס חייב להיות מספר או first,‏ previous,‏ next או last
-@msg	index must be a number or first, previous, next or last, not `{other}`	האינדקס חייב להיות מספר או first,‏ previous,‏ next או last, לא `{other}`
+@msg	index must be a number or first, previous, next or last	האינדקס חייב להיות מספר או first, previous, next או last
+@msg	index must be a number or first, previous, next or last, not `{other}`	האינדקס חייב להיות מספר או first, previous, next או last, לא `{other}`
 @msg	index must be ≥ 0	האינדקס חייב להיות ≥ 0
 swatch	Indigo	אינדיגו
 	Inflate…	ניפוח…
@@ -1915,7 +1915,7 @@ mark-style	Japanese	יפנית
 	JavaScript:	JavaScript:
 @msg	join needs open paths	חיבור דורש נתיבים פתוחים
 	Join Our Discord	הצטרפו ל-Discord שלנו
-	Join the ArtCraft community on Discord (discord.gg/artcraft)	הצטרפו לקהילת ArtCraft ב-Discord‏ (discord.gg/artcraft)
+	Join the ArtCraft community on Discord (discord.gg/artcraft)	הצטרפו לקהילת ArtCraft ב-Discord (discord.gg/artcraft)
 	Join the lines of each paragraph	חבר את השורות של כל פסקה
 	Join Tool	כלי חיבור
 	Joins	חיבורים
@@ -1985,7 +1985,7 @@ mark-style	Japanese	יפנית
 	Left-Justified Tab	טאב מיושר לשמאל
 	Left-to-Right Paragraph Direction	כיוון פסקה משמאל לימין
 	Legacy (version 7)	מדור קודם (גרסה 7)
-	Legacy .ai Options	אפשרויות ‎.ai מדור קודם
+	Legacy .ai Options	אפשרויות .ai מדור קודם
 	Legacy Macintosh RGB (Gamma 1.8)	RGB של Macintosh מדור קודם (גמא 1.8)
 	Legacy vector clipboard	לוח עריכה וקטורי מדור קודם
 	Legacy vector clipboard (no transparency)	לוח עריכה וקטורי מדור קודם (ללא שקיפות)
@@ -2253,7 +2253,7 @@ swatch	Magenta	מג׳נטה
 	Move Type on a Path	הזז טקסט על נתיב
 	Move…	הזז…
 	Movie Clip	קליפ סרטון
-@msg	Multichannel PSD files can't be read: save it in RGB, CMYK or Grayscale mode	לא ניתן לקרוא קובצי PSD מרובי-ערוצים: שמור אותם במצב RGB,‏ CMYK או גווני אפור
+@msg	Multichannel PSD files can't be read: save it in RGB, CMYK or Grayscale mode	לא ניתן לקרוא קובצי PSD מרובי-ערוצים: שמור אותם במצב RGB, CMYK או גווני אפור
 	Multiple objects	אובייקטים מרובים
 @msg	multiple windows land with M11.5	ריבוי חלונות יגיע בגרסה M11.5
 	Muted	מעומעם
@@ -4532,22 +4532,22 @@ swatch	Yellow Green	צהוב-ירוק
 @msg	{name}: CRC mismatch	{name}: אי-התאמת CRC
 @msg	{name}: no local header	{name}: אין כותרת מקומית
 @msg	{name}: no such recovery entry	{name}: אין רשומת שחזור כזו
-@plural	{n} area highlighted|{n} areas highlighted	אזור {n} מודגש|שני אזורים ({n}) מודגשים|{n} אזורים מודגשים
-@plural	{n} color|{n} colors	צבע {n}|שני צבעים ({n})|{n} צבעים
-@plural	{n} fill|{n} fills	מילוי {n}|שני מילויים ({n})|{n} מילויים
+@plural	{n} area highlighted|{n} areas highlighted	{n} אזור מודגש|שני אזורים ({n}) מודגשים|{n} אזורים מודגשים
+@plural	{n} color|{n} colors	{n} צבע|שני צבעים ({n})|{n} צבעים
+@plural	{n} fill|{n} fills	{n} מילוי|שני מילויים ({n})|{n} מילויים
 @msg	{n} font file(s) are now in {folder}	{n} קובצי גופנים נמצאים כעת ב-{folder}
 @msg	{n} font file(s) are now in {folder}; {failed} couldn't be added: {reason}	{n} קובצי גופנים נמצאים כעת ב-{folder}; לא ניתן היה להוסיף {failed}: {reason}
 @msg	{n} font(s) aren't available here: their text shows in another font	{n} גופנים אינם זמינים כאן: הטקסט שלהם מוצג בגופן אחר
-@plural	{n} glyph|{n} glyphs	גליף {n}|שני גליפים ({n})|{n} גליפים
-@plural	{n} more export waiting|{n} more exports waiting	ייצוא נוסף {n} ממתין|שני ייצואים נוספים ({n}) ממתינים|{n} ייצואים נוספים ממתינים
-@plural	{n} object highlighted|{n} objects highlighted	אובייקט {n} מודגש|שני אובייקטים ({n}) מודגשים|{n} אובייקטים מודגשים
+@plural	{n} glyph|{n} glyphs	{n} גליף|שני גליפים ({n})|{n} גליפים
+@plural	{n} more export waiting|{n} more exports waiting	ייצוא {n} נוסף ממתין|שני ייצואים נוספים ({n}) ממתינים|{n} ייצואים נוספים ממתינים
+@plural	{n} object highlighted|{n} objects highlighted	{n} אובייקט מודגש|שני אובייקטים ({n}) מודגשים|{n} אובייקטים מודגשים
 	{n} objects selected	{n} אובייקטים נבחרו
-@plural	{n} Object|{n} Objects	אובייקט {n}|שני אובייקטים ({n})|{n} אובייקטים
-@plural	{n} part of the file wasn't read|{n} parts of the file weren't read	חלק {n} מהקובץ לא נקרא|שני חלקים ({n}) מהקובץ לא נקראו|{n} חלקים מהקובץ לא נקראו
-@plural	{n} PR|{n} PRs	בקשת משיכה {n}|שתי בקשות משיכה ({n})|{n} בקשות משיכה
-@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	קיצור דרך {n} מוקצה יותר מפעם אחת|שני קיצורי דרך ({n}) מוקצים יותר מפעם אחת|{n} קיצורי דרך מוקצים יותר מפעם אחת
-@plural	{n} star|{n} stars	כוכב {n}|שני כוכבים ({n})|{n} כוכבים
-@plural	{n} stroke|{n} strokes	קו מתאר {n}|שני קווי מתאר ({n})|{n} קווי מתאר
+@plural	{n} Object|{n} Objects	{n} אובייקט|שני אובייקטים ({n})|{n} אובייקטים
+@plural	{n} part of the file wasn't read|{n} parts of the file weren't read	{n} חלק מהקובץ לא נקרא|שני חלקים ({n}) מהקובץ לא נקראו|{n} חלקים מהקובץ לא נקראו
+@plural	{n} PR|{n} PRs	בקשת {n} משיכה|שתי בקשות משיכה ({n})|{n} בקשות משיכה
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	קיצור {n} דרך מוקצה יותר מפעם אחת|שני קיצורי דרך ({n}) מוקצים יותר מפעם אחת|{n} קיצורי דרך מוקצים יותר מפעם אחת
+@plural	{n} star|{n} stars	{n} כוכב|שני כוכבים ({n})|{n} כוכבים
+@plural	{n} stroke|{n} strokes	קו {n} מתאר|שני קווי מתאר ({n})|{n} קווי מתאר
 	{pages} in all, {count} per copy	{pages} בסך הכול, {count} לכל עותק
 	{page} of {count}	{page} מתוך {count}
 @msg	{path} can't be found: relink it first	לא ניתן למצוא את {path}: קשר אותו מחדש תחילה

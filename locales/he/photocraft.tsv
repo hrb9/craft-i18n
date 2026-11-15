@@ -477,7 +477,7 @@ fontWeight	Bold	מודגש
 	Chisel Soft	אזמל רך
 	Choke	חניקה
 	Choose a format that keeps it, such as Photoshop (PSD), or save a copy.	בחר תסדיר ששומר עליו, כגון Photoshop (PSD), או שמור עותק.
-	Choose a gradient file (.grd).	בחר קובץ מעבר צבע (‎.grd).
+	Choose a gradient file (.grd).	בחר קובץ מעבר צבע (.grd).
 	Choose a new shortcut for this command, or leave it without one.	בחר קיצור מקשים חדש לפקודה זו, או השאר אותה ללא קיצור.
 	Choose Folder	בחר תיקייה
 	Choose Stack Mode:	בחר מצב ערימה:
@@ -1109,7 +1109,7 @@ cameraRaw	Effects	אפקטים
 	Export/Import Presets…	ייצוא/ייבוא הגדרות קבועות מראש…
 	Exported contents to {path}	התוכן יוצא אל {path}
 	Exported presets to {path}	הגדרות קבועות מראש יוצאו אל {path}
-@plural	Exported {n} swatch to {file}|Exported {n} swatches to {file}	יוצאה דוגמית צבע {n} אל {file}|יוצאו {n} דוגמיות צבע אל {file}|יוצאו {n} דוגמיות צבע אל {file}
+@plural	Exported {n} swatch to {file}|Exported {n} swatches to {file}	יוצאה דוגמית {n} צבע אל {file}|{n} יוצאו דוגמיות צבע אל {file}|{n} יוצאו דוגמיות צבע אל {file}
 	Exported {path} ({size})	יוצא {path} ({size})
 	Exporting…	מייצא…
 cameraData	Exposure	חשיפה
@@ -1379,7 +1379,7 @@ cameraRaw	Green	ירוק
 	Group Layers	קבץ שכבות
 	Group name	שם קבוצה
 	Group · {n} layer	קבוצה · שכבה {n}
-@plural	Group · {n} layer|Group · {n} layers	קבוצה · שכבה {n}|קבוצה · {n} שכבות|קבוצה · {n} שכבות
+@plural	Group · {n} layer|Group · {n} layers	קבוצה · {n} שכבה|קבוצה · {n} שכבות|קבוצה · {n} שכבות
 	Group…	קבוצה…
 	Grow	הגדל בחירה
 	Guide color	צבע קו עזר
@@ -1471,28 +1471,28 @@ cameraRaw	Hue	גוון
 	Image Rotation	סיבוב תמונה
 	Image Size:	גודל תמונה:
 	Image Size…	גודל תמונה…
-	Import .GRD	ייבוא ‎.GRD
+	Import .GRD	ייבוא .GRD
 	Import Brush from Image…	ייבוא מברשת מתמונה…
 	Import Brushes	ייבוא מברשות
-	Import brushes (.abr)	ייבוא מברשות (‎.abr)
+	Import brushes (.abr)	ייבוא מברשות (.abr)
 	Import Brushes…	ייבוא מברשות…
-	Import Brushes… (.abr or image)	ייבוא מברשות… (‎.abr או תמונה)
-	Import Brushes… (.abr)	ייבוא מברשות… (‎.abr)
+	Import Brushes… (.abr or image)	ייבוא מברשות… (.abr או תמונה)
+	Import Brushes… (.abr)	ייבוא מברשות… (.abr)
 	Import Image	ייבוא תמונה
 	Import keyboard shortcuts?	לייבא קיצורי מקשים?
 	Import Options	אפשרויות ייבוא
-	Import Photoshop brushes (.abr)	ייבוא מברשות Photoshop (‎.abr)
+	Import Photoshop brushes (.abr)	ייבוא מברשות Photoshop (.abr)
 	Import Presets	ייבוא הגדרות קבועות מראש
 	Import Settings	הגדרות ייבוא
 	Import Shortcuts…	ייבוא קיצורי מקשים…
 	Import Swatches…	ייבוא דוגמיות צבע…
 	Imported	יובא
-@plural	Imported {n} brush from {file}|Imported {n} brushes from {file}	יובאה מברשת {n} מתוך {file}|יובאו {n} מברשות מתוך {file}|יובאו {n} מברשות מתוך {file}
-@plural	Imported {n} brush from {group}|Imported {n} brushes from {group}	יובאה מברשת {n} מתוך {group}|יובאו {n} מברשות מתוך {group}|יובאו {n} מברשות מתוך {group}
-@plural	Imported {n} gradient from {file}|Imported {n} gradients from {file}	יובא מעבר צבע {n} מתוך {file}|יובאו {n} מעברי צבע מתוך {file}|יובאו {n} מעברי צבע מתוך {file}
-@plural	Imported {n} pattern from {file}|Imported {n} patterns from {file}	יובאה דוגמה {n} מתוך {file}|יובאו {n} דוגמאות מתוך {file}|יובאו {n} דוגמאות מתוך {file}
+@plural	Imported {n} brush from {file}|Imported {n} brushes from {file}	יובאה {n} מברשת מתוך {file}|{n} יובאו מברשות מתוך {file}|{n} יובאו מברשות מתוך {file}
+@plural	Imported {n} brush from {group}|Imported {n} brushes from {group}	יובאה {n} מברשת מתוך {group}|{n} יובאו מברשות מתוך {group}|{n} יובאו מברשות מתוך {group}
+@plural	Imported {n} gradient from {file}|Imported {n} gradients from {file}	יובא מעבר {n} צבע מתוך {file}|{n} יובאו מעברי צבע מתוך {file}|{n} יובאו מעברי צבע מתוך {file}
+@plural	Imported {n} pattern from {file}|Imported {n} patterns from {file}	יובאה {n} דוגמה מתוך {file}|{n} יובאו דוגמאות מתוך {file}|{n} יובאו דוגמאות מתוך {file}
 	Imported {n} shortcuts from {file}. Click OK to keep them.	יובאו {n} קיצורי מקשים מתוך {file}. לחץ על אישור כדי לשמור אותם.
-@plural	Imported {n} swatch from {file}|Imported {n} swatches from {file}	יובאה דוגמית צבע {n} מתוך {file}|יובאו {n} דוגמיות צבע מתוך {file}|יובאו {n} דוגמיות צבע מתוך {file}
+@plural	Imported {n} swatch from {file}|Imported {n} swatches from {file}	יובאה דוגמית {n} צבע מתוך {file}|{n} יובאו דוגמיות צבע מתוך {file}|{n} יובאו דוגמיות צבע מתוך {file}
 	Importing {what} from {file}…	מייבא {what} מתוך {file}…
 	Importing…	מייבא…
 	Impressionist	אימפרסיוניסטי
@@ -1697,7 +1697,7 @@ cameraRaw	Lights	בהירים
 	Load	טען
 	Load 3D LUT	טען 3D LUT
 	Load 3D LUT…	טען 3D LUT…
-	Load a keyboard shortcut set saved as .kys	טען ערכת קיצורי מקשים שנשמרה כ-‎.kys
+	Load a keyboard shortcut set saved as .kys	טען ערכת קיצורי מקשים שנשמרה כ-.kys
 	Load Actions…	טען פעולות…
 	Load channel as selection	טען ערוץ כבחירה
 	Load Default Type Styles	טען סגנונות טקסט ברירת מחדל
@@ -1706,11 +1706,11 @@ cameraRaw	Lights	בהירים
 	Load path as a selection	טען נתיב כבחירה
 	Load Selection	טען בחירה
 	Load Selection…	טען בחירה…
-	Load settings from a Camera Raw .xmp file	טעינת הגדרות מקובץ ‎.xmp של Camera Raw
+	Load settings from a Camera Raw .xmp file	טעינת הגדרות מקובץ .xmp של Camera Raw
 	Load Settings…	טעינת הגדרות…
 	Loaded Camera Raw settings from {file}	נטענו הגדרות Camera Raw מתוך {file}
 	Loaded Camera Raw settings from {file} ({n} not supported)	נטענו הגדרות Camera Raw מתוך {file} ({n} אינן נתמכות)
-@plural	Loaded {n} action from {file}|Loaded {n} actions from {file}	נטענה פעולה {n} מתוך {file}|נטענו {n} פעולות מתוך {file}|נטענו {n} פעולות מתוך {file}
+@plural	Loaded {n} action from {file}|Loaded {n} actions from {file}	נטענה {n} פעולה מתוך {file}|{n} נטענו פעולות מתוך {file}|{n} נטענו פעולות מתוך {file}
 	Loading fonts…	טוען גופנים…
 	Loading…	טוען…
 	Load…	טען…
@@ -2189,7 +2189,7 @@ document	Orientation	כיוון
 	Platform: {os} {arch}	פלטפורמה: {os} {arch}
 	Play Once	הפעל פעם אחת
 	Play selection	הפעל בחירה
-@plural	Played {n} step|Played {n} steps	הופעל שלב {n}|הופעלו {n} שלבים|הופעלו {n} שלבים
+@plural	Played {n} step|Played {n} steps	הופעל {n} שלב|{n} הופעלו שלבים|{n} הופעלו שלבים
 	Please wait…	אנא המתן…
 	Plug-ins…	תוספים…
 	Png	PNG
@@ -2528,15 +2528,15 @@ cameraRaw	Saturation	רוויה
 	Save Settings…	שמירת הגדרות…
 	Save Set…	שמור ערכה…
 	Save the changes to this set	שמור את השינויים בערכה זו
-	Save these settings as a Camera Raw .xmp file	שמירת הגדרות אלה כקובץ ‎.xmp של Camera Raw
-	Save these shortcuts as a .kys file	שמור קיצורי מקשים אלה כקובץ ‎.kys
+	Save these settings as a Camera Raw .xmp file	שמירת הגדרות אלה כקובץ .xmp של Camera Raw
+	Save these shortcuts as a .kys file	שמור קיצורי מקשים אלה כקובץ .kys
 	Save these shortcuts as a new set	שמור קיצורי מקשים אלה כערכה חדשה
 	Save your work and restart PhotoCraft to retry GPU acceleration. CPU rendering remains active for this session.	שמור את עבודתך והפעל מחדש את PhotoCraft כדי לנסות שוב האצת GPU. עיבוד CPU יישאר פעיל בהפעלה זו.
 	Saved a copy as {path}	נשמר עותק בשם {path}
-@plural	Saved for Web: {n} file|Saved for Web: {n} files	נשמר לאינטרנט: קובץ {n}|נשמרו לאינטרנט: {n} קבצים|נשמרו לאינטרנט: {n} קבצים
+@plural	Saved for Web: {n} file|Saved for Web: {n} files	נשמר לאינטרנט: {n} קובץ|נשמרו לאינטרנט: {n} קבצים|נשמרו לאינטרנט: {n} קבצים
 	Saved Multichannel	רב-ערוצי שנשמר
 	Saved {name}	{name} נשמר
-@plural	Saved {n} action to {file}|Saved {n} actions to {file}	נשמרה פעולה {n} אל {file}|נשמרו {n} פעולות אל {file}|נשמרו {n} פעולות אל {file}
+@plural	Saved {n} action to {file}|Saved {n} actions to {file}	נשמרה {n} פעולה אל {file}|{n} נשמרו פעולות אל {file}|{n} נשמרו פעולות אל {file}
 	Saved {path}; image assets: {n} in {dir}	{path} נשמר; נכסי תמונה: {n} בתיקייה {dir}
 	Saving brush presets… Keep this tab open until saving finishes.	שומר מברשות קבועות מראש… השאר כרטיסייה זו פתוחה עד שהשמירה תסתיים.
 	Saving {name}	שומר את {name}
@@ -3072,7 +3072,7 @@ cameraRaw	Tint	נטייה
 	Update layer comp (visibility, position and appearance)	עדכן פריסת שכבות (נראות, מיקום ומראה)
 	Update Modified Content	עדכן תוכן ששונה
 	Update the current brush with these settings	עדכן את המברשת הנוכחית בהגדרות אלה
-@plural	Updated {n} linked smart object changed on disk|Updated {n} linked smart objects changed on disk	עודכן אובייקט חכם מקושר {n} שהשתנה בדיסק|עודכנו {n} אובייקטים חכמים מקושרים שהשתנו בדיסק|עודכנו {n} אובייקטים חכמים מקושרים שהשתנו בדיסק
+@plural	Updated {n} linked smart object changed on disk|Updated {n} linked smart objects changed on disk	עודכן אובייקט חכם {n} מקושר שהשתנה בדיסק|{n} עודכנו אובייקטים חכמים מקושרים שהשתנו בדיסק|{n} עודכנו אובייקטים חכמים מקושרים שהשתנו בדיסק
 	Upper	עליון
 	Urgency	דחיפות
 	URLs	כתובות URL
@@ -3235,18 +3235,18 @@ navigator	Zoom	זום
 	{name} options	אפשרויות {name}
 	{name} Properties	מאפייני {name}
 	{name} was changed by another app after it was opened or saved here.	{name} שונה על ידי יישום אחר לאחר שנפתח או נשמר כאן.
-@plural	{n} action|{n} actions	פעולה {n}|{n} פעולות|{n} פעולות
+@plural	{n} action|{n} actions	{n} פעולה|{n} פעולות|{n} פעולות
 	{n} commands are not in PhotoCraft.	{n} פקודות אינן קיימות ב-PhotoCraft.
-@plural	{n} layer recorded by this comp was deleted. Update the comp, or clear the warning.|{n} layers recorded by this comp were deleted. Update the comp, or clear the warning.	שכבה {n} שתועדה בפריסת שכבות זו נמחקה. עדכן את הפריסה או נקה את האזהרה.|{n} שכבות שתועדו בפריסת שכבות זו נמחקו. עדכן את הפריסה או נקה את האזהרה.|{n} שכבות שתועדו בפריסת שכבות זו נמחקו. עדכן את הפריסה או נקה את האזהרה.
-@plural	{n} layer|{n} layers	שכבה {n}|{n} שכבות|{n} שכבות
+@plural	{n} layer recorded by this comp was deleted. Update the comp, or clear the warning.|{n} layers recorded by this comp were deleted. Update the comp, or clear the warning.	{n} שכבה שתועדה בפריסת שכבות זו נמחקה. עדכן את הפריסה או נקה את האזהרה.|{n} שכבות שתועדו בפריסת שכבות זו נמחקו. עדכן את הפריסה או נקה את האזהרה.|{n} שכבות שתועדו בפריסת שכבות זו נמחקו. עדכן את הפריסה או נקה את האזהרה.
+@plural	{n} layer|{n} layers	{n} שכבה|{n} שכבות|{n} שכבות
 	{n} of {max} sample points	{n} מתוך {max} נקודות דגימה
-@plural	{n} plane|{n} planes	מישור {n}|{n} מישורים|{n} מישורים
-@plural	{n} preset|{n} presets	הגדרה קבועה מראש {n}|{n} הגדרות קבועות מראש|{n} הגדרות קבועות מראש
-@plural	{n} sample point removed|{n} sample points removed	נקודת דגימה {n} הוסרה|{n} נקודות דגימה הוסרו|{n} נקודות דגימה הוסרו
-@plural	{n} sample|{n} samples	דגימה {n}|{n} דגימות|{n} דגימות
-@plural	{n} slice|{n} slices	גזיר {n}|{n} גזירים|{n} גזירים
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	לשלב {n} עדיין אין מקבילה ב-PhotoCraft|ל-{n} שלבים עדיין אין מקבילה ב-PhotoCraft|ל-{n} שלבים עדיין אין מקבילה ב-PhotoCraft
-@plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	שלב {n} ללא מקבילה ב-Photoshop הושמט|{n} שלבים ללא מקבילה ב-Photoshop הושמטו|{n} שלבים ללא מקבילה ב-Photoshop הושמטו
+@plural	{n} plane|{n} planes	{n} מישור|{n} מישורים|{n} מישורים
+@plural	{n} preset|{n} presets	הגדרה קבועה {n} מראש|{n} הגדרות קבועות מראש|{n} הגדרות קבועות מראש
+@plural	{n} sample point removed|{n} sample points removed	נקודת {n} דגימה הוסרה|{n} נקודות דגימה הוסרו|{n} נקודות דגימה הוסרו
+@plural	{n} sample|{n} samples	{n} דגימה|{n} דגימות|{n} דגימות
+@plural	{n} slice|{n} slices	{n} גזיר|{n} גזירים|{n} גזירים
+@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} לשלב עדיין אין מקבילה ב-PhotoCraft|ל-{n} שלבים עדיין אין מקבילה ב-PhotoCraft|ל-{n} שלבים עדיין אין מקבילה ב-PhotoCraft
+@plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	{n} שלב ללא מקבילה ב-Photoshop הושמט|{n} שלבים ללא מקבילה ב-Photoshop הושמטו|{n} שלבים ללא מקבילה ב-Photoshop הושמטו
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: הנתיב אינו Unicode תקין; שנה את שם הקובץ ופתח אותו שוב.
 	{set} (modified)	{set} (שונה)
 	{shortcut} assigned.	{shortcut} הוקצה.
@@ -3254,8 +3254,8 @@ navigator	Zoom	זום
 	{shortcut} is reserved by the system and can't be assigned.	{shortcut} שמור על ידי המערכת ולא ניתן להקצותו.
 	{size} (was {old})	{size} (היה {old})
 	{verb} {mask} {layer}	{verb} {mask} {layer}
-@plural	{warning} (+{n} more brush preset warning)|{warning} (+{n} more brush preset warnings)	{warning} (+עוד אזהרה {n} של מברשת קבועה מראש)|{warning} (+עוד {n} אזהרות של מברשת קבועה מראש)|{warning} (+עוד {n} אזהרות של מברשת קבועה מראש)
-@plural	{what} with {n} warning|{what} with {n} warnings	{what} עם אזהרה {n}|{what} עם {n} אזהרות|{what} עם {n} אזהרות
+@plural	{warning} (+{n} more brush preset warning)|{warning} (+{n} more brush preset warnings)	{warning} (+עוד {n} אזהרה של מברשת קבועה מראש)|{warning} (+{n} עוד אזהרות של מברשת קבועה מראש)|{warning} (+{n} עוד אזהרות של מברשת קבועה מראש)
+@plural	{what} with {n} warning|{what} with {n} warnings	{what} עם {n} אזהרה|{what} {n} עם אזהרות|{what} {n} עם אזהרות
 	{w} px x {h} px ({ppi} ppi)	{w} פיקסלים × {h} פיקסלים ({ppi} ppi)
 	{w} {unit} x {h} {unit} ({ppi} ppi)	{w} {unit} × {h} {unit} ({ppi} ppi)
 	{zoom}%	{zoom}%

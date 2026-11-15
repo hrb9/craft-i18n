@@ -1282,12 +1282,12 @@ theme	Appearance	מראה
 	Zoom Out	התרחק
 	Zoom out	התרחק
 	Zoom Tool	כלי זכוכית מגדלת
-@plural	{n} commit|{n} commits	שינוי {n}|{n} שינויים|{n} שינויים
+@plural	{n} commit|{n} commits	{n} שינוי|{n} שינויים|{n} שינויים
 	{n} files	{n} קבצים
 	{n} h ago	לפני {n} שעות
-@plural	{n} item|{n} items	פריט {n}|{n} פריטים|{n} פריטים
-@plural	{n} Layer|{n} Layers	שכבה {n}|{n} שכבות|{n} שכבות
+@plural	{n} item|{n} items	{n} פריט|{n} פריטים|{n} פריטים
+@plural	{n} Layer|{n} Layers	{n} שכבה|{n} שכבות|{n} שכבות
 	{n} min ago	לפני {n} דקות
-@plural	{n} step|{n} steps	צעד {n}|{n} צעדים|{n} צעדים
+@plural	{n} step|{n} steps	{n} צעד|{n} צעדים|{n} צעדים
 	−Bin	−סל
 	● Recording	● מקליט

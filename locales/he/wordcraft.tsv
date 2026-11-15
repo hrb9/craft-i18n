@@ -213,7 +213,7 @@ numerals	Arabic	ערביות (1, 2, 3)
 	AutoSave documents you have saved in WordCraft	שמור אוטומטית מסמכים ששמרת ב-WordCraft
 	AutoSave failed: {error}. Save the document to turn AutoSave back on.	השמירה האוטומטית נכשלה: {error}. שמור את המסמך כדי להפעיל מחדש שמירה אוטומטית.
 	AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy.	שמירה אוטומטית אינה זמינה בדפדפן: אין לו אפשרות לכתוב לקבצים שלך. פעולת השמירה מורידה עותק.
-	AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave.	שמירה אוטומטית שומרת רק קובצי .docx,‏ .odt ו-.rtf;‏ {name} אינו יכול לשמור את כל העיצוב. שמור כ-.docx כדי להפעיל שמירה אוטומטית.
+	AutoSave only keeps .docx, .odt and .rtf files; {name} can't keep all formatting. Save as .docx to turn on AutoSave.	שמירה אוטומטית שומרת רק קובצי .docx, .odt ו-.rtf; {name} אינו יכול לשמור את כל העיצוב. שמור כ-.docx כדי להפעיל שמירה אוטומטית.
 	AutoSave saves every change to the file (needs a saved document)	שמירה אוטומטית שומרת כל שינוי בקובץ (דרוש מסמך שמור)
 	AutoSave writes your changes to the file a moment after you stop typing.	שמירה אוטומטית כותבת את השינויים שלך לקובץ רגע לאחר הפסקת ההקלדה.
 	AutoText	טקסט אוטומטי
@@ -493,9 +493,9 @@ numerals	Context	לפי הקשר
 	Cosine 2x	קוסינוס 2x
 	Cosine Function	פונקציית קוסינוס
 	Cotangent Function	פונקציית קוטנגנס
-	Couldn't download {name}: {error}	לא ניתן היה להוריד את {name}:‏ {error}
+	Couldn't download {name}: {error}	לא ניתן היה להוריד את {name}: {error}
 	Couldn't make WordCraft the default: {error}	לא ניתן היה להגדיר את WordCraft כברירת מחדל: {error}
-	Couldn't open {path}: {error}	לא ניתן היה לפתוח את {path}:‏ {error}
+	Couldn't open {path}: {error}	לא ניתן היה לפתוח את {path}: {error}
 	Couldn't save {name}, so it is still open and nothing was lost: {error}	לא ניתן היה לשמור את {name}, ולכן הוא עדיין פתוח ודבר לא אבד: {error}
 	Count by:	ספור בקפיצות של:
 	Count words in text boxes and notes	ספור מילים בתיבות טקסט ובהערות
@@ -637,7 +637,7 @@ numerals	Context	לפי הקשר
 	Don't add space between paragraphs of the same style	אל תוסיף רווח בין פסקאות מאותו סגנון
 	Don't capitalize after:	אל תהפוך לאות רישית אחרי:
 	Don't hyphenate	אל תמקף
-	Don't read Zotero, Mendeley or EndNote citations and bibliographies	אל תקריא ציטוטים וביבליוגרפיות של Zotero,‏ Mendeley או EndNote
+	Don't read Zotero, Mendeley or EndNote citations and bibliographies	אל תקריא ציטוטים וביבליוגרפיות של Zotero, Mendeley או EndNote
 	Dot dash	נקודה-קו
 	Dot-dash	נקודה-קו
 	Dot-dot-dash	נקודה-נקודה-קו
@@ -940,7 +940,7 @@ numerals	Hindi	הינדיות (٠, ١, ٢)
 	How many words the document holds	כמה מילים מכיל המסמך
 	HTML Format	תבנית HTML
 	Hue:	גוון:
-	Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's.	קובצי ‎.aff ו-‎.dic של Hunspell שכאן (pl_PL,‏ pt_BR,‏ it_IT,‏ hr_HR,‏ tr_TR) משמשים לפני קובצי המערכת.
+	Hunspell .aff and .dic files here (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) are used before the system's.	קובצי .aff ו-.dic של Hunspell שכאן (pl_PL, pt_BR, it_IT, hr_HR, tr_TR) משמשים לפני קובצי המערכת.
 	Hyperbolic Cosecant Function	פונקציית קוסקנס היפרבולי
 	Hyperbolic Cosine Function	פונקציית קוסינוס היפרבולי
 	Hyperbolic Cotangent Function	פונקציית קוטנגנס היפרבולי
@@ -1089,7 +1089,7 @@ numerals	Hindi	הינדיות (٠, ١, ٢)
 	Israel	ישראל
 	Issue	גיליון
 	Join the ArtCraft community on Discord	הצטרף לקהילת ArtCraft ב-Discord
-	Join us on Discord: discord.gg/artcraft	הצטרף אלינו ב-Discord:‏ discord.gg/artcraft
+	Join us on Discord: discord.gg/artcraft	הצטרף אלינו ב-Discord: discord.gg/artcraft
 	Journal	כתב עת
 	Journal article	מאמר בכתב עת
 	Justification of a display equation	יישור של משוואה בתצוגה נפרדת
@@ -1436,7 +1436,7 @@ template	Letter	מכתב
 	Offset: Top	היסט: למעלה
 	Offset: Top Left	היסט: למעלה משמאל
 	Offset: Top Right	היסט: למעלה מימין
-	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	מקשי תפריט ישנים: Alt,‏ {keys}. המשך להקליד, או לחץ על Esc לביטול.
+	Old menu keys: Alt, {keys}. Keep typing, or press Esc to cancel.	מקשי תפריט ישנים: Alt, {keys}. המשך להקליד, או לחץ על Esc לביטול.
 	On: the caret glides to its new place when you type or use the arrow keys, and its blink fades. Off: it jumps and blinks on and off.	פעיל: הסמן גולש למיקומו החדש בעת הקלדה או שימוש במקשי החיצים, וההבהוב שלו מתעמעם. כבוי: הסמן קופץ ומהבהב לסירוגין.
 	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	פעיל: WordCraft נפתח ב'קובץ' › 'בית', עם מסמך ריק, התבניות והמסמכים האחרונים שלך. כבוי: נפתח מסמך ריק.
 	One	אחת
@@ -1452,13 +1452,13 @@ template	Letter	מכתב
 	only in Outline view	בתצוגת מתאר בלבד
 	Only label and number	תווית ומספר בלבד
 	Only the allowed styles can be applied.	ניתן להחיל את הסגנונות המותרים בלבד.
-	Only web (http, https) and email (mailto) links can be followed	ניתן לעקוב אחר קישורי אינטרנט (http,‏ https) ודואר אלקטרוני (mailto) בלבד
+	Only web (http, https) and email (mailto) links can be followed	ניתן לעקוב אחר קישורי אינטרנט (http, https) ודואר אלקטרוני (mailto) בלבד
 	Open a document first	פתח מסמך תחילה
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	פתח קובץ באמצעות הדפדפן הפנימי של WordCraft כאשר חלון הקבצים של המערכת אינו מופיע.
-	OpenDocument Text (*.odt)	טקסט OpenDocument‏ (‎*.odt)
+	OpenDocument Text (*.odt)	טקסט OpenDocument (*.odt)
 	Opening print dialog…	פותח תיבת דו-שיח של הדפסה…
-	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	פותח מעתה קובצי ‎.docx,‏ ‎.doc,‏ ‎.rtf ו-‎.odt ותבניות Word באמצעות WordCraft.
-	Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types.	פותח את 'הגדרות' › 'יישומי ברירת מחדל', שם תוכל לבחור ב-WordCraft עבור ‎.docx ושאר סוגי המסמכים.
+	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	פותח מעתה קובצי .docx, .doc, .rtf ו-.odt ותבניות Word באמצעות WordCraft.
+	Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types.	פותח את 'הגדרות' › 'יישומי ברירת מחדל', שם תוכל לבחור ב-WordCraft עבור .docx ושאר סוגי המסמכים.
 	Operator	אופרטור
 	Operator Structures	מבני אופרטורים
 	Operators	אופרטורים
@@ -1547,7 +1547,7 @@ template	Letter	מכתב
 	Paste: Merge Formatting	הדבקה: מזג עיצוב
 	Pastes the clipboard's picture.	מדביק את התמונה מהלוח.
 	Paused	מושהה
-	PDF document (*.pdf)	מסמך PDF‏ (*.pdf)
+	PDF document (*.pdf)	מסמך PDF (*.pdf)
 	Pens	עטים
 	People	אנשים
 	Periodical	כתב עת תקופתי
@@ -1789,7 +1789,7 @@ template	Letter	מכתב
 	Save the document to turn on AutoSave	שמור את המסמך כדי להפעיל שמירה אוטומטית
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	שמור את המסמך כדי להפעיל שמירה אוטומטית (קובץ שרק פתחת אינו נכתב מחדש עד שתשמור אותו)
 	Save these pages as PDF…	שמור עמודים אלה כ-PDF…
-	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	שומר תבנית ‎.dotx בתיקיית התבניות שלך. היא מופיעה ב'קובץ' › 'חדש' תחת 'אישי'.
+	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	שומר תבנית .dotx בתיקיית התבניות שלך. היא מופיעה ב'קובץ' › 'חדש' תחת 'אישי'.
 	Saving {name} was cancelled, so it is still open and nothing was lost.	שמירת {name} בוטלה, ולכן הוא עדיין פתוח ודבר לא אבד.
 	Scale Drawing	שינוי קנה מידה של ציור
 	Scale to paper size	התאם קנה מידה לגודל הנייר
@@ -2130,7 +2130,7 @@ numerals	System	מערכת
 	Text Wrapping	גלישת טקסט
 	Text\nBox	תיבת\nטקסט
 	Text\nDirection	כיוון\nטקסט
-	That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on.	תבנית זו אינה שומרת את הכול, ולכן המסמך עדיין פתוח. שמור אותו כמסמך Word‏ (‎.docx) כדי להמשיך.
+	That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on.	תבנית זו אינה שומרת את הכול, ולכן המסמך עדיין פתוח. שמור אותו כמסמך Word (.docx) כדי להמשיך.
 	That password isn't right. Check it (passwords are case-sensitive) and try again.	הסיסמה אינה נכונה. בדוק אותה (סיסמאות תלויות רישיות) ונסה שוב.
 	The clipboard is empty.	הלוח ריק.
 	the Clipboard pane is empty	חלונית הלוח ריקה
@@ -2240,10 +2240,10 @@ preview	Title	כותרת
 	Two-sided printing	הדפסה דו-צדדית
 	Two-sided: long edge	דו-צדדי: צד ארוך
 	Two-sided: short edge	דו-צדדי: צד קצר
-	Type +2 or -1 to move from the page you are on.	הקלד ‎+2 או ‎-1 כדי לנוע מהעמוד שבו אתה נמצא.
+	Type +2 or -1 to move from the page you are on.	הקלד +2 או -1 כדי לנוע מהעמוד שבו אתה נמצא.
 	Type a command, e.g. "insert table"	הקלד פקודה, למשל "הוסף טבלה"
 	Type a New List…	הקלד רשימה חדשה…
-	Type a page number, or +2 / -1.	הקלד מספר עמוד, או ‎+2 / ‎-1.
+	Type a page number, or +2 / -1.	הקלד מספר עמוד, או +2 / -1.
 	Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions.	הקלד גודל בכל יחידת מידה, כגון 5 ס"מ או 300 פיקסלים. הצד השני מתעדכן בהתאם, כך שהתמונה שומרת על הפרופורציות שלה.
 	Type at least one recipient.	הקלד נמען אחד לפחות.
 	Type Character Code	הקלד קוד תו
@@ -2346,15 +2346,15 @@ preview	Title	כותרת
 	Width and spacing	רוחב ומרווח
 	Wildcards (regex)	תווים כלליים (ביטוי רגולרי)
 	With:	ב:
-	Word 2003 XML Document (*.xml)	מסמך XML של Word 2003‏ (*.xml)
+	Word 2003 XML Document (*.xml)	מסמך XML של Word 2003 (*.xml)
 	Word Count	ספירת מילים
 	Word document	מסמך Word
-	Word document (*.docx)	מסמך Word‏ (*.docx)
+	Word document (*.docx)	מסמך Word (*.docx)
 	Word Left	מילה שמאלה
 	Word level	רמת מילה
 	Word Right	מילה ימינה
 	Word sources	מקורות של Word
-	Word XML Document (*.xml)	מסמך XML של Word‏ (*.xml)
+	Word XML Document (*.xml)	מסמך XML של Word (*.xml)
 	WordArt	WordArt
 	WordArt Styles	סגנונות WordArt
 	WordCraft	WordCraft
@@ -2374,7 +2374,7 @@ preview	Title	כותרת
 	Zotero	Zotero
 	Zotero: cancelled	Zotero: בוטל
 	Zotero: done	Zotero: בוצע
-	{added}; {count} couldn't be read: {names}	{added}; לא ניתן היה לקרוא {count}:‏ {names}
+	{added}; {count} couldn't be read: {names}	{added}; לא ניתן היה לקרוא {count}: {names}
 	{added}; {n} skipped (limit {max})	{added}; דולגו {n} (מגבלה {max})
 	{cols}×{rows} Table	טבלה {cols}×{rows}
 	{contributors} contributors · {commits} commits	{contributors} תורמים · {commits} שינויים

@@ -68,7 +68,7 @@
 	A rounded tag that fits its text, with a status dot.	תגית מעוגלת המתאימה לאורך הטקסט שלה, עם נקודת מצב.
 	A title on a rounded card with a soft shadow.	כותרת על כרטיס מעוגל עם צל רך.
 	AAC Audio	שמע AAC
-	AAC Audio 48 kHz 320 kbps	שמע AAC‏ 48 kHz‏ 320 kbps
+	AAC Audio 48 kHz 320 kbps	שמע AAC 48 kHz 320 kbps
 	AAF Export Settings	הגדרות ייצוא AAF
 	AAF…	AAF…
 	About FilmCraft	אודות FilmCraft
@@ -118,8 +118,8 @@
 	After {name}	אחרי {name}
 	Aggressive	אגרסיבי
 	AIFF	AIFF
-	AIFF 48 kHz 16-bit	AIFF‏ 48 kHz‏ 16 סיביות
-	AIFF, stereo 48 kHz 16-bit PCM	AIFF, סטריאו 48 kHz‏ 16 סיביות PCM
+	AIFF 48 kHz 16-bit	AIFF 48 kHz 16 סיביות
+	AIFF, stereo 48 kHz 16-bit PCM	AIFF, סטריאו 48 kHz 16 סיביות PCM
 	Align and Transform	יישור ושינוי צורה
 	Align Bottom	יישר למטה
 	Align Center Horizontally	יישר למרכז אופקית
@@ -497,8 +497,8 @@
 	Click in the Program monitor to place mask points (drag for curves); click the first point or press Enter to close	לחץ במוניטור התוכנית להצבת נקודות מסכה (גרור ליצירת עקומות); לחץ על הנקודה הראשונה או הקש Enter לסגירה
 	Click to select all clips to the left in all tracks. Shift-click for a single track.	לחץ לבחירת כל הקליפים משמאל בכל הערוצים. Shift+לחיצה לערוץ בודד.
 	Click to select all clips to the right in all tracks. Shift-click for a single track.	לחץ לבחירת כל הקליפים מימין בכל הערוצים. Shift+לחיצה לערוץ בודד.
-	Click to select, or click in empty space and drag to marquee select. Use Shift, Alt, and Ctrl for other options.	לחץ לבחירה, או לחץ בשטח ריק וגרור לבחירת תיבה. השתמש ב-Shift,‏ Alt ו-Ctrl לאפשרויות נוספות.
-	Click to select, or click in empty space and drag to marquee select. Use Shift, Opt, and Cmd for other options.	לחץ לבחירה, או לחץ בשטח ריק וגרור לבחירת תיבה. השתמש ב-Shift,‏ Opt ו-Cmd לאפשרויות נוספות.
+	Click to select, or click in empty space and drag to marquee select. Use Shift, Alt, and Ctrl for other options.	לחץ לבחירה, או לחץ בשטח ריק וגרור לבחירת תיבה. השתמש ב-Shift, Alt ו-Ctrl לאפשרויות נוספות.
+	Click to select, or click in empty space and drag to marquee select. Use Shift, Opt, and Cmd for other options.	לחץ לבחירה, או לחץ בשטח ריק וגרור לבחירת תיבה. השתמש ב-Shift, Opt ו-Cmd לאפשרויות נוספות.
 	Click to split a clip. Shift-click to split all tracks.	לחץ לפיצול קליפ. Shift+לחיצה לפיצול כל הערוצים.
 	Click to zoom in; Alt-click to zoom out.	לחץ להתקרבות; Alt+לחיצה להתרחקות.
 	Click to zoom in; Opt-click to zoom out.	לחץ להתקרבות; Opt+לחיצה להתרחקות.
@@ -989,9 +989,9 @@
 	Fit to frame	התאם למסגרת
 	FLAC	FLAC
 	FLAC (lossless)	FLAC (ללא איבוד איכות)
-	FLAC 48 kHz 24-bit	FLAC‏ 48 kHz‏ 24 סיביות
+	FLAC 48 kHz 24-bit	FLAC 48 kHz 24 סיביות
 	FLAC stores whole-number samples only	FLAC שומר דגימות במספרים שלמים בלבד
-	FLAC, stereo 48 kHz 24-bit, lossless	FLAC, סטריאו 48 kHz‏ 24 סיביות, ללא איבוד איכות
+	FLAC, stereo 48 kHz 24-bit, lossless	FLAC, סטריאו 48 kHz 24 סיביות, ללא איבוד איכות
 	Flanger	פלנג'ר (Flanger)
 	Flare	הבהק
 	Flare Brightness	בהירות הבהק
@@ -1016,7 +1016,7 @@
 	For color management parameters, go to the Settings tab in the Lumetri Color panel.	עבור פרמטרים של ניהול צבע, עבור לכרטיסיית ההגדרות בחלונית הצבע של Lumetri.
 	Forest	יער
 	Format and size	תבנית וגודל
-	Four Scopes (RGB, 8 bit)	ארבעה מחוונים (RGB,‏ 8 סיביות)
+	Four Scopes (RGB, 8 bit)	ארבעה מחוונים (RGB, 8 סיביות)
 	Four Scopes (YUV, float, no clamp)	ארבעה מחוונים (YUV, נקודה צפה, ללא הגבלה)
 	Fractal Influence	השפעה פרקטלית
 	Fractal Type	סוג פרקטל
@@ -1150,11 +1150,11 @@
 	GuitarSuite	חבילת גיטרה (GuitarSuite)
 	H.264	H.264
 	H.264 1920×1080 for video sharing sites, VBR 1 pass, 16 Mbps	H.264 1920×1080 לאתרי שיתוף וידאו, VBR מעבר 1, 16 Mbps
-	H.264 1920×1080, VBR 1 pass, 20 Mbps target, AAC 320 kbps	H.264 1920×1080,‏ VBR מעבר 1, יעד 20 Mbps,‏ AAC 320 kbps
-	H.264 1920×1080, VBR 2 pass, 18 Mbps	H.264 1920×1080,‏ VBR‏ 2 מעברים, 18 Mbps
+	H.264 1920×1080, VBR 1 pass, 20 Mbps target, AAC 320 kbps	H.264 1920×1080, VBR מעבר 1, יעד 20 Mbps, AAC 320 kbps
+	H.264 1920×1080, VBR 2 pass, 18 Mbps	H.264 1920×1080, VBR 2 מעברים, 18 Mbps
 	H.264 3840×2160 for video sharing sites, VBR 1 pass, 45 Mbps	H.264 3840×2160 לאתרי שיתוף וידאו, VBR מעבר 1, 45 Mbps
-	H.264 3840×2160, VBR 1 pass, 60 Mbps target, AAC 320 kbps	H.264 3840×2160,‏ VBR מעבר 1, יעד 60 Mbps,‏ AAC 320 kbps
-	H.264 3840×2160, VBR 2 pass, 50 Mbps	H.264 3840×2160,‏ VBR‏ 2 מעברים, 50 Mbps
+	H.264 3840×2160, VBR 1 pass, 60 Mbps target, AAC 320 kbps	H.264 3840×2160, VBR מעבר 1, יעד 60 Mbps, AAC 320 kbps
+	H.264 3840×2160, VBR 2 pass, 50 Mbps	H.264 3840×2160, VBR 2 מעברים, 50 Mbps
 	H.264 9:16 portrait for short-form social video, scaled to fill, 12 Mbps	H.264 9:16 לאורך עבור וידאו קצר לרשתות חברתיות, מותאם למילוי, 12 Mbps
 	H.264 at the sequence's frame size and rate; 0.05 bits per pixel	H.264 בגודל המסגרת ובקצב הפריימים של הרצף; 0.05 סיביות לפיקסל
 	H.264 at the sequence's frame size and rate; 0.1 bits per pixel	H.264 בגודל המסגרת ובקצב הפריימים של הרצף; 0.1 סיביות לפיקסל
@@ -1169,8 +1169,8 @@
 	Hardware (AV1 has no software encoder)	חומרה (ל-AV1 אין מקודד תוכנה)
 	Hardware (H.265 has no software encoder)	חומרה (ל-H.265 אין מקודד תוכנה)
 	Hardware decoding	פענוח חומרה
-	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API for H.264 and HEVC on Linux) for the streams it supports, and FilmCraft's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	פענוח חומרה: מצב אוטומטי משתמש במפענח הווידאו של המערכת (VideoToolbox ב-macOS,‏ Media Foundation ב-Windows,‏ VA-API עבור H.264 ו-HEVC ב-Linux) עבור הזרמים הנתמכים, ובמפענח הפנימי של FilmCraft לכל השאר או אם החומרה נכשלת. מדיה שכבר פתוחה שומרת על המפענח שלה עד לפתיחתה מחדש.
-	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API or NVDEC for H.264 and HEVC on Linux) for the streams it supports, and FilmCraft's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	פענוח חומרה: מצב אוטומטי משתמש במפענח הווידאו של המערכת (VideoToolbox ב-macOS,‏ Media Foundation ב-Windows,‏ VA-API או NVDEC עבור H.264 ו-HEVC ב-Linux) עבור הזרמים הנתמכים, ובמפענח הפנימי של FilmCraft לכל השאר או אם החומרה נכשלת. מדיה שכבר פתוחה שומרת על המפענח שלה עד לפתיחתה מחדש.
+	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API for H.264 and HEVC on Linux) for the streams it supports, and FilmCraft's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	פענוח חומרה: מצב אוטומטי משתמש במפענח הווידאו של המערכת (VideoToolbox ב-macOS, Media Foundation ב-Windows, VA-API עבור H.264 ו-HEVC ב-Linux) עבור הזרמים הנתמכים, ובמפענח הפנימי של FilmCraft לכל השאר או אם החומרה נכשלת. מדיה שכבר פתוחה שומרת על המפענח שלה עד לפתיחתה מחדש.
+	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API or NVDEC for H.264 and HEVC on Linux) for the streams it supports, and FilmCraft's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	פענוח חומרה: מצב אוטומטי משתמש במפענח הווידאו של המערכת (VideoToolbox ב-macOS, Media Foundation ב-Windows, VA-API או NVDEC עבור H.264 ו-HEVC ב-Linux) עבור הזרמים הנתמכים, ובמפענח הפנימי של FilmCraft לכל השאר או אם החומרה נכשלת. מדיה שכבר פתוחה שומרת על המפענח שלה עד לפתיחתה מחדש.
 	HD Anamorphic 1080 (1.333)	HD אנמורפי 1080 (1.333)
 	HDR	HDR
 	HDR Graphics White (Nits)	לבן גרפי HDR (ניטים)
@@ -1289,7 +1289,7 @@
 	Insert Frame Hold Segment	הכנס מקטע הקפאת פריים
 	Inset	שקוע
 	Inside Color	צבע פנימי
-	Install Motion Graphics Template (.fcgt)	התקן תבנית גרפיקה בתנועה (‎.fcgt)
+	Install Motion Graphics Template (.fcgt)	התקן תבנית גרפיקה בתנועה (.fcgt)
 	Install Motion Graphics Template…	התקן תבנית גרפיקה בתנועה…
 	Install…	התקן…
 	Inter	Inter
@@ -1316,7 +1316,7 @@
 	Iris Round	צמצם עגול
 	Iris Shape	צורת צמצם
 	JetBrains Mono	JetBrains Mono
-	Join the ArtCraft Discord (discord.gg/artcraft)	הצטרפו ל-Discord של ArtCraft‏ (discord.gg/artcraft)
+	Join the ArtCraft Discord (discord.gg/artcraft)	הצטרפו ל-Discord של ArtCraft (discord.gg/artcraft)
 	Join Through Edits	אחד חיתוכים רציפים
 	JPEG	JPEG
 	JPEG Sequence	רצף JPEG
@@ -1572,7 +1572,7 @@
 	minute(s)	דקות
 	Mirror Alternate	שיקוף לסירוגין
 	Missing font replacement	החלפת גופן חסר
-	MIT OR Apache-2.0. Fonts: Inter, Noto Serif and JetBrains Mono (SIL OFL 1.1).	MIT או Apache-2.0. גופנים: Inter,‏ Noto Serif ו-JetBrains Mono‏ (SIL OFL 1.1).
+	MIT OR Apache-2.0. Fonts: Inter, Noto Serif and JetBrains Mono (SIL OFL 1.1).	MIT או Apache-2.0. גופנים: Inter, Noto Serif ו-JetBrains Mono (SIL OFL 1.1).
 	Miter join	חיבור חד
 	Miter limit	מגבלת חוד
 	Mix	מיקס
@@ -1619,7 +1619,7 @@
 	Movie	סרט
 	Movie (audio and video)	סרט (שמע ווידאו)
 	Movies, audio and stills from disk	סרטים, שמע ותמונות מהדיסק
-	MPEG-4 audio (.m4a), stereo 48 kHz AAC-LC at 320 kbps	שמע MPEG-4‏ (‎.m4a), סטריאו 48 kHz AAC-LC ב-320 kbps
+	MPEG-4 audio (.m4a), stereo 48 kHz AAC-LC at 320 kbps	שמע MPEG-4 (.m4a), סטריאו 48 kHz AAC-LC ב-320 kbps
 	Multi-Camera	מרובה-מצלמות
 	Multi-Camera Audio Follows Video	שמע מרובה-מצלמות עוקב אחר הווידאו
 	Multi-Camera Layout	פריסה מרובת-מצלמות
@@ -1648,9 +1648,9 @@
 	MXF OP1a DNxHR HQ	MXF OP1a DNxHR HQ
 	MXF OP1a H.264	MXF OP1a H.264
 	MXF OP1a ProRes 422 HQ	MXF OP1a ProRes 422 HQ
-	MXF OP1a, DNxHR HQ (8-bit 4:2:2), 24-bit 48 kHz PCM, start timecode	MXF OP1a,‏ DNxHR HQ (8 סיביות 4:2:2), 24 סיביות 48 kHz PCM, קוד זמן התחלתי
-	MXF OP1a, H.264 High long GOP (0.3 bits per pixel), 24-bit 48 kHz PCM	MXF OP1a,‏ H.264 High long GOP (0.3 סיביות לפיקסל), 24 סיביות 48 kHz PCM
-	MXF OP1a, ProRes 422 HQ, 24-bit 48 kHz PCM, start timecode	MXF OP1a,‏ ProRes 422 HQ,‏ 24 סיביות 48 kHz PCM, קוד זמן התחלתי
+	MXF OP1a, DNxHR HQ (8-bit 4:2:2), 24-bit 48 kHz PCM, start timecode	MXF OP1a, DNxHR HQ (8 סיביות 4:2:2), 24 סיביות 48 kHz PCM, קוד זמן התחלתי
+	MXF OP1a, H.264 High long GOP (0.3 bits per pixel), 24-bit 48 kHz PCM	MXF OP1a, H.264 High long GOP (0.3 סיביות לפיקסל), 24 סיביות 48 kHz PCM
+	MXF OP1a, ProRes 422 HQ, 24-bit 48 kHz PCM, start timecode	MXF OP1a, ProRes 422 HQ, 24 סיביות 48 kHz PCM, קוד זמן התחלתי
 	My Shortcuts	קיצורי הדרך שלי
 	My Templates	התבניות שלי
 	Name and role on a coloured slab that widens with the name.	שם ותפקיד על רצועה צבעונית המתרחבת לפי אורך השם.
@@ -1758,10 +1758,10 @@
 	Nudge Selected Object to right by one	הזז אובייקט נבחר ימינה ביחידה אחת
 	Nudge Selected Object up by five	הזז אובייקט נבחר למעלה בחמש יחידות
 	Nudge Selected Object up by one	הזז אובייקט נבחר למעלה ביחידה אחת
-	Nudge Volume +1dB	הזז עוצמת שמע ב-‎+1dB
-	Nudge Volume +3dB	הזז עוצמת שמע ב-‎+3dB
-	Nudge Volume -1dB	הזז עוצמת שמע ב-‎-1dB
-	Nudge Volume -3dB	הזז עוצמת שמע ב-‎-3dB
+	Nudge Volume +1dB	הזז עוצמת שמע ב-+1dB
+	Nudge Volume +3dB	הזז עוצמת שמע ב-+3dB
+	Nudge Volume -1dB	הזז עוצמת שמע ב--1dB
+	Nudge Volume -3dB	הזז עוצמת שמע ב--3dB
 	Number of Audio Clips:	מספר קליפי שמע:
 	Number of Channels:	מספר ערוצים:
 	Number Of Echoes	מספר הדים
@@ -1772,7 +1772,7 @@
 	Numbered OpenEXR stills (half float, linear, uncompressed)	תמונות OpenEXR ממוספרות (חצי נקודה צפה, ליניארי, ללא דחיסה)
 	Numbered PNG stills at the sequence's frame size	תמונות PNG ממוספרות בגודל המסגרת של הרצף
 	Numbered Targa stills (24-bit, uncompressed)	תמונות Targa ממוספרות (24 סיביות, ללא דחיסה)
-	Numbered TIFF stills (RGB, 8-bit)	תמונות TIFF ממוספרות (RGB,‏ 8 סיביות)
+	Numbered TIFF stills (RGB, 8-bit)	תמונות TIFF ממוספרות (RGB, 8 סיביות)
 	Obsolete	מיושן
 	Offline All	נתק הכול
 	Offline File…	קובץ לא מקוון…
@@ -2000,18 +2000,18 @@
 	Quick Export: open a sequence first	ייצוא מהיר: פתח רצף תחילה
 	Quick Export: {path}	ייצוא מהיר: {path}
 	QuickTime (Motion JPEG)	QuickTime (Motion JPEG)
-	QuickTime, APV 422-10 (10-bit 4:2:2), 24-bit 48 kHz PCM	QuickTime,‏ APV 422-10 (10 סיביות 4:2:2), 24 סיביות 48 kHz PCM
-	QuickTime, APV 422-12 (12-bit 4:2:2), 24-bit 48 kHz PCM	QuickTime,‏ APV 422-12 (12 סיביות 4:2:2), 24 סיביות 48 kHz PCM
-	QuickTime, DNxHR HQ (8-bit 4:2:2), 24-bit 48 kHz PCM	QuickTime,‏ DNxHR HQ (8 סיביות 4:2:2), 24 סיביות 48 kHz PCM
-	QuickTime, DNxHR LB (8-bit 4:2:2), 24-bit 48 kHz PCM	QuickTime,‏ DNxHR LB (8 סיביות 4:2:2), 24 סיביות 48 kHz PCM
-	QuickTime, DNxHR SQ (8-bit 4:2:2), 24-bit 48 kHz PCM	QuickTime,‏ DNxHR SQ (8 סיביות 4:2:2), 24 סיביות 48 kHz PCM
-	QuickTime, ProRes 422 HQ, 24-bit 48 kHz PCM	QuickTime,‏ ProRes 422 HQ,‏ 24 סיביות 48 kHz PCM
-	QuickTime, ProRes 422 LT, 24-bit 48 kHz PCM	QuickTime,‏ ProRes 422 LT,‏ 24 סיביות 48 kHz PCM
-	QuickTime, ProRes 422 Proxy, 24-bit 48 kHz PCM	QuickTime,‏ ProRes 422 Proxy,‏ 24 סיביות 48 kHz PCM
-	QuickTime, ProRes 422, 24-bit 48 kHz PCM	QuickTime,‏ ProRes 422,‏ 24 סיביות 48 kHz PCM
-	QuickTime, ProRes 4444 (4:4:4) with alpha channel, 24-bit 48 kHz PCM	QuickTime,‏ ProRes 4444 (4:4:4) עם ערוץ אלפא, 24 סיביות 48 kHz PCM
-	QuickTime, ProRes 4444 (4:4:4), 24-bit 48 kHz PCM	QuickTime,‏ ProRes 4444 (4:4:4), 24 סיביות 48 kHz PCM
-	QuickTime, ProRes 4444 XQ (4:4:4), 24-bit 48 kHz PCM	QuickTime,‏ ProRes 4444 XQ (4:4:4), 24 סיביות 48 kHz PCM
+	QuickTime, APV 422-10 (10-bit 4:2:2), 24-bit 48 kHz PCM	QuickTime, APV 422-10 (10 סיביות 4:2:2), 24 סיביות 48 kHz PCM
+	QuickTime, APV 422-12 (12-bit 4:2:2), 24-bit 48 kHz PCM	QuickTime, APV 422-12 (12 סיביות 4:2:2), 24 סיביות 48 kHz PCM
+	QuickTime, DNxHR HQ (8-bit 4:2:2), 24-bit 48 kHz PCM	QuickTime, DNxHR HQ (8 סיביות 4:2:2), 24 סיביות 48 kHz PCM
+	QuickTime, DNxHR LB (8-bit 4:2:2), 24-bit 48 kHz PCM	QuickTime, DNxHR LB (8 סיביות 4:2:2), 24 סיביות 48 kHz PCM
+	QuickTime, DNxHR SQ (8-bit 4:2:2), 24-bit 48 kHz PCM	QuickTime, DNxHR SQ (8 סיביות 4:2:2), 24 סיביות 48 kHz PCM
+	QuickTime, ProRes 422 HQ, 24-bit 48 kHz PCM	QuickTime, ProRes 422 HQ, 24 סיביות 48 kHz PCM
+	QuickTime, ProRes 422 LT, 24-bit 48 kHz PCM	QuickTime, ProRes 422 LT, 24 סיביות 48 kHz PCM
+	QuickTime, ProRes 422 Proxy, 24-bit 48 kHz PCM	QuickTime, ProRes 422 Proxy, 24 סיביות 48 kHz PCM
+	QuickTime, ProRes 422, 24-bit 48 kHz PCM	QuickTime, ProRes 422, 24 סיביות 48 kHz PCM
+	QuickTime, ProRes 4444 (4:4:4) with alpha channel, 24-bit 48 kHz PCM	QuickTime, ProRes 4444 (4:4:4) עם ערוץ אלפא, 24 סיביות 48 kHz PCM
+	QuickTime, ProRes 4444 (4:4:4), 24-bit 48 kHz PCM	QuickTime, ProRes 4444 (4:4:4), 24 סיביות 48 kHz PCM
+	QuickTime, ProRes 4444 XQ (4:4:4), 24-bit 48 kHz PCM	QuickTime, ProRes 4444 XQ (4:4:4), 24 סיביות 48 kHz PCM
 	Quit FilmCraft	צא מ-FilmCraft
 	Radial Ramp	מעבר הדרגתי מעגלי
 	Radial Wipe	מחיקה מעגלית
@@ -2195,7 +2195,7 @@
 	Sat vs Sat	רוויה מול רוויה
 	Saturation at 50 %	רוויה ב-50%
 	Saturation Min	רוויה מזערית
-	Save .cfa and .pek media cache files next to original media files when possible	שמור קובצי מטמון מדיה מסוג ‎.cfa ו-‎.pek לצד קובצי המדיה המקוריים כשניתן
+	Save .cfa and .pek media cache files next to original media files when possible	שמור קובצי מטמון מדיה מסוג .cfa ו-.pek לצד קובצי המדיה המקוריים כשניתן
 	Save All	שמור הכול
 	Save Arrangement	שמור סידור
 	Save Arrangement…	שמור סידור…
@@ -2210,7 +2210,7 @@
 	Save Preset	שמור הגדרה קבועה מראש
 	Save preset as:	שמור הגדרה קבועה מראש בשם:
 	Save Project	שמור פרויקט
-	Saved as a FilmCraft graphics template (.fcgt) in your templates folder.	נשמר כתבנית גרפיקה של FilmCraft‏ (‎.fcgt) בתיקיית התבניות שלך.
+	Saved as a FilmCraft graphics template (.fcgt) in your templates folder.	נשמר כתבנית גרפיקה של FilmCraft (.fcgt) בתיקיית התבניות שלך.
 	Saved preset “{name}”	נשמרה הגדרה קבועה מראש “{name}”
 	Saved template {path}	נשמרה תבנית {path}
 	Saves the view, columns, sort, thumbnail and font size.	שומר את התצוגה, העמודות, המיון, התמונות הממוזערות וגודל הגופן.
@@ -2308,7 +2308,7 @@
 	Sequence Settings…	הגדרות רצף…
 	Sequence Time	זמן רצף
 	Sequence Timecode	קוד זמן של רצף
-	Sequence, {w}x{h}, {fps} fps, {rate} Hz	רצף, {w}x{h},‏ {fps} פריימים/שנייה, {rate} Hz
+	Sequence, {w}x{h}, {fps} fps, {rate} Hz	רצף, {w}x{h}, {fps} פריימים/שנייה, {rate} Hz
 	Sequences	רצפים
 	Sequence…	רצף…
 	Sequentially	ברצף
@@ -2568,7 +2568,7 @@
 	Subclip End	סוף תת-קליפ
 	Subclip Start	התחלת תת-קליפ
 	Subclip: {name}	תת-קליפ: {name}
-	SubRip Subtitle (.srt)	כתוביות SubRip‏ (‎.srt)
+	SubRip Subtitle (.srt)	כתוביות SubRip (.srt)
 	Subspace Warp	עיוות תת-מרחב
 	Sum multichannel outputs to mono in Source Monitor	סכם יציאות מרובות-ערוצים למונו במוניטור המקור
 	Super Narrow	צר במיוחד
@@ -2800,7 +2800,7 @@
 	Validate Content Credentials on import	אמת אישורי תוכן (Content Credentials) בעת הייבוא
 	Variations:	וריאציות:
 	VBR, 1 pass	VBR, מעבר 1
-	VBR, 2 pass	VBR,‏ 2 מעברים
+	VBR, 2 pass	VBR, 2 מעברים
 	Vectorscope (YUV)	וקטורסקופ (YUV)
 	Vectorscope + Waveform YC	וקטורסקופ + צורת גל YC
 	Vectorscope HLS	וקטורסקופ HLS
@@ -2902,8 +2902,8 @@
 	Warm, soft late-afternoon light	אור אחר צהריים מאוחר חם ורך
 	Warnings and Errors	אזהרות ושגיאות
 	Warp Stabilizer	מייצב עיוות (Warp Stabilizer)
-	WAV, stereo 48 kHz 16-bit PCM	WAV, סטריאו 48 kHz‏ 16 סיביות PCM
-	WAV, stereo 48 kHz 24-bit PCM	WAV, סטריאו 48 kHz‏ 24 סיביות PCM
+	WAV, stereo 48 kHz 16-bit PCM	WAV, סטריאו 48 kHz 16 סיביות PCM
+	WAV, stereo 48 kHz 24-bit PCM	WAV, סטריאו 48 kHz 24 סיביות PCM
 	Wave Height	גובה גל
 	Wave Speed	מהירות גל
 	Wave Warp	עיוות גל
@@ -2913,8 +2913,8 @@
 	Waveform (RGB)	צורת גל (RGB)
 	Waveform ({kind})	צורת גל ({kind})
 	Waveform Audio	שמע צורת גל (WAV)
-	Waveform Audio 48 kHz 16-bit	שמע צורת גל 48 kHz‏ 16 סיביות
-	Waveform Audio 48 kHz 24-bit	שמע צורת גל 48 kHz‏ 24 סיביות
+	Waveform Audio 48 kHz 16-bit	שמע צורת גל 48 kHz 16 סיביות
+	Waveform Audio 48 kHz 24-bit	שמע צורת גל 48 kHz 24 סיביות
 	Waveform Type	סוג צורת גל
 	Wavelength	אורך גל
 	Web & Social	אינטרנט ורשתות חברתיות
