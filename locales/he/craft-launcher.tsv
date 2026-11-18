@@ -24,7 +24,7 @@ column	App	יישום
 @id	app.reinstall	התקן מחדש
 @id	app.releases	כל הגרסאות
 @id	app.reveal	הצג ב-Finder
-@id	app.uninstall	הסר התקנה…
+@id	app.uninstall	הסרת התקנה…
 @id	app.update	עדכן לגרסה {v}
 @id	app.website	אתר אינטרנט
 @id	appearance.theme	מראה
@@ -65,7 +65,7 @@ cadcraft	Computer-aided design and drafting	תיב״ם (תכנון ושרטוט 
 	Debian package (.deb)	חבילת Debian (.deb)
 month	Dec	דצמ׳
 	Default install folder	תיקיית התקנה כברירת מחדל
-	Discard download	מחק הורדה
+	Discard download	מחיקת הורדה
 	Disk image (.dmg)	דמות כונן (.dmg)
 	Download again	הורד שוב
 	Download cancelled	ההורדה בוטלה
@@ -223,10 +223,10 @@ gridcraft	Spreadsheets and data	גיליונות אלקטרוניים ונתונ
 @id	tray.login_item	הפעל את ArtCraft Launcher בעת הכניסה למערכת
 @id	tray.show_on_current_desktop	הצג את החלון בשולחן העבודה הנוכחי
 	Unhide App	בטל הסתרת יישום
-	Uninstall	הסר התקנה
+	Uninstall	הסרת התקנה
 	Uninstall cancelled	הסרת ההתקנה בוטלה
 	Uninstall {name}?	להסיר את ההתקנה של {name}?
-	Uninstall…	הסר התקנה…
+	Uninstall…	הסרת התקנה…
 	Update 1 app	עדכן יישום 1
 	Update all ({count})	עדכן הכול ({count})
 	Update and restart	עדכן והפעל מחדש
@@ -276,9 +276,9 @@ wordcraft	Writing and document design	כתיבה ועיצוב מסמכים
 	{name} {version}	{name} {version}
 	{name} {v} is available	{name} {v} זמין
 @plural	{n} app|{n} apps	{n} יישום|{n} יישומים|{n} יישומים
-@plural	{n} day ago|{n} days ago	לפני {n} יום|{n} לפני ימים|{n} לפני ימים
-@plural	{n} h ago|{n} h ago	לפני שעה ({n})|{n} לפני שעות|{n} לפני שעות
-@plural	{n} min ago|{n} min ago	לפני דקה ({n})|{n} לפני דקות|{n} לפני דקות
+@plural	{n} day ago|{n} days ago	לפני {n} יום|לפני {n} ימים|לפני {n} ימים
+@plural	{n} h ago|{n} h ago	לפני {n} שעה|לפני {n} שעות|לפני {n} שעות
+@plural	{n} min ago|{n} min ago	לפני {n} דקה|לפני {n} דקות|לפני {n} דקות
 @msg	{path} already exists and wasn't installed by ArtCraft Launcher	{path} כבר קיים ולא הותקן על ידי ArtCraft Launcher
 	{path} already exists. Installing {name} will overwrite it.	{path} כבר קיים. התקנת {name} תחליף אותו.
 	{version} installed → {latest} released	{version} מותקנת ← {latest} פורסמה

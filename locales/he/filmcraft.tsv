@@ -80,35 +80,35 @@
 	Action:	פעולה:
 	Active Monitor	מוניטור פעיל
 	Adaptive ({bpp} bits per pixel)	מסתגל ({bpp} סיביות לפיקסל)
-	Add a timecode row	הוסף שורת קוד זמן
-	Add another shortcut	הוסף קיצור דרך נוסף
-	Add Audio Submix Track	הוסף ערוץ תת-מיקס שמע
-	Add audio submix tracks	הוסף ערוצי תת-מיקס שמע
-	Add audio tracks	הוסף ערוצי שמע
-	Add Caption at Playhead	הוסף כתובית במיקום סמן הניגון
-	Add caption at playhead	הוסף כתובית במיקום סמן הניגון
-	Add captions	הוסף כתוביות
-	Add Chapter Marker…	הוסף סמן פרק…
-	Add Edit	הוסף חיתוך עריכה
-	Add Edit to All Tracks	הוסף חיתוך עריכה לכל הערוצים
-	Add Flash Cue Marker…	הוסף סמן אות Flash…
-	Add Frame Hold	הוסף הקפאת פריים
-	Add Guide…	הוסף קו עזר…
-	Add keyframe	הוסף פריים מפתח
-	Add Lumetri Color to clip	הוסף צבע Lumetri לקליפ
-	Add Marker	הוסף סמן
-	Add Marker (M)	הוסף סמן (M)
-	Add media to your project. Drop files anywhere in the window, or choose a source below.	הוסף מדיה לפרויקט שלך. גרור קבצים לכל מקום בחלון, או בחר מקור למטה.
-	Add New Caption Track…	הוסף ערוץ כתוביות חדש…
-	Add Property…	הוסף מאפיין…
-	Add Range Marker	הוסף סמן טווח
-	Add Range Marker to In and Out	הוסף סמן טווח לנקודות הכניסה והיציאה
-	Add to Favorites	הוסף למועדפים
-	Add Tracks	הוסף ערוצים
-	Add tracks automatically when editing source clips onto the Timeline	הוסף ערוצים אוטומטית בעת עריכת קליפי מקור אל ציר הזמן
-	Add Tracks…	הוסף ערוצים…
-	Add video tracks	הוסף ערוצי וידאו
-	Add/Remove Keyframe	הוסף/הסר פריים מפתח
+	Add a timecode row	הוספת שורת קוד זמן
+	Add another shortcut	הוספת קיצור דרך נוסף
+	Add Audio Submix Track	הוספת ערוץ תת-מיקס שמע
+	Add audio submix tracks	הוספת ערוצי תת-מיקס שמע
+	Add audio tracks	הוספת ערוצי שמע
+	Add Caption at Playhead	הוספת כתובית במיקום סמן הניגון
+	Add caption at playhead	הוספת כתובית במיקום סמן הניגון
+	Add captions	הוספת כתוביות
+	Add Chapter Marker…	הוספת סמן פרק…
+	Add Edit	הוספת חיתוך עריכה
+	Add Edit to All Tracks	הוספת חיתוך עריכה לכל הערוצים
+	Add Flash Cue Marker…	הוספת סמן אות Flash…
+	Add Frame Hold	הוספת הקפאת פריים
+	Add Guide…	הוספת קו עזר…
+	Add keyframe	הוספת פריים מפתח
+	Add Lumetri Color to clip	הוספת צבע Lumetri לקליפ
+	Add Marker	הוספת סמן
+	Add Marker (M)	הוספת סמן (M)
+	Add media to your project. Drop files anywhere in the window, or choose a source below.	הוספת מדיה לפרויקט שלך. יש לגרור קבצים לכל מקום בחלון, או לבחור מקור למטה.
+	Add New Caption Track…	הוספת ערוץ כתוביות חדש…
+	Add Property…	הוספת מאפיין…
+	Add Range Marker	הוספת סמן טווח
+	Add Range Marker to In and Out	הוספת סמן טווח לנקודות הכניסה והיציאה
+	Add to Favorites	הוספה למועדפים
+	Add Tracks	הוספת ערוצים
+	Add tracks automatically when editing source clips onto the Timeline	הוספת ערוצים אוטומטית בעת עריכת קליפי מקור אל ציר הזמן
+	Add Tracks…	הוספת ערוצים…
+	Add video tracks	הוספת ערוצי וידאו
+	Add/Remove Keyframe	הוספה/הסרה של פריים מפתח
 	Added to the export queue	נוסף לתור הייצוא
 	Additional Scale	קנה מידה נוסף
 	Additive Dissolve	התפוגגות חיבורית
@@ -262,7 +262,7 @@
 	Auto Reframe	מיסגור מחדש אוטומטי
 	Auto Save	שמירה אוטומטית
 	Auto Save also saves the current project(s)	שמירה אוטומטית שומרת גם את הפרויקטים הנוכחיים
-	Auto Save Now	שמור אוטומטית כעת
+	Auto Save Now	שמירה אוטומטית כעת
 	Auto Save…	שמירה אוטומטית…
 	Auto Tone Map Media (HDR and log into SDR)	מיפוי טונים אוטומטי למדיה (HDR ו-Log ל-SDR)
 	Auto tone map media (HDR and log into SDR)	מיפוי טונים אוטומטי למדיה (HDR ו-Log ל-SDR)
@@ -278,13 +278,13 @@
 	Automate to Sequence	שלב אוטומטית ברצף
 	Automate to Sequence…	שלב אוטומטית ברצף…
 	Automatic Click Remover	מסיר נקישות אוטומטי
-	Automatically delete cache files older than	מחק אוטומטית קובצי מטמון הישנים מ-
-	Automatically delete oldest cache files when cache exceeds	מחק אוטומטית את קובצי המטמון הישנים ביותר כאשר המטמון חורג מ-
+	Automatically delete cache files older than	מחיקה אוטומטית של קובצי מטמון הישנים מ-
+	Automatically delete oldest cache files when cache exceeds	מחיקה אוטומטית של קובצי המטמון הישנים ביותר כאשר המטמון חורג מ-
 	Automatically Hide Dependent Clips	הסתר אוטומטית קליפים תלויים
 	Automatically refresh growing files	רענן אוטומטית קבצים מתפתחים
 	Automatically resume playback for growing files in Source Monitor	חדש ניגון אוטומטית עבור קבצים מתפתחים במוניטור המקור
-	Automatically Save Every	שמור אוטומטית כל
-	Automatically save projects	שמור פרויקטים אוטומטית
+	Automatically Save Every	שמירה אוטומטית כל
+	Automatically save projects	שמירת פרויקטים אוטומטית
 	Automatically transcribe clips	תמלל קליפים אוטומטית
 	Automation Keyframe Optimization	מיטוב פריימי מפתח של אוטומציה
 	AV1	AV1
@@ -401,7 +401,7 @@
 	Butterworth	באטרוורת' (Butterworth)
 	Button Editor	עורך לחצנים
 	Bypass	עקיפה (Bypass)
-	Cache analysis results for re-use	שמור תוצאות ניתוח במטמון לשימוש חוזר
+	Cache analysis results for re-use	שמירת תוצאות ניתוח במטמון לשימוש חוזר
 	Callout – Pointer	הערת הסבר – מצביע
 	Callout – Tag	הערת הסבר – תגית
 	Callouts	הערות הסבר
@@ -476,7 +476,7 @@
 	Clamp Signal	הגבלת אות
 	Clean Combo	מגבר קומבו נקי
 	Clean Up Noisy Dialogue	ניקוי דיאלוג רועש
-	Clear (Delete)	נקה (מחק)
+	Clear (Delete)	ניקוי (מחיקה)
 	Clear All Events	נקה את כל האירועים
 	Clear Audio Type	נקה סוג שמע
 	Clear Edit Point Selection	נקה בחירת נקודת עריכה
@@ -702,27 +702,27 @@
 	Delay 3	השהיה 3
 	Delay 4	השהיה 4
 	Delay and Echo	השהיה והד
-	Delete Arrangement	מחק סידור
-	Delete Audio Tracks	מחק ערוצי שמע
-	Delete Caption Track	מחק ערוץ כתוביות
-	Delete Caption Tracks	מחק ערוצי כתוביות
-	Delete Captions	מחק כתוביות
-	Delete Empty Caption Tracks	מחק ערוצי כתוביות ריקים
-	Delete files older than	מחק קבצים הישנים מ-
-	Delete Graphic Layer	מחק שכבה גרפית
-	Delete Guide Template	מחק תבנית קווי עזר
-	Delete Media Cache Files	מחק קובצי מטמון מדיה
-	Delete oldest files when the cache exceeds	מחק את הקבצים הישנים ביותר כאשר המטמון חורג מ-
-	Delete Preset	מחק הגדרה קבועה מראש
-	Delete Render Files	מחק קובצי רינדור
-	Delete Render Files In to Out	מחק קובצי רינדור מנקודת הכניסה עד היציאה
-	Delete Search Bin	מחק סל חיפוש
-	Delete selected captions	מחק כתוביות נבחרות
-	Delete this preset	מחק הגדרה קבועה מראש זו
-	Delete Tracks	מחק ערוצים
-	Delete Tracks…	מחק ערוצים…
-	Delete Transcript	מחק תמלול
-	Delete Video Tracks	מחק ערוצי וידאו
+	Delete Arrangement	מחיקת סידור
+	Delete Audio Tracks	מחיקת ערוצי שמע
+	Delete Caption Track	מחיקת ערוץ כתוביות
+	Delete Caption Tracks	מחיקת ערוצי כתוביות
+	Delete Captions	מחיקת כתוביות
+	Delete Empty Caption Tracks	מחיקת ערוצי כתוביות ריקים
+	Delete files older than	מחיקת קבצים הישנים מ-
+	Delete Graphic Layer	מחיקת שכבה גרפית
+	Delete Guide Template	מחיקת תבנית קווי עזר
+	Delete Media Cache Files	מחיקת קובצי מטמון מדיה
+	Delete oldest files when the cache exceeds	מחיקת הקבצים הישנים ביותר כאשר המטמון חורג מ-
+	Delete Preset	מחיקת הגדרה קבועה מראש
+	Delete Render Files	מחיקת קובצי רינדור
+	Delete Render Files In to Out	מחיקת קובצי רינדור מנקודת הכניסה עד היציאה
+	Delete Search Bin	מחיקת סל חיפוש
+	Delete selected captions	מחיקת כתוביות נבחרות
+	Delete this preset	מחיקת הגדרה קבועה מראש זו
+	Delete Tracks	מחיקת ערוצים
+	Delete Tracks…	מחיקת ערוצים…
+	Delete Transcript	מחיקת תמלול
+	Delete Video Tracks	מחיקת ערוצי וידאו
 	Deleted preset “{active}”	נמחקה ההגדרה הקבועה מראש “{active}”
 	Deleted {n} file(s), {size}.	נמחקו {n} קבצים, {size}.
 	Demo Footage	חומר גלם להדגמה
@@ -1321,7 +1321,7 @@
 	JPEG	JPEG
 	JPEG Sequence	רצף JPEG
 	Kaleidoscope	קליידוסקופ
-	Keep a recovery copy of unsaved changes	שמור עותק שחזור של שינויים שלא נשמרו
+	Keep a recovery copy of unsaved changes	שמירת עותק שחזור של שינויים שלא נשמרו
 	Key	מפתח
 	Key Color	צבע מפתח
 	Key Frame Distance	מרחק בין פריימי מפתח
@@ -1451,7 +1451,7 @@
 	Main (8-bit)	Main (8 סיביות)
 	Main (8-bit; Main 10 for HDR sequences)	Main (8 סיביות; Main 10 עבור רצפי HDR)
 	Main 10 (10-bit, HDR)	Main 10 (10 סיביות, HDR)
-	Maintain pitch while shuttling	שמור על גובה הצליל בעת הרצה מהירה
+	Maintain pitch while shuttling	שמירה על גובה הצליל בעת הרצה מהירה
 	Major Radius	רדיוס ראשי
 	Make Offline	הפוך ללא מקוון
 	Make Offline…	הפוך ללא מקוון…
@@ -1959,7 +1959,7 @@
 	Pre-roll:	הרצה מוקדמת:
 	Preroll	הרצה מוקדמת
 	Presence Lift	הדגשת נוכחות
-	Preserve Scale	שמור על קנה מידה
+	Preserve Scale	שמירה על קנה מידה
 	Preset name	שם הגדרה קבועה מראש
 	Preview Area	אזור תצוגה מקדימה
 	Preview File Format:	תבנית קובץ תצוגה מקדימה:
@@ -2083,20 +2083,20 @@
 	Remix Tool	כלי רמיקס
 	Remixed to {seconds} s	בוצע רמיקס למשך {seconds} שנ'
 	Remixing music to a target duration is not available yet. Trim the clip and add a crossfade instead.	רמיקס של מוזיקה למשך יעד אינו זמין עדיין. קצץ את הקליפ והוסף עמעום צולב במקום זאת.
-	Remove Attributes	הסר תכונות
-	Remove Attributes…	הסר תכונות…
-	Remove Audio from AV Clip	הסר שמע מקליפ AV
-	Remove Effect	הסר אפקט
-	Remove Filler Words	הסר מילות מילוי
-	Remove filler words	הסר מילות מילוי
-	Remove Fringe	הסר שולי צבע
-	Remove from Favorites	הסר מהמועדפים
-	Remove keyframe	הסר פריים מפתח
-	Remove Media Cache Files	הסר קובצי מטמון מדיה
-	Remove Pauses	הסר הפסקות
-	Remove Row	הסר שורה
-	Remove Send	הסר שליחה
-	Remove Unused	הסר פריטים שאינם בשימוש
+	Remove Attributes	הסרת תכונות
+	Remove Attributes…	הסרת תכונות…
+	Remove Audio from AV Clip	הסרת שמע מקליפ AV
+	Remove Effect	הסרת אפקט
+	Remove Filler Words	הסרת מילות מילוי
+	Remove filler words	הסרת מילות מילוי
+	Remove Fringe	הסרת שולי צבע
+	Remove from Favorites	הסרה מהמועדפים
+	Remove keyframe	הסרת פריים מפתח
+	Remove Media Cache Files	הסרת קובצי מטמון מדיה
+	Remove Pauses	הסרת הפסקות
+	Remove Row	הסרת שורה
+	Remove Send	הסרת שליחה
+	Remove Unused	הסרת פריטים שאינם בשימוש
 	Render at Maximum Depth	רנדר בעומק מרבי
 	Render Audio	רנדר שמע
 	Render audio clip effects	רנדר אפקטים של קליפי שמע
@@ -2195,21 +2195,21 @@
 	Sat vs Sat	רוויה מול רוויה
 	Saturation at 50 %	רוויה ב-50%
 	Saturation Min	רוויה מזערית
-	Save .cfa and .pek media cache files next to original media files when possible	שמור קובצי מטמון מדיה מסוג .cfa ו-.pek לצד קובצי המדיה המקוריים כשניתן
-	Save All	שמור הכול
-	Save Arrangement	שמור סידור
-	Save Arrangement…	שמור סידור…
-	Save As New View Preset	שמור כהגדרת תצוגה חדשה קבועה מראש
-	Save as New Workspace…	שמור כסביבת עבודה חדשה…
-	Save Changes to this Workspace	שמור שינויים בסביבת עבודה זו
+	Save .cfa and .pek media cache files next to original media files when possible	שמירת קובצי מטמון מדיה מסוג .cfa ו-.pek לצד קובצי המדיה המקוריים כשניתן
+	Save All	שמירת הכול
+	Save Arrangement	שמירת סידור
+	Save Arrangement…	שמירת סידור…
+	Save As New View Preset	שמירה כהגדרת תצוגה חדשה קבועה מראש
+	Save as New Workspace…	שמירה כסביבת עבודה חדשה…
+	Save Changes to this Workspace	שמירת שינויים בסביבת עבודה זו
 	Save changes to “{project_name}” before closing?	האם לשמור את השינויים ב-“{project_name}” לפני הסגירה?
-	Save current settings as:	שמור הגדרות נוכחיות בשם:
-	Save Current View Preset	שמור הגדרת תצוגה נוכחית קבועה מראש
-	Save Guides as Template	שמור קווי עזר כתבנית
-	Save Guides as Template…	שמור קווי עזר כתבנית…
-	Save Preset	שמור הגדרה קבועה מראש
-	Save preset as:	שמור הגדרה קבועה מראש בשם:
-	Save Project	שמור פרויקט
+	Save current settings as:	שמירת הגדרות נוכחיות בשם:
+	Save Current View Preset	שמירת הגדרת תצוגה נוכחית קבועה מראש
+	Save Guides as Template	שמירת קווי עזר כתבנית
+	Save Guides as Template…	שמירת קווי עזר כתבנית…
+	Save Preset	שמירת הגדרה קבועה מראש
+	Save preset as:	שמירת הגדרה קבועה מראש בשם:
+	Save Project	שמירת פרויקט
 	Saved as a FilmCraft graphics template (.fcgt) in your templates folder.	נשמר כתבנית גרפיקה של FilmCraft (.fcgt) בתיקיית התבניות שלך.
 	Saved preset “{name}”	נשמרה הגדרה קבועה מראש “{name}”
 	Saved template {path}	נשמרה תבנית {path}
@@ -2449,7 +2449,7 @@
 	Solid Colors	צבעים מלאים
 	Solo	סולו
 	Solo safe	מוגן מסולו
-	Something went wrong while drawing the window. Your project is still open; save it to be safe.	משהו השתבש בעת ציור החלון. הפרויקט שלך עדיין פתוח; שמור אותו ליתר ביטחון.
+	Something went wrong while drawing the window. Your project is still open; save it to be safe.	משהו השתבש בעת ציור החלון. הפרויקט שלך עדיין פתוח; מומלץ לשמור אותו ליתר ביטחון.
 	Sort Icons	מיין סמלים
 	Sort Order	סדר מיון
 	Source channels the selected audio clips play:	ערוצי מקור שקליפי השמע הנבחרים מנגנים:

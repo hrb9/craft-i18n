@@ -45,13 +45,13 @@
 	A drawing opened from a file keeps that file's format.	שרטוט שנפתח מקובץ שומר על תבנית הקובץ.
 	A variable name starts with a letter and has only letters, digits and _	שם משתנה מתחיל באות ומכיל רק אותיות, ספרות ו-_
 	About CADCraft	אודות CADCraft
-	Add Current Scale	הוסף קנה מידה נוכחי
-	Add Leader	הוסף קו הובלה
-	Add to Working Set	הוסף לערכת העבודה
-	Add Vertex	הוסף קודקוד
-	Add/Delete Scales...	הוסף/מחק קני מידה...
-	Add: Pick points	הוסף: בחר נקודות
-	Add: Select objects	הוסף: בחר אובייקטים
+	Add Current Scale	הוספת קנה מידה נוכחי
+	Add Leader	הוספת קו הובלה
+	Add to Working Set	הוספה לערכת העבודה
+	Add Vertex	הוספת קודקוד
+	Add/Delete Scales...	הוספה/מחיקה של קני מידה...
+	Add: Pick points	הוספה: בחירת נקודות
+	Add: Select objects	הוספה: בחירת אובייקטים
 	Additional angles	זוויות נוספות
 	Align Multileaders	יישר קווי הובלה מרובים
 	Aligned	מיושר
@@ -65,7 +65,7 @@
 	Annotative Object Scale	קנה מידה של אובייקט הערה
 	Annotative Update	עדכון הערות
 	Apparent Intersection	חיתוך מדומה
-	Append to current selection set	הוסף לקבוצת הבחירה הנוכחית
+	Append to current selection set	הוספה לקבוצת הבחירה הנוכחית
 	Apply true color	החל צבע אמיתי
 	Arc Length	אורך קשת
 	Arrange Panel	סדר חלונית
@@ -204,15 +204,15 @@
 	Degree	מעלה
 	Degrees of Freedom	דרגות חופש
 	Degrees of freedom: {n}	דרגות חופש: {n}
-	Delete Column	מחק עמודה
-	Delete Constraints	מחק אילוצים
-	Delete Current Scale	מחק קנה מידה נוכחי
-	Delete Dimension Style	מחק סגנון מידות
-	Delete Duplicate Objects	מחק אובייקטים כפולים
-	Delete Layer State	מחק מצב שכבות
-	Delete Layout	מחק פריסה
-	Delete Row	מחק שורה
-	Delete Text Style	מחק סגנון טקסט
+	Delete Column	מחיקת עמודה
+	Delete Constraints	מחיקת אילוצים
+	Delete Current Scale	מחיקת קנה מידה נוכחי
+	Delete Dimension Style	מחיקת סגנון מידות
+	Delete Duplicate Objects	מחיקת אובייקטים כפולים
+	Delete Layer State	מחיקת מצב שכבות
+	Delete Layout	מחיקת פריסה
+	Delete Row	מחיקת שורה
+	Delete Text Style	מחיקת סגנון טקסט
 	Delta X	דלתא X
 	Delta Y	דלתא Y
 	Detach	נתק
@@ -408,12 +408,12 @@ menu	Draw	ציור
 	Indicate selection area	סמן אזור בחירה
 	Infer Constraints	הסק אילוצים
 	Inquiry	תחקור
-	Insert Block	הוסף בלוק
-	Insert Column	הוסף עמודה
-	Insert Row	הוסף שורה
-	Insert tab	הוסף טאב
-	Insert Table Formula	הוסף נוסחת טבלה
-	Insert this block	הוסף בלוק זה
+	Insert Block	הוספת בלוק
+	Insert Column	הוספת עמודה
+	Insert Row	הוספת שורה
+	Insert tab	הוספת טאב
+	Insert Table Formula	הוספת נוסחת טבלה
+	Insert this block	הוספת בלוק זה
 	Insertion	נקודת הוספה
 	Insertion X	X הוספה
 	Insertion Y	Y הוספה
@@ -431,7 +431,7 @@ menu	Draw	ציור
 	Isometric snap	הצמדה איזומטרית
 	Jogged	מזוגזג
 	Jogged Linear	ליניארי מזוגזג
-	Keep an editable copy of this table in the drawing	שמור עותק ניתן לעריכה של טבלה זו בשרטוט
+	Keep an editable copy of this table in the drawing	שמירת עותק ניתן לעריכה של טבלה זו בשרטוט
 	Keep the system cursor visible over the drawing area	השאר את סמן המערכת גלוי מעל אזור השרטוט
 	Largest array	מערך מרבי
 	Layer contains objects (double-click to make current)	השכבה מכילה אובייקטים (לחיצה כפולה להפיכה לנוכחית)
@@ -681,9 +681,9 @@ menu	Modify	שינוי
 	Relative to last segment	יחסית למקטע האחרון
 	Release the 3D mouse to calibrate its resting position	שחרר את העכבר התלת-ממדי לכיול מצב המנוחה שלו
 	Reload All	טען הכול מחדש
-	Remove Leader	הסר קו הובלה
-	Remove the viewport override	הסר את דריסת חלון התצוגה
-	Remove Vertex	הסר קודקוד
+	Remove Leader	הסרת קו הובלה
+	Remove the viewport override	הסרת דריסת חלון התצוגה
+	Remove Vertex	הסרת קודקוד
 	Rename Dimension Style	שנה שם סגנון מידות
 	Rename Layer	שנה שם שכבה
 	Rename Layer State	שנה שם מצב שכבות
@@ -702,14 +702,14 @@ menu	Modify	שינוי
 	Revolve	סיבוב סביב ציר (Revolve)
 	Run Script...	הרץ סקריפט...
 	S	ד'
-	Save (⌘S)	שמור (⌘S)
-	Save As...	שמור בשם...
-	Save Block	שמור בלוק
-	Save Block As	שמור בלוק בשם
-	Save Layer State	שמור מצב שכבות
-	Save new drawings as	שמור שרטוטים חדשים בתור
-	Save Reference Edits	שמור עריכות הפניה
-	Save State	שמור מצב
+	Save (⌘S)	שמירה (⌘S)
+	Save As...	שמירה בשם...
+	Save Block	שמירת בלוק
+	Save Block As	שמירת בלוק בשם
+	Save Layer State	שמירת מצב שכבות
+	Save new drawings as	שמירת שרטוטים חדשים בתור
+	Save Reference Edits	שמירת עריכות הפניה
+	Save State	שמירת מצב
 	Saved Path	נתיב שמור
 	Scale List...	רשימת קני מידה...
 	Screen magnifiers, screen readers and recorders follow the system cursor.	זכוכיות מגדלת למסך, קוראי מסך ומקליטים עוקבים אחר סמן המערכת.

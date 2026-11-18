@@ -77,7 +77,7 @@
 	 while dragging to move perpendicular to the plane  |  	 תוך כדי גרירה לתנועה במאונך למישור  |  
 @msg	"{0}" is not a colour: write it as #rrggbb	"{0}" אינו צבע: כתוב אותו בתבנית #rrggbb
 	(closest)	(הקרוב ביותר)
-	+ Add Scale	+ הוסף קנה מידה
+	+ Add Scale	+ הוספת קנה מידה
 	0.2 (quality) to 100 (speed)	0.2 (איכות) עד 100 (מהירות)
 	1 bit	סיבית 1
 	1 Color Job	עבודה בצבע 1
@@ -267,40 +267,40 @@ swatch	[Registration]	[רישום (Registration)]
 	Activate Document	הפעל מסמך
 	Active Perspective Plane	מישור פרספקטיבה פעיל
 @msg	add a format to export	הוסף תבנית לייצוא
-	Add Anchor (Pen)	הוסף נקודת עוגן (עט)
-	Add Anchor Point	הוסף נקודת עוגן
+	Add Anchor (Pen)	הוספת נקודת עוגן (עט)
+	Add Anchor Point	הוספת נקודת עוגן
 	Add Anchor Point Tool	כלי הוספת נקודת עוגן
-	Add Anchor Points	הוסף נקודות עוגן
-	Add Content	הוסף תוכן
-	Add Effect	הוסף אפקט
-	Add Event	הוסף אירוע
-	Add filters from the list above	הוסף מסננים מהרשימה שלמעלה
-	Add Font Files	הוסף קובצי גופנים
-	Add Fonts	הוסף גופנים
-	Add Freeform Line	הוסף קו מעבר חופשי
-	Add Freeform Point	הוסף נקודת מעבר חופשי
-	Add Guides	הוסף קווי עזר
-	Add JavaScript File	הוסף קובץ JavaScript
-	Add Light	הוסף תאורה
-	Add Mesh Line	הוסף קו רשת
-	Add New	הוסף חדש
-	Add New Effect	הוסף אפקט חדש
-	Add New Fill	הוסף מילוי חדש
-	Add New Stroke	הוסף קו מתאר חדש
-	Add Selected Artwork (Alt: as one asset)	הוסף גרפיקה נבחרת (Alt: כנכס אחד)
-	Add Selected Artwork as Multiple Assets	הוסף גרפיקה נבחרת כנכסים מרובים
-	Add Selected Artwork as One Asset	הוסף גרפיקה נבחרת כנכס אחד
-	Add space to fit	הוסף מרווח להתאמה
-	Add Spine Point	הוסף נקודת שדרה
-	Add Swatches	הוסף דוגמיות צבע
-	Add to Graphic Styles	הוסף לסגנונות גרפיים
-	Add to Library	הוסף לספרייה
-	Add to Profiles	הוסף לפרופילים
-	Add to Profiles…	הוסף לפרופילים…
-	Add to Selection	הוסף לבחירה
-	Add to Stack	הוסף לערימה
-	Add to the Current Shortcuts	הוסף לקיצורי הדרך הנוכחיים
-	Add Used Colors	הוסף צבעים שבשימוש
+	Add Anchor Points	הוספת נקודות עוגן
+	Add Content	הוספת תוכן
+	Add Effect	הוספת אפקט
+	Add Event	הוספת אירוע
+	Add filters from the list above	הוספת מסננים מהרשימה שלמעלה
+	Add Font Files	הוספת קובצי גופנים
+	Add Fonts	הוספת גופנים
+	Add Freeform Line	הוספת קו מעבר חופשי
+	Add Freeform Point	הוספת נקודת מעבר חופשי
+	Add Guides	הוספת קווי עזר
+	Add JavaScript File	הוספת קובץ JavaScript
+	Add Light	הוספת תאורה
+	Add Mesh Line	הוספת קו רשת
+	Add New	הוספת חדש
+	Add New Effect	הוספת אפקט חדש
+	Add New Fill	הוספת מילוי חדש
+	Add New Stroke	הוספת קו מתאר חדש
+	Add Selected Artwork (Alt: as one asset)	הוספת גרפיקה נבחרת (Alt: כנכס אחד)
+	Add Selected Artwork as Multiple Assets	הוספת גרפיקה נבחרת כנכסים מרובים
+	Add Selected Artwork as One Asset	הוספת גרפיקה נבחרת כנכס אחד
+	Add space to fit	הוספת מרווח להתאמה
+	Add Spine Point	הוספת נקודת שדרה
+	Add Swatches	הוספת דוגמיות צבע
+	Add to Graphic Styles	הוספה לסגנונות גרפיים
+	Add to Library	הוספה לספרייה
+	Add to Profiles	הוספה לפרופילים
+	Add to Profiles…	הוספה לפרופילים…
+	Add to Selection	הוספה לבחירה
+	Add to Stack	הוספה לערימה
+	Add to the Current Shortcuts	הוספה לקיצורי הדרך הנוכחיים
+	Add Used Colors	הוספת צבעים שבשימוש
 	Additional Fonts Folder	תיקיית גופנים נוספת
 	Additional Plug-ins Folder	תיקיית תוספים נוספת
 	Adjust Adjoining Width Points	התאם נקודות רוחב סמוכות
@@ -309,7 +309,7 @@ swatch	[Registration]	[רישום (Registration)]
 	Adjust Options:	אפשרויות התאמה:
 	Advanced Options	אפשרויות מתקדמות
 	After First:	אחרי הראשונות:
-@plural	agrees with {n} default shortcut|agrees with {n} default shortcuts	תואם לקיצור דרך ברירת {n} מחדל|תואם ל-{n} קיצורי דרך ברירת מחדל|תואם ל-{n} קיצורי דרך ברירת מחדל
+@plural	agrees with {n} default shortcut|agrees with {n} default shortcuts	תואם ל-{n} קיצור דרך ברירת מחדל|תואם ל-{n} קיצורי דרך ברירת מחדל|תואם ל-{n} קיצורי דרך ברירת מחדל
 @msg	aiVersion 7 writes legacy .ai files; a .ait template is always PDF-compatible	aiVersion 7 כותב קובצי .ai מדור קודם; תבנית .ait היא תמיד תואמת-PDF
 	Align Objects:	יישר אובייקטים:
 	Align On:	יישר לפי:
@@ -463,7 +463,7 @@ swatch	Aqua	אקווה (טורקיז בהיר)
 	Auto-Rotate (turn the paper to each artboard)	סיבוב אוטומטי (סובב את הנייר לכל משטח יצירה)
 	Auto-Simplify	פישוט אוטומטי
 	Automatic flatness	שטוחות אוטומטית
-	Automatically Save Recovery Data	שמור אוטומטית נתוני שחזור
+	Automatically Save Recovery Data	שמירה אוטומטית של נתוני שחזור
 	Automation	אוטומציה
 @msg	automation filesystem access is not granted: read authority is absent: {path}	גישת אוטומציה למערכת הקבצים לא אושרה: חסרה הרשאת קריאה: {path}
 @msg	automation filesystem access is not granted: write authority is absent: {path}	גישת אוטומציה למערכת הקבצים לא אושרה: חסרה הרשאת כתיבה: {path}
@@ -866,7 +866,7 @@ swatch	Coffee	קפה
 @msg	Convert to Artboards: selection has no area	המרה למשטחי יצירה: לבחירה אין שטח
 	Convert to CMYK	המר ל-CMYK
 	Convert to destination	המר ליעד
-	Convert to destination (preserve numbers)	המר ליעד (שמור על מספרים)
+	Convert to destination (preserve numbers)	המרה ליעד (שמירה על מספרים)
 	Convert to Global	המר לגלובלי
 	Convert to Grayscale	המר לגווני אפור
 	Convert To Outlines	המר לקווי מתאר
@@ -1014,63 +1014,63 @@ swatch	Cyan Green	ציאן-ירוק
 	Define Perspective Grid	הגדר רשת פרספקטיבה
 	Define Perspective Grid…	הגדר רשת פרספקטיבה…
 	Definition	הגדרה
-	Delete All	מחק הכול
-	Delete All Slices	מחק את כל החיתוכים
-	Delete Anchor Point	מחק נקודת עוגן
+	Delete All	מחיקת הכול
+	Delete All Slices	מחיקת כל החיתוכים
+	Delete Anchor Point	מחיקת נקודת עוגן
 	Delete Anchor Point Tool	כלי מחיקת נקודת עוגן
-	Delete Anchor Points	מחק נקודות עוגן
-	Delete Artboard	מחק משטח יצירה
-	Delete Artboards	מחק משטחי יצירה
-	Delete Character Style	מחק סגנון תו
-	Delete Data Set	מחק ערכת נתונים
-	Delete Data Sets	מחק ערכות נתונים
-	Delete Design	מחק עיצוב
-	Delete Empty Artboards	מחק משטחי יצירה ריקים
-	Delete Export Preset	מחק הגדרת ייצוא קבועה מראש
-	Delete Freeform Point	מחק נקודת מעבר חופשי
-	Delete Graphic Style	מחק סגנון גרפי
-	Delete Graphic Style (Alt-click: without asking)	מחק סגנון גרפי (Alt+לחיצה: ללא שאלה)
-	Delete Graphic Styles	מחק סגנונות גרפיים
-	Delete Guide	מחק קו עזר
-	Delete Guides	מחק קווי עזר
-	Delete Library	מחק ספרייה
-	Delete Library Group	מחק קבוצת ספרייה
-	Delete Library Item	מחק פריט ספרייה
-	Delete Light	מחק תאורה
-	Delete Mesh Point	מחק נקודת רשת
-	Delete Paragraph Style	מחק סגנון פסקה
-	Delete Pattern	מחק תבנית
-	Delete PDF Preset	מחק הגדרת PDF קבועה מראש
-	Delete Perspective Grid Preset	מחק הגדרת רשת פרספקטיבה קבועה מראש
-	Delete Point	מחק נקודה
-	Delete Preset	מחק הגדרה קבועה מראש
-	Delete Print Preset	מחק הגדרת הדפסה קבועה מראש
-	Delete Profile	מחק פרופיל
-	Delete Save for Web Preset	מחק הגדרה קבועה מראש של 'שמור לאינטרנט'
-	Delete Selected Item	מחק פריט נבחר
-	Delete Selection	מחק בחירה
-	Delete Slice	מחק חיתוך
-	Delete Slices	מחק חיתוכים
-	Delete Spine Point	מחק נקודת שדרה
-	Delete Stop	מחק תחנת צבע
-	Delete Swatch	מחק דוגמית צבע
-	Delete Symbol	מחק סמל
-	Delete Tab	מחק טאב
+	Delete Anchor Points	מחיקת נקודות עוגן
+	Delete Artboard	מחיקת משטח יצירה
+	Delete Artboards	מחיקת משטחי יצירה
+	Delete Character Style	מחיקת סגנון תו
+	Delete Data Set	מחיקת ערכת נתונים
+	Delete Data Sets	מחיקת ערכות נתונים
+	Delete Design	מחיקת עיצוב
+	Delete Empty Artboards	מחיקת משטחי יצירה ריקים
+	Delete Export Preset	מחיקת הגדרת ייצוא קבועה מראש
+	Delete Freeform Point	מחיקת נקודת מעבר חופשי
+	Delete Graphic Style	מחיקת סגנון גרפי
+	Delete Graphic Style (Alt-click: without asking)	מחיקת סגנון גרפי (Alt+לחיצה: ללא שאלה)
+	Delete Graphic Styles	מחיקת סגנונות גרפיים
+	Delete Guide	מחיקת קו עזר
+	Delete Guides	מחיקת קווי עזר
+	Delete Library	מחיקת ספרייה
+	Delete Library Group	מחיקת קבוצת ספרייה
+	Delete Library Item	מחיקת פריט ספרייה
+	Delete Light	מחיקת תאורה
+	Delete Mesh Point	מחיקת נקודת רשת
+	Delete Paragraph Style	מחיקת סגנון פסקה
+	Delete Pattern	מחיקת תבנית
+	Delete PDF Preset	מחיקת הגדרת PDF קבועה מראש
+	Delete Perspective Grid Preset	מחיקת הגדרת רשת פרספקטיבה קבועה מראש
+	Delete Point	מחיקת נקודה
+	Delete Preset	מחיקת הגדרה קבועה מראש
+	Delete Print Preset	מחיקת הגדרת הדפסה קבועה מראש
+	Delete Profile	מחיקת פרופיל
+	Delete Save for Web Preset	מחיקת הגדרה קבועה מראש של 'שמירה לאינטרנט'
+	Delete Selected Item	מחיקת פריט נבחר
+	Delete Selection	מחיקת בחירה
+	Delete Slice	מחיקת חיתוך
+	Delete Slices	מחיקת חיתוכים
+	Delete Spine Point	מחיקת נקודת שדרה
+	Delete Stop	מחיקת תחנת צבע
+	Delete Swatch	מחיקת דוגמית צבע
+	Delete Symbol	מחיקת סמל
+	Delete Tab	מחיקת טאב
 	Delete the graphic style “{name}”?	למחוק את הסגנון הגרפי “{name}”?
 	Delete the library “{name}”?	למחוק את הספרייה “{name}”?
-	Delete Theme	מחק ערכת נושא
-	Delete theme	מחק ערכת נושא
+	Delete Theme	מחיקת ערכת נושא
+	Delete theme	מחיקת ערכת נושא
 	Delete these {count} swatches and groups?	למחוק {count} דוגמיות צבע וקבוצות אלה?
 	Delete these {n} graphic styles?	למחוק {n} סגנונות גרפיים אלה?
-	Delete this saved preset	מחק הגדרה קבועה מראש שמורה זו
+	Delete this saved preset	מחיקת הגדרה קבועה מראש שמורה זו
 	Delete this {n} graphic style?	למחוק סגנון גרפי {n} זה?
-@plural	Delete this {n} graphic style?|Delete these {n} graphic styles?	למחוק סגנון {n} גרפי זה?|{n} למחוק סגנונות גרפיים אלה?|{n} למחוק סגנונות גרפיים אלה?
-	Delete Transparency Flattener Preset	מחק הגדרה קבועה מראש של משטח שקיפות
-	Delete Variable	מחק משתנה
-	Delete Variables	מחק משתנים
-	Delete View	מחק תצוגה
-	Delete Width Point	מחק נקודת רוחב
-	Delete {kind} Style	מחק סגנון {kind}
+@plural	Delete this {n} graphic style?|Delete these {n} graphic styles?	למחוק {n} סגנון גרפי זה?|למחוק {n} סגנונות גרפיים אלה?|למחוק {n} סגנונות גרפיים אלה?
+	Delete Transparency Flattener Preset	מחיקת הגדרה קבועה מראש של משטח שקיפות
+	Delete Variable	מחיקת משתנה
+	Delete Variables	מחיקת משתנים
+	Delete View	מחיקת תצוגה
+	Delete Width Point	מחיקת נקודת רוחב
+	Delete {kind} Style	מחיקת סגנון {kind}
 	Delete “{name}”?	למחוק את “{name}”?
 	Depth:	עומק:
 	Descender	קו אותיות יורדות (Descender)
@@ -1100,7 +1100,7 @@ swatch	Cyan Green	ציאן-ירוק
 	Directives	הנחיות (Directives)
 	Disable Auto Add/Delete	השבת הוספה/מחיקה אוטומטית
 	Disable Opacity Mask	השבת מסכת אטימות
-	Discard Empty Type	מחק אובייקטי טקסט ריקים
+	Discard Empty Type	מחיקת אובייקטי טקסט ריקים
 	Discard Recovered Documents	בטל מסמכים משוחזרים
 	Discard White Overprint in Output	בטל הדפסת-על של לבן בפלט
 @msg	Discarded {_1} recovered document(s)	בוטלו {_1} מסמכים משוחזרים
@@ -1754,7 +1754,7 @@ effect	Horizontal	אופקי
 	HTML and Images	HTML ותמונות
 	Hyphen Limit:	מגבלת מקפים:
 	Hyphenate	מיקוף
-	Hyphenate Capitalized Words	מקף מילים באותיות רישיות
+	Hyphenate Capitalized Words	מיקוף מילים באותיות רישיות
 	Hyphenation Zone:	אזור מיקוף:
 	Hyphenation…	מיקוף…
 	hyphens	מקפים
@@ -1925,16 +1925,16 @@ mark-style	Japanese	יפנית
 	Justify with last line aligned center	יישר לשני הצדדים כשהשורה האחרונה ממורכזת
 	Justify with last line aligned left	יישר לשני הצדדים כשהשורה האחרונה מיושרת לשמאל
 	Justify with last line aligned right	יישר לשני הצדדים כשהשורה האחרונה מיושרת לימין
-	Keep a link to an image file instead of only embedding it	שמור קישור לקובץ תמונה במקום להטמיע אותו בלבד
-	Keep both sides the same width	שמור על רוחב זהה בשני הצדדים
-	Keep Formatting	שמור על עיצוב
-	Keep graphics, colors and text styles here to use them in any document. Libraries are stored on this machine — no account required.	שמור כאן גרפיקה, צבעים וסגנונות טקסט לשימוש בכל מסמך. הספריות נשמרות במחשב זה — ללא צורך בחשבון.
-	Keep Original	שמור על המקור
-	Keep Plain Text	שמור על טקסט רגיל
+	Keep a link to an image file instead of only embedding it	שמירת קישור לקובץ תמונה במקום להטמיע אותו בלבד
+	Keep both sides the same width	שמירה על רוחב זהה בשני הצדדים
+	Keep Formatting	שמירה על עיצוב
+	Keep graphics, colors and text styles here to use them in any document. Libraries are stored on this machine — no account required.	שמירת גרפיקה, צבעים וסגנונות טקסט לשימוש בכל מסמך. הספריות נשמרות במחשב זה — ללא צורך בחשבון.
+	Keep Original	שמירה על המקור
+	Keep Plain Text	שמירה על טקסט רגיל
 	Keep selected	השאר נבחר
-	Keep the pasted color as a new swatch with a numbered name.	שמור את הצבע המודבק כדוגמית צבע חדשה עם שם ממוספר.
-	Keep this row's colors (exclude)	שמור על צבעי שורה זו (הוצא מהחלפה)
-	Keep visible surfaces only when expanding	שמור על משטחים גלויים בלבד בעת הרחבה
+	Keep the pasted color as a new swatch with a numbered name.	שמירת הצבע המודבק כדוגמית צבע חדשה עם שם ממוספר.
+	Keep this row's colors (exclude)	שמירה על צבעי שורה זו (הוצא מהחלפה)
+	Keep visible surfaces only when expanding	שמירה על משטחים גלויים בלבד בעת הרחבה
 	Keeps the document editable: VectorCraft reopens the PDF with nothing lost. For files you'll edit again.	שומר על המסמך ניתן לעריכה: VectorCraft פותחת מחדש את ה-PDF ללא אובדן מידע. מיועד לקבצים שתערוך שוב.
 	Kerning (0 = Auto)	צימוד אותיות (0 = אוטומטי)
 	Key Color:	צבע מפתח:
@@ -2103,7 +2103,7 @@ swatch	Magenta	מג׳נטה
 	Magic Wand	מטה קסם
 	Magic Wand Options	אפשרויות מטה קסם
 	Magic Wand Settings	הגדרות מטה קסם
-	Maintain Envelope Shape	שמור על צורת המעטפת
+	Maintain Envelope Shape	שמירה על צורת המעטפת
 	Make	צור
 	Make a theme on Create and save it.	צור ערכת נושא בלשונית 'צור' ושמור אותה.
 	Make all bleed settings the same	הפוך את כל הגדרות גלישת הדפוס לזהות
@@ -2423,7 +2423,7 @@ swatch	Magenta	מג׳נטה
 @msg	no saved profiles	אין פרופילים שמורים
 @msg	no saved selection recalled	לא אוחזרה בחירה שמורה
 @msg	no saved selections	אין בחירות שמורות
-@msg	No saved selections (Select → Save Selection…)	אין בחירות שמורות (בחירה ← שמור בחירה…)
+@msg	No saved selections (Select → Save Selection…)	אין בחירות שמורות (בחירה ← שמירת בחירה…)
 	No saved themes	אין ערכות נושא שמורות
 @msg	no saved themes	אין ערכות נושא שמורות
 	No saved views (View → New View…)	אין תצוגות שמורות (תצוגה ← תצוגה חדשה…)
@@ -2468,7 +2468,7 @@ swatch	Magenta	מג׳נטה
 	Nonbreaking Hyphen	מקף קשיח
 	None (/)	ללא (/)
 	None (Color Preview)	ללא (תצוגה מקדימה של צבע)
-	None (keep transparency)	ללא (שמור על שקיפות)
+	None (keep transparency)	ללא (שמירה על שקיפות)
 	None.	ללא.
 	Normal Screen Mode	מצב מסך רגיל
 @msg	not a blend	אינו מיזוג
@@ -2641,7 +2641,7 @@ swatch	Ocean	אוקיינוס
 @msg	Opened with {_1} note(s): {_2}	נפתח עם {_1} הערות: {_2}
 	Opened with {} note(s): {}	נפתח עם {} הערות: {}
 @msg	Opened {url}	נפתח {url}
-	Opening it left out what VectorCraft can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	פתיחתו השמיטה את מה ש-VectorCraft עדיין אינה יכולה לקרוא ({what}), כך שהחלפתו תאבד זאת לצמיתות. שמור בשם אחר כדי לשמור עליו.
+	Opening it left out what VectorCraft can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	פתיחתו השמיטה את מה ש-VectorCraft עדיין אינה יכולה לקרוא ({what}), כך שהחלפתו תאבד זאת לצמיתות. יש לשמור בשם אחר כדי לשמור עליו.
 	Opens files in other apps	פותח קבצים ביישומים אחרים
 	Opens network connections	פותח חיבורי רשת
 	Optical Margin Alignment	יישור שוליים אופטי
@@ -2886,27 +2886,27 @@ effect	Points	נקודות
 	Prefix:	קידומת:
 	Presentation Attributes	תכונות מצגת
 	Presentation Mode	מצב מצגת
-	Preserve Alpha Transparency	שמור על שקיפות אלפא
-	Preserve Appearance	שמור על מראה
-	Preserve Appearance and Overprints	שמור על מראה והדפסות-על
-	Preserve CMYK Numbers	שמור על ערכי CMYK
-	Preserve Editing Capabilities	שמור על יכולות עריכה
-	Preserve editing capabilities	שמור על יכולות עריכה
-	Preserve Lightness	שמור על בהירות
-	Preserve Overprints and Spot Colors	שמור על הדפסות-על וצבעי ספוט
-	Preserve Paths	שמור על נתיבים
-	Preserve Shape Using:	שמור על צורה באמצעות:
-	Preserve Spot Colors	שמור על צבעי ספוט
-	Preserve Text Appearance	שמור על מראה טקסט
-	Preserve Text Editability	שמור על יכולת עריכת טקסט
-	Preserve Tints	שמור על גוונים בהירים (Tints)
+	Preserve Alpha Transparency	שמירה על שקיפות אלפא
+	Preserve Appearance	שמירה על מראה
+	Preserve Appearance and Overprints	שמירה על מראה והדפסות-על
+	Preserve CMYK Numbers	שמירה על ערכי CMYK
+	Preserve Editing Capabilities	שמירה על יכולות עריכה
+	Preserve editing capabilities	שמירה על יכולות עריכה
+	Preserve Lightness	שמירה על בהירות
+	Preserve Overprints and Spot Colors	שמירה על הדפסות-על וצבעי ספוט
+	Preserve Paths	שמירה על נתיבים
+	Preserve Shape Using:	שמירה על צורה באמצעות:
+	Preserve Spot Colors	שמירה על צבעי ספוט
+	Preserve Text Appearance	שמירה על מראה טקסט
+	Preserve Text Editability	שמירה על יכולת עריכת טקסט
+	Preserve Tints	שמירה על גוונים בהירים (Tints)
 	Preserve:	שמור:
 	PRESET DETAILS	פרטי ערכה מוגדרת מראש
 	Preset Name	שם ערכה מוגדרת מראש
 	Preset name:	שם ערכה מוגדרת מראש:
 	Preset {number}	ערכה מוגדרת מראש {number}
 	Preset {}	ערכה מוגדרת מראש {}
-	Presets you save with the Save Preset button appear here.	ערכות שתשמור באמצעות לחצן 'שמור ערכה מוגדרת מראש' יופיעו כאן.
+	Presets you save with the Save Preset button appear here.	ערכות שתשמור באמצעות לחצן 'שמירת ערכה מוגדרת מראש' יופיעו כאן.
 	Press 	לחץ על 
 	Press a key…	לחץ על מקש…
 	Press Quality	איכות דפוס
@@ -3106,21 +3106,21 @@ effect	Regular	רגיל
 @msg	Reload the page to go on (changes not saved yet may be lost).	טען מחדש את העמוד כדי להמשיך (שינויים שטרם נשמרו עלולים לאבוד).
 	Remember Import Matches	זכור התאמות ייבוא
 	Remember My Choices	זכור את הבחירות שלי
-	Remove Anchor Points	הסר נקודות עוגן
-	Remove Asset	הסר נכס
-	Remove blank lines between paragraphs	הסר שורות ריקות בין פסקאות
-	Remove Brush Stroke	הסר משיכת מברשת
-	Remove Color Profile…	הסר פרופיל צבע…
-	Remove Effect	הסר אפקט
-	Remove Guide	הסר קו עזר
-	Remove Item	הסר פריט
-	Remove JavaScript File	הסר קובץ JavaScript
-	Remove Plug-in	הסר תוסף
-	Remove Selected Assets	הסר נכסים נבחרים
-	Remove Selected Entry	הסר רשומה נבחרת
-	Remove the shortcut	הסר את קיצור הדרך
-	Remove Threading	הסר שרשור
-	Remove “{keyword}”	הסר את “{keyword}”
+	Remove Anchor Points	הסרת נקודות עוגן
+	Remove Asset	הסרת נכס
+	Remove blank lines between paragraphs	הסרת שורות ריקות בין פסקאות
+	Remove Brush Stroke	הסרת משיכת מברשת
+	Remove Color Profile…	הסרת פרופיל צבע…
+	Remove Effect	הסרת אפקט
+	Remove Guide	הסרת קו עזר
+	Remove Item	הסרת פריט
+	Remove JavaScript File	הסרת קובץ JavaScript
+	Remove Plug-in	הסרת תוסף
+	Remove Selected Assets	הסרת נכסים נבחרים
+	Remove Selected Entry	הסרת רשומה נבחרת
+	Remove the shortcut	הסרת קיצור הדרך
+	Remove Threading	הסרת שרשור
+	Remove “{keyword}”	הסרת “{keyword}”
 	Rename Asset	שנה שם נכס
 	Rename Character Style	שנה שם סגנון תו
 	Rename Data Set	שנה שם ערכת נתונים
@@ -3208,9 +3208,9 @@ diagnostics	render	רינדור
 	Responsive	רספונסיבי
 	Restore every preference to its default (applied on OK)	שחזר כל העדפה לברירת המחדל שלה (מוחל בלחיצה על אישור)
 	Restore Recovered Documents	שחזר מסמכים משוחזרים
-	Restored documents open unsaved: save them to keep them.	מסמכים משוחזרים נפתחים ללא שמירה: שמור אותם כדי להשאירם.
+	Restored documents open unsaved: save them to keep them.	מסמכים משוחזרים נפתחים ללא שמירה: יש לשמור אותם כדי להשאירם.
 @msg	Restored {_1} recovered document(s): save them to keep them	שוחזרו {_1} מסמכים: שמור אותם כדי להשאירם
-	Restored {} recovered document(s): save them to keep them	שוחזרו {} מסמכים: שמור אותם כדי להשאירם
+	Restored {} recovered document(s): save them to keep them	שוחזרו {} מסמכים: יש לשמור אותם כדי להשאירם
 	Restrict printing, editing and other tasks	הגבל הדפסה, עריכה ומשימות אחרות
 	Restricted Colors	צבעים מוגבלים
 @msg	result would exceed the canvas (coordinates out of range)	התוצאה תחרוג ממשטח הציור (קואורדינטות מחוץ לטווח)
@@ -3292,51 +3292,51 @@ swatch	Sand	חול
 	Sans Serif / Gothic	ללא סריף / גותי
 	Saturate	הרווה
 	Saturate…	הרוויה…
-	Save and Close	שמור וסגור
-	Save as PDF…	שמור כ-PDF…
-	Save as preset:	שמור כערכה מוגדרת מראש:
-	Save changes to {name}	שמור שינויים ב-{name}
-	Save color group to Swatch panel	שמור קבוצת צבעים בחלונית דוגמיות הצבע
-	Save Colors as Swatches	שמור צבעים כדוגמיות
-	Save Document	שמור מסמך
-	Save Document Info…	שמור פרטי מסמך…
-	Save each artboard to a separate file	שמור כל משטח יצירה בקובץ נפרד
-	Save Export Preset	שמור ערכת ייצוא מוגדרת מראש
-	Save for Office Documents	שמור עבור מסמכי Office
-	Save for Office Documents…	שמור עבור מסמכי Office…
-	Save for Web	שמור לאינטרנט
-	Save for Web (Legacy)…	שמור לאינטרנט (מדור קודם)…
+	Save and Close	שמירה וסגירה
+	Save as PDF…	שמירה כ-PDF…
+	Save as preset:	שמירה כערכה מוגדרת מראש:
+	Save changes to {name}	שמירת שינויים ב-{name}
+	Save color group to Swatch panel	שמירת קבוצת צבעים בחלונית דוגמיות הצבע
+	Save Colors as Swatches	שמירת צבעים כדוגמיות
+	Save Document	שמירת מסמך
+	Save Document Info…	שמירת פרטי מסמך…
+	Save each artboard to a separate file	שמירת כל משטח יצירה בקובץ נפרד
+	Save Export Preset	שמירת ערכת ייצוא מוגדרת מראש
+	Save for Office Documents	שמירה עבור מסמכי Office
+	Save for Office Documents…	שמירה עבור מסמכי Office…
+	Save for Web	שמירה לאינטרנט
+	Save for Web (Legacy)…	שמירה לאינטרנט (מדור קודם)…
 	Save for Web Presets	ערכות שמירה לאינטרנט
 	Save for Web Preview	תצוגה מקדימה של שמירה לאינטרנט
 	Save for Web Settings	הגדרות שמירה לאינטרנט
 @msg	Save for Web: the image is empty	שמירה לאינטרנט: התמונה ריקה
-	Save Graphic Style Library	שמור ספריית סגנונות גרפיים
-	Save Graphic Style Library…	שמור ספריית סגנונות גרפיים…
-	Save Grid as Preset	שמור רשת כערכה מוגדרת מראש
-	Save Grid as Preset…	שמור רשת כערכה מוגדרת מראש…
-	Save PDF	שמור PDF
+	Save Graphic Style Library	שמירת ספריית סגנונות גרפיים
+	Save Graphic Style Library…	שמירת ספריית סגנונות גרפיים…
+	Save Grid as Preset	שמירת רשת כערכה מוגדרת מראש
+	Save Grid as Preset…	שמירת רשת כערכה מוגדרת מראש…
+	Save PDF	שמירת PDF
 	Save PDF Dialog	תיבת דו-שיח לשמירת PDF
-	Save PDF Preset	שמור ערכת PDF מוגדרת מראש
-	Save Perspective Grid Preset	שמור ערכת רשת פרספקטיבה מוגדרת מראש
-	Save Preset	שמור ערכה מוגדרת מראש
-	Save Print Preset	שמור ערכת הדפסה מוגדרת מראש
-	Save Recovery Data	שמור נתוני שחזור
-	Save Save for Web Preset	שמור ערכת שמירה לאינטרנט
-	Save selected colors as swatches	שמור צבעים נבחרים כדוגמיות
-	Save Swatch Library	שמור ספריית דוגמיות צבע
-	Save Swatch Library…	שמור ספריית דוגמיות צבע…
-	Save the current layout under this name	שמור את הפריסה הנוכחית תחת שם זה
+	Save PDF Preset	שמירת ערכת PDF מוגדרת מראש
+	Save Perspective Grid Preset	שמירת ערכת רשת פרספקטיבה מוגדרת מראש
+	Save Preset	שמירת ערכה מוגדרת מראש
+	Save Print Preset	שמירת ערכת הדפסה מוגדרת מראש
+	Save Recovery Data	שמירת נתוני שחזור
+	Save Save for Web Preset	שמירת ערכה של שמירה לאינטרנט
+	Save selected colors as swatches	שמירת צבעים נבחרים כדוגמיות
+	Save Swatch Library	שמירת ספריית דוגמיות צבע
+	Save Swatch Library…	שמירת ספריית דוגמיות צבע…
+	Save the current layout under this name	שמירת הפריסה הנוכחית תחת שם זה
 	Save the document first?	לשמור את המסמך תחילה?
-	Save the selected preset to a file	שמור את הערכה הנבחרת לקובץ
-	Save the settings as a preset	שמור את ההגדרות כערכה מוגדרת מראש
-	Save Theme	שמור ערכת נושא
-	Save theme to My Themes	שמור ערכת נושא ב'ערכות הנושא שלי'
-	Save these settings as a preset	שמור הגדרות אלו כערכה מוגדרת מראש
-	Save these settings as a print preset	שמור הגדרות אלו כערכת הדפסה מוגדרת מראש
-	Save to Swatches	שמור בדוגמיות צבע
-	Save To:	שמור אל:
-	Save Transparency Flattener Preset	שמור ערכת השטחת שקיפות מוגדרת מראש
-	Save Transparency Flattener Preset…	שמור ערכת השטחת שקיפות מוגדרת מראש…
+	Save the selected preset to a file	שמירת הערכה הנבחרת לקובץ
+	Save the settings as a preset	שמירת ההגדרות כערכה מוגדרת מראש
+	Save Theme	שמירת ערכת נושא
+	Save theme to My Themes	שמירת ערכת נושא ב'ערכות הנושא שלי'
+	Save these settings as a preset	שמירת הגדרות אלו כערכה מוגדרת מראש
+	Save these settings as a print preset	שמירת הגדרות אלו כערכת הדפסה מוגדרת מראש
+	Save to Swatches	שמירה בדוגמיות צבע
+	Save To:	שמירה אל:
+	Save Transparency Flattener Preset	שמירת ערכת השטחת שקיפות מוגדרת מראש
+	Save Transparency Flattener Preset…	שמירת ערכת השטחת שקיפות מוגדרת מראש…
 @msg	Save writes {_1}, not {_2}: use document.export for other formats	שמירה כותבת {_1}, לא {_2}: השתמש ב-document.export עבור תבניות אחרות
 @msg	Save writes {_1}, not {_2}: use file.saveAsTemplate to write it	שמירה כותבת {_1}, לא {_2}: השתמש ב-file.saveAsTemplate כדי לכתוב זאת
 	SAVED	נשמר
@@ -4121,9 +4121,9 @@ file-filter	Templates	תבניות
 	Tool Option	אפשרות כלי
 	Tool Options…	אפשרויות כלי…
 @msg	tool shortcuts must be a single key (optionally with Shift)	קיצורי דרך של כלים חייבים להיות מקש בודד (אופציונלית עם Shift)
-	Toolbar: Add Tool	סרגל כלים: הוסף כלי
+	Toolbar: Add Tool	סרגל כלים: הוספת כלי
 	Toolbar: Advanced / Basic	סרגל כלים: מתקדם / בסיסי
-	Toolbar: Remove Tool	סרגל כלים: הסר כלי
+	Toolbar: Remove Tool	סרגל כלים: הסרת כלי
 	Toolbar: Reset	סרגל כלים: איפוס
 	Toolbar: Show Controls	סרגל כלים: הצג פקדים
 	Toolbar: Single/Double Column	סרגל כלים: טור יחיד/כפול
@@ -4539,15 +4539,15 @@ swatch	Yellow Green	צהוב-ירוק
 @msg	{n} font file(s) are now in {folder}; {failed} couldn't be added: {reason}	{n} קובצי גופנים נמצאים כעת ב-{folder}; לא ניתן היה להוסיף {failed}: {reason}
 @msg	{n} font(s) aren't available here: their text shows in another font	{n} גופנים אינם זמינים כאן: הטקסט שלהם מוצג בגופן אחר
 @plural	{n} glyph|{n} glyphs	{n} גליף|שני גליפים ({n})|{n} גליפים
-@plural	{n} more export waiting|{n} more exports waiting	ייצוא {n} נוסף ממתין|שני ייצואים נוספים ({n}) ממתינים|{n} ייצואים נוספים ממתינים
+@plural	{n} more export waiting|{n} more exports waiting	{n} ייצוא נוסף ממתין|שני ייצואים נוספים ({n}) ממתינים|{n} ייצואים נוספים ממתינים
 @plural	{n} object highlighted|{n} objects highlighted	{n} אובייקט מודגש|שני אובייקטים ({n}) מודגשים|{n} אובייקטים מודגשים
 	{n} objects selected	{n} אובייקטים נבחרו
 @plural	{n} Object|{n} Objects	{n} אובייקט|שני אובייקטים ({n})|{n} אובייקטים
 @plural	{n} part of the file wasn't read|{n} parts of the file weren't read	{n} חלק מהקובץ לא נקרא|שני חלקים ({n}) מהקובץ לא נקראו|{n} חלקים מהקובץ לא נקראו
-@plural	{n} PR|{n} PRs	בקשת {n} משיכה|שתי בקשות משיכה ({n})|{n} בקשות משיכה
-@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	קיצור {n} דרך מוקצה יותר מפעם אחת|שני קיצורי דרך ({n}) מוקצים יותר מפעם אחת|{n} קיצורי דרך מוקצים יותר מפעם אחת
+@plural	{n} PR|{n} PRs	{n} בקשת משיכה|שתי בקשות משיכה ({n})|{n} בקשות משיכה
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} קיצור דרך מוקצה יותר מפעם אחת|שני קיצורי דרך ({n}) מוקצים יותר מפעם אחת|{n} קיצורי דרך מוקצים יותר מפעם אחת
 @plural	{n} star|{n} stars	{n} כוכב|שני כוכבים ({n})|{n} כוכבים
-@plural	{n} stroke|{n} strokes	קו {n} מתאר|שני קווי מתאר ({n})|{n} קווי מתאר
+@plural	{n} stroke|{n} strokes	{n} קו מתאר|שני קווי מתאר ({n})|{n} קווי מתאר
 	{pages} in all, {count} per copy	{pages} בסך הכול, {count} לכל עותק
 	{page} of {count}	{page} מתוך {count}
 @msg	{path} can't be found: relink it first	לא ניתן למצוא את {path}: קשר אותו מחדש תחילה
