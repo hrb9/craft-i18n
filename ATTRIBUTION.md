@@ -382,3 +382,7 @@ catalogs, with the same AI-assisted origin and no native-speaker review.
 ## CADCraft: Hebrew search, command aliases and drafting commands (2026-11-21)
 
 56 original Hebrew CADCraft translations contributed by @nocturney with ChatGPT assistance. Built clean-room from the English source keys with no copying from other localized products. Source keys, unique keys, placeholders and ellipsis validated; independent native-speaker and live RTL CAD UI review pending.
+
+## CADCraft: Hebrew drawing units, plot and page settings (2026-11-21)
+
+70 original clean-room Hebrew CADCraft translations by @nocturney, AI-assisted (ChatGPT). English source keys from the shared craft-i18n catalogs; placeholders and duplicate keys validated. No independent native-speaker or running RTL GUI QA is claimed.
