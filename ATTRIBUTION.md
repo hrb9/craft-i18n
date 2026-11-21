@@ -390,3 +390,7 @@ catalogs, with the same AI-assisted origin and no native-speaker review.
 ## CADCraft: Hebrew backup, save warnings and DXF retention (2026-11-21)
 
 14 original clean-room Hebrew CADCraft translations by @nocturney, AI-assisted (ChatGPT). English source keys from the shared craft-i18n catalogs; placeholders and duplicate keys validated. No independent native-speaker or running RTL GUI QA is claimed.
+
+## FilmCraft: Hebrew timeline search, audio/encoder warnings and interface controls (2026-11-21)
+
+18 clean-room Hebrew translations by @nocturney, AI-assisted (ChatGPT). Each English source/context key checked against the official multilingual catalogs and the existing Hebrew proposal (#42); no duplicate keys. Placeholders and ellipses validated. Independent native-speaker and live RTL GUI testing not recorded.
