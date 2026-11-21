@@ -1233,3 +1233,19 @@ menu	View	תצוגה
 	Xref	הפניה חיצונית
 	Y offset (mm)	היסט Y (מ"מ)
 	Yards	יארדים
+
+# Hebrew: CAD backup, save warnings and DXF retention
+	Backup copy	עותק גיבוי
+	Create backup copy with each save	יצירת עותק גיבוי בכל שמירה
+	Save changes to block "{name}"?	האם לשמור שינויים בבלוק "{name}"?
+	Save changes to {name}?	האם לשמור שינויים ב־{name}?
+	Backup copies are off, so the current file will be replaced.	יצירת עותקי גיבוי כבויה, לכן הקובץ הנוכחי יוחלף.
+	DXF 2010 and earlier keep them. Use Save As to keep them in the drawing.	גרסאות DXF 2010 וקודמותיה שומרות אותם. השתמשו ב״שמירה בשם״ כדי להשאיר אותם בשרטוט.
+	DXF keeps them. Use Save As to keep them in the drawing.	פורמט DXF שומר אותם. השתמשו ב״שמירה בשם״ כדי להשאיר אותם בשרטוט.
+	Save Anyway	שמירה בכל זאת
+	Save cancelled: {path} was not changed.	השמירה בוטלה: {path} לא שונה.
+	Saving {name} will remove content	שמירת {name} תסיר תוכן
+	The current file doesn't look whole, so {name} stays as it is and the current file will be replaced.	הקובץ הנוכחי אינו נראה שלם, לכן {name} יישאר ללא שינוי והקובץ הנוכחי יוחלף.
+	The current file is kept as {name} until the next save.	הקובץ הנוכחי נשמר בשם {name} עד לשמירה הבאה.
+	This format can't keep these objects yet: {objects}.	הפורמט הזה עדיין אינו יכול לשמור את האובייקטים הבאים: {objects}.
+	{count} more types	עוד {count} סוגים

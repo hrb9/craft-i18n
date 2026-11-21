@@ -386,3 +386,7 @@ catalogs, with the same AI-assisted origin and no native-speaker review.
 ## CADCraft: Hebrew drawing units, plot and page settings (2026-11-21)
 
 70 original clean-room Hebrew CADCraft translations by @nocturney, AI-assisted (ChatGPT). English source keys from the shared craft-i18n catalogs; placeholders and duplicate keys validated. No independent native-speaker or running RTL GUI QA is claimed.
+
+## CADCraft: Hebrew backup, save warnings and DXF retention (2026-11-21)
+
+14 original clean-room Hebrew CADCraft translations by @nocturney, AI-assisted (ChatGPT). English source keys from the shared craft-i18n catalogs; placeholders and duplicate keys validated. No independent native-speaker or running RTL GUI QA is claimed.
