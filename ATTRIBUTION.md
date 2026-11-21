@@ -378,3 +378,7 @@ TextureCraft's `ui-egui/src/i18n` tables.
 Also adds five info-icon tooltip and note strings of the same window (the mesh path, Select..., Normal map
 format and UV tile hints, and the note that choosing or reimporting a mesh recomputes all channels) to the same nine
 catalogs, with the same AI-assisted origin and no native-speaker review.
+
+## FilmCraft: Hebrew timeline search, audio/encoder warnings and interface controls (2026-11-21)
+
+18 clean-room Hebrew translations by @nocturney, AI-assisted (ChatGPT). Each English source/context key checked against the official multilingual catalogs and the existing Hebrew proposal (#42); no duplicate keys. Placeholders and ellipses validated. Independent native-speaker and live RTL GUI testing not recorded.
