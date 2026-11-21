@@ -378,3 +378,7 @@ TextureCraft's `ui-egui/src/i18n` tables.
 Also adds five info-icon tooltip and note strings of the same window (the mesh path, Select..., Normal map
 format and UV tile hints, and the note that choosing or reimporting a mesh recomputes all channels) to the same nine
 catalogs, with the same AI-assisted origin and no native-speaker review.
+
+## CADCraft: Hebrew search, command aliases and drafting commands (2026-11-21)
+
+56 original Hebrew CADCraft translations contributed by @nocturney with ChatGPT assistance. Built clean-room from the English source keys with no copying from other localized products. Source keys, unique keys, placeholders and ellipsis validated; independent native-speaker and live RTL CAD UI review pending.
