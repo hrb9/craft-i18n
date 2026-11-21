@@ -3010,3 +3010,23 @@
 	✔ matches	✔ תואם
 	✔ same file	✔ אותו קובץ
 	✖ different file	✖ קובץ שונה
+
+# Hebrew: timeline search, audio/encoder warnings and interface controls
+	Animate zoom, scrolling and menus	הנפשת שינוי גודל התצוגה, גלילה ותפריטים
+	Audio output failed: playing without sound (check Settings > Audio Hardware)	פלט השמע נכשל: ההפעלה נמשכת ללא קול (בדקו הגדרות > חומרת שמע)
+	Audio output is not responding: playing without sound (check Settings > Audio Hardware)	פלט השמע אינו מגיב: ההפעלה נמשכת ללא קול (בדקו הגדרות > חומרת שמע)
+	AV1 needs a hardware encoder; none was found on this machine, and FilmCraft has no software AV1 encoder yet.	AV1 דורש מקודד חומרה; לא נמצא מקודד כזה במחשב הזה, ול־FilmCraft עדיין אין מקודד AV1 תוכנתי.
+	Delete Redoable Actions	מחיקת פעולות שאפשר לבצע מחדש
+	Delete the dimmed actions after the current state? They cannot be redone.	למחוק את הפעולות המעומעמות שאחרי המצב הנוכחי? לא ניתן יהיה לבצע אותן מחדש.
+	Duration: {tc}	משך: {tc}
+	End: {tc}	סיום: {tc}
+	H.265 (HEVC) needs a hardware encoder (NVENC on NVIDIA GPUs, VideoToolbox on macOS); none was found on this machine, and FilmCraft has no software H.265 encoder yet. Choose H.264 or ProRes instead.	H.265 (HEVC) דורש מקודד חומרה (NVENC בכרטיסי NVIDIA או VideoToolbox ב־macOS); לא נמצא מקודד כזה במחשב הזה, ול־FilmCraft עדיין אין מקודד H.265 תוכנתי. בחרו H.264 או ProRes במקום זאת.
+	No matching text.	לא נמצא טקסט תואם.
+	No text graphics in this sequence. Add text with the Type tool.	אין גרפיקת טקסט ברצף הזה. הוסיפו טקסט באמצעות כלי הטקסט.
+	Open a sequence to search its graphics	פתחו רצף כדי לחפש בגרפיקה שלו
+	Reset Interface Zoom	איפוס קנה המידה של הממשק
+	Show Duplicate Frame Markers	הצגת סמנים של פריימים כפולים
+	Start: {tc}	התחלה: {tc}
+	Track Color	צבע רצועה
+	Transparency Grid	רשת שקיפות
+	Work Area Bar	סרגל אזור העבודה
