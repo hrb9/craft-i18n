@@ -285,3 +285,21 @@ wordcraft	Writing and document design	כתיבה ועיצוב מסמכים
 	⊞  Grid	⊞  רשת
 	☰  Table	☰  טבלה
 	🔍  Search apps	🔍  חיפוש יישומים
+
+# Hebrew: launcher updates, navigation and Linux package notices
+	A new version is available. Download it to replace this version?	גרסה חדשה זמינה. להוריד אותה ולהחליף בה את הגרסה הנוכחית?
+	ArtCraft Launcher is still running	מפעיל ArtCraft עדיין פועל
+	Frequently used	בשימוש תכוף
+	It's in the tray: open it or quit it from the tray icon, or turn this off in the settings.	היישום נמצא באזור ההודעות: פתחו אותו או צאו ממנו דרך הסמל באזור ההודעות, או השביתו את האפשרות בהגדרות.
+	Last updated: {date}	עודכן לאחרונה: {date}
+	More actions for {name}	פעולות נוספות עבור {name}
+	Name (Z–A)	שם (ת–א)
+	Next app	היישום הבא
+	On Linux, custom folders use AppImage format.	ב־Linux, תיקיות מותאמות אישית משתמשות בפורמט AppImage.
+	Previous app	היישום הקודם
+	Recently updated	עודכנו לאחרונה
+	Show {n} more changes	הצגת {n} שינויים נוספים
+	{name} was installed from the {repo} repository or the AUR ({pkg}). Update it with {cmd} or sudo pacman -Syu	היישום {name} הותקן ממאגר {repo} או מ־AUR ({pkg}). כדי לעדכן אותו, הפעילו {cmd} או sudo pacman -Syu
+	{name} was installed from the {repo} repository or the AUR ({pkg}). Update it with your AUR helper (for example: yay -S {pkg}) or sudo pacman -Syu	היישום {name} הותקן ממאגר {repo} או מ־AUR ({pkg}). כדי לעדכן אותו, השתמשו בכלי העזר שלכם ל־AUR (למשל: yay -S {pkg}) או בפקודה sudo pacman -Syu
+	{name} was installed from the AUR ({pkg}). Update it with {cmd}	היישום {name} הותקן מ־AUR ({pkg}). כדי לעדכן אותו, הפעילו {cmd}
+	{name} was installed from the AUR ({pkg}). Update it with your AUR helper (for example: yay -S {pkg})	היישום {name} הותקן מ־AUR ({pkg}). כדי לעדכן אותו, השתמשו בכלי העזר שלכם ל־AUR (למשל: yay -S {pkg})
