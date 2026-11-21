@@ -394,3 +394,7 @@ catalogs, with the same AI-assisted origin and no native-speaker review.
 ## FilmCraft: Hebrew timeline search, audio/encoder warnings and interface controls (2026-11-21)
 
 18 clean-room Hebrew translations by @nocturney, AI-assisted (ChatGPT). Each English source/context key checked against the official multilingual catalogs and the existing Hebrew proposal (#42); no duplicate keys. Placeholders and ellipses validated. Independent native-speaker and live RTL GUI testing not recorded.
+
+## ArtCraft Launcher: Hebrew launcher updates, navigation and Linux package notices (2026-11-21)
+
+16 clean-room Hebrew translations by @nocturney, AI-assisted (ChatGPT). Each English source/context key checked against the official multilingual catalogs and the existing Hebrew proposal (#42); no duplicate keys. Placeholders and ellipses validated. Independent native-speaker and live RTL GUI testing not recorded.
