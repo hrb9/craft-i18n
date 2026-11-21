@@ -1103,3 +1103,61 @@ menu	View	תצוגה
 	ΔLOC	Δשורות קוד
 	−LOC	−שורות קוד
 	⌘↩ to finish	⌘↩ לסיום
+
+# Hebrew: CAD commands, searching and aliases
+	Analyze Shapes	ניתוח צורות
+	Block Description...	תיאור בלוק...
+	CADCraft is up to date.	CADCraft מעודכן.
+	Check for Updates…	בדיקת עדכונים…
+	Could not check for updates.	לא ניתן לבדוק אם קיימים עדכונים.
+	Cut with Base Point	גזירה עם נקודת בסיס
+	Enter angle of xline (0)	הזינו זווית של קו עזר אינסופי (0)
+	Enter delta length	הזינו את השינוי באורך
+	Find All	חפש הכול
+	Find what:	חפש את:
+	Match case	התאמה של אותיות רישיות וקטנות
+	Named Viewports...	אשנבי תצוגה בעלי שם...
+	Nothing found	לא נמצאו תוצאות
+	Oops	אופס
+	Replace All	החלף הכול
+	Replace Block...	החלפת בלוק...
+	Replace with:	החלף ב:
+	Replacement text	טקסט חלופי
+	Results	תוצאות
+	Searches the current space.	החיפוש מתבצע במרחב הנוכחי.
+	Select an object to change	בחרו אובייקט לשינוי
+	Select an object to measure	בחרו אובייקט למדידה
+	Select nested objects to copy	בחרו אובייקטים מקוננים להעתקה
+	Select polyline	בחרו פוליליין
+	Specify base radius	ציינו רדיוס בסיס
+	Specify helix height	ציינו גובה סליל
+	Specify top radius	ציינו רדיוס עליון
+	Specify total length	ציינו אורך כולל
+	Text to find	טקסט לחיפוש
+	Whole words	מילים שלמות
+	Add…	הוספה…
+	Alias	כינוי פקודה
+	Alias file: {file}	קובץ כינויי פקודות: {file}
+	Break-line Symbol	סמל קו שבור
+	built-in	מובנה
+	Choose the command the alias starts.	בחרו את הפקודה שהכינוי מפעיל.
+	Clip Xref	חיתוך תצוגת הפניה חיצונית
+	Convert Text to Mtext	המרת טקסט לטקסט רב־שורי
+	Customize	התאמה אישית
+	Define each corner of the selection window with a separate click.	הגדירו כל פינה של חלון הבחירה בלחיצה נפרדת.
+	Edit Command Aliases (PGP)...	עריכת כינויי פקודות (PGP)...
+	Explode Attributes to Text	פירוק תכונות לטקסט
+	Export Comparison	ייצוא השוואה
+	Express Tools	כלים מהירים
+	Interface scale	קנה המידה של הממשק
+	More than {n} aliases.	יותר מ־{n} כינויי פקודות.
+	Move/Copy/Rotate	העברה/העתקה/סיבוב
+	No alias file loaded. REINIT replaces these aliases with a file's.	לא נטען קובץ כינויים. הפקודה REINIT מחליפה את הכינויים האלה בכינויים מתוך קובץ.
+	overrides built-in	גובר על הכינוי המובנה
+	Save alias	שמירת כינוי
+	Select boundaries to remove	בחרו גבולות להסרה
+	Select using two clicks only	בחרו באמצעות שתי לחיצות בלבד
+	Type an alias name.	הקלידו שם כינוי.
+	Xref Clip Frame	מסגרת חיתוך של הפניה חיצונית
+	{alias} is already defined; select it and use Edit.	הכינוי {alias} כבר הוגדר; בחרו בו והשתמשו באפשרות עריכה.
+	{command} is an unknown command.	הפקודה {command} אינה מוכרת.
