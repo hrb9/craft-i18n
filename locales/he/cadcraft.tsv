@@ -1103,3 +1103,75 @@ menu	View	תצוגה
 	ΔLOC	Δשורות קוד
 	−LOC	−שורות קוד
 	⌘↩ to finish	⌘↩ לסיום
+
+# Hebrew: CAD drawing units, plot and page settings
+	Arrow size	גודל החץ
+	Dim scale overall	קנה מידה כולל של המידות
+	Precision	דיוק
+	Analyze Usage	ניתוח שימוש
+	Angstroms	אנגסטרמים
+	Apply to Layout	החלה על פריסה
+	Architectural	אדריכלי
+	Associate	שיוך
+	Astronomical Units	יחידות אסטרונומיות
+	Center the plot	מרכוז ההדפסה
+	Change Properties	שינוי מאפיינים
+	Decameters	דקמטרים
+	Decimal	עשרוני
+	Decimal Degrees	מעלות עשרוניות
+	Decimeters	דצימטרים
+	Deg/Min/Sec	מעלות/דקות/שניות
+	Drawing Units	יחידות השרטוט
+	Engineering	הנדסי
+	Enter block names to extract	הזינו שמות בלוקים לחילוץ
+	Enter geometric characteristic	הזינו מאפיין גאומטרי
+	Enter name of LISP file to load	הזינו שם של קובץ LISP לטעינה
+	Feet	רגל
+	First corner	פינה ראשונה
+	Fit to paper	התאמה לגודל הנייר
+	Fractional	שברי
+	Gigameters	גיגמטרים
+	Grads	גראדים
+	Hectometers	הקטומטרים
+	Imperial (inches)	אימפריאלי (אינצ'ים)
+	Implied Loops	לולאות משתמעות
+	Insertion scale	קנה מידה להוספה
+	Kilometers	קילומטרים
+	Layouts	פריסות
+	Light Years	שנות אור
+	Limits	גבולות
+	Meters	מטרים
+	Metric (millimetres)	מטרי (מילימטרים)
+	Microinches	מיקרו־אינצ'ים
+	Microns	מיקרונים
+	Miles	מיילים
+	Mils	אלפיות אינץ' (mil)
+	Multiple Insert	הוספה מרובה
+	Nanometers	ננומטרים
+	New and the first drawing at startup use these units unless a default template is set (QNEWTEMPLATE).	הפקודה New והשרטוט הראשון בעת ההפעלה משתמשים ביחידות האלה, אלא אם הוגדרה תבנית ברירת מחדל (QNEWTEMPLATE).
+	Opposite corner	פינה נגדית
+	Paper size	גודל הנייר
+	Parsecs	פרסקים
+	Plot area	אזור ההדפסה
+	Plot object lineweights	הדפסת עוביי הקווים של האובייקטים
+	Plot offset	היסט הדפסה
+	Plot transparency	הדפסת שקיפות
+	Printer/plotter	מדפסת/פלוטר
+	Radians	רדיאנים
+	Raster Image Reference...	הפניית תמונת רסטר...
+	Raster Images	תמונות רסטר
+	Sample output	פלט לדוגמה
+	Save Layout as Template	שמירת פריסה כתבנית
+	Scientific	מדעי
+	Surveyor's Units	יחידות מדידה של מודדים
+	Unitless	ללא יחידות
+	Units of new drawings	יחידות לשרטוטים חדשים
+	Units to scale inserted content	יחידות לקביעת קנה המידה של תוכן שהוכנס
+	US Survey Feet	רגל סקר אמריקאית
+	US Survey Inch	אינץ' סקר אמריקאי
+	US Survey Mile	מייל סקר אמריקאי
+	US Survey Yard	יארד סקר אמריקאי
+	X offset (mm)	היסט X (מ"מ)
+	Xref	הפניה חיצונית
+	Y offset (mm)	היסט Y (מ"מ)
+	Yards	יארדים
