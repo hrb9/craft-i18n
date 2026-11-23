@@ -1389,11 +1389,11 @@
 	Updated the preset “{name}”	עודכנה הערכה המוגדרת “{name}”
 	Updated to {version}.	עודכן לגרסה {version}.
 	Updated {name} {version} — find it in Commands › Plug-ins	עודכן {name} {version} — ניתן למצוא אותו תחת פקודות › תוספים
-	Use Releases or your package manager to update this installation.	השתמש בגרסאות (Releases) או במנהל החבילות שלך כדי לעדכן התקנה זו.
+	Use Releases or your package manager to update this installation.	יש להשתמש בגרסאות (Releases) או במנהל החבילות כדי לעדכן התקנה זו.
 	Use count	מספר שימושים
-	Use it for {action}	השתמש בזה עבור {action}
-	Use the format's usual name: {name}	השתמש בשם הרגיל של התבנית: {name}
-	Use the system's open and save dialogs	השתמש בתיבות הדו-שיח של המערכת לפתיחה ולשמירה
+	Use it for {action}	שימוש בזה עבור {action}
+	Use the format's usual name: {name}	יש להשתמש בשם הרגיל של התבנית: {name}
+	Use the system's open and save dialogs	שימוש בתיבות הדו-שיח של המערכת לפתיחה ולשמירה
 	Uses	שימושים
 	Version {version} · {stage}	גרסה {version} · {stage}
 	Vertical Center	מרכז אנכי

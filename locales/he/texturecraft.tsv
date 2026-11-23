@@ -903,12 +903,12 @@
 	Uniform	אחידה
 	Uniform value	ערך אחיד
 	Unsaved changes	שינויים שלא נשמרו
-	Use Low Poly Mesh as High Poly Mesh	השתמש ברשת Low Poly כרשת High Poly
+	Use Low Poly Mesh as High Poly Mesh	שימוש ברשת Low Poly כרשת High Poly
 	Use an equirectangular .hdr or .exr image as the environment	שימוש בתמונת .hdr או .exr אקווירקטנגולרית כסביבה
-	Use as brush alpha	השתמש כאלפא למברשת
-	Use the control channel or `texturecraft-cli render` for screenshots	השתמש בערוץ הבקרה או בפקודה `texturecraft-cli render` לצילומי מסך
-	Use the operating system's window frame and buttons instead of TextureCraft's own title bar	השתמש במסגרת ובכפתורי החלון של מערכת ההפעלה במקום בשורת הכותרת של TextureCraft
-	Use this brush (keeps its size)	השתמש במברשת זו (שומר על גודלה)
+	Use as brush alpha	שימוש כאלפא למברשת
+	Use the control channel or `texturecraft-cli render` for screenshots	יש להשתמש בערוץ הבקרה או בפקודה `texturecraft-cli render` לצילומי מסך
+	Use the operating system's window frame and buttons instead of TextureCraft's own title bar	שימוש במסגרת ובכפתורי החלון של מערכת ההפעלה במקום בשורת הכותרת של TextureCraft
+	Use this brush (keeps its size)	שימוש במברשת זו (גודלה נשמר)
 	Value Bounds Max	גבול ערך מרבי
 	Value Bounds Min	גבול ערך מזערי
 	Version: {version} ({gpu})	גרסה: {version} ({gpu})
