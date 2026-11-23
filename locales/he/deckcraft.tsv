@@ -99,7 +99,7 @@
 	Apply Design Idea	החלת רעיון עיצוב
 	Apply To All	החלה על הכול
 	Apply only to this picture	החלה רק על תמונה זו
-	Apply to All	החל על הכול
+	Apply to All	החלה על הכול
 	Apply\nTo All	החלה\nעל הכול
 	Arrow at end	חץ בסוף
 	Arrow at start	חץ בהתחלה
@@ -216,7 +216,7 @@
 	Command Palette	לוח פקודות
 	Community Links	קישורי קהילה
 	Compare needs the desktop app for now	השוואה דורשת לעת עתה את יישום שולחן העבודה
-	Compare this presentation with a revised copy from Review › Compare.	השווה מצגת זו לעותק מתוקן מתוך סקירה › השוואה.
+	Compare this presentation with a revised copy from Review › Compare.	ניתן להשוות מצגת זו לעותק מתוקן מתוך סקירה › השוואה.
 	Compared with {name}	הושווה עם {name}
 	Compare…	השוואה…
 	Compress	דחיסה
@@ -267,7 +267,7 @@
 	Date and time	תאריך ושעה
 	Decimal	עשרוני
 	Decimal Tab	טאב עשרוני
-	DeckCraft Presentation (*.deckcraft)	מצגת DeckCraft‏ (*.deckcraft)
+	DeckCraft Presentation (*.deckcraft)	מצגת DeckCraft (*.deckcraft)
 	DeckCraft can't export “{format}”	DeckCraft לא יכול לייצא אל “{format}”
 	DeckCraft can't find “{text}”.	DeckCraft לא מוצא את “{text}”.
 	DeckCraft has no accounts: there is nothing to sign in to, and your presentations stay on your device.	ל-DeckCraft אין חשבונות: אין למה להתחבר, והמצגות שלך נשארות במכשירך.
@@ -305,9 +305,9 @@
 	Display drawing guides on screen	הצגת קווי עזר לציור על המסך
 	Display grid on screen	הצגת רשת על המסך
 	Distribute Columns	פיזור עמודות
-	Distribute Horizontally	פזר אופקית
+	Distribute Horizontally	פיזור אופקי
 	Distribute Rows	פיזור שורות
-	Distribute Vertically	פזר אנכית
+	Distribute Vertically	פיזור אנכי
 	Distributed	מפוזר
 	Divot	שקע
 	Dk edge	קצה כהה
@@ -361,7 +361,7 @@
 	First Slide	שקופית ראשונה
 	First line	שורה ראשונה
 	Fit slide to current window	התאמת שקופית לחלון הנוכחי
-	Fit to Window	התאם לחלון
+	Fit to Window	התאמה לחלון
 	Fit to slide	התאמה לשקופית
 	Fit to\nWindow	התאמה\nלחלון
 	Flood	תאורת הצפה
@@ -417,7 +417,7 @@
 	Grid\nOptions	אפשרויות\nרשת
 	Gridlines	קווי רשת
 	Group Objects	קיבוץ עצמים
-	HD (330 ppi): good quality for high-definition displays	HD‏ (330 ppi): איכות טובה לצגים באבחנה גבוהה
+	HD (330 ppi): good quality for high-definition displays	HD (330 ppi): איכות טובה לצגים באבחנה גבוהה
 	Half	חצי
 	Handout Master	תבנית דפי מידע
 	Handout Placeholders	מצייני מיקום לדפי מידע
@@ -499,7 +499,7 @@
 	Isometric right up	איזומטרי ימין כלפי מעלה
 	Isometric top down	איזומטרי עליון כלפי מטה
 	Isometric top up	איזומטרי עליון כלפי מעלה
-	JPEG Picture (*.jpg)	תמונת JPEG‏ (*.jpg)
+	JPEG Picture (*.jpg)	תמונת JPEG (*.jpg)
 	JPEG image (current slide)	תמונת JPEG (שקופית נוכחית)
 	Join our community on Discord	הצטרפו לקהילה שלנו ב-Discord
 	Join the ArtCraft community on Discord	הצטרפו לקהילת ArtCraft ב-Discord
@@ -562,7 +562,7 @@
 	Morning	בוקר
 	Mouse Click	לחיצת עכבר
 	Mouse Over	מעבר עכבר
-	Move Guide	הזז קו עזר
+	Move Guide	הזזת קו עזר
 	Move Handle	הזזת ידית
 	Move Point	הזזת נקודה
 	Move Section	הזזת מקטע
@@ -600,7 +600,7 @@
 	No recent presentations match “{query}”.	אין מצגות אחרונות התואמות ל-“{query}”.
 	No synonyms for "{word}".	אין מילים נרדפות עבור "{word}".
 	No themes or templates match “{query}”.	אין ערכות נושא או תבניות התואמות ל-“{query}”.
-	No {lang} dictionary is installed, so only common misspellings are found. Put a Hunspell .aff/.dic pair in {folder}.	לא מותקן מילון עבור {lang}, ולכן מאותרות רק שגיאות כתיב נפוצות. הנח צמד קובצי Hunspell‏ (‎.aff/‎.dic) ב-{folder}.
+	No {lang} dictionary is installed, so only common misspellings are found. Put a Hunspell .aff/.dic pair in {folder}.	לא מותקן מילון עבור {lang}, ולכן מאותרות רק שגיאות כתיב נפוצות. יש להניח צמד קובצי Hunspell (.aff/.dic) ב-{folder}.
 	Not a copy of this presentation: slides are matched by position.	אינו עותק של מצגת זו: השקופיות מותאמות לפי מיקום.
 	Not saved yet	טרם נשמר
 	Notes	הערות
@@ -646,11 +646,11 @@
 	Outline (*.txt)	חלוקת רמות (*.txt)
 	Outline (.txt)	חלוקת רמות (.txt)
 	Outline View	תצוגת חלוקת רמות
-	Outline/RTF (*.rtf)	חלוקת רמות/RTF‏ (*.rtf)
-	Outline/RTF (.rtf)	חלוקת רמות/RTF‏ (.rtf)
+	Outline/RTF (*.rtf)	חלוקת רמות/RTF (*.rtf)
+	Outline/RTF (.rtf)	חלוקת רמות/RTF (.rtf)
 	Oval ends	קצוות אליפטיים
-	PDF document (.pdf)	מסמך PDF‏ (.pdf)
-	PNG Picture (*.png)	תמונת PNG‏ (*.png)
+	PDF document (.pdf)	מסמך PDF (.pdf)
+	PNG Picture (*.png)	תמונת PNG (*.png)
 	PNG images (all slides)	תמונות PNG (כל השקופיות)
 	PNG images (current slide)	תמונות PNG (שקופית נוכחית)
 	Page Setup…	הגדרת עמוד…
@@ -719,8 +719,8 @@
 	Post	פרסום
 	Poster Frame	תמונת שער
 	Powder	אבקתי
-	PowerPoint Presentation (*.pptx)	מצגת PowerPoint‏ (*.pptx)
-	PowerPoint Presentation (.pptx)	מצגת PowerPoint‏ (.pptx)
+	PowerPoint Presentation (*.pptx)	מצגת PowerPoint (*.pptx)
+	PowerPoint Presentation (.pptx)	מצגת PowerPoint (.pptx)
 	Presentations	מצגות
 	Presentations and slide shows, rebuilt from scratch in pure Rust.	מצגות והצגות שקופיות, בנויות מחדש מאפס ב-Rust טהור.
 	Presentations you open show up here. Use Open to browse for one.	מצגות שפתחת יופיעו כאן. אפשר להשתמש ב"פתיחה" כדי לאתר קובץ.
@@ -739,7 +739,7 @@
 	Print them for your audience	הדפסה עבור הקהל שלך
 	Product Information	מידע על המוצר
 	Program:	תוכנית:
-	Promote	העלה בדרגה (Promote)
+	Promote	העלאה בדרגה (Promote)
 	Put a picture in the selected node's picture placeholder	הנחת תמונה במציין המיקום של הצומת הנבחר
 	Quick Access Toolbar	סרגל כלים לגישה מהירה
 	Quick Styles	סגנונות מהירים
@@ -768,10 +768,10 @@
 	Remove bullets and numbering	הסרת תבליטים ומספור
 	Remove from Quick Access Toolbar	הסרה מסרגל הכלים לגישה מהירה
 	Remove from Recent	הסרה מהקבצים האחרונים
-	Remove stop	הסר נקודת עצירה
+	Remove stop	הסרת נקודת עצירה
 	Remove the picture style	הסרת סגנון התמונה
 	Remove\nBackground	הסרת\nרקע
-	Rename Layout	שנה שם פריסה
+	Rename Layout	שינוי שם פריסה
 	Rename Section	שינוי שם מקטע
 	Rename Section…	שינוי שם מקטע…
 	Rename Slide	שינוי שם שקופית
@@ -780,7 +780,7 @@
 	Reorder Objects	שינוי סדר עצמים
 	Repeated word	מילה חוזרת
 	Replace All	החלפת הכול
-	Replace Font	החלף גופן
+	Replace Font	החלפת גופן
 	Replace Fonts	החלפת גופנים
 	Replace Fonts…	החלפת גופנים…
 	Replace fractions (1/2) with fraction characters (½)	החלפת שברים (1/2) בתווי שבר (½)
@@ -788,7 +788,7 @@
 	Replace text as you type	החלפת טקסט בזמן ההקלדה
 	Replace with:	החלפה ב:
 	Replaced “{font}” with “{replacement}”.	“{font}” הוחלף ב-“{replacement}”.
-	Replace…	החלף…
+	Replace…	החלפה…
 	Reply…	תשובה…
 	Rescan Installed Fonts	סריקה מחדש של גופנים מותקנים
 	Reset 3-D	איפוס תלת-ממד
@@ -799,7 +799,7 @@
 	Reset Slide	איפוס שקופית
 	Reset Slide Background	איפוס רקע שקופית
 	Reset Style	איפוס סגנון
-	Reset to Defaults	אפס לברירות מחדל
+	Reset to Defaults	שחזור ברירות מחדל
 	Resize shape to fit text	שינוי גודל הצורה להתאמה לטקסט
 	Resolve	פתרון
 	Resolve Thread	סימון שרשור כטופל
@@ -1032,7 +1032,7 @@
 	Trim Media	חיתוך מדיה
 	Two pt	שתי נקודות
 	Type Text	הקלדת טקסט
-	Type an equation in linear form (e.g. a^2+b^2=c^2, x=(-b±√(b^2-4ac))/2a).	יש להקליד נוסחה בצורה קווית (למשל ‎a^2+b^2=c^2, x=(-b±√(b^2-4ac))/2a).
+	Type an equation in linear form (e.g. a^2+b^2=c^2, x=(-b±√(b^2-4ac))/2a).	יש להקליד נוסחה בצורה קווית (למשל a^2+b^2=c^2, x=(-b±√(b^2-4ac))/2a).
 	Type and organise the diagram's text	הקלדה וארגון של טקסט הדיאגרמה
 	Type the text for the new text box	יש להקליד את הטקסט לתיבת הטקסט החדשה
 	Type your text here	יש להקליד את הטקסט כאן
@@ -1067,7 +1067,7 @@
 	With	עם
 	With Previous	עם הקודם
 	With:	עם:
-	WordArt style {n}	סגנון WordArt‏ {n}
+	WordArt style {n}	סגנון WordArt {n}
 	Wrap Text in Shape	גלישת טקסט בתוך הצורה
 	Wrap text in shape	גלישת טקסט בתוך הצורה
 	Your name (comments):	שמך (להערות):
@@ -1084,9 +1084,9 @@
 	“{font}” isn't used explicitly.	הגופן “{font}” אינו בשימוש מפורש.
 	“{name}” is not available yet.	“{name}” עדיין אינו זמין.
 @plural	First {n} slide|First {n} slides	{n} השקופית הראשונה|{n} השקופיות הראשונות|{n} השקופיות הראשונות
-@plural	Inserted {n} slide|Inserted {n} slides	הוספה שקופית {n}|הוספו {n} שקופיות|הוספו {n} שקופיות
-@plural	Replaced {n} occurrence.|Replaced {n} occurrences.	הוחלף מופע {n}.|הוחלפו {n} מופעים.|הוחלפו {n} מופעים.
-@plural	{name} ({n} slide)|{name} ({n} slides)	{name} (שקופית {n})|{name} ({n} שקופיות)|{name} ({n} שקופיות)
-@plural	{n} Column|{n} Columns	עמודה {n}|{n} עמודות|{n} עמודות
-@plural	{n} Slide|{n} Slides	שקופית {n}|{n} שקופיות|{n} שקופיות
-@plural	{n} contributor|{n} contributors	תורם {n}|{n} תורמים|{n} תורמים
+@plural	Inserted {n} slide|Inserted {n} slides	הוספה {n} שקופית|הוספו {n} שקופיות|הוספו {n} שקופיות
+@plural	Replaced {n} occurrence.|Replaced {n} occurrences.	הוחלף {n} מופע.|הוחלפו {n} מופעים.|הוחלפו {n} מופעים.
+@plural	{name} ({n} slide)|{name} ({n} slides)	{name} ({n} שקופית)|{name} ({n} שקופיות)|{name} ({n} שקופיות)
+@plural	{n} Column|{n} Columns	{n} עמודה|{n} עמודות|{n} עמודות
+@plural	{n} Slide|{n} Slides	{n} שקופית|{n} שקופיות|{n} שקופיות
+@plural	{n} contributor|{n} contributors	{n} תורם|{n} תורמים|{n} תורמים
