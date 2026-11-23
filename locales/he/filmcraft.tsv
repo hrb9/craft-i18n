@@ -238,8 +238,8 @@
 	Audio Options	אפשרויות שמע
 	Audio Out	יציאת שמע
 	Audio Out Point	נקודת יציאת שמע
-	Audio output failed: playing without sound (check Settings ▸ Audio Hardware)	פלט השמע נכשל: מנגן ללא קול (בדוק הגדרות ▸ חומרת שמע)
-	Audio output is not responding: playing without sound (check Settings ▸ Audio Hardware)	פלט השמע אינו מגיב: מנגן ללא קול (בדוק הגדרות ▸ חומרת שמע)
+	Audio output failed: playing without sound (check Settings ▸ Audio Hardware)	פלט השמע נכשל: מנגן ללא קול (יש לבדוק הגדרות ▸ חומרת שמע)
+	Audio output is not responding: playing without sound (check Settings ▸ Audio Hardware)	פלט השמע אינו מגיב: מנגן ללא קול (יש לבדוק הגדרות ▸ חומרת שמע)
 	Audio Previews:	תצוגות מקדימות של שמע:
 	Audio Samples	דגימות שמע
 	Audio Time Units	יחידות זמן שמע
@@ -412,7 +412,7 @@
 	Camera Names	שמות מצלמות
 	Camera Shake	רעידת מצלמה
 	Camera {n} — {name}	מצלמה {n} — {name}
-	Cameras shown in the Multi-Camera view (uncheck to hide).	מצלמות המוצגות בתצוגה מרובת-מצלמות (בטל סימון להסתרה).
+	Cameras shown in the Multi-Camera view (uncheck to hide).	מצלמות המוצגות בתצוגה מרובת-מצלמות (יש לבטל סימון להסתרה).
 	Cancel Dynamic Trim	ביטול קיצוץ דינמי
 	Cancel Queued Export	ביטול ייצוא בתור
 	Cancelled	בוטל
@@ -494,7 +494,7 @@
 	Cleared {n} shortcut(s) of {command}	נוקו {n} קיצורי דרך של {command}
 	Click a command's Shortcut cell and press keys to assign it; + adds another shortcut.	יש ללחוץ על תא קיצור הדרך של פקודה והקש על מקשים להקצאה; + מוסיף קיצור דרך נוסף.
 	Click a key on the keyboard to see its shortcuts	יש ללחוץ על מקש במקלדת כדי לראות את קיצורי הדרך שלו
-	Click in the Program monitor to place mask points (drag for curves); click the first point or press Enter to close	יש ללחוץ במוניטור התוכנית להצבת נקודות מסכה (גרור ליצירת עקומות); לחץ על הנקודה הראשונה או הקש Enter לסגירה
+	Click in the Program monitor to place mask points (drag for curves); click the first point or press Enter to close	יש ללחוץ במוניטור התוכנית להצבת נקודות מסכה (גרירה ליצירת עקומות); יש ללחוץ על הנקודה הראשונה או להקיש Enter לסגירה
 	Click to select all clips to the left in all tracks. Shift-click for a single track.	יש ללחוץ לבחירת כל הקליפים משמאל בכל הערוצים. Shift+לחיצה לערוץ בודד.
 	Click to select all clips to the right in all tracks. Shift-click for a single track.	יש ללחוץ לבחירת כל הקליפים מימין בכל הערוצים. Shift+לחיצה לערוץ בודד.
 	Click to select, or click in empty space and drag to marquee select. Use Shift, Alt, and Ctrl for other options.	יש ללחוץ לבחירה, או ללחוץ בשטח ריק ולגרור לבחירת תיבה. ניתן להשתמש ב-Shift, Alt ו-Ctrl לאפשרויות נוספות.
@@ -580,7 +580,7 @@
 	Configure…	הגדרה…
 	Conflict: {key} is assigned to {commands} ({ctx})	התנגשות: {key} מוקצה אל {commands} ({ctx})
 	Consolidate and Transcode	איחוד והמרת קידוד
-	Consolidate Duplicates	אחד כפילויות
+	Consolidate Duplicates	איחוד כפילויות
 	Constant Gain	הגבר קבוע
 	Constant Power	עוצמה קבועה
 	Containers	מכלים (Containers)
@@ -606,7 +606,7 @@
 	Crawl Right	זחילה ימינה
 	Create 4-point polygon mask	יצירת מסכת מצולע של 4 נקודות
 	Create a bin of subclips from each detected cut point	יצירת סל של תת-קליפים מכל נקודת מעבר סצנה שזוהתה
-	Create a caption track or import a caption file.	יש ליצור ערוץ כתוביות או ייבא קובץ כתוביות.
+	Create a caption track or import a caption file.	יש ליצור ערוץ כתוביות או לייבא קובץ כתוביות.
 	Create a clip marker at each detected cut point	יצירת סמן קליפ בכל נקודת מעבר סצנה שזוהתה
 	Create captions	יצירת כתוביות
 	Create Captions from Transcript…	יצירת כתוביות מתמלול…
@@ -888,7 +888,7 @@
 	Exciter Mode	מצב מעורר תדרים (Exciter)
 	Exclude Unused Clips	הוצאת קליפים שאינם בשימוש
 	Existing XMP files written by other applications are left unchanged.	קובצי XMP קיימים שנכתבו על ידי יישומים אחרים נשארים ללא שינוי.
-	Exit Trim Mode	צא ממצב קיצוץ
+	Exit Trim Mode	יציאה ממצב קיצוץ
 	Expand All Tracks	הרחבת כל הערוצים
 	Expander	מרחיב טווח דינמי (Expander)
 	Exponential Fade	עמעום מעריכי
@@ -919,7 +919,7 @@
 	Extract (')	חלץ (')
 	Extract Audio	חלץ שמע
 	Extract selected text	חלץ טקסט נבחר
-	Eyedropper (pick a color from the Program monitor)	טפטפת (בחר צבע ממוניטור התוכנית)
+	Eyedropper (pick a color from the Program monitor)	טפטפת (בחירת צבע ממוניטור התוכנית)
 	Eyedropper: no picture to sample	טפטפת: אין תמונה לדגימה
 	Face Detection (protect skin tones)	זיהוי פנים (הגנה על גווני עור)
 	Fade	עמעום
@@ -1317,7 +1317,7 @@
 	Iris Shape	צורת צמצם
 	JetBrains Mono	JetBrains Mono
 	Join the ArtCraft Discord (discord.gg/artcraft)	הצטרפו ל-Discord של ArtCraft (discord.gg/artcraft)
-	Join Through Edits	אחד חיתוכים רציפים
+	Join Through Edits	איחוד חיתוכים רציפים
 	JPEG	JPEG
 	JPEG Sequence	רצף JPEG
 	Kaleidoscope	קליידוסקופ
@@ -1503,8 +1503,8 @@
 	Matte Generation	יצירת משטח חיתוך
 	Matte Luma	בהירות של משטח חיתוך
 	Maximize Frame	הגדלת מסגרת למקסימום
-	Maximize or Restore Active Frame	הגדלת למקסימום או שחזר מסגרת פעילה
-	Maximize or Restore Frame Under Cursor	הגדלת למקסימום או שחזר מסגרת מתחת לסמן
+	Maximize or Restore Active Frame	הגדלה למקסימום או שחזור מסגרת פעילה
+	Maximize or Restore Frame Under Cursor	הגדלה למקסימום או שחזור מסגרת מתחת לסמן
 	Maximum Amplitude	משרעת מרבית
 	Maximum Bit Depth	עומק סיביות מרבי
 	Maximum Bitrate	קצב סיביות מרבי
@@ -1697,8 +1697,8 @@
 	Night	לילה
 	Night Exterior	חוץ לילה
 	No background jobs.	אין משימות ברקע.
-	No candidates yet — Search a folder or Locate the file.	אין התאמות עדיין — חפש בתיקייה או אתר את הקובץ.
-	No captions on this track. Press + to add one at the playhead.	אין כתוביות בערוץ זה. לחץ על + להוספת כתובית במיקום סמן הניגון.
+	No candidates yet — Search a folder or Locate the file.	אין התאמות עדיין — ניתן לחפש בתיקייה או לאתר את הקובץ.
+	No captions on this track. Press + to add one at the playhead.	אין כתוביות בערוץ זה. יש ללחוץ על + להוספת כתובית במיקום סמן הניגון.
 	no Chinese font is installed on this system; the interface stays in English	לא מותקן גופן סיני במערכת זו; הממשק נשאר באנגלית
 	No contributor data was built into this copy.	לא נכללו נתוני תורמים בעותק זה.
 	No effects	ללא אפקטים
@@ -1905,7 +1905,7 @@
 	Play In to Out with Preroll/Postroll	ניגון מנקודת הכניסה עד היציאה עם הרצה מוקדמת/מאוחרת
 	Play Source	ניגון מקור
 	Play-Stop Toggle (Space)	החלפת ניגון-עצירה (רווח)
-	Play/Stop	נגן/עצור
+	Play/Stop	ניגון/עצירה
 	Playback	ניגון
 	Playback Resolution	רזולוציית ניגון
 	Playback starts the pre-roll before the playhead (or the In point); with In/Out marked, recording punches in and out there.	הניגון מתחיל בהרצה מוקדמת לפני סמן הניגון (או נקודת הכניסה); כאשר מסומנות נקודות כניסה/יציאה, ההקלטה נכנסת ויוצאת שם.
@@ -1997,7 +1997,7 @@
 	Quality (CRF)	איכות (CRF)
 	Queue ({n})	תור ({n})
 	Quick Export	ייצוא מהיר
-	Quick Export: open a sequence first	ייצוא מהיר: פתח רצף תחילה
+	Quick Export: open a sequence first	ייצוא מהיר: יש לפתוח רצף תחילה
 	Quick Export: {path}	ייצוא מהיר: {path}
 	QuickTime (Motion JPEG)	QuickTime (Motion JPEG)
 	QuickTime, APV 422-10 (10-bit 4:2:2), 24-bit 48 kHz PCM	QuickTime, APV 422-10 (10 סיביות 4:2:2), 24 סיביות 48 kHz PCM
@@ -2012,7 +2012,7 @@
 	QuickTime, ProRes 4444 (4:4:4) with alpha channel, 24-bit 48 kHz PCM	QuickTime, ProRes 4444 (4:4:4) עם ערוץ אלפא, 24 סיביות 48 kHz PCM
 	QuickTime, ProRes 4444 (4:4:4), 24-bit 48 kHz PCM	QuickTime, ProRes 4444 (4:4:4), 24 סיביות 48 kHz PCM
 	QuickTime, ProRes 4444 XQ (4:4:4), 24-bit 48 kHz PCM	QuickTime, ProRes 4444 XQ (4:4:4), 24 סיביות 48 kHz PCM
-	Quit FilmCraft	צא מ-FilmCraft
+	Quit FilmCraft	יציאה מ-FilmCraft
 	Radial Ramp	מעבר הדרגתי מעגלי
 	Radial Wipe	מחיקה מעגלית
 	Radial Wipe (Legacy)	מחיקה מעגלית (מדור קודם)
@@ -2369,7 +2369,7 @@
 	Show Next Screen	הצגת מסך הבא
 	Show Only Noise	הצגת רעש בלבד
 	Show Open Dialog	הצגת תיבת דו-שיח לפתיחה
-	Show or hide {color} markers	הצגת או הסתר סמנים בצבע {color}
+	Show or hide {color} markers	הצגת או הסתרת סמנים בצבע {color}
 	Show Previous Screen	הצגת מסך קודם
 	Show Program Transcript	הצגת תמלול תוכנית
 	Show Project Load Error Dialog	הצגת תיבת דו-שיח של שגיאת טעינת פרויקט
@@ -2382,9 +2382,9 @@
 	Show Video Thumbnails	הצגת תמונות ממוזערות של וידאו
 	Show Workspace Reset Warning dialog on double click	הצגת תיבת דו-שיח של אזהרת איפוס סביבת עבודה בלחיצה כפולה
 	Show {n}	הצגת {n}
-	Show/Hide Effects and Sends	הצג/הסתר אפקטים ושליחות
-	Show/Hide Tracks	הצג/הסתר ערוצים
-	Show/Hide Tracks…	הצג/הסתר ערוצים…
+	Show/Hide Effects and Sends	הצגת/הסתרת אפקטים ושליחות
+	Show/Hide Tracks	הצגת/הסתרת ערוצים
+	Show/Hide Tracks…	הצגת/הסתרת ערוצים…
 	Shows a report on this computer.	מציג דוח על מחשב זה.
 	Shows the version, community links and credits in a FilmCraft window.	מציג את הגרסה, קישורי הקהילה והקרדיטים בחלון של FilmCraft.
 	Shrink	כיווץ
@@ -2454,7 +2454,7 @@
 	Sort Order	סדר מיון
 	Source channels the selected audio clips play:	ערוצי מקור שקליפי השמע הנבחרים מנגנים:
 	Source In/Out	כניסה/יציאה של מקור
-	Source Play/Stop	נגן/עצור מקור
+	Source Play/Stop	ניגון/עצירה במקור
 	Source Point	נקודת מקור
 	Source Settings	הגדרות מקור
 	Source Settings…	הגדרות מקור…
@@ -2628,7 +2628,7 @@
 	The project had not been saved yet.	הפרויקט טרם נשמר.
 	The selected clips have different audio types. Assign one type to edit them together.	לקליפים הנבחרים יש סוגי שמע שונים. הקצה סוג אחד כדי לערוך אותם יחד.
 	The sequence has no caption track.	לרצף אין ערוץ כתוביות.
-	This build has no speech-to-text; import a transcript with transcript.set.	בגרסה זו אין דיבור-לטקסט; ייבא תמלול באמצעות transcript.set.
+	This build has no speech-to-text; import a transcript with transcript.set.	בגרסה זו אין דיבור-לטקסט; ניתן לייבא תמלול באמצעות transcript.set.
 	Thr	סף
 	Thumbnail controls for all pointing devices	פקדי תמונות ממוזערות עבור כל התקני ההצבעה
 	Thumbnail Size Next	גודל תמונה ממוזערת הבא
@@ -2664,11 +2664,11 @@
 	Toggle All Source Audio	החלפת מצב כל שמע המקור
 	Toggle All Source Video	החלפת מצב כל וידאו המקור
 	Toggle All Video Targets	החלפת מצב כל יעדי הווידאו
-	Toggle animation	הפעל/כבה הנפשה
-	Toggle Audio During Scrubbing	הפעל/כבה שמע בעת גרירת סמן הניגון
+	Toggle animation	הפעלת/כיבוי הנפשה
+	Toggle Audio During Scrubbing	הפעלת/כיבוי שמע בעת גרירת סמן הניגון
 	Toggle Full Screen	החלפת מצב מסך מלא
 	Toggle Mute for All Targeted Audio Tracks	החלפת מצב השתקה עבור כל ערוצי השמע המיועדים
-	Toggle Proxies	הפעל/כבה קובצי פרוקסי
+	Toggle Proxies	הפעלת/כיבוי קובצי פרוקסי
 	Toggle Solo for All Targeted Audio Tracks	החלפת מצב סולו עבור כל ערוצי השמע המיועדים
 	Toggle Source/Program Monitor Focus	החלפת מיקוד בין מוניטור המקור למוניטור התוכנית
 	Toggle Target Audio 1	החלפת מצב יעד שמע 1
@@ -2984,7 +2984,7 @@
 	{name} (user)	{name} (משתמש)
 	{name} - Edited	{name} - ערוך
 	{name} Selection.fcproj	{name} Selection.fcproj
-	{n} clip(s) can't find their media. Locate them, search a folder, or leave them offline.	{n} קליפים אינם מוצאים את המדיה שלהם. אתר אותם, חפש בתיקייה, או השאר אותם לא מקוונים.
+	{n} clip(s) can't find their media. Locate them, search a folder, or leave them offline.	{n} קליפים אינם מוצאים את המדיה שלהם. יש לאתר אותם, לחפש בתיקייה או להשאיר אותם לא מקוונים.
 	{n} clip(s) selected.	{n} קליפים נבחרו.
 	{n} clip(s) selected; the clip on the reference track stays put.	{n} קליפים נבחרו; הקליפ בערוץ הייחוס נשאר במקומו.
 	{n} clip(s): {names}	{n} קליפים: {names}
@@ -3006,7 +3006,7 @@
 	{sel} of {total} items selected	{sel} מתוך {total} פריטים נבחרו
 	{tc}  Chapter	{tc}  פרק
 	{total} items	{total} פריטים
-	✓ Enable	✓ הפעל
+	✓ Enable	✓ הפעלה
 	✔ matches	✔ תואם
 	✔ same file	✔ אותו קובץ
 	✖ different file	✖ קובץ שונה

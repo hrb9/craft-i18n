@@ -57,7 +57,7 @@ month	Aug	אוג׳
 cadcraft	Computer-aided design and drafting	תיב״ם (תכנון ושרטוט בעזרת מחשב)
 	Couldn't change the login item: {e}	לא ניתן לשנות את פריט ההפעלה בכניסה: {e}
 	Couldn't check for updates: {f}	לא ניתן לבדוק עדכונים: {f}
-@msg	couldn't move {path} to Trash ({reason}). Remove it in Finder instead.	לא ניתן להעביר את {path} לאשפה ({reason}). הסר אותו ב-Finder במקום זאת.
+@msg	couldn't move {path} to Trash ({reason}). Remove it in Finder instead.	לא ניתן להעביר את {path} לאשפה ({reason}). יש להסיר אותו ב-Finder במקום זאת.
 @msg	couldn't use install folder {path}: {reason}	לא ניתן להשתמש בתיקיית ההתקנה {path}: {reason}
 	Craft App Suite	חבילת יישומי Craft
 	Custom folders use AppImage on Linux.	תיקיות מותאמות אישית משתמשות ב-AppImage בלינוקס.
@@ -165,13 +165,13 @@ month	Oct	אוק׳
 designcraft	Page layout and publishing	עימוד דפים והוצאה לאור
 	Pause download	השהיית הורדה
 lightcraft	Photo library and raw development	ספריית תמונות ופיתוח RAW
-	Pictures couldn't be loaded. Reopen this page to try again.	לא ניתן היה לטעון את התמונות. פתח עמוד זה מחדש כדי לנסות שוב.
+	Pictures couldn't be loaded. Reopen this page to try again.	לא ניתן היה לטעון את התמונות. יש לפתוח עמוד זה מחדש כדי לנסות שוב.
 	Platforms	פלטפורמות
 	Portable (.zip)	נייד (.zip)
 deckcraft	Presentations and slide shows	מצגות ושקופיות
 	Previous picture (←)	התמונה הקודמת (←)
 	Questions, ideas and news from the ArtCraft team	שאלות, רעיונות וחדשות מצוות ArtCraft
-	Quit ArtCraft Launcher	צא מ-ArtCraft Launcher
+	Quit ArtCraft Launcher	יציאה מ-ArtCraft Launcher
 pdfcraft	Reading, organizing and protecting PDFs	קריאה, ארגון והגנה על קובצי PDF
 	Reconnecting…	מתחבר מחדש…
 soundcraft	Recording, editing and mixing audio	הקלטה, עריכה ומיקס של שמע
@@ -184,14 +184,14 @@ column	Released	תאריך פרסום
 	Removing…	מסיר…
 	Replace what's there?	להחליף את מה שקיים שם?
 	Resume download	המשך הורדה
-	Retry install	נסה להתקין שוב
-	Retry update to {version}	נסה שוב לעדכן לגרסה {version}
+	Retry install	ניסיון התקנה חוזר
+	Retry update to {version}	ניסיון עדכון חוזר לגרסה {version}
 	RPM package (.rpm)	חבילת RPM (.rpm)
 	Running in the background	פועל ברקע
 	Search apps	חיפוש יישומים
 month	Sep	ספט׳
 @id	settings.open	הגדרות
-@id	settings.quit	צא מ-ArtCraft Launcher
+@id	settings.quit	יציאה מ-ArtCraft Launcher
 	Show apps as a table	הצגת יישומים כטבלה
 	Show apps as cards	הצגת יישומים ככרטיסים
 	Show ArtCraft Launcher	הצגת ArtCraft Launcher
@@ -249,7 +249,7 @@ vectorcraft	Vector illustration	איור וקטורי
 filmcraft	Video editing, color and sound	עריכת וידאו, צבע ושמע
 @id	view.grid	רשת
 @id	view.table	טבלה
-	Visit getartcraft.com	בקרו ב-getartcraft.com
+	Visit getartcraft.com	מעבר אל getartcraft.com
 	Waiting for another app…	ממתין ליישום אחר…
 	Waiting for other installs…	ממתין להתקנות אחרות…
 	Website (coming soon)	אתר אינטרנט (בקרוב)
@@ -269,7 +269,7 @@ wordcraft	Writing and document design	כתיבה ועיצוב מסמכים
 	{name} icon	סמל {name}
 @msg	{name} installed: {version}	{name} הותקן: {version}
 @msg	{name} installed: {version} (this release publishes no checksum, so only its size was checked)	{name} הותקן: {version} (גרסה זו אינה מפרסמת סכום ביקורת, לכן רק הגודל שלה נבדק)
-@msg	{name} is running. Quit it, then try again.	{name} פועל כעת. סגור אותו ונסה שוב.
+@msg	{name} is running. Quit it, then try again.	{name} פועל כעת. יש לצאת ממנו ולנסות שוב.
 @msg	{name} updated to {version}	{name} עודכן לגרסה {version}
 @msg	{name} updated to {version} (this release publishes no checksum, so only its size was checked)	{name} עודכן לגרסה {version} (גרסה זו אינה מפרסמת סכום ביקורת, לכן רק הגודל שלה נבדק)
 @msg	{name} was removed	{name} הוסר
@@ -290,7 +290,7 @@ wordcraft	Writing and document design	כתיבה ועיצוב מסמכים
 	A new version is available. Download it to replace this version?	גרסה חדשה זמינה. להוריד אותה ולהחליף בה את הגרסה הנוכחית?
 	ArtCraft Launcher is still running	מפעיל ArtCraft עדיין פועל
 	Frequently used	בשימוש תכוף
-	It's in the tray: open it or quit it from the tray icon, or turn this off in the settings.	היישום נמצא באזור ההודעות: פתחו אותו או צאו ממנו דרך הסמל באזור ההודעות, או השביתו את האפשרות בהגדרות.
+	It's in the tray: open it or quit it from the tray icon, or turn this off in the settings.	היישום נמצא באזור ההודעות: ניתן לפתוח אותו או לצאת ממנו דרך הסמל באזור ההודעות, או להשבית אפשרות זו בהגדרות.
 	Last updated: {date}	עודכן לאחרונה: {date}
 	More actions for {name}	פעולות נוספות עבור {name}
 	Name (Z–A)	שם (ת–א)

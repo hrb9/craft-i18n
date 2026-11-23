@@ -715,9 +715,9 @@ swatch	Chocolate	שוקולד
 	Click to choose a swatch, Shift-click to mix a colour	יש ללחוץ לבחירת דוגמית צבע, Shift+לחיצה לערבוב צבע
 	Click to edit the mask; Alt-click to view only the mask; Shift-click to disable or enable it	יש ללחוץ לעריכת המסכה; Alt+לחיצה להצגת המסכה בלבד; Shift+לחיצה להשבתה או להפעלה שלה
 	Click to place each file at 100%, or drag to size it; arrow keys switch files, Esc skips one.	יש ללחוץ למיקום כל קובץ ב-100%, או לגרור לקביעת גודלו; מקשי החיצים מחליפים קבצים, Esc מדלג על קובץ.
-	Click to select, double-click to edit	יש ללחוץ לבחירה, לחץ לחיצה כפולה לעריכה
+	Click to select, double-click to edit	יש ללחוץ לבחירה, וללחוץ לחיצה כפולה לעריכה
 	Click to toggle visibility	לחיצה להחלפת מצב נראות
-	Click to zoom in, Alt-click to zoom out, drag to pan, double-click to fit	יש ללחוץ להתקרבות, Alt+לחיצה להתרחקות, גרור להזזה, לחץ לחיצה כפולה להתאמה
+	Click to zoom in, Alt-click to zoom out, drag to pan, double-click to fit	יש ללחוץ להתקרבות, Alt+לחיצה להתרחקות, לגרור להזזה וללחוץ לחיצה כפולה להתאמה
 	Click, then press the key this code stands for (Esc cancels)	יש ללחוץ, ולאחר מכן להקיש על המקש שקוד זה מייצג (Esc לביטול)
 	Click, then press the new shortcut (Esc cancels)	יש ללחוץ, ולאחר מכן להקיש על קיצור הדרך החדש (Esc לביטול)
 	Client-side (.html)	צד-לקוח (.html)
@@ -837,7 +837,7 @@ swatch	Coffee	קפה
 	Connect	חיבור
 	Connect Selected End Points	חיבור נקודות קצה נבחרות
 	Consider Open Filled Paths as Closed	התייחס לנתיבים פתוחים עם מילוי כאל סגורים
-	Consolidate All Windows	אחד את כל החלונות
+	Consolidate All Windows	איחוד כל החלונות
 	Constrain	אלץ
 	Constrain Angle	זווית אילוץ
 	Constrain Width and Height Proportions	אלץ פרופורציות רוחב וגובה
@@ -1193,7 +1193,7 @@ swatch	Cyan Green	ציאן-ירוק
 	Drag to move	גרירה להזזה
 	Drag to move out of the set	יש לגרור להוצאה מהקבוצה
 	Drag to the window's left edge to dock	יש לגרור לקצה השמאלי של החלון לעיגון
-	Drag values or labels. Double-click a value to type.	יש לגרור ערכים או תוויות. לחץ לחיצה כפולה על ערך להקלדה.
+	Drag values or labels. Double-click a value to type.	יש לגרור ערכים או תוויות, או ללחוץ לחיצה כפולה על ערך להקלדה.
 	Draw Behind	צייר מאחור
 	Draw in Perspective	צייר בפרספקטיבה
 	Draw Inside	צייר בפנים
@@ -1252,9 +1252,9 @@ swatch	Cyan Green	ציאן-ירוק
 	Edit Freeform Point	עריכת נקודת מעבר חופשי
 	Edit Gradient	עריכת מעבר צבע
 	Edit Opacity Mask	עריכת מסכת אטימות
-	Edit or Apply Color Group	עריכת או החל קבוצת צבעים
-	Edit or Apply Color Group…	עריכת או החל קבוצת צבעים…
-	Edit or Apply Colors	עריכת או החל צבעים
+	Edit or Apply Color Group	עריכת או החלת קבוצת צבעים
+	Edit or Apply Color Group…	עריכת או החלת קבוצת צבעים…
+	Edit or Apply Colors	עריכת או החלת צבעים
 @msg	Edit Original opens image and document files only; “{name}” is not one	'ערוך מקור' פותח קובצי תמונות ומסמכים בלבד; “{name}” אינו כזה
 	Edit Path	עריכת נתיב
 	Edit Pattern	עריכת תבנית
@@ -1356,7 +1356,7 @@ swatch	Espresso	אספרסו
 	Example: {name}	דוגמה: {name}
 	Exceptions (comma separated)	חריגים (מופרדים בפסיקים)
 	Exclude	הוצאה מן הכלל
-	Exit Isolation Mode	צא ממצב בידוד
+	Exit Isolation Mode	יציאה ממצב בידוד
 	Expand 1 Selected	הרחבת 1 נבחר
 	Expand Appearance	הרחבת מראה
 @msg	Expand Appearance: the selection has a basic appearance	הרחבת מראה: לבחירה יש מראה בסיסי
@@ -1686,7 +1686,7 @@ swatch	Green	ירוק
 	HDTV 1080p	HDTV 1080p
 	HDTV 720p	HDTV 720p
 	Heavy Ink	דיו כבד
-	Help › Search Commands…	עזרה › חפש פקודות…
+	Help › Search Commands…	עזרה › חיפוש פקודות…
 	Hex by Column	משושה לפי עמודה
 	Hex by Row	משושה לפי שורה
 	Hexagon (open)	משושה (פתוח)
@@ -1775,7 +1775,7 @@ effect	Horizontal	אופקי
 @msg	image is empty	התמונה ריקה
 	Image Map:	מפת תמונה:
 	Image Trace	עקיבת תמונה (Image Trace)
-	Image Trace (Make and Expand)	עקיבת תמונה (צור והרחב)
+	Image Trace (Make and Expand)	עקיבת תמונה (יצירה והרחבה)
 	Image Trace Presets	הגדרות קבועות מראש לעקיבת תמונה
 	Image Trace View	תצוגת עקיבת תמונה
 @msg	Image Trace: the traced image is missing	עקיבת תמונה: התמונה הנעקבת חסרה
@@ -2134,7 +2134,7 @@ swatch	Magenta	מג׳נטה
 	Make with Mesh…	יצירה עם רשת…
 	Make with Top Object	יצירה עם האובייקט העליון
 	Make with Warp…	יצירה עם עיוות…
-	Make/Release Clipping Mask	צור/שחרר מסכת חיתוך
+	Make/Release Clipping Mask	יצירת/שחרור מסכת חיתוך
 	Manage Workspaces	נהל סביבות עבודה
 	Manage Workspaces…	נהל סביבות עבודה…
 	Manually	ידנית
@@ -2968,7 +2968,7 @@ swatch	Purple	סגול
 	Quality:	איכות:
 	Quarter Space	רבע רווח
 	Quickly start a new file	התחלת קובץ חדש במהירות
-	Quit VectorCraft	צא מ-VectorCraft
+	Quit VectorCraft	יציאה מ-VectorCraft
 	Radar Graph Tool	כלי תרשים הרדאר
 gradient-kind	Radial	מעגלי (Radial)
 	Radial Dividers:	מפרידים מעגליים:
@@ -3150,7 +3150,7 @@ diagnostics	render	רינדור
 	Replace Font	החלפת גופן
 	Replace it with another file, or ignore it: its images keep showing the preview saved with the document.	יש להחליף אותו בקובץ אחר, או להתעלם ממנו: התמונות שלו ימשיכו להציג את התצוגה המקדימה שנשמרה עם המסמך.
 	Replace Spine	החלפת שדרה
-@msg	Replace Spine: select a blend and a path	יש להחליף שדרה: בחר מיזוג ונתיב
+@msg	Replace Spine: select a blend and a path	החלפת שדרה: יש לבחור מיזוג ונתיב
 	Replace Symbol	החלפת סמל
 	Replace With Font	החלפה בגופן
 	Replace “{name}”, the file this document was opened from?	להחליף את “{name}”, הקובץ שממנו נפתח מסמך זה?
@@ -3504,8 +3504,8 @@ swatch	Sand	חול
 	Select styled art and click New Graphic Style.	יש לבחור גרפיקה מעוצבת וללחוץ על 'סגנון גרפי חדש'.
 	Select text	בחירת טקסט
 	Select Text by Font	בחירת טקסט לפי גופן
-	Select text or click into text with the Type tool to insert glyphs	יש לבחור טקסט או לחץ בתוך טקסט עם כלי הטקסט כדי להוסיף גליפים
-@msg	Select text or click into text with the Type tool to insert glyphs	יש לבחור טקסט או לחץ בתוך טקסט עם כלי הטקסט כדי להוסיף גליפים
+	Select text or click into text with the Type tool to insert glyphs	יש לבחור טקסט או ללחוץ בתוך טקסט עם כלי הטקסט כדי להוסיף גליפים
+@msg	Select text or click into text with the Type tool to insert glyphs	יש לבחור טקסט או ללחוץ בתוך טקסט עם כלי הטקסט כדי להוסיף גליפים
 	Select text to set its OpenType features.	יש לבחור טקסט כדי להגדיר את תכונות ה-OpenType שלו.
 	Select the art (and, on top of it, the mask object)	יש לבחור את הגרפיקה (ומעליה, את אובייקט המסכה)
 @msg	select the art to export first	יש לבחור תחילה את הגרפיקה לייצוא
@@ -3655,7 +3655,7 @@ swatch	Sand	חול
 	Show Vivid/Muted	הצגת עזים/עמומים
 	Show Warm/Cool	הצגת חמים/קרים
 	Show {kind} Brushes	הצגת מברשות {kind}
-	Show/hide plate (Alt-click: only this plate)	הצג/הסתר לוח הדפסה (Alt+לחיצה: לוח זה בלבד)
+	Show/hide plate (Alt-click: only this plate)	הצגת/הסתרת לוח הדפסה (Alt+לחיצה: לוח זה בלבד)
 	Shown with the optimised preview.	מוצג עם התצוגה המקדימה הממוטבת.
 	Shrink Text to Fit	כיווץ טקסט להתאמה
 	Side 1:	צד 1:
@@ -3763,7 +3763,7 @@ effect	Soft	רך
 	Split Complementary	משלים מפוצל
 	Split Freeform Line	פיצול קו חופשי
 	Split Into Grid	פיצול לרשת
-@msg	Split Into Grid: select paths large enough for the grid	יש לפצל לרשת: בחר נתיבים גדולים מספיק עבור הרשת
+@msg	Split Into Grid: select paths large enough for the grid	פיצול לרשת: יש לבחור נתיבים גדולים מספיק עבור הרשת
 	Split Into Grid…	פיצול לרשת…
 	Split Path	פיצול נתיב
 	Sponge	ספוג
@@ -4067,7 +4067,7 @@ file-filter	Templates	תבניות
 @msg	this file's PostScript couldn't be read ({why}): {what}	לא ניתן היה לקרוא את ה-PostScript של קובץ זה ({why}): {what}
 @msg	this format holds one artboard: export several as PDF or with document.exportForScreens	תבנית זו מכילה משטח יצירה אחד: ייצא מספר משטחים כ-PDF או באמצעות document.exportForScreens
 @msg	this is a DWG drawing, which can't be read: save it from the CAD app as an ASCII DXF and open that	זהו שרטוט DWG, שלא ניתן לקרוא: שמור אותו מיישום ה-CAD כקובץ ASCII DXF ופתח אותו
-@msg	this is a PostScript file (an .ai saved in an older format or without PDF compatibility, or an EPS file), not a PDF: File › Open and File › Place read it as EPS	זהו קובץ PostScript (קובץ .ai שנשמר בתבנית ישנה יותר או ללא תאימות PDF, או קובץ EPS), לא PDF: קובץ › פתח וקובץ › מקם קוראים אותו כ-EPS
+@msg	this is a PostScript file (an .ai saved in an older format or without PDF compatibility, or an EPS file), not a PDF: File › Open and File › Place read it as EPS	זהו קובץ PostScript (קובץ .ai שנשמר בתבנית ישנה יותר או ללא תאימות PDF, או קובץ EPS), לא PDF: קובץ › פתיחה וקובץ › מיקום קוראים אותו כ-EPS
 @msg	this is a PostScript file (an .ai saved in an older format or without PDF compatibility, or an EPS file), which can't be opened yet: save it as PDF, PDF-compatible .ai or SVG	זהו קובץ PostScript (קובץ .ai שנשמר בתבנית ישנה יותר או ללא תאימות PDF, או קובץ EPS), שעדיין לא ניתן לפתוח: שמור אותו כ-PDF, קובץ .ai תואם PDF או SVG
 @msg	this is not a PostScript file	זה אינו קובץ PostScript
 @msg	this isn't a flat-colour logo ({_1}% of its solid areas match a few flat colours), so Flat Logo mode would turn its gradients into patches: use Color mode instead	זה אינו לוגו בצבעים שטוחים ({_1}% מהאזורים האחידים שלו תואמים למספר צבעים שטוחים), ולכן מצב 'לוגו שטוח' יהפוך את מעברי הצבע שלו לטלאים: השתמש במצב 'צבע' במקום זאת
@@ -4125,7 +4125,7 @@ file-filter	Templates	תבניות
 	Toolbar: Advanced / Basic	סרגל כלים: מתקדם / בסיסי
 	Toolbar: Remove Tool	סרגל כלים: הסרת כלי
 	Toolbar: Reset	סרגל כלים: איפוס
-	Toolbar: Show Controls	סרגל כלים: הצג פקדים
+	Toolbar: Show Controls	סרגל כלים: הצגת פקדים
 	Toolbar: Single/Double Column	סרגל כלים: טור יחיד/כפול
 	Tools take a single key (optionally with Shift)	כלים מקבלים מקש בודד (אופציונלית עם Shift)
 	Top in Front	למעלה מלפנים
@@ -4228,8 +4228,8 @@ diagnostics	ui	ממשק משתמש
 	Unicode (UTF-8)	Unicode (UTF-8)
 	Uniformly Scaled	בקנה מידה אחיד
 	Unique	ייחודי
-	Unite	אחד
-	Unite and Simplify	אחד ופשט
+	Unite	איחוד
+	Unite and Simplify	איחוד ופישוט
 	Units:	יחידות:
 	Units: {units}	יחידות: {units}
 @msg	unknown command `{0}`	פקודה לא ידועה `{0}`

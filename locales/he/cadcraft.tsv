@@ -131,7 +131,7 @@
 	Changes apply at once and are kept for next time.	השינויים חלים מיד ונשמרים לפעם הבאה.
 	Circumference	היקף מעגל
 	Clear Command History	ניקוי היסטוריית פקודות
-	Click the ruler to add a tab stop, right-click to remove one	יש ללחוץ על הסרגל להוספת עצירת טאב, לחץ לחיצה ימנית להסרה
+	Click the ruler to add a tab stop, right-click to remove one	יש ללחוץ על הסרגל להוספת עצירת טאב, וללחוץ לחיצה ימנית להסרה
 	Click to set new origin	יש ללחוץ להגדרת ראשית צירים חדשה
 	Clip	חיתוך
 	Clip Viewport	חיתוך חלון תצוגה
@@ -453,7 +453,7 @@ menu	Draw	ציור
 	Layout {name}: {table}	פריסה {name}: {table}
 	Leader	קו הובלה
 	Leaders Only	קווי הובלה בלבד
-	Left device button: zoom extents. Right device button: calibrate.	לחצן שמאלי בהתקן: הצג גבולות תחום. לחצן ימני בהתקן: כייל.
+	Left device button: zoom extents. Right device button: calibrate.	לחצן שמאלי בהתקן: הצגת גבולות תחום. לחצן ימני בהתקן: כיול.
 	Length X	אורך X
 	Length Y	אורך Y
 	Lengthen	הארכה
@@ -478,7 +478,7 @@ menu	Draw	ציור
 	Loaded linetypes	סוגי קו טעונים
 	Lock Layer	נעילת שכבה
 	Lock viewport	נעילת חלון תצוגה
-	Lock/Unlock	נעל/בטל נעילה
+	Lock/Unlock	נעילה/ביטול נעילה
 	Loft	מעבר צורות (Loft)
 	Ltscale	קנה מידה לסוג קו (Ltscale)
 	Major line every	קו ראשי כל
@@ -656,7 +656,7 @@ menu	Modify	שינוי
 	Quick Select...	בחירה מהירה...
 	QuickCalc	מחשבון מהיר
 	QuickCalc Pick	בחירה למחשבון מהיר
-	Quit CADCraft	צא מ-CADCraft
+	Quit CADCraft	יציאה מ-CADCraft
 	Raster Image	תמונת רסטר
 	Ray	קרן
 	Read-only	לקריאה בלבד
@@ -817,8 +817,8 @@ menu	Modify	שינוי
 	Show Layer List	הצגת רשימת שכבות
 	Show Quick Properties for selected objects	הצגת מאפיינים מהירים עבור אובייקטים נבחרים
 	Show System Cursor	הצגת סמן מערכת
-	Show/Hide Lineweight	הצג/הסתר עובי קו
-	Show/Hide Transparency	הצג/הסתר שקיפות
+	Show/Hide Lineweight	הצגת/הסתרת עובי קו
+	Show/Hide Transparency	הצגת/הסתרת שקיפות
 	Single Line Text	טקסט בשורה אחת
 	Single Point	נקודה בודדת
 	Single...	בודד...
@@ -1009,7 +1009,7 @@ menu	Modify	שינוי
 	There is nothing here yet.	אין כאן דבר עדיין.
 	This drawing	שרטוט זה
 	Time-sensitive right-click: a quick click is Enter, holding opens the menu	לחיצה ימנית תלוית-זמן: לחיצה מהירה היא Enter, החזקה פותחת את התפריט
-	To get started, create or open a drawing.	כדי להתחיל, צור או פתח שרטוט.
+	To get started, create or open a drawing.	כדי להתחיל, ניתן ליצור או לפתוח שרטוט.
 	Toggle PICKADD (off: each pick replaces the selection)	החלפת מצב PICKADD (כבוי: כל בחירה מחליפה את הבחירה הקודמת)
 	Toggle PICKADD (on: picks add to the selection)	החלפת מצב PICKADD (פעיל: בחירות מתווספות לבחירה הקיימת)
 	Tolerance...	סבילות...
