@@ -53,7 +53,7 @@
 	Add: Pick points	הוספה: בחירת נקודות
 	Add: Select objects	הוספה: בחירת אובייקטים
 	Additional angles	זוויות נוספות
-	Align Multileaders	יישר קווי הובלה מרובים
+	Align Multileaders	יישור קווי הובלה מרובים
 	Aligned	מיושר
 	All Annotation Objects	כל אובייקטי ההערות
 	All Scales	כל קני המידה
@@ -66,7 +66,7 @@
 	Annotative Update	עדכון הערות
 	Apparent Intersection	חיתוך מדומה
 	Append to current selection set	הוספה לקבוצת הבחירה הנוכחית
-	Apply true color	החל צבע אמיתי
+	Apply true color	החלת צבע אמיתי
 	Arc Length	אורך קשת
 	Arrange Panel	סדר חלונית
 	Array	מערך
@@ -125,24 +125,24 @@
 	Center, Start, Angle	מרכז, התחלה, זווית
 	Center, Start, End	מרכז, התחלה, סיום
 	Center, Start, Length	מרכז, התחלה, אורך
-	Change Space	שנה מרחב
-	Change to Current Layer	שנה לשכבה הנוכחית
+	Change Space	שינוי מרחב
+	Change to Current Layer	שינוי לשכבה הנוכחית
 	Changed: {n}	שונו: {n}
 	Changes apply at once and are kept for next time.	השינויים חלים מיד ונשמרים לפעם הבאה.
 	Circumference	היקף מעגל
-	Clear Command History	נקה היסטוריית פקודות
-	Click the ruler to add a tab stop, right-click to remove one	לחץ על הסרגל להוספת עצירת טאב, לחץ לחיצה ימנית להסרה
-	Click to set new origin	לחץ להגדרת ראשית צירים חדשה
+	Clear Command History	ניקוי היסטוריית פקודות
+	Click the ruler to add a tab stop, right-click to remove one	יש ללחוץ על הסרגל להוספת עצירת טאב, לחץ לחיצה ימנית להסרה
+	Click to set new origin	יש ללחוץ להגדרת ראשית צירים חדשה
 	Clip	חיתוך
-	Clip Viewport	חתוך חלון תצוגה
-	Close All Other Drawings	סגור את כל השרטוטים האחרים
-	Close Array Editing	סגור עריכת מערך
-	Close Block Editor	סגור עורך בלוקים
-	Close Comparison	סגור השוואה
+	Clip Viewport	חיתוך חלון תצוגה
+	Close All Other Drawings	סגירת כל השרטוטים האחרים
+	Close Array Editing	סגירת עריכת מערך
+	Close Block Editor	סגירת עורך בלוקים
+	Close Comparison	סגירת השוואה
 	Closed	סגור
 	Coincident	מתלכד
-	Collapse Palettes	כווץ לוחות כלים
-	Collapse Tool Sets	כווץ ערכות כלים
+	Collapse Palettes	כיווץ לוחות כלים
+	Collapse Tool Sets	כיווץ ערכות כלים
 	Collect	אסוף
 	Collect Multileaders	אסוף קווי הובלה מרובים
 	Collinear	על ישר אחד
@@ -159,7 +159,7 @@
 	Command line history	היסטוריית שורת פקודה
 	Command Line History Lines	שורות היסטוריה בשורת הפקודה
 	Command Reference	מדריך פקודות
-	Compare Drawings...	השווה שרטוטים...
+	Compare Drawings...	השוואת שרטוטים...
 	Computer-aided design and drafting: an open-source, clean-room CAD application written in pure Rust.	תיכון ושרטוט בעזרת מחשב: יישום CAD בקוד פתוח שנכתב מאפס ב-Rust טהור.
 	Concentric	משותף-מרכז
 	Constraint Bars	סרגלי אילוצים
@@ -168,20 +168,20 @@
 	contains authoring elements. Open in Block Editor?	מכיל רכיבי עריכה. לפתוח בעורך הבלוקים?
 	Contents	תוכן
 	Control Vertices	קודקודי בקרה
-	Convert to Arc	המר לקשת
-	Convert to Line	המר לקו
-	Copy as JSON	העתק כ-JSON
-	Copy Full File Path	העתק נתיב קובץ מלא
-	Copy History	העתק היסטוריה
-	Copy Layout	העתק פריסה
-	Copy Nested Objects	העתק אובייקטים מקוננים
-	Copy Selection	העתק בחירה
-	Copy with Base Point	העתק עם נקודת בסיס
+	Convert to Arc	המרה לקשת
+	Convert to Line	המרה לקו
+	Copy as JSON	העתקה כ-JSON
+	Copy Full File Path	העתקת נתיב קובץ מלא
+	Copy History	העתקת היסטוריה
+	Copy Layout	העתקת פריסה
+	Copy Nested Objects	העתקת אובייקטים מקוננים
+	Copy Selection	העתקת בחירה
+	Copy with Base Point	העתקה עם נקודת בסיס
 	Count	ספירה
 	Count List	רשימת ספירה
 	Count Table	טבלת ספירה
-	Create Block	צור בלוק
-	Create separate hatches	צור קווקווים נפרדים
+	Create Block	יצירת בלוק
+	Create separate hatches	יצירת קווקווים נפרדים
 	Creates a user parameter	יוצר פרמטר משתמש
 	Crosshair size	גודל צלב סימון
 	Crossing selection color:	צבע בחירה חוצה:
@@ -198,8 +198,8 @@
 	Default Save Version	גרסת שמירה כברירת מחדל
 	Default save version	גרסת שמירה כברירת מחדל
 	Default to boundary extents	ברירת מחדל לגבולות התחום
-	Define Attributes	הגדר תכונות
-	Define Attributes...	הגדר תכונות...
+	Define Attributes	הגדרת תכונות
+	Define Attributes...	הגדרת תכונות...
 	Defined width	רוחב מוגדר
 	Degree	מעלה
 	Degrees of Freedom	דרגות חופש
@@ -215,7 +215,7 @@
 	Delete Text Style	מחיקת סגנון טקסט
 	Delta X	דלתא X
 	Delta Y	דלתא Y
-	Detach	נתק
+	Detach	ניתוק
 	Dim style	סגנון מידות
 	Dimension	מידה
 menu	Dimension	מידות
@@ -230,15 +230,15 @@ menu	Dimension	מידות
 	Dimensional Constraint	אילוץ מידתי
 	Dimensional Constraint Parameters	פרמטרים של אילוץ מידתי
 	Dimensional Constraints	אילוצים מידתיים
-	Disassociate Dimensions	בטל שיוך מידות
-	Display plot styles	הצג סגנונות הדפסה
-	Do not plot (click: plot)	אל תדפיס (לחיצה: הדפס)
+	Disassociate Dimensions	ביטול שיוך מידות
+	Display plot styles	הצגת סגנונות הדפסה
+	Do not plot (click: plot)	ללא הדפסה (לחיצה: הדפסה)
 	Donut	טבעת
-	Double-click to edit the description	לחץ לחיצה כפולה לעריכת התיאור
+	Double-click to edit the description	לחיצה כפולה לעריכת התיאור
 	Drafting	שרטוט
 	Drafting Settings	הגדרות שרטוט
 	Drafting Settings...	הגדרות שרטוט...
-	Drag Dynamic Grip	גרור נקודת אחיזה דינמית
+	Drag Dynamic Grip	גרירת נקודת אחיזה דינמית
 menu	Draw	ציור
 	Draw Order	סדר ציור
 	Drawing (DWG)	שרטוט (DWG)
@@ -260,74 +260,74 @@ menu	Draw	ציור
 	Dynamic Input	קלט דינמי
 	Dynamic Input (F12)	קלט דינמי (F12)
 	E	מז'
-	Edit Array	ערוך מערך
-	Edit Attributes...	ערוך תכונות...
-	Edit Block Definition	ערוך הגדרת בלוק
-	Edit Multileader	ערוך קו הובלה מרובה
-	Edit Reference In-Place	ערוך הפניה במקום
-	Edit Table Cell	ערוך תא בטבלה
-	Edit Text...	ערוך טקסט...
+	Edit Array	עריכת מערך
+	Edit Attributes...	יש לערוך תכונות...
+	Edit Block Definition	עריכת הגדרת בלוק
+	Edit Multileader	עריכת קו הובלה מרובה
+	Edit Reference In-Place	עריכת הפניה במקום
+	Edit Table Cell	עריכת תא בטבלה
+	Edit Text...	יש לערוך טקסט...
 	Elliptical Arc	קשת אליפטית
-	Enable 3D mouse navigation	הפעל ניווט עכבר תלת-ממדי
-	Enable Dynamic Input (F12)	הפעל קלט דינמי (F12)
+	Enable 3D mouse navigation	הפעלת ניווט עכבר תלת-ממדי
+	Enable Dynamic Input (F12)	הפעלת קלט דינמי (F12)
 	End angle	זווית סיום
-	End Object Isolation	סיים בידוד אובייקטים
+	End Object Isolation	סיום בידוד אובייקטים
 	End Width	רוחב סיום
 	End X	X סיום
 	End Y	Y סיום
-	Enter a fit data option	הזן אפשרות נתוני התאמה
-	Enter a pattern name	הזן שם תבנית
-	Enter a vertex editing option	הזן אפשרות עריכת קודקוד
-	Enter an option	הזן אפשרות
-	Enter angle of xline	הזן זווית של קו עזר
-	Enter angle of xline (0) or	הזן זווית של קו עזר (0) או
-	Enter area of rectangle in current units	הזן שטח מלבן ביחידות הנוכחיות
-	Enter attribute prompt	הזן הנחיית תכונה
-	Enter attribute tag name	הזן שם תג תכונה
-	Enter attribute value	הזן ערך תכונה
-	Enter block name	הזן שם בלוק
-	Enter constraint type	הזן סוג אילוץ
-	Enter continuity	הזן רציפות
-	Enter default attribute value	הזן ערך ברירת מחדל לתכונה
-	Enter degree of spline	הזן מעלת עקום (Spline)
-	Enter delta angle	הזן זווית דלתא
-	Enter delta length or	הזן אורך דלתא או
-	Enter dimension text	הזן טקסט מידה
-	Enter dimension text (<> = measurement)	הזן טקסט מידה (<> = מדידה)
-	Enter dimension value or [name=expression]	הזן ערך מידה או [name=expression]
-	Enter dimension variable name to override	הזן שם משתנה מידה לדריסה
-	Enter justification type	הזן סוג יישור
-	Enter leader text	הזן טקסט קו הובלה
-	Enter mline scale	הזן קנה מידה של קו מרובה
-	Enter mode	הזן מצב
-	Enter name of block to insert	הזן שם בלוק להוספה
-	Enter new text	הזן טקסט חדש
-	Enter next point	הזן נקודה הבאה
-	Enter number of columns	הזן מספר עמודות
-	Enter number of data rows	הזן מספר שורות נתונים
-	Enter number of items	הזן מספר פריטים
-	Enter number of items along path	הזן מספר פריטים לאורך הנתיב
-	Enter number of sides	הזן מספר צלעות
-	Enter number of turns	הזן מספר כריכות
-	Enter percentage length	הזן אורך באחוזים
-	Enter rectangle length	הזן אורך מלבן
-	Enter rectangle width	הזן רוחב מלבן
-	Enter scale factor	הזן מקדם קנה מידה
-	Enter text	הזן טקסט
-	Enter text (use \\P for new paragraphs)	הזן טקסט (השתמש ב-\\P לפסקאות חדשות)
-	Enter the number of segments	הזן את מספר המקטעים
-	Enter Top, Zero or Bottom.	הזן Top, Zero או Bottom.
-	Enter twist direction of helix	הזן כיוון פיתול של סליל
+	Enter a fit data option	יש להזין אפשרות נתוני התאמה
+	Enter a pattern name	יש להזין שם תבנית
+	Enter a vertex editing option	יש להזין אפשרות עריכת קודקוד
+	Enter an option	יש להזין אפשרות
+	Enter angle of xline	יש להזין זווית של קו עזר
+	Enter angle of xline (0) or	יש להזין זווית של קו עזר (0) או
+	Enter area of rectangle in current units	יש להזין שטח מלבן ביחידות הנוכחיות
+	Enter attribute prompt	יש להזין הנחיית תכונה
+	Enter attribute tag name	יש להזין שם תג תכונה
+	Enter attribute value	יש להזין ערך תכונה
+	Enter block name	יש להזין שם בלוק
+	Enter constraint type	יש להזין סוג אילוץ
+	Enter continuity	יש להזין רציפות
+	Enter default attribute value	יש להזין ערך ברירת מחדל לתכונה
+	Enter degree of spline	יש להזין מעלת עקום (Spline)
+	Enter delta angle	יש להזין זווית דלתא
+	Enter delta length or	יש להזין אורך דלתא או
+	Enter dimension text	יש להזין טקסט מידה
+	Enter dimension text (<> = measurement)	יש להזין טקסט מידה (<> = מדידה)
+	Enter dimension value or [name=expression]	יש להזין ערך מידה או [name=expression]
+	Enter dimension variable name to override	יש להזין שם משתנה מידה לדריסה
+	Enter justification type	יש להזין סוג יישור
+	Enter leader text	יש להזין טקסט קו הובלה
+	Enter mline scale	יש להזין קנה מידה של קו מרובה
+	Enter mode	יש להזין מצב
+	Enter name of block to insert	יש להזין שם בלוק להוספה
+	Enter new text	יש להזין טקסט חדש
+	Enter next point	יש להזין נקודה הבאה
+	Enter number of columns	יש להזין מספר עמודות
+	Enter number of data rows	יש להזין מספר שורות נתונים
+	Enter number of items	יש להזין מספר פריטים
+	Enter number of items along path	יש להזין מספר פריטים לאורך הנתיב
+	Enter number of sides	יש להזין מספר צלעות
+	Enter number of turns	יש להזין מספר כריכות
+	Enter percentage length	יש להזין אורך באחוזים
+	Enter rectangle length	יש להזין אורך מלבן
+	Enter rectangle width	יש להזין רוחב מלבן
+	Enter scale factor	יש להזין מקדם קנה מידה
+	Enter text	יש להזין טקסט
+	Enter text (use \\P for new paragraphs)	יש להזין טקסט (השתמש ב-\\P לפסקאות חדשות)
+	Enter the number of segments	יש להזין את מספר המקטעים
+	Enter Top, Zero or Bottom.	יש להזין Top, Zero או Bottom.
+	Enter twist direction of helix	יש להזין כיוון פיתול של סליל
 	Entire drawing	כל השרטוט
 	Equal	שווה
 	error	שגיאה
-	Evaluate	חשב
-	Evaluate LISP	חשב LISP
-	Exclude from new selection set	הוצא מקבוצת הבחירה החדשה
-	Exclude:	הוצא:
+	Evaluate	חישוב
+	Evaluate LISP	חישוב LISP
+	Exclude from new selection set	הוצאה מקבוצת הבחירה החדשה
+	Exclude:	הוצאה:
 	Explode	פיצוץ
-	Export Table	ייצא טבלה
-	Export to PDF...	ייצא ל-PDF...
+	Export Table	ייצוא טבלה
+	Export to PDF...	יש לייצא ל-PDF...
 	Export...	ייצוא...
 	Extend	הארכה
 	Extension	המשך קו
@@ -387,25 +387,25 @@ menu	Draw	ציור
 	Height: {height}	גובה: {height}
 	Helix	סליל
 	Hemispherical	חצי-כדורי
-	Hide All Constraint Bars	הסתר את כל סרגלי האילוצים
-	Hide All Dynamic Dimensions	הסתר את כל המידות הדינמיות
-	Hide CADCraft	הסתר את CADCraft
-	Hide Layer List	הסתר רשימת שכבות
-	Hide Objects	הסתר אובייקטים
-	Hide Palette	הסתר לוח כלים
-	Hide Palettes	הסתר לוחות כלים
-	Hold Shift to add to the selection	החזק Shift כדי להוסיף לבחירה
+	Hide All Constraint Bars	הסתרת כל סרגלי האילוצים
+	Hide All Dynamic Dimensions	הסתרת כל המידות הדינמיות
+	Hide CADCraft	הסתרת CADCraft
+	Hide Layer List	הסתרת רשימת שכבות
+	Hide Objects	הסתרת אובייקטים
+	Hide Palette	הסתרת לוח כלים
+	Hide Palettes	הסתרת לוחות כלים
+	Hold Shift to add to the selection	יש להחזיק Shift כדי להוסיף לבחירה
 	HorizontalDistance	מרחק אופקי
 	How to apply:	אופן החלה:
 	ID Point	זיהוי נקודה
 	Import...	ייבוא...
 	In	פנימה
 	In-window Menu Bar	סרגל תפריטים בתוך החלון
-	Include in new selection set	כלול בקבוצת הבחירה החדשה
+	Include in new selection set	הכללה בקבוצת הבחירה החדשה
 	Increment angle	זווית קידום
 	Index Color	צבע אינדקס
 	Index color: {index}	צבע אינדקס: {index}
-	Indicate selection area	סמן אזור בחירה
+	Indicate selection area	סימון אזור בחירה
 	Infer Constraints	הסק אילוצים
 	Inquiry	תחקור
 	Insert Block	הוספת בלוק
@@ -418,8 +418,8 @@ menu	Draw	ציור
 	Insertion X	X הוספה
 	Insertion Y	Y הוספה
 	Insertion Z	Z הוספה
-	Inspect Constraints	בדוק אילוצים
-	Inspect Drawing	בדוק שרטוט
+	Inspect Constraints	בדיקת אילוצים
+	Inspect Drawing	בדיקת שרטוט
 	Inspection	בדיקה
 	Interface theme	ערכת נושא לממשק
 	Inverted	הפוך
@@ -471,24 +471,24 @@ menu	Draw	ציור
 	List Layouts	רשימת פריסות
 	List System Variables	רשימת משתני מערכת
 	List Text Styles	רשימת סגנונות טקסט
-	Load all	טען הכול
-	Load Application...	טען יישום...
-	Load...	טען...
+	Load all	טעינת הכול
+	Load Application...	יש לטעון יישום...
+	Load...	טעינה...
 	Loaded	נטען
 	Loaded linetypes	סוגי קו טעונים
-	Lock Layer	נעל שכבה
-	Lock viewport	נעל חלון תצוגה
+	Lock Layer	נעילת שכבה
+	Lock viewport	נעילת חלון תצוגה
 	Lock/Unlock	נעל/בטל נעילה
 	Loft	מעבר צורות (Loft)
 	Ltscale	קנה מידה לסוג קו (Ltscale)
 	Major line every	קו ראשי כל
-	Make Current	הפוך לנוכחי
-	Make it a block of this drawing, keeping its layer names	הפוך לבלוק בשרטוט זה תוך שמירה על שמות השכבות שלו
-	Make it a block of this drawing; its layers become NAME$0$LAYER	הפוך לבלוק בשרטוט זה; השכבות שלו יהפכו ל-NAME$0$LAYER
-	Make Object's Layer Current	הפוך את שכבת האובייקט לנוכחית
-	Make...	צור...
-	Match Layer	התאם שכבה
-	Match Properties	התאם מאפיינים
+	Make Current	הפיכה לנוכחי
+	Make it a block of this drawing, keeping its layer names	הפיכה לבלוק בשרטוט זה תוך שמירה על שמות השכבות שלו
+	Make it a block of this drawing; its layers become NAME$0$LAYER	הפיכה לבלוק בשרטוט זה; השכבות שלו יהפכו ל-NAME$0$LAYER
+	Make Object's Layer Current	הפיכת שכבת האובייקט לנוכחית
+	Make...	יצירה...
+	Match Layer	התאמת שכבה
+	Match Properties	התאמת מאפיינים
 	Measure Distance	מדוד מרחק
 	Measure Geometry	מדוד גאומטריה
 	Mid Between 2 Points	אמצע בין 2 נקודות
@@ -500,7 +500,7 @@ menu	Draw	ציור
 	Modeling	מידול
 menu	Modify	שינוי
 	More toolbar commands	פקודות נוספות בסרגל הכלים
-	Move sideways to pan; push/pull or twist to zoom.	הזז הצידה להזזת התצוגה; דחוף/משוך או סובב לשינוי מרחק התצוגה.
+	Move sideways to pan; push/pull or twist to zoom.	יש להזיז הצידה להזזת התצוגה; לדחוף/למשוך או לסובב לשינוי מרחק התצוגה.
 	MText	טקסט מרובה שורות (MText)
 	Multileader	קו הובלה מרובה
 	Multileader style	סגנון קו הובלה מרובה
@@ -564,14 +564,14 @@ menu	Modify	שינוי
 	One of the Crafting Apps by the ArtCraft team and community.	אחד מיישומי היצירה מבית צוות ArtCraft והקהילה.
 	Only in this drawing: {n}	רק בשרטוט זה: {n}
 	Only in {name}: {n}	רק ב-{name}: {n}
-	Open (⌘O)	פתח (⌘O)
-	Open a drawing first.	פתח שרטוט תחילה.
+	Open (⌘O)	פתיחה (⌘O)
+	Open a drawing first.	יש לפתוח שרטוט תחילה.
 	Open and Save	פתיחה ושמירה
-	Open in Block Editor	פתח בעורך הבלוקים
-	Open Sample Drawing	פתח שרטוט לדוגמה
-	Open sample drawing	פתח שרטוט לדוגמה
-	Open Xref	פתח הפניה חיצונית (Xref)
-	Open...	פתח...
+	Open in Block Editor	פתיחה בעורך הבלוקים
+	Open Sample Drawing	פתיחת שרטוט לדוגמה
+	Open sample drawing	פתיחת שרטוט לדוגמה
+	Open Xref	פתיחת הפניה חיצונית (Xref)
+	Open...	פתיחה...
 	Operator:	אופרטור:
 	Options...	אפשרויות...
 	Orbit	סיבוב במסלול (Orbit)
@@ -589,24 +589,24 @@ menu	Modify	שינוי
 	Page Setup Manager	מנהל הגדרת עמוד
 	Page Setup Manager...	מנהל הגדרת עמוד...
 	Pan	הזזת תצוגה
-	Pan Down	הזז תצוגה למטה
-	Pan Left	הזז תצוגה שמאלה
-	Pan Right	הזז תצוגה ימינה
+	Pan Down	הזזת תצוגה למטה
+	Pan Left	הזזת תצוגה שמאלה
+	Pan Right	הזזת תצוגה ימינה
 	Pan sensitivity	רגישות הזזת תצוגה
-	Pan Up	הזז תצוגה למעלה
+	Pan Up	הזזת תצוגה למעלה
 	PAPER	נייר
 	Paper Space	מרחב נייר
 	Parallel	מקביל
 	Parameters Manager	מנהל פרמטרים
 	Parametric	פרמטרי
-	Paste as Block	הדבק כבלוק
-	Paste to Command Line	הדבק לשורת הפקודה
-	Paste to Original Coordinates	הדבק לקואורדינטות המקוריות
+	Paste as Block	הדבקה כבלוק
+	Paste to Command Line	הדבקה לשורת הפקודה
+	Paste to Original Coordinates	הדבקה לקואורדינטות המקוריות
 	Path Array	מערך נתיב
 	Perpendicular	מאונך
 	Pickbox size	גודל תיבת בחירה
 	Plot	הדפסת שרטוט (Plot)
-	Plot (click: do not plot)	הדפס (לחיצה: אל תדפיס)
+	Plot (click: do not plot)	הדפסה (לחיצה: ללא הדפסה)
 	Plot Preview	תצוגה מקדימה להדפסה
 	Plot style	סגנון הדפסה
 	Plot style attached to	סגנון הדפסה משויך אל
@@ -662,42 +662,42 @@ menu	Modify	שינוי
 	Read-only	לקריאה בלבד
 	Realtime	זמן אמת
 	Reassociate Dimensions	שייך מידות מחדש
-	Recalculate Table Formulas	חשב מחדש נוסחאות טבלה
+	Recalculate Table Formulas	חישוב מחדש של נוסחאות טבלה
 	Recent Commands	פקודות אחרונות
 	Recent Input	קלט אחרון
 	Recover...	שחזור...
 	Rectangular Array	מערך מלבני
 	Rectangular snap	הצמדה מלבנית
-	Redo (⇧⌘Z)	בצע שוב (⇧⌘Z)
+	Redo (⇧⌘Z)	ביצוע מחדש (⇧⌘Z)
 	Redraw	צייר מחדש
 	Reference Manager	מנהל הפניות
 	Reference Name	שם הפניה
 	References: {n}	הפניות: {n}
 	Regen	רענון שרטוט (Regen)
-	Regen All	רענן הכול
+	Regen All	רענון הכול
 	Region	אזור
 	Region/Mass Properties	מאפייני אזור/מסה
 	Reinitialize	אתחל מחדש
 	Relative to last segment	יחסית למקטע האחרון
-	Release the 3D mouse to calibrate its resting position	שחרר את העכבר התלת-ממדי לכיול מצב המנוחה שלו
-	Reload All	טען הכול מחדש
+	Release the 3D mouse to calibrate its resting position	יש לשחרר את העכבר התלת-ממדי לכיול מצב המנוחה שלו
+	Reload All	טעינת הכול מחדש
 	Remove Leader	הסרת קו הובלה
 	Remove the viewport override	הסרת דריסת חלון התצוגה
 	Remove Vertex	הסרת קודקוד
-	Rename Dimension Style	שנה שם סגנון מידות
-	Rename Layer	שנה שם שכבה
-	Rename Layer State	שנה שם מצב שכבות
-	Rename Layout	שנה שם פריסה
-	Rename Text Style	שנה שם סגנון טקסט
-	Rename...	שנה שם...
+	Rename Dimension Style	שינוי שם סגנון מידות
+	Rename Layer	שינוי שם שכבה
+	Rename Layer State	שינוי שם מצב שכבות
+	Rename Layout	שינוי שם פריסה
+	Rename Text Style	שינוי שם סגנון טקסט
+	Rename...	יש לשנות שם...
 	Repeat {command}	חזור על {command}
 	Requires a point (x,y, @dx,dy or @d<a).	נדרשת נקודה (x,y, @dx,dy או @d<a).
 	Reset keeps the interface language.	האיפוס שומר על שפת הממשק.
-	Reset Palettes	אפס לוחות כלים
-	Reset Panel Layout	אפס פריסת חלוניות
-	Reset to Defaults	אפס לברירות מחדל
-	Restore Layer State	שחזר מצב שכבות
-	Reverse zoom direction	הפוך כיוון התקרבות/התרחקות
+	Reset Palettes	איפוס לוחות כלים
+	Reset Panel Layout	איפוס פריסת חלוניות
+	Reset to Defaults	שחזור ברירות מחדל
+	Restore Layer State	שחזור מצב שכבות
+	Reverse zoom direction	היפוך כיוון התקרבות/התרחקות
 	Revision Cloud	ענן מהדורה
 	Revolve	סיבוב סביב ציר (Revolve)
 	Run Script...	הרץ סקריפט...
@@ -714,77 +714,77 @@ menu	Modify	שינוי
 	Scale List...	רשימת קני מידה...
 	Screen magnifiers, screen readers and recorders follow the system cursor.	זכוכיות מגדלת למסך, קוראי מסך ומקליטים עוקבים אחר סמן המערכת.
 	Screening	סינון עוצמת דיו (Screening)
-	Search for layer	חפש שכבה
-	Search for parameter	חפש פרמטר
-	Search for pattern	חפש תבנית
+	Search for layer	חיפוש שכבה
+	Search for parameter	חיפוש פרמטר
+	Search for pattern	חיפוש תבנית
 	Second and next points:	נקודה שנייה והנקודות הבאות:
-	Select 2D polyline	בחר קו רב-קטעי דו-ממדי
-	Select a 2D polyline.	בחר קו רב-קטעי דו-ממדי.
-	Select a block reference.	בחר הפניית בלוק.
-	Select a circle or arc.	בחר מעגל או קשת.
-	Select a closed polyline	בחר קו רב-קטעי סגור
-	Select a closed polyline, circle, ellipse or closed spline.	בחר קו רב-קטעי סגור, מעגל, אליפסה או עקום סגור.
-	Select a closed polyline.	בחר קו רב-קטעי סגור.
-	Select a curve as the path.	בחר עקומה כנתיב.
-	Select a dimension constraint type	בחר סוג אילוץ מידתי
-	Select a line object	בחר אובייקט קו
-	Select a line object.	בחר אובייקט קו.
-	Select a line or an arc.	בחר קו או קשת.
-	Select a line or polyline segment	בחר קו או מקטע קו רב-קטעי
-	Select a line, arc or open polyline.	בחר קו, קשת או קו רב-קטעי פתוח.
-	Select a line, arc, circle, polyline, ellipse or spline as the path.	בחר קו, קשת, מעגל, קו רב-קטעי, אליפסה או עקום כנתיב.
-	Select a line, circle, arc or polyline segment.	בחר קו, מעגל, קשת או מקטע קו רב-קטעי.
-	Select a line.	בחר קו.
-	Select a polyline.	בחר קו רב-קטעי.
-	Select a text, mtext, attribute definition or dimension.	בחר טקסט, טקסט מרובה שורות, הגדרת תכונה או מידה.
-	Select an annotation object	בחר אובייקט הערה
-	Select an arc or circle	בחר קשת או מעגל
-	Select an arc.	בחר קשת.
-	Select an object	בחר אובייקט
-	Select an object to change or	בחר אובייקט לשינוי או
-	Select an object to measure or	בחר אובייקט למדידה או
-	Select an object.	בחר אובייקט.
-	Select an open curve.	בחר עקומה פתוחה.
-	Select an open line, arc, polyline, ellipse arc or spline.	בחר קו פתוח, קשת, קו רב-קטעי, קשת אליפטית או עקום.
-	Select arc or circle	בחר קשת או מעגל
-	Select arc or polyline arc segment	בחר קשת או מקטע קשת של קו רב-קטעי
-	Select arc style	בחר סגנון קשת
-	Select arc, circle, line	בחר קשת, מעגל, קו
-	Select at least two objects to join.	בחר לפחות שני אובייקטים לחיבור.
-	Select circle or arc to add center mark	בחר מעגל או קשת להוספת סימן מרכז
-	Select closed objects (regions, closed polylines, circles).	בחר אובייקטים סגורים (אזורים, קווים רב-קטעיים סגורים, מעגלים).
-	Select first line	בחר קו ראשון
-	Select first line or arc	בחר קו ראשון או קשת ראשונה
-	Select first object	בחר אובייקט ראשון
-	Select first object or	בחר אובייקט ראשון או
-	Select first point	בחר נקודה ראשונה
-	Select nested objects to copy or	בחר אובייקטים מקוננים להעתקה או
-	Select object	בחר אובייקט
-	Select object to dimension	בחר אובייקט למתן מידה
-	Select object to divide	בחר אובייקט לחלוקה
-	Select object to extend or shift-select to trim	בחר אובייקט להארכה או בחר עם Shift לקיצוץ
-	Select object to measure	בחר אובייקט למדידה
-	Select object to offset	בחר אובייקט להיסט
-	Select object to trim or shift-select to extend	בחר אובייקט לקיצוץ או בחר עם Shift להארכה
-	Select objects	בחר אובייקטים
-	Select objects (crossing window first corner)	בחר אובייקטים (פינה ראשונה של חלון חוצה)
-	Select objects first, then choose a command	בחר אובייקטים תחילה, ולאחר מכן בחר פקודה
-	Select objects to array.	בחר אובייקטים ליצירת מערך.
-	Select objects to stretch by crossing-window or crossing-polygon...	בחר אובייקטים למתיחה באמצעות חלון חוצה או מצולע חוצה...
-	Select objects:	בחר אובייקטים:
-	Select one polyline (Multiple is available through the JSON form).	בחר קו רב-קטעי אחד (בחירה מרובה זמינה דרך תבנית JSON).
-	Select path curve	בחר עקומת נתיב
-	Select point or object	בחר נקודה או אובייקט
-	Select polyline or	בחר קו רב-קטעי או
-	Select second line	בחר קו שני
-	Select second line or shift-select to apply corner	בחר קו שני או בחר עם Shift ליצירת פינה
-	Select second object	בחר אובייקט שני
-	Select second object or shift-select to apply corner	בחר אובייקט שני או בחר עם Shift ליצירת פינה
-	Select second point	בחר נקודה שנייה
-	Select Similar	בחר דומים
-	Select spline	בחר עקום (Spline)
-	Select symmetry line	בחר קו סימטריה
-	Select two points	בחר שתי נקודות
+	Select 2D polyline	בחירת קו רב-קטעי דו-ממדי
+	Select a 2D polyline.	יש לבחור קו רב-קטעי דו-ממדי.
+	Select a block reference.	יש לבחור הפניית בלוק.
+	Select a circle or arc.	יש לבחור מעגל או קשת.
+	Select a closed polyline	בחירת קו רב-קטעי סגור
+	Select a closed polyline, circle, ellipse or closed spline.	יש לבחור קו רב-קטעי סגור, מעגל, אליפסה או עקום סגור.
+	Select a closed polyline.	יש לבחור קו רב-קטעי סגור.
+	Select a curve as the path.	יש לבחור עקומה כנתיב.
+	Select a dimension constraint type	בחירת סוג אילוץ מידתי
+	Select a line object	בחירת אובייקט קו
+	Select a line object.	יש לבחור אובייקט קו.
+	Select a line or an arc.	יש לבחור קו או קשת.
+	Select a line or polyline segment	בחירת קו או מקטע קו רב-קטעי
+	Select a line, arc or open polyline.	יש לבחור קו, קשת או קו רב-קטעי פתוח.
+	Select a line, arc, circle, polyline, ellipse or spline as the path.	יש לבחור קו, קשת, מעגל, קו רב-קטעי, אליפסה או עקום כנתיב.
+	Select a line, circle, arc or polyline segment.	יש לבחור קו, מעגל, קשת או מקטע קו רב-קטעי.
+	Select a line.	יש לבחור קו.
+	Select a polyline.	יש לבחור קו רב-קטעי.
+	Select a text, mtext, attribute definition or dimension.	יש לבחור טקסט, טקסט מרובה שורות, הגדרת תכונה או מידה.
+	Select an annotation object	בחירת אובייקט הערה
+	Select an arc or circle	בחירת קשת או מעגל
+	Select an arc.	יש לבחור קשת.
+	Select an object	בחירת אובייקט
+	Select an object to change or	יש לבחור אובייקט לשינוי או
+	Select an object to measure or	יש לבחור אובייקט למדידה או
+	Select an object.	יש לבחור אובייקט.
+	Select an open curve.	יש לבחור עקומה פתוחה.
+	Select an open line, arc, polyline, ellipse arc or spline.	יש לבחור קו פתוח, קשת, קו רב-קטעי, קשת אליפטית או עקום.
+	Select arc or circle	בחירת קשת או מעגל
+	Select arc or polyline arc segment	בחירת קשת או מקטע קשת של קו רב-קטעי
+	Select arc style	בחירת סגנון קשת
+	Select arc, circle, line	בחירת קשת, מעגל, קו
+	Select at least two objects to join.	יש לבחור לפחות שני אובייקטים לחיבור.
+	Select circle or arc to add center mark	יש לבחור מעגל או קשת להוספת סימן מרכז
+	Select closed objects (regions, closed polylines, circles).	יש לבחור אובייקטים סגורים (אזורים, קווים רב-קטעיים סגורים, מעגלים).
+	Select first line	בחירת קו ראשון
+	Select first line or arc	בחירת קו ראשון או קשת ראשונה
+	Select first object	בחירת אובייקט ראשון
+	Select first object or	בחירת אובייקט ראשון או
+	Select first point	בחירת נקודה ראשונה
+	Select nested objects to copy or	יש לבחור אובייקטים מקוננים להעתקה או
+	Select object	בחירת אובייקט
+	Select object to dimension	בחירת אובייקט למתן מידה
+	Select object to divide	בחירת אובייקט לחלוקה
+	Select object to extend or shift-select to trim	יש לבחור אובייקט להארכה או לבחור עם Shift לקיצוץ
+	Select object to measure	בחירת אובייקט למדידה
+	Select object to offset	בחירת אובייקט להיסט
+	Select object to trim or shift-select to extend	יש לבחור אובייקט לקיצוץ או לבחור עם Shift להארכה
+	Select objects	בחירת אובייקטים
+	Select objects (crossing window first corner)	בחירת אובייקטים (פינה ראשונה של חלון חוצה)
+	Select objects first, then choose a command	יש לבחור אובייקטים תחילה, ולאחר מכן לבחור פקודה
+	Select objects to array.	יש לבחור אובייקטים ליצירת מערך.
+	Select objects to stretch by crossing-window or crossing-polygon...	יש לבחור אובייקטים למתיחה באמצעות חלון חוצה או מצולע חוצה...
+	Select objects:	בחירת אובייקטים:
+	Select one polyline (Multiple is available through the JSON form).	יש לבחור קו רב-קטעי אחד (בחירה מרובה זמינה דרך תבנית JSON).
+	Select path curve	בחירת עקומת נתיב
+	Select point or object	בחירת נקודה או אובייקט
+	Select polyline or	בחירת קו רב-קטעי או
+	Select second line	בחירת קו שני
+	Select second line or shift-select to apply corner	יש לבחור קו שני או לבחור עם Shift ליצירת פינה
+	Select second object	בחירת אובייקט שני
+	Select second object or shift-select to apply corner	יש לבחור אובייקט שני או לבחור עם Shift ליצירת פינה
+	Select second point	בחירת נקודה שנייה
+	Select Similar	בחירת דומים
+	Select spline	בחירת עקום (Spline)
+	Select symmetry line	בחירת קו סימטריה
+	Select two points	בחירת שתי נקודות
 	Selection Area Effect	אפקט אזור בחירה
 	Selection area opacity:	אטימות אזור בחירה:
 	Selection Cycling	מחזור בחירה
@@ -792,31 +792,31 @@ menu	Modify	שינוי
 	Selection modes	מצבי בחירה
 	Selection preview	תצוגה מקדימה של בחירה
 	Selection Preview Filter	מסנן תצוגה מקדימה של בחירה
-	Send Hatches to Back	העבר קווקווים לרקע
-	Send Under Objects	העבר מתחת לאובייקטים
-	Set Current	הגדר כנוכחי
-	Set Current Dimension Style	הגדר סגנון מידות נוכחי
-	Set Current Text Style	הגדר סגנון טקסט נוכחי
-	Set Current Viewport	הגדר חלון תצוגה נוכחי
-	Set Dynamic Property	הגדר מאפיין דינמי
-	Set Layer Properties	הגדר מאפייני שכבה
-	Set Properties	הגדר מאפיינים
-	Set Table Cell	הגדר תא בטבלה
-	Set Table Cell Style	הגדר סגנון תא בטבלה
-	Set Variable	הגדר משתנה
-	Set View	הגדר תצוגה
+	Send Hatches to Back	העברת קווקווים לרקע
+	Send Under Objects	העברה מתחת לאובייקטים
+	Set Current	הגדרת כנוכחי
+	Set Current Dimension Style	הגדרת סגנון מידות נוכחי
+	Set Current Text Style	הגדרת סגנון טקסט נוכחי
+	Set Current Viewport	הגדרת חלון תצוגה נוכחי
+	Set Dynamic Property	הגדרת מאפיין דינמי
+	Set Layer Properties	הגדרת מאפייני שכבה
+	Set Properties	הגדרת מאפיינים
+	Set Table Cell	הגדרת תא בטבלה
+	Set Table Cell Style	הגדרת סגנון תא בטבלה
+	Set Variable	הגדרת משתנה
+	Set View	הגדרת תצוגה
 	Settings...	הגדרות...
 	Sheet Books to PDF...	ספרי גיליונות ל-PDF...
-	Show All Constraint Bars	הצג את כל סרגלי האילוצים
-	Show All Dynamic Dimensions	הצג את כל המידות הדינמיות
-	Show and hide the tools of this category	הצג והסתר את הכלים של קטגוריה זו
-	Show Annotative Objects	הצג אובייקטי הערות
-	Show command prompting near the crosshairs	הצג הנחיות פקודה ליד צלב הסימון
-	Show grips	הצג נקודות אחיזה
-	Show in Tool Sets	הצג בערכות כלים
-	Show Layer List	הצג רשימת שכבות
-	Show Quick Properties for selected objects	הצג מאפיינים מהירים עבור אובייקטים נבחרים
-	Show System Cursor	הצג סמן מערכת
+	Show All Constraint Bars	הצגת כל סרגלי האילוצים
+	Show All Dynamic Dimensions	הצגת כל המידות הדינמיות
+	Show and hide the tools of this category	הצגה והסתרה של הכלים בקטגוריה זו
+	Show Annotative Objects	הצגת אובייקטי הערות
+	Show command prompting near the crosshairs	הצגת הנחיות פקודה ליד צלב הסימון
+	Show grips	הצגת נקודות אחיזה
+	Show in Tool Sets	הצגה בערכות כלים
+	Show Layer List	הצגת רשימת שכבות
+	Show Quick Properties for selected objects	הצגת מאפיינים מהירים עבור אובייקטים נבחרים
+	Show System Cursor	הצגת סמן מערכת
 	Show/Hide Lineweight	הצג/הסתר עובי קו
 	Show/Hide Transparency	הצג/הסתר שקיפות
 	Single Line Text	טקסט בשורה אחת
@@ -982,9 +982,9 @@ menu	Modify	שינוי
 	Style: Standard	סגנון: רגיל
 	SVG drawings (SVG, SVGZ)	שרטוטי SVG (SVG, SVGZ)
 	Sweep	סחיפה (Sweep)
-	Switch between model space in a viewport and paper space	החלף בין מרחב מודל בחלון תצוגה לבין מרחב נייר
-	Switch Drawing	החלף שרטוט
-	Switch Layout	החלף פריסה
+	Switch between model space in a viewport and paper space	מעבר בין מרחב מודל בחלון תצוגה לבין מרחב נייר
+	Switch Drawing	החלפת שרטוט
+	Switch Layout	החלפת פריסה
 	Symmetric	סימטרי
 	Synchronize Attributes	סנכרן תכונות
 	Synchronize Multiple-scale Positions	סנכרן מיקומים בקני מידה מרובים
@@ -1010,8 +1010,8 @@ menu	Modify	שינוי
 	This drawing	שרטוט זה
 	Time-sensitive right-click: a quick click is Enter, holding opens the menu	לחיצה ימנית תלוית-זמן: לחיצה מהירה היא Enter, החזקה פותחת את התפריט
 	To get started, create or open a drawing.	כדי להתחיל, צור או פתח שרטוט.
-	Toggle PICKADD (off: each pick replaces the selection)	החלף מצב PICKADD (כבוי: כל בחירה מחליפה את הבחירה הקודמת)
-	Toggle PICKADD (on: picks add to the selection)	החלף מצב PICKADD (פעיל: בחירות מתווספות לבחירה הקיימת)
+	Toggle PICKADD (off: each pick replaces the selection)	החלפת מצב PICKADD (כבוי: כל בחירה מחליפה את הבחירה הקודמת)
+	Toggle PICKADD (on: picks add to the selection)	החלפת מצב PICKADD (פעיל: בחירות מתווספות לבחירה הקיימת)
 	Tolerance...	סבילות...
 	Tool Bar	סרגל כלים
 	Tool Sets	ערכות כלים
@@ -1020,36 +1020,36 @@ menu	Modify	שינוי
 	Top right	למעלה מימין
 	Torus	טורוס
 	Trace	עקיבה (Trace)
-	Track orthogonally only	עקוב אורתוגונלית בלבד
-	Track using all polar angle settings	עקוב באמצעות כל הגדרות הזווית הקוטבית
+	Track orthogonally only	מעקב אורתוגונלי בלבד
+	Track using all polar angle settings	מעקב באמצעות כל הגדרות הזווית הקוטבית
 	Trim	קיצוץ
 	True Color	צבע אמיתי
-	Turn All Layers On	הפעל את כל השכבות
-	Turn Off Layer	כבה שכבה
-	Turn On Layer	הפעל שכבה
-	Turn Quick Properties off (QPMODE)	כבה מאפיינים מהירים (QPMODE)
+	Turn All Layers On	הפעלת כל השכבות
+	Turn Off Layer	כיבוי שכבה
+	Turn On Layer	הפעלת שכבה
+	Turn Quick Properties off (QPMODE)	כיבוי מאפיינים מהירים (QPMODE)
 	Turned off, a right-click while a command runs always opens the shortcut menu.	כאשר אפשרות זו כבויה, לחיצה ימנית בזמן ריצת פקודה תמיד פותחת את תפריט הקיצור.
 	Type a command	הקלד פקודה
 	Type text; Enter starts a new paragraph	הקלד טקסט; Enter מתחיל פסקה חדשה
 	UCS Icon	סמל UCS
-	Undo (⌘Z)	בטל (⌘Z)
-	Unisolate Layer	בטל בידוד שכבה
+	Undo (⌘Z)	ביטול פעולה (⌘Z)
+	Unisolate Layer	ביטול בידוד שכבה
 	Units Conversion	המרת יחידות
 	Units...	יחידות...
 	Unload	פרוק
 	Unloaded	פרוק
-	Unlock Layer	בטל נעילת שכבה
-	Unlock viewport	בטל נעילת חלון תצוגה
-	Unmerge Cells	בטל מיזוג תאים
+	Unlock Layer	ביטול נעילת שכבה
+	Unlock viewport	ביטול נעילת חלון תצוגה
+	Unmerge Cells	ביטול מיזוג תאים
 	Unreferenced	ללא הפניה
 	Unresolved	לא פתור
 	Unsaved Layer State	מצב שכבות שלא נשמר
-	Update Data Links	עדכן קישורי נתונים
-	Use current origin	השתמש בראשית הנוכחית
-	Use for this layout	השתמש עבור פריסה זו
-	Use object linetype	השתמש בסוג הקו של האובייקט
-	Use object lineweight	השתמש בעובי הקו של האובייקט
-	Use System Setting	השתמש בהגדרת המערכת
+	Update Data Links	עדכון קישורי נתונים
+	Use current origin	שימוש בראשית הנוכחית
+	Use for this layout	שימוש עבור פריסה זו
+	Use object linetype	שימוש בסוג הקו של האובייקט
+	Use object lineweight	שימוש בעובי הקו של האובייקט
+	Use System Setting	שימוש בהגדרת המערכת
 	User Parameters	פרמטרי משתמש
 	User Preferences	העדפות משתמש
 	Version 2000	גרסה 2000
@@ -1082,13 +1082,13 @@ menu	View	תצוגה
 	Wipeout	מיסוך (Wipeout)
 	Working Set	ערכת עבודה
 	Workspace Switching	החלפת סביבת עבודה
-	Write Block	כתוב בלוק לקובץ
+	Write Block	כתיבת בלוק לקובץ
 	Xline	קו עזר אינסופי (Xline)
 	Xref and Block In-place Editing	עריכת הפניה חיצונית ובלוק במקום
 	Xrefs	הפניות חיצוניות (Xrefs)
-	Zoom All	הצג הכול
+	Zoom All	הצגת הכול
 	Zoom Dynamic	מרחק תצוגה דינמי
-	Zoom Extents	הצג גבולות תחום
+	Zoom Extents	הצגת גבולות תחום
 	Zoom Object	התמקד באובייקט
 	Zoom Previous	תצוגה קודמת
 	Zoom Realtime	מרחק תצוגה בזמן אמת
@@ -1115,7 +1115,7 @@ menu	View	תצוגה
 	Enter delta length	הזינו את השינוי באורך
 	Find All	חיפוש הכול
 	Find what:	חיפוש אחר:
-	Match case	התאמה של אותיות רישיות וקטנות
+	Match case	התאמת רישיות
 	Named Viewports...	אשנבי תצוגה בעלי שם...
 	Nothing found	לא נמצאו תוצאות
 	Oops	אופס
