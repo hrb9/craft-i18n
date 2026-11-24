@@ -303,3 +303,80 @@ wordcraft	Writing and document design	כתיבה ועיצוב מסמכים
 	{name} was installed from the {repo} repository or the AUR ({pkg}). Update it with your AUR helper (for example: yay -S {pkg}) or sudo pacman -Syu	היישום {name} הותקן ממאגר {repo} או מ־AUR ({pkg}). כדי לעדכן אותו, יש להשתמש בכלי העזר ל־AUR (למשל: yay -S {pkg}) או בפקודה sudo pacman -Syu
 	{name} was installed from the AUR ({pkg}). Update it with {cmd}	היישום {name} הותקן מ־AUR ({pkg}). כדי לעדכן אותו, יש להפעיל {cmd}
 	{name} was installed from the AUR ({pkg}). Update it with your AUR helper (for example: yay -S {pkg})	היישום {name} הותקן מ־AUR ({pkg}). כדי לעדכן אותו, יש להשתמש בכלי העזר ל־AUR (למשל: yay -S {pkg})
+
+# Pre-release and nightly UI (craft-launcher@d2d19f8)
+	Enable pre-release builds	הפעלת גרסאות מוקדמות
+	Enable pre-release builds?	להפעיל גרסאות מוקדמות?
+	Install pre-release	התקנת גרסה מוקדמת
+	New builds as the apps evolve. Stable copies stay separate.	גרסאות חדשות ככל שהיישומים מתפתחים. הגרסאות היציבות נשארות נפרדות.
+	No pre-release build is available yet.	עדיין אין גרסה מוקדמת זמינה.
+	Only this pre-release copy will be removed. Stable copies and user data are kept.	רק עותק זה של הגרסה המוקדמת יוסר. הגרסאות היציבות ונתוני המשתמש יישמרו.
+	Only verified, isolated builds are installable. Turning this off never deletes installed copies or their data.	ניתן להתקין רק גרסאות מאומתות ומבודדות. כיבוי אפשרות זו אינו מוחק עותקים מותקנים או את הנתונים שלהם.
+	Open stable	פתיחת הגרסה היציבה
+	Pre-Release	גרסאות מוקדמות
+	Pre-release builds are off. Installed copies and their data are kept.	גרסאות מוקדמות מושבתות. העותקים המותקנים והנתונים שלהם נשמרים.
+	Pre-release installation is unavailable on this platform.	לא ניתן להתקין גרסאות מוקדמות בפלטפורמה זו.
+	Show installed copy	הצגת העותק המותקן
+	Stable	יציבות
+	These are pre-release builds. They will have issues and may lose work.	אלו גרסאות מוקדמות. צפויות בהן תקלות, ועבודה עלולה ללכת לאיבוד.
+	They install separately with separate settings. Keep backups: files saved by a newer build may not open in stable versions.	הן מותקנות בנפרד, עם הגדרות משלהן. מומלץ לשמור גיבויים: ייתכן שקבצים שנשמרו בגרסה חדשה יותר לא ייפתחו בגרסאות יציבות.
+	Try nightly builds	התנסות בגרסאות ליליות
+	Turn off pre-release builds	כיבוי גרסאות מוקדמות
+	Uninstall pre-release	הסרת גרסה מוקדמת
+	Uninstall pre-release?	להסיר את הגרסה המוקדמת?
+	Uninstall pre-release…	הסרת גרסה מוקדמת…
+	Pre-release builds are off.	גרסאות מוקדמות מושבתות.
+	Installed copies and their data are kept. To discover new builds, enable pre-release builds in Settings.	העותקים המותקנים והנתונים שלהם נשמרים. כדי לגלות גרסאות חדשות, יש להפעיל גרסאות מוקדמות בהגדרות.
+	Installed pre-release copy	עותק מותקן של גרסה מוקדמת
+	Nightly builds use a separate install and settings. Stable updates stay unchanged.	לגרסאות הליליות התקנה והגדרות נפרדות. העדכונים לגרסאות היציבות אינם משתנים.
+	Could not check for pre-release builds.	לא ניתן היה לבדוק אם יש גרסאות מוקדמות.
+	No pre-release builds are available yet.	עדיין אין גרסאות מוקדמות זמינות.
+	The pre-release channel is updated automatically every night with the latest code. It may have bugs, performance and stability issues, and unfinished work. Please use the stable channel for important work.	ערוץ הגרסאות המוקדמות מתעדכן אוטומטית מדי לילה בקוד העדכני ביותר. ייתכנו בו באגים, בעיות ביצועים ויציבות ותכונות שטרם הושלמו. לעבודה חשובה מומלץ להשתמש בערוץ היציב.
+	Pre-release builds let you try new work early, but they will have bugs and may lose unsaved work.	גרסאות מוקדמות מאפשרות להתנסות בפיתוחים חדשים לפני השחרור, אך יהיו בהן באגים ועבודה שלא נשמרה עלולה ללכת לאיבוד.
+	They install alongside your stable apps with their own settings and data, leaving your stable setup untouched. Always back up important files before opening them in a pre-release build, as newer saves may not open in stable versions.	הן מותקנות לצד היישומים היציבים, עם הגדרות ונתונים משלהן, מבלי לשנות את סביבת העבודה היציבה. יש לגבות תמיד קבצים חשובים לפני פתיחתם בגרסה מוקדמת, משום שקבצים שנשמרו בגרסאות חדשות יותר עלולים שלא להיפתח בגרסאות יציבות.
+	You can turn this off at any time without deleting your installed pre-release apps or their data.	ניתן לכבות אפשרות זו בכל עת מבלי למחוק יישומים מוקדמים שהותקנו או את הנתונים שלהם.
+	{month}/{day}/{year}	{day}/{month}/{year}
+	Nightly builds	גרסאות ליליות
+	Discover nightly builds (Pre-Release page)	איתור גרסאות ליליות (דף גרסאות מוקדמות)
+	Separate installs, settings and data. Turning this off keeps installed copies and their data.	התקנות, הגדרות ונתונים נפרדים. כיבוי אפשרות זו משאיר את העותקים המותקנים ואת הנתונים שלהם.
+	Pre-release builds aren't available on this platform yet.	גרסאות מוקדמות עדיין אינן זמינות בפלטפורמה זו.
+	Betas and release candidates can replace your stable installation.	גרסאות בטא ומועמדות לשחרור עשויות להחליף את ההתקנה היציבה.
+	Previous verified result is stale. Check again before installing.	התוצאה המאומתת הקודמת אינה עדכנית עוד. יש לבדוק שוב לפני ההתקנה.
+	Last verified: {ago}	אימות אחרון: {ago}
+	Last attempt: {ago}	ניסיון אחרון: {ago}
+	Retry available in {minutes} min	ניתן לנסות שוב בעוד {minutes} דקות
+	Nightly	גרסה לילית
+	Nightly (none published yet)	גרסה לילית (טרם פורסמה)
+	Enable automatic installs in Settings to follow new nightly builds.	יש להפעיל התקנות אוטומטיות בהגדרות כדי לקבל גרסאות ליליות חדשות.
+	Check for updates	בדיקת עדכונים
+	Settings	הגדרות
+	Waiting for another download…	ממתין לסיום הורדה אחרת…
+	just now	זה עתה
+	yesterday	אתמול
+
+# Developer Builds rename (craft-launcher#1604; pending upstream)
+	Enable developer builds	הפעלת גרסאות פיתוח
+	Enable developer builds?	להפעיל גרסאות פיתוח?
+	Install developer build	התקנת גרסת פיתוח
+	No developer build is available yet.	עדיין אין גרסת פיתוח זמינה.
+	Only this developer build will be removed. Stable copies and user data are kept.	רק גרסת פיתוח זו תוסר. הגרסאות היציבות ונתוני המשתמש יישמרו.
+	Developer Builds	גרסאות פיתוח
+	Developer Build	גרסת פיתוח
+	Developer builds are off. Installed copies and their data are kept.	גרסאות פיתוח מושבתות. העותקים המותקנים והנתונים שלהם נשמרים.
+	Developer build installation is unavailable on this platform.	לא ניתן להתקין גרסאות פיתוח בפלטפורמה זו.
+	These are developer builds. They will have issues and may lose work.	אלו גרסאות פיתוח. צפויות בהן תקלות, ועבודה עלולה ללכת לאיבוד.
+	Turn off developer builds	כיבוי גרסאות פיתוח
+	Uninstall developer build	הסרת גרסת פיתוח
+	Uninstall developer build?	להסיר את גרסת הפיתוח?
+	Uninstall developer build…	הסרת גרסת פיתוח…
+	Developer builds are off.	גרסאות פיתוח מושבתות.
+	Installed copies and their data are kept. To discover new builds, enable developer builds in Settings.	העותקים המותקנים והנתונים שלהם נשמרים. כדי לגלות גרסאות חדשות, יש להפעיל גרסאות פיתוח בהגדרות.
+	Installed developer build	גרסת פיתוח מותקנת
+	Could not check for developer builds.	לא ניתן היה לבדוק אם יש גרסאות פיתוח.
+	No developer builds are available yet.	עדיין אין גרסאות פיתוח זמינות.
+	The developer channel is updated automatically every night with the latest code. It may have bugs, performance and stability issues, and unfinished work. Please use the stable channel for important work.	ערוץ גרסאות הפיתוח מתעדכן אוטומטית מדי לילה בקוד העדכני ביותר. ייתכנו בו באגים, בעיות ביצועים ויציבות ותכונות שטרם הושלמו. לעבודה חשובה מומלץ להשתמש בערוץ היציב.
+	Developer builds let you try new work early, but they will have bugs and may lose unsaved work.	גרסאות פיתוח מאפשרות להתנסות בפיתוחים חדשים לפני השחרור, אך יהיו בהן באגים ועבודה שלא נשמרה עלולה ללכת לאיבוד.
+	They install alongside your stable apps with their own settings and data, leaving your stable setup untouched. Always back up important files before opening them in a developer build, as newer saves may not open in stable versions.	הן מותקנות לצד היישומים היציבים, עם הגדרות ונתונים משלהן, מבלי לשנות את סביבת העבודה היציבה. יש לגבות תמיד קבצים חשובים לפני פתיחתם בגרסת פיתוח, משום שקבצים שנשמרו בגרסאות חדשות יותר עלולים שלא להיפתח בגרסאות יציבות.
+	You can turn this off at any time without deleting your installed developer builds or their data.	ניתן לכבות אפשרות זו בכל עת מבלי למחוק גרסאות פיתוח מותקנות או את הנתונים שלהן.
+	Discover nightly builds (Developer Builds page)	איתור גרסאות ליליות (דף גרסאות פיתוח)
+	Developer builds aren't available on this platform yet.	גרסאות פיתוח עדיין אינן זמינות בפלטפורמה זו.
