@@ -57,7 +57,7 @@
 	Adjustments	התאמות
 	Advanced settings	הגדרות מתקדמות
 	Aligned: the offset set by the first stroke is kept. V + click sets a new source.	מיושר: ההיסט שנקבע במשיכה הראשונה נשמר. V + לחיצה מגדיר מקור חדש.
-	Alignment and culling	יישור והשמטה (Culling)
+	Alignment and culling	יישור והסתרת פאות
 	All layers	כל השכבות
 	Alpha	אלפא
 	Alphas	מפות אלפא
@@ -94,7 +94,7 @@
 	BBox	תיבת תיחום (BBox)
 	BSphere	כדור תיחום (BSphere)
 	Back to painting	חזרה לציור
-	Backface culling	השמטת פאות אחוריות
+	Backface culling	הסתרת פאות אחוריות
 	Bake Mesh Maps	אפיית מפות רשת
 	Bake Selected Textures ({n})	אפיית טקסטורות נבחרות ({n})
 	Bake an ID map (F8) to pick colors from the mesh.	אפה מפת מזהים (F8) כדי לדגום צבעים מהרשת.
@@ -119,7 +119,7 @@
 	Blur	טשטוש
 	Blur Directional	טשטוש כיווני
 	Blur and sharpen	טשטוש וחידוד
-	Bounces	החזרות
+	Bounces	החזרי אור
 	Bricks	לבנים
 	Brightness	בהירות
 	Brush	מברשת
@@ -140,7 +140,7 @@
 	Camera	מצלמה
 	Camera settings	הגדרות מצלמה
 	Cancel the stroke	ביטול המשיכה
-	Cavities	חללים (Cavities)
+	Cavities	שקעים
 	Cell size (texels at 2K)	גודל תא (טקסלים ב-2K)
 	Cells	תאים
 	Change them in Texture Set Settings	ניתן לשנות אותם בהגדרות ערכת הטקסטורות
@@ -167,7 +167,7 @@
 	Coat normal	נורמל ציפוי
 	Coat roughness	חספוס ציפוי
 	Coat weight	משקל ציפוי
-	Color Balance	איזון צבע
+	Color Balance	איזון צבעים
 	Color Generator	מחולל צבע
 	Color Source	מקור צבע
 	Color burn	הכהיית צבע (Color Burn)
@@ -213,7 +213,7 @@
 	Couldn't read the render back from the GPU	לא ניתן היה לקרוא את הרינדור חזרה מה-GPU
 	Couldn't save the render: {error}	לא ניתן היה לשמור את הרינדור: {error}
 	Couldn't save {name}: {error}	לא ניתן היה לשמור את {name}: {error}
-	Count	ספירה
+	Count	מספר
 	Count per stamp	כמות להחתמה
 	Crate	ארגז
 	Create smart material	יצירת חומר חכם
@@ -246,16 +246,16 @@
 	Details saved to {file}	הפרטים נשמרו אל {file}
 	Difference	הבדל (Difference)
 	Dilation + default background color	הרחבה + צבע רקע ברירת מחדל
-	Dilation + transparent	הרחבה + שקוף
+	Dilation + transparent	הרחבה + שקיפות
 	Dilation Width	רוחב הרחבה
-	Dilation infinite	הרחבה אינסופית
+	Dilation infinite	הרחבה ללא הגבלה
 	DirectX normal map	מפת נורמלים DirectX
 	Dirt	לכלוך
 	Disable	השבת
 	Dismiss	סגירה
 	Displacement (height channel)	תזוזה (ערוץ גובה)
 	Display Settings	הגדרות תצוגה
-	Display material	חומר תצוגה
+	Display material	הצגת חומר
 	Display next channel	הצגת ערוץ הבא
 	Display next mesh map	הצגת מפת רשת הבאה
 	Display previous channel	הצגת ערוץ קודם
@@ -288,7 +288,7 @@
 	Edge Distance	מרחק קצוות
 	Edge Protection	הגנת קצוות
 	Edges	קצוות
-	Edges and cavities	קצוות וחללים
+	Edges and cavities	קצוות ושקעים
 	Edit	עריכה
 	Edit keyboard shortcuts...	עריכת קיצורי מקלדת...
 	Edit quick mask	עריכת מסכה מהירה
@@ -333,13 +333,13 @@
 	Fill only polygons the camera sees (3D view)	מילוי מצולעים שהמצלמה רואה בלבד (תצוגת 3D)
 	Fill the closed path (lasso)	מילוי הנתיב הסגור (לאסו)
 	Fill the path (close it first)	מילוי הנתיב (יש לסגור אותו תחילה)
-	Filter	סינון
+	Filter	מסנן
 	Filter the remaining noise while keeping edges and texture detail	סינון הרעש הנותר תוך שמירה על קצוות ופרטי טקסטורה
 	Filters	מסננים
 	Fine noise	רעש עדין
 	Fingerprints	טביעות אצבע
 	Fit the input range to the histogram	התאמת טווח הקלט להיסטוגרמה
-	Flatten layer	שטח שכבה
+	Flatten layer	שיטוח שכבה
 	Flips the image's green channel, for normal maps made with Y pointing down	הופך את הערוץ הירוק של התמונה, עבור מפות נורמלים שנוצרו עם ציר Y כלפי מטה
 	Flow	זרימה
 	Flow and opacity	זרימה ואטימות
@@ -401,8 +401,8 @@
 	Hide all	הסתרת הכול
 	Hide while painting	הסתרה בזמן ציור
 	High	גבוהה
-	High Definition Mesh (HP)	רשת בהפרדה גבוהה (HP)
-	High Pass	מעבר עליון
+	High Definition Mesh (HP)	רשת עתירת מצולעים (HP)
+	High Pass	מסנן מעבר גבוה
 	High Poly Mesh Suffix	סיומת רשת עתירת פוליגונים
 	High Poly Scene	סצנה עתירת פוליגונים
 	High poly: {name}	עתיר פוליגונים: {name}
@@ -439,8 +439,8 @@
 	Imported {name}	{name} יובא
 	Include in Bake	כלול באפייה
 	Index of refraction	מקדם שבירה
-	Input high	קלט גבוה
-	Input low	קלט נמוך
+	Input high	גבול קלט עליון
+	Input low	גבול קלט תחתון
 	Input maps	מפות קלט
 	Insert a variable	הוספת משתנה
 	Instance	מופע (Instance)
@@ -457,15 +457,15 @@
 	Invert show/hide	היפוך הצגה/הסתרה
 	Jitters	רעידות (Jitters)
 	Join the ArtCraft community on Discord	הצטרפו לקהילת ArtCraft ב-Discord
-	Join the community (Discord)...	הצטרף לקהילה (Discord)...
+	Join the community (Discord)...	הצטרפות לקהילה (Discord)...
 	Key light (shadow-casting light, direct only)	אור מפתח (אור מטיל צל, ישיר בלבד)
 	Keyboard	מקלדת
 	Keyboard shortcuts	קיצורי מקלדת
 	LMB	לחצן שמאלי (LMB)
 	Layer mask	מסכת שכבה
 	Layer memory: {mb} MB	זיכרון שכבות: {mb} מ"ב
-	Lazy mouse	עכבר משוחרר (Lazy mouse)
-	Lazy mouse distance	מרחק עכבר משוחרר
+	Lazy mouse	ייצוב תנועת העכבר
+	Lazy mouse distance	מרחק ייצוב העכבר
 	Leather grain	מרקם עור
 	Lens size: how quickly things blur away from the focus distance	גודל עדשה: באיזו מהירות פרטים מיטשטשים מעבר למרחק המיקוד
 	Level	רמה
@@ -522,7 +522,7 @@
 	Medium dark	כהה בינוני
 	Medium light	בהיר בינוני
 	Mesh ID	מזהה רשת
-	Mesh Map Bakers	אופי מפות רשת
+	Mesh Map Bakers	כלי אפיית מפות רשת
 	Mesh Map Settings	הגדרות מפות רשת
 	Mesh Normals Based	לפי נורמלי הרשת
 	Mesh fill	מילוי רשת
@@ -558,7 +558,7 @@
 	No UV tiles	אין אריחי UV
 	No font on this system can show this language	אף גופן במערכת זו אינו תומך בשפה זו
 	No outputs yet: add one above, then drag input maps onto its channels.	אין יציאות עדיין: יש להוסיף אחת למעלה ולגרור מפות קלט לערוציה.
-	No padding (passthrough)	ללא ריפוד (מעבר ישיר)
+	No padding (passthrough)	ללא הרחבת שוליים (מעבר ללא שינוי)
 	No recent projects yet	אין פרויקטים אחרונים עדיין
 	Noise amount	כמות רעש
 	Noise scale	קנה מידת רעש
@@ -570,7 +570,7 @@
 	Normal map detail	פירוט מפת נורמלים
 	Normal map format	פורמט מפת נורמלים
 	Normal map inverse detail	היפוך פירוט מפת נורמלים
-	Normal: painting uses the flat normal	רגיל: הציור משתמש בנורמל השטוח
+	Normal: painting uses the flat normal	נורמל: הצביעה משתמשת בנורמל השטוח
 	Normalization	נרמול
 	Normalization Scale	קנה מידת נרמול
 	Normalization Type	סוג נרמול
@@ -595,8 +595,8 @@
 	Orthographic	אורתוגרפי
 	Output Size	גודל פלט
 	Output directory	תיקיית יעד
-	Output high	פלט גבוה
-	Output low	פלט נמוך
+	Output high	גבול פלט עליון
+	Output low	גבול פלט תחתון
 	Output template	תבנית פלט
 	Output templates	תבניות פלט
 	Overlay	שכבת-על (Overlay)
@@ -604,11 +604,11 @@
 	PBR - Metallic Roughness (TextureCraft)	PBR - מתכתיות וחספוס (TextureCraft)
 	PNG image	תמונת PNG
 	PROJECT SETTINGS	הגדרות פרויקט
-	Padding	ריפוד (Padding)
+	Padding	הרחבת שוליים
 	Paint	ציור
 	Paint Cage	ציור כלוב
 	Paint Skew Correction	ציור תיקון עיוות
-	Paint chips	שבבי צבע
+	Paint chips	קילופי צבע
 	Paint layer	שכבת ציור
 	Paint on the mesh to edit the layer content.	ציור על הרשת לעריכת תוכן השכבה.
 	Paint on the mesh to edit this mask. Use the Material tab's mask value for gray.	ציור על הרשת לעריכת מסכה זו. ניתן להשתמש בערך המסכה בלשונית החומר לקבלת אפור.
@@ -635,7 +635,7 @@
 	Per Material	לכל חומר
 	Perlin noise	רעש פרלין (Perlin)
 	Perspective	פרספקטיבה
-	Pick color	דגום צבע
+	Pick color	דגימת צבע
 	Pick focus in the viewport	בחירת מוקד באזור התצוגה
 	Pin light	אור סיכה (Pin Light)
 	Pink	ורוד
@@ -663,7 +663,7 @@
 	Projects and meshes	פרויקטים ורשתות
 	Quarter	רבע
 	Quick mask	מסכה מהירה
-	Quit	צא
+	Quit	יציאה
 	RENDERING	רינדור
 	Radial settings	הגדרות סימטריה רדיאלית
 	Radial symmetry	סימטריה רדיאלית
@@ -701,15 +701,15 @@
 	Remove this output	הסרת פלט זה
 	Remove unused resources...	הסרת משאבים שאינם בשימוש...
 	Rename the selected template	שינוי שם התבנית הנבחרת
-	Render on the CPU	רנדר ב-CPU
+	Render on the CPU	רינדור במעבד (CPU)
 	Rendering	רינדור
-	Rendering (path traced)	רינדור (מעקב קרניים)
+	Rendering (path traced)	רינדור (עקיבת נתיבים)
 	Rendering on CPU: {n} / {max} samples, {s} s	מרנדר ב-CPU: {n} / {max} דגימות, {s} ש'
 	Rendering on GPU: {n} / {max} samples, {s} s	מרנדר ב-GPU: {n} / {max} דגימות, {s} ש'
 	Rendering, path traced	רינדור, מעקב קרניים
 	Replace Color	החלפת צבע
 	Replacement color	צבע מחליף
-	Report a bug...	דווח על תקלה...
+	Report a bug...	דיווח על תקלה...
 	Rescan the library folder	סריקה מחדש של תיקיית הספרייה
 	Reset Painted Cage	איפוס כלוב מצויר
 	Reset UI	איפוס ממשק משתמש
@@ -724,7 +724,7 @@
 	Return to this step	חזרה לשלב זה
 	Right-click a layer > Create smart material	לחיצה ימנית על שכבה > יצירת חומר חכם
 	Rotation (degrees)	סיבוב (מעלות)
-	Roughness	גסות (Roughness)
+	Roughness	חספוס
 	Roughness from glossiness	חספוס מתוך ברק
 	Round	עגול
 	Rounded cube	קובייה מעוגלת פינות
@@ -809,7 +809,7 @@
 	Smart materials	חומרים חכמים
 	Smooth	חלק
 	Smudge	מריחה
-	Soft light	רך בהיר
+	Soft light	אור רך
 	Softness	רכות
 	Source	מקור
 	Source  U {u}  V {v}	מקור  U {u}  V {v}

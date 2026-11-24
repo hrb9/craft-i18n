@@ -378,3 +378,11 @@ TextureCraft's `ui-egui/src/i18n` tables.
 Also adds five info-icon tooltip and note strings of the same window (the mesh path, Select..., Normal map
 format and UV tile hints, and the note that choosing or reimporting a mesh recomputes all channels) to the same nine
 catalogs, with the same AI-assisted origin and no native-speaker review.
+
+
+### Hebrew consolidation follow-up (AniCraft and TextureCraft)
+
+- AniCraft additions and selected wording corrections: based on @nocturney’s original Hebrew contributions in [#239](https://github.com/storytold/craft-i18n/pull/239) (head 0e594dde377bc62056d9d11dc679493dda5452a9).
+- TextureCraft wording corrections: based on @nocturney’s original Hebrew contributions in [#260](https://github.com/storytold/craft-i18n/pull/260) (head 0e9bdd9b52cc0ba09a0148ef7ebb61c433279cff).
+- Consolidation base: [#326](https://github.com/storytold/craft-i18n/pull/326), retaining the translations and prior review contributions of @hrb9 and @yonatan-langer83. English keys checked against AniCraft 837c3edfd69956a41c1bda21db2718a67dfb5ee6 and TextureCraft 998e68da74dcf02af767b3a0a84451fe075796d0.
+- AI-assisted translation and review; wording derived from English source meaning and code context, not copied from other products. The new consolidation draft has not yet received native-speaker or in-app review.
