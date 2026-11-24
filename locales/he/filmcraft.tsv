@@ -56,7 +56,7 @@
 	4-Color Gradient	מעבר 4 צבעים
 	5.1 Media	מדיה 5.1
 	5.1 Mixdown Type	סוג מיקס 5.1
-	5.1 panner (drag the puck; double-click: front centre)	פאנר 5.1 (גרור את הסמן; לחיצה כפולה: מרכז קדמי)
+	5.1 panner (drag the puck; double-click: front centre)	פאנר 5.1 (יש לגרור את הסמן; לחיצה כפולה: מרכז קדמי)
 	50-300mm Zoom	זום 50-300 מ״מ
 	59.94 fps Drop-Frame	59.94 פריימים/שנייה עם דילוג פריימים (Drop-Frame)
 	59.94 fps Non Drop-Frame	59.94 פריימים/שנייה ללא דילוג פריימים (Non Drop-Frame)
@@ -212,7 +212,7 @@
 	Att	הנחתה
 	Attach Proxies…	צרף קובצי פרוקסי…
 	Attack	זמן תקיפה (Attack)
-	Attempt to force hardware to document sample rate	נסה לאלץ את החומרה לקצב הדגימה של המסמך
+	Attempt to force hardware to document sample rate	ניסיון לאלץ את החומרה לקצב הדגימה של המסמך
 	Audio analysis:	ניתוח שמע:
 	Audio Attributes	תכונות שמע
 	Audio Bitrate	קצב סיביות שמע
@@ -908,9 +908,9 @@
 	Exported graphics template to {path}	תבנית הגרפיקה יוצאה אל {path}
 	Exporting	מייצא
 	Exporting {path}	מייצא את {path}
-	Extend Next Edit To Playhead	הארך את העריכה הבאה עד סמן הניגון
-	Extend Previous Edit To Playhead	הארך את העריכה הקודמת עד סמן הניגון
-	Extend Selected Edit to Playhead	הארך את העריכה הנבחרת עד סמן הניגון
+	Extend Next Edit To Playhead	הארכת העריכה הבאה עד סמן הניגון
+	Extend Previous Edit To Playhead	הארכת העריכה הקודמת עד סמן הניגון
+	Extend Selected Edit to Playhead	הארכת העריכה הנבחרת עד סמן הניגון
 	Extend Selection Down	הרחבת בחירה למטה
 	Extend Selection Left	הרחבת בחירה שמאלה
 	Extend Selection Right	הרחבת בחירה ימינה
@@ -1086,7 +1086,7 @@
 	Glow Radius	רדיוס זוהר
 	Glow Saturation	רוויית זוהר
 	Glow Width	רוחב זוהר
-	Go Back	חזור אחורה
+	Go Back	חזרה אחורה
 	Go Forward	התקדם קדימה
 	Go to Gap	עבור למרווח
 	Go to In	עבור לנקודת כניסה
@@ -1482,7 +1482,7 @@
 	Mask Only	מסכה בלבד
 	Master Amplitude	משרעת ראשית
 	Master Gain	הגבר ראשי
-	Master volume: use the Audio Track Mixer	עוצמת שמע ראשית: השתמש במערבל ערוצי השמע
+	Master volume: use the Audio Track Mixer	עוצמת שמע ראשית: יש להשתמש במערבל ערוצי השמע
 	Master · {name}	ראשי · {name}
 	Mastering	מאסטרינג
 	Match file properties:	התאמת מאפייני קובץ:
@@ -1708,7 +1708,7 @@
 	no GPU adapter: the CPU compositor is used	אין מתאם GPU: נעשה שימוש במשלב ה-CPU
 	no Japanese font is installed on this system; the interface stays in English	לא מותקן גופן יפני במערכת זו; הממשק נשאר באנגלית
 	no Korean font is installed on this system; the interface stays in English	לא מותקן גופן קוריאני במערכת זו; הממשק נשאר באנגלית
-	No markers. Press M to add one.	אין סמנים. הקש M להוספת סמן.
+	No markers. Press M to add one.	אין סמנים. יש להקיש M להוספת סמן.
 	No matching captions.	אין כתוביות תואמות.
 	No model credits were built into this copy.	לא נכללו קרדיטים של מודלים בעותק זה.
 	No Motion	ללא תנועה
@@ -1847,7 +1847,7 @@
 	Paint Surface	משטח ציור
 	Pan	צידוד (Pan)
 	Pan (Y Axis)	צידוד (ציר Y)
-	Pan / balance (drag; double-click: centre)	צידוד / איזון (גרור; לחיצה כפולה: מרכז)
+	Pan / balance (drag; double-click: centre)	צידוד / איזון (יש לגרור; לחיצה כפולה: מרכז)
 	Panel shortcuts override application shortcuts while that panel has focus	קיצורי דרך של חלונית דורסים את קיצורי הדרך של היישום כאשר החלונית פעילה
 	Panel Wipe	מחיקת לוח
 	Panner	פאנר (Panner)
@@ -1861,7 +1861,7 @@
 	Passband Ripple	אדווה בפס המעבר
 	Paste Attributes	הדבקת תכונות
 	Paste Attributes…	הדבקת תכונות…
-	Paste Insert	הדבקת בהכנסה
+	Paste Insert	הדבקה בהוספה
 	Path Points	נקודות נתיב
 	Path: {path}	נתיב: {path}
 	Pause Media Encoder queue during playback	השהיית תור קידוד מדיה במהלך הניגון
@@ -2101,7 +2101,7 @@
 	Render Audio	רנדר שמע
 	Render audio clip effects	רנדר אפקטים של קליפי שמע
 	Render audio when rendering video	רנדר שמע בעת רינדור וידאו
-	Render Edit in Audition files to:	רנדר קובצי 'ערוך ב-Audition' אל:
+	Render Edit in Audition files to:	רינדור קובצי 'עריכה ב-Audition' אל:
 	Render Effects In to Out	רנדר אפקטים מנקודת הכניסה עד היציאה
 	Render In to Out	רנדר מנקודת הכניסה עד היציאה
 	Render Selection	רנדר בחירה
@@ -2231,7 +2231,7 @@
 	Scan Lines	קווי סריקה
 	Scene	סצנה
 	Scene Edit Detection	זיהוי מעברי סצנה
-	Scene Edit Detection: analysing in the background (see Progress)	זיהוי מעברי סצנה: מנתח ברקע (ראה התקדמות)
+	Scene Edit Detection: analysing in the background (see Progress)	זיהוי מעברי סצנה: מתבצע ניתוח ברקע (ראו התקדמות)
 	Scene Edit Detection…	זיהוי מעברי סצנה…
 	Scene:	סצנה:
 	Scientific Filter	מסנן מדעי
@@ -2735,9 +2735,9 @@
 	Trim Forward	קצץ קדימה
 	Trim Forward Many	קצץ קדימה משמעותית
 	Trim In	קצץ כניסה
-	Trim Next Edit to Playhead	קצץ את העריכה הבאה עד סמן הניגון
+	Trim Next Edit to Playhead	קיצוץ העריכה הבאה עד סמן הניגון
 	Trim Out	קצץ יציאה
-	Trim Previous Edit to Playhead	קצץ את העריכה הקודמת עד סמן הניגון
+	Trim Previous Edit to Playhead	קיצוץ העריכה הקודמת עד סמן הניגון
 	Trimming	קיצוץ
 	Trim…	קיצוץ…
 	True Peak Limit	גבול שיא אמיתי (True Peak)
@@ -2755,7 +2755,7 @@
 	Twirl Center	מרכז סחרור
 	Twirl Radius	רדיוס סחרור
 	Twist Smoother	החלקת פיתול
-	Type a shortcut… (Esc cancels)	הקלד קיצור דרך… (Esc לביטול)
+	Type a shortcut… (Esc cancels)	יש להקליד קיצור דרך… (Esc לביטול)
 	UI Scale	קנה מידה של הממשק
 	UI:	ממשק:
 	Ultra Key	אולטרה קי (Ultra Key)
@@ -2870,7 +2870,7 @@
 	Voice-over take discarded	טייק הקריינות בוטל
 	Voiceover	קריינות
 	Volume	עוצמת שמע
-	Volume (drag; double-click: 0 dB)	עוצמת שמע (גרור; לחיצה כפולה: 0 dB)
+	Volume (drag; double-click: 0 dB)	עוצמת שמע (יש לגרור; לחיצה כפולה: 0 dB)
 	Volumetric Rays	קרניים נפחיות
 	VR Blur	טשטוש VR
 	VR Chroma Leaks	דליפות כרומה VR
@@ -3020,10 +3020,10 @@
 	Delete the dimmed actions after the current state? They cannot be redone.	למחוק את הפעולות המעומעמות שאחרי המצב הנוכחי? לא ניתן יהיה לבצע אותן מחדש.
 	Duration: {tc}	משך: {tc}
 	End: {tc}	סיום: {tc}
-	H.265 (HEVC) needs a hardware encoder (NVENC on NVIDIA GPUs, VideoToolbox on macOS); none was found on this machine, and FilmCraft has no software H.265 encoder yet. Choose H.264 or ProRes instead.	H.265 (HEVC) דורש מקודד חומרה (NVENC בכרטיסי NVIDIA או VideoToolbox ב־macOS); לא נמצא מקודד כזה במחשב הזה, ול־FilmCraft עדיין אין מקודד H.265 תוכנתי. בחרו H.264 או ProRes במקום זאת.
+	H.265 (HEVC) needs a hardware encoder (NVENC on NVIDIA GPUs, VideoToolbox on macOS); none was found on this machine, and FilmCraft has no software H.265 encoder yet. Choose H.264 or ProRes instead.	H.265 (HEVC) דורש מקודד חומרה (NVENC בכרטיסי NVIDIA או VideoToolbox ב־macOS); לא נמצא מקודד כזה במחשב הזה, ול־FilmCraft עדיין אין מקודד H.265 תוכנתי. יש לבחור H.264 או ProRes במקום זאת.
 	No matching text.	לא נמצא טקסט תואם.
-	No text graphics in this sequence. Add text with the Type tool.	אין גרפיקת טקסט ברצף הזה. הוסיפו טקסט באמצעות כלי הטקסט.
-	Open a sequence to search its graphics	פתחו רצף כדי לחפש בגרפיקה שלו
+	No text graphics in this sequence. Add text with the Type tool.	אין גרפיקת טקסט ברצף הזה. יש להוסיף טקסט באמצעות כלי הטקסט.
+	Open a sequence to search its graphics	יש לפתוח רצף כדי לחפש בגרפיקה שלו
 	Reset Interface Zoom	איפוס קנה המידה של הממשק
 	Show Duplicate Frame Markers	הצגת סמנים של פריימים כפולים
 	Start: {tc}	התחלה: {tc}

@@ -147,7 +147,7 @@ swatch	[Registration]	[רישום (Registration)]
 @msg	`aspect` must be a number (%)	`aspect` חייב להיות מספר (%)
 @msg	`at` must be [x, y]	`at` חייב להיות [x, y]
 @msg	`color` must be a colour	`color` חייב להיות צבע
-@msg	`command` must be a command whose menu item opens a dialog (see ui.menuDialog)	`command` חייב להיות פקודה שפריט התפריט שלה פותח תיבת דו-שיח (ראה ui.menuDialog)
+@msg	`command` must be a command whose menu item opens a dialog (see ui.menuDialog)	`command` חייב להיות פקודה שפריט התפריט שלה פותח תיבת דו-שיח (ראו ui.menuDialog)
 @msg	`corners` must be an array of anchor indices, not {v}	`corners` חייב להיות מערך של אינדקסי עוגנים, לא {v}
 @msg	`dither` applies to gradient fills (paint.setFill)	`dither` חל על מילויי מעבר צבע (paint.setFill)
 @msg	`dither` applies to gradient fills (stroke: false)	`dither` חל על מילויי מעבר צבע (stroke: false)
@@ -157,19 +157,19 @@ swatch	[Registration]	[רישום (Registration)]
 @msg	`gradient` must be an object	`gradient` חייב להיות אובייקט
 @msg	`id` is the step reference {r}, which only `run` and `command_batch` resolve	`id` הוא הפניית הצעד {r}, שרק `run` ו-`command_batch` מפענחים
 @msg	`ids` must be an array of object ids, not {v}	`ids` חייב להיות מערך של מזהי אובייקטים, לא {v}
-@msg	`library` is a library id or name (see {list})	`library` הוא מזהה או שם של ספרייה (ראה {list})
+@msg	`library` is a library id or name (see {list})	`library` הוא מזהה או שם של ספרייה (ראו {list})
 @msg	`method` must be classic or perceptual	`method` חייב להיות classic או perceptual
 @msg	`mode` applies to freeform gradients	`mode` חל על מעברי צבע חופשיים
 @msg	`mode` must be grayscale, rgb, hsb, cmyk or websafe	`mode` חייב להיות grayscale, rgb, hsb, cmyk או websafe
 @msg	`sampleSize` must be 1, 3 or 5	`sampleSize` חייב להיות 1, 3 או 5
 @msg	`stops` must be an array	`stops` חייב להיות מערך
-@msg	`svg` must be an object of SVG options (see document.formats)	`svg` חייב להיות אובייקט של אפשרויות SVG (ראה document.formats)
+@msg	`svg` must be an object of SVG options (see document.formats)	`svg` חייב להיות אובייקט של אפשרויות SVG (ראו document.formats)
 @msg	`to` must be "corner" or "smooth"	`to` חייב להיות "corner" או "smooth"
 @msg	`{_1}` is no save command	`{_1}` אינה פקודת שמירה
 @msg	`{area}` is no recovery area name	`{area}` אינו שם אזור שחזור
 @msg	`{color}` is not a colour (#rrggbb or a preset name)	`{color}` אינו צבע (#rrggbb או שם מוגדר מראש)
 @msg	`{file}` isn't a VectorCraft document, a PDF or a PDF-compatible .ai file	`{file}` אינו מסמך VectorCraft, קובץ PDF או קובץ .ai תואם-PDF
-@msg	`{given}` isn't a library panel (see window.swatchLibrary)	`{given}` אינה חלונית ספרייה (ראה window.swatchLibrary)
+@msg	`{given}` isn't a library panel (see window.swatchLibrary)	`{given}` אינה חלונית ספרייה (ראו window.swatchLibrary)
 @msg	`{id}` has no envelope dialog	ל-`{id}` אין תיבת דו-שיח של מעטפת
 @msg	`{keep}` is not a side of this axis	`{keep}` אינו צד של ציר זה
 @msg	`{key}` must be `auto` or a language code such as `en` or `zh-hant`	`{key}` חייב להיות `auto` או קוד שפה כגון `en` או `zh-hant`
@@ -186,7 +186,7 @@ swatch	[Registration]	[רישום (Registration)]
 @msg	`{key}` must be true or false	`{key}` חייב להיות true או false
 @msg	`{k}` must be [x, y]	`{k}` חייב להיות [x, y]
 @msg	`{name}` has no options	ל-`{name}` אין אפשרויות
-@msg	`{name}` is a built-in workspace; choose another name	`{name}` היא סביבת עבודה מובנית; בחר שם אחר
+@msg	`{name}` is a built-in workspace; choose another name	`{name}` היא סביבת עבודה מובנית; יש לבחור שם אחר
 @msg	`{name}` is a process colour: tints apply to global and spot colours	`{name}` הוא צבע פרוצס: גוונים חלים על צבעים גלובליים וצבעי ספוט
 @msg	`{name}` is no recovery entry name	`{name}` אינו שם רשומת שחזור
 @msg	`{name}` isn't a colour swatch	`{name}` אינה דוגמית צבע
@@ -210,7 +210,7 @@ swatch	[Registration]	[רישום (Registration)]
 @msg	a colour is an index, #rrggbb or a preset name, not {v}	צבע הוא אינדקס, #rrggbb או שם מוגדר מראש, לא {v}
 @msg	a document needs at least one artboard	מסמך חייב להכיל לפחות משטח יצירה אחד
 @msg	a document needs at least one layer	מסמך חייב להכיל לפחות שכבה אחת
-	A file dialog is open: choose there first	תיבת דו-שיח של קובץ פתוחה: בחר שם תחילה
+	A file dialog is open: choose there first	תיבת דו-שיח של קובץ פתוחה: יש לבחור שם תחילה
 	A File per Object	קובץ לכל אובייקט
 	A File…	קובץ…
 @msg	a freeform gradient keeps at least one point	מעבר צבע חופשי שומר על נקודה אחת לפחות
@@ -355,7 +355,7 @@ swatch	Amber	ענבר
 @msg	an image whose data is cut short was left out	תמונה שהנתונים שלה קטועים הושמטה
 @msg	an object can't be read	לא ניתן לקרוא אובייקט
 @msg	an object in perspective would leave the edited grid	אובייקט בפרספקטיבה יחרוג מהרשת הנערכת
-@msg	An object takes one 3D effect. Edit the existing effect's options, or remove it first.	אובייקט יכול לקבל אפקט תלת-ממד אחד. ערוך את אפשרויות האפקט הקיים, או הסר אותו תחילה.
+@msg	An object takes one 3D effect. Edit the existing effect's options, or remove it first.	אובייקט יכול לקבל אפקט תלת-ממד אחד. יש לערוך את אפשרויות האפקט הקיים, או להסיר אותו תחילה.
 	Analogous	צבעים סמוכים (Analogous)
 	Analogous 2	צבעים סמוכים 2
 @msg	anchor must name a registered panel	העוגן חייב לציין שם של חלונית רשומה
@@ -428,7 +428,7 @@ swatch	Aqua	אקווה (טורקיז בהיר)
 	Art Optimized	ממוטב לגרפיקה
 	Art using a deleted global swatch keeps its colour.	גרפיקה המשתמשת בדוגמית צבע גלובלית שנמחקה שומרת על הצבע שלה.
 	Artboard Options	אפשרויות משטח יצירה
-	Artboard Options: edit with the Artboard tool	אפשרויות משטח יצירה: ערוך באמצעות כלי משטח היצירה
+	Artboard Options: edit with the Artboard tool	אפשרויות משטח יצירה: יש לערוך באמצעות כלי משטח היצירה
 	Artboard Options…	אפשרויות משטח יצירה…
 	Artboard or Item Name	שם משטח יצירה או פריט
 	Artboard Tool	כלי משטח יצירה
@@ -448,7 +448,7 @@ swatch	Aqua	אקווה (טורקיז בהיר)
 	Asset Export Settings	הגדרות ייצוא נכסים
 	Assets	נכסים
 	Assign:	הקצה:
-@msg	at this scale the drawing is {w} × {h} pt, more than the canvas holds: choose a smaller scale or fit it to the artboard	בקנה מידה זה השרטוט הוא {w} × {h} נק', יותר ממה שמשטח העבודה מכיל: בחר קנה מידה קטן יותר או התאם אותו למשטח היצירה
+@msg	at this scale the drawing is {w} × {h} pt, more than the canvas holds: choose a smaller scale or fit it to the artboard	בקנה מידה זה השרטוט הוא {w} × {h} נק', יותר ממה שמשטח העבודה מכיל: יש לבחור קנה מידה קטן יותר או להתאים אותו למשטח היצירה
 	Attach	חיבור
 	Attach Objects on Path	חיבור אובייקטים על נתיב
 	Attach to Active Plane	חיבור למישור פעיל
@@ -460,7 +460,7 @@ swatch	Aqua	אקווה (טורקיז בהיר)
 	Auto Size New Area Type	גודל אוטומטי לטקסט חדש באזור
 	Auto Spell Check	בדיקת איות אוטומטית
 	Auto-Collapse Iconic Panels	כיווץ אוטומטית חלוניות סמלים
-	Auto-Rotate (turn the paper to each artboard)	סיבוב אוטומטי (סובב את הנייר לכל משטח יצירה)
+	Auto-Rotate (turn the paper to each artboard)	סיבוב אוטומטי (סיבוב הנייר לכל משטח יצירה)
 	Auto-Simplify	פישוט אוטומטי
 	Automatic flatness	שטוחות אוטומטית
 	Automatically Save Recovery Data	שמירה אוטומטית של נתוני שחזור
@@ -533,7 +533,7 @@ swatch	Black	שחור
 	Bleed:	גלישת דפוס:
 	Bleeds	גלישות דפוס
 	Blend	מיזוג
-@msg	Blend colors: select at least three objects with filled colours	מיזוג צבעים: בחר לפחות שלושה אובייקטים עם צבעי מילוי
+@msg	Blend colors: select at least three objects with filled colours	מיזוג צבעים: יש לבחור לפחות שלושה אובייקטים עם צבעי מילוי
 	Blend Front to Back	מיזוג מחזית לרקע
 	Blend Horizontally	מיזוג אופקית
 	Blend Info	פרטי מיזוג
@@ -621,7 +621,7 @@ swatch	Brown	חום
 	Can't open “{name}”.	לא ניתן לפתוח את “{name}”.
 @msg	can't parse shortcut `{c}`	לא ניתן לפענח את קיצור הדרך `{c}`
 @msg	can't parse shortcut `{s}` for `{k}`	לא ניתן לפענח את קיצור הדרך `{s}` עבור `{k}`
-	Can't print these settings: see the Summary	לא ניתן להדפיס הגדרות אלו: ראה סיכום
+	Can't print these settings: see the Summary	לא ניתן להדפיס הגדרות אלו: ראו סיכום
 @msg	can't save version {0}: VectorCraft writes versions {MIN_VERSION} to {VERSION}	לא ניתן לשמור גרסה {0}: VectorCraft כותבת גרסאות {MIN_VERSION} עד {VERSION}
 	Can't save “{name}”.	לא ניתן לשמור את “{name}”.
 @msg	can't write .{ext} images	לא ניתן לכתוב תמונות מסוג .{ext}
@@ -706,11 +706,11 @@ swatch	Chocolate	שוקולד
 	Clear Overrides	ניקוי דריסות
 	Click	לחיצה
 	Click an anchor point	לחיצה על נקודת עוגן
-	Click or drag	לחיצת או גרור
+	Click or drag	יש ללחוץ או לגרור
 	Click the art with the Gradient tool to add or select points.	יש ללחוץ על הגרפיקה עם כלי מעבר הצבע כדי להוסיף או לבחור נקודות.
 	Click the first point	לחיצה על הנקודה הראשונה
 	Click the ramp or a type button to apply a gradient.	יש ללחוץ על פס מעבר הצבע או על לחצן סוג כדי להחיל מעבר צבע.
-	Click to add a tab stop, drag to move it, drag it off the ruler to delete it	יש ללחוץ להוספת עצירת טאב, גרור להזזתה, גרור אותה מחוץ לסרגל למחיקתה
+	Click to add a tab stop, drag to move it, drag it off the ruler to delete it	יש ללחוץ להוספת עצירת טאב, לגרור להזזתה, או לגרור אותה מחוץ לסרגל למחיקתה
 	Click to apply to the selected type	יש ללחוץ להחלה על הטקסט הנבחר
 	Click to choose a swatch, Shift-click to mix a colour	יש ללחוץ לבחירת דוגמית צבע, Shift+לחיצה לערבוב צבע
 	Click to edit the mask; Alt-click to view only the mask; Shift-click to disable or enable it	יש ללחוץ לעריכת המסכה; Alt+לחיצה להצגת המסכה בלבד; Shift+לחיצה להשבתה או להפעלה שלה
@@ -727,13 +727,13 @@ swatch	Chocolate	שוקולד
 	Clip to Art	חיתוך לגרפיקה
 	Clip to Artboard	חיתוך למשטח יצירה
 	Clip to Bounding Box	חיתוך לתיבה תוחמת
-	Clipboard as PDF	לוח עריכה כ-PDF
-	Clipboard as PNG	לוח עריכה כ-PNG
-	Clipboard as SVG	לוח עריכה כ-SVG
-	Clipboard as Text	לוח עריכה כטקסט
-	Clipboard Formats	תבניות לוח עריכה
-	Clipboard Handling	טיפול בלוח העריכה
-@msg	clipboard is empty	לוח העריכה ריק
+	Clipboard as PDF	תוכן הלוח כ-PDF
+	Clipboard as PNG	תוכן הלוח כ-PNG
+	Clipboard as SVG	תוכן הלוח כ-SVG
+	Clipboard as Text	תוכן הלוח כטקסט
+	Clipboard Formats	פורמטים של הלוח
+	Clipboard Handling	טיפול בלוח
+@msg	clipboard is empty	הלוח ריק
 	Clipping Masks	מסכות חיתוך
 	Clockwise	עם כיוון השעון
 	Close Gaps With Paths	סגירת מרווחים באמצעות נתיבים
@@ -753,9 +753,9 @@ swatch	Coffee	קפה
 	Collapse Panel Group	כיווץ קבוצת חלוניות
 	Collapse Panels to Icons	כיווץ חלוניות לסמלים
 	Collapse to Icons	כיווץ לסמלים
-	Collect for Export	אסוף לייצוא
-	Collect in New Layer	אסוף בשכבה חדשה
-	Collect Links in a Separate Folder	אסוף קישורים בתיקייה נפרדת
+	Collect for Export	איסוף לייצוא
+	Collect in New Layer	איסוף בשכבה חדשה
+	Collect Links in a Separate Folder	איסוף קישורים בתיקייה נפרדת
 	Color (,)	צבע (,)
 	Color Adjustments	התאמות צבע
 	Color bars	פסי צבע
@@ -910,10 +910,10 @@ swatch	Copper	נחושת
 @msg	Corners edits the corners of a path	פינות עורך את הפינות של נתיב
 	Corners…	פינות…
 @msg	could not decode image: {0}	לא ניתן לפענח תמונה: {0}
-	Couldn't copy to the system clipboard: {e}	לא ניתן היה להעתיק ללוח העריכה של המערכת: {e}
-@msg	Couldn't copy to the system clipboard: {e}	לא ניתן היה להעתיק ללוח העריכה של המערכת: {e}
-	Couldn't paste from the clipboard: {e}	לא ניתן היה להדביק מלוח העריכה: {e}
-@msg	Couldn't paste from the clipboard: {e}	לא ניתן היה להדביק מלוח העריכה: {e}
+	Couldn't copy to the system clipboard: {e}	לא ניתן היה להעתיק ללוח של המערכת: {e}
+@msg	Couldn't copy to the system clipboard: {e}	לא ניתן היה להעתיק ללוח של המערכת: {e}
+	Couldn't paste from the clipboard: {e}	לא ניתן היה להדביק מהלוח: {e}
+@msg	Couldn't paste from the clipboard: {e}	לא ניתן היה להדביק מהלוח: {e}
 @msg	Couldn't place {name}: the document it was dropped on was closed	לא ניתן היה למקם את {name}: המסמך שעליו הוא שוחרר נסגר
 @msg	Couldn't place {name}: {e}	לא ניתן היה למקם את {name}: {e}
 @msg	Couldn't read {name}: {e}	לא ניתן היה לקרוא את {name}: {e}
@@ -943,7 +943,7 @@ swatch	Copper	נחושת
 	Create New {kind} Style	יצירת סגנון {kind} חדש
 	Create Object Mosaic…	יצירת פסיפס אובייקטים…
 	Create Outlines	יצירת קווי מתאר
-@msg	Create Outlines: select text objects	יצירת קווי מתאר: בחר אובייקטי טקסט
+@msg	Create Outlines: select text objects	יצירת קווי מתאר: יש לבחור אובייקטי טקסט
 	Create Path	יצירת נתיב
 	Create PDF layers from layers and sublayers	יצירת שכבות PDF משכבות ותת-שכבות
 	Create PDF layers from top-level layers	יצירת שכבות PDF משכבות ברמה העליונה
@@ -975,7 +975,7 @@ swatch	Copper	נחושת
 	Curvature Tool	כלי עקמומיות
 	Custom Scale	קנה מידה מותאם אישית
 	Cut Artboard	גזירת משטח יצירה
-	Cut Path	גזירת נתיב
+	Cut Path	חיתוך נתיב
 	Cut Path at Selected Anchor Points	חיתוך נתיב בנקודות העוגן הנבחרות
 	Cutout	מגזרת נייר
 	Cutout…	מגזרת נייר…
@@ -989,7 +989,7 @@ swatch	Cyan Green	ציאן-ירוק
 	Dash Pattern	תבנית קווקוו
 	Dashed Line	קו מקווקו
 	Data Recovery	שחזור נתונים
-@msg	Data Recovery has nowhere to keep copies: set Preferences → File Handling → Data Recovery → Folder (recoveryFolder)	לשחזור הנתונים אין היכן לשמור עותקים: הגדר העדפות → טיפול בקבצים → שחזור נתונים → תיקייה (recoveryFolder)
+@msg	Data Recovery has nowhere to keep copies: set Preferences → File Handling → Data Recovery → Folder (recoveryFolder)	לשחזור הנתונים אין היכן לשמור עותקים: יש להגדיר העדפות → טיפול בקבצים → שחזור נתונים → תיקייה (recoveryFolder)
 	Data Set	ערכת נתונים
 @msg	data the program reads is damaged or cut short, or the program asks for a position in a file that has none	נתונים שהתוכנית קוראת פגומים או קטועים, או שהתוכנית מבקשת מיקום בקובץ שאין בו מיקום כזה
 	Data…	נתונים…
@@ -1124,8 +1124,8 @@ swatch	Cyan Green	ציאן-ירוק
 	Divide Horizontally Into	חלק אופקית ל-
 @msg	divide into 1 to {MAX_PIECES} slices	חלק ל-1 עד {MAX_PIECES} חיתוכים
 	Divide Objects Below	חלק אובייקטים מתחת
-@msg	Divide Objects Below: select a path	חלוקת אובייקטים מתחת: בחר נתיב
-@msg	Divide Objects Below: select exactly one path	חלוקת אובייקטים מתחת: בחר נתיב אחד בדיוק
+@msg	Divide Objects Below: select a path	חלוקת אובייקטים מתחת: יש לבחור נתיב
+@msg	Divide Objects Below: select exactly one path	חלוקת אובייקטים מתחת: יש לבחור נתיב אחד בדיוק
 	Divide Slices	חלק חיתוכים
 	Divide Slices…	חלק חיתוכים…
 	Divide Vertically Into	חלק אנכית ל-
@@ -1178,7 +1178,7 @@ swatch	Cyan Green	ציאן-ירוק
 	Drag a handle	גרירת ידית
 	Drag an item here, or right-click one, to put it in this group.	יש לגרור פריט לכאן, או ללחוץ עליו לחיצה ימנית, כדי להכניס אותו לקבוצה זו.
 	Drag art here, or select it and click +. Hold Alt for one asset of several objects.	יש לגרור גרפיקה לכאן, או לבחור אותה וללחוץ על +. יש להחזיק Alt ליצירת נכס אחד ממספר אובייקטים.
-	Drag art or swatches here, or use + to add the selection's colors and text styles.	יש לגרור גרפיקה או דוגמיות צבע לכאן, או השתמש ב-+ להוספת הצבעים וסגנונות הטקסט של הבחירה.
+	Drag art or swatches here, or use + to add the selection's colors and text styles.	יש לגרור גרפיקה או דוגמיות צבע לכאן, או להשתמש ב-+ להוספת הצבעים וסגנונות הטקסט של הבחירה.
 	Drag art, colors and text styles here to reuse them across documents. Libraries are stored on this machine — no account required.	יש לגרור גרפיקה, צבעים וסגנונות טקסט לכאן לשימוש חוזר בין מסמכים. הספריות נשמרות במחשב זה — ללא צורך בחשבון.
 	Drag onto art to apply this appearance	יש לגרור על גרפיקה להחלת מראה זה
 	Drag out from a circle or arc for its radius, inwards for its diameter.	יש לגרור החוצה ממעגל או מקשת עבור הרדיוס שלהם, ופנימה עבור הקוטר שלהם.
@@ -1225,14 +1225,14 @@ swatch	Cyan Green	ציאן-ירוק
 	Duplicate Swatch	שכפול דוגמית צבע
 	Duplicate Symbol	שכפול סמל
 	Duplicate {kind} Style	שכפול סגנון {kind}
-	DWG (use DXF)	DWG (השתמש ב-DXF)
+	DWG (use DXF)	DWG (יש להשתמש ב-DXF)
 	DXF Import Options	אפשרויות ייבוא DXF
 	DXF Info	פרטי DXF
 	DXF Options	אפשרויות DXF
 	DXF Options Dialog	תיבת דו-שיח של אפשרויות DXF
 	e.g. 1-3, 5	למשל 1-3, 5
 	Each Design Represents:	כל עיצוב מייצג:
-	Each entry of the file is matched to a VectorCraft tool, command or panel. Check the matches and answer what is left.	כל רשומה בקובץ מותאמת לכלי, פקודה או חלונית של VectorCraft. בדוק את ההתאמות והשלם את מה שנותר.
+	Each entry of the file is matched to a VectorCraft tool, command or panel. Check the matches and answer what is left.	כל רשומה בקובץ מותאמת לכלי, פקודה או חלונית של VectorCraft. יש לבדוק את ההתאמות ולהשלים את מה שנותר.
 	Each page prints as one image, at the document's raster effects resolution.	כל עמוד מודפס כתמונה אחת, ברזולוציית אפקטי הרסטר של המסמך.
 	Earth Tones	גווני אדמה
 	Ease In	האטה בכניסה (Ease In)
@@ -1255,7 +1255,7 @@ swatch	Cyan Green	ציאן-ירוק
 	Edit or Apply Color Group	עריכת או החלת קבוצת צבעים
 	Edit or Apply Color Group…	עריכת או החלת קבוצת צבעים…
 	Edit or Apply Colors	עריכת או החלת צבעים
-@msg	Edit Original opens image and document files only; “{name}” is not one	'ערוך מקור' פותח קובצי תמונות ומסמכים בלבד; “{name}” אינו כזה
+@msg	Edit Original opens image and document files only; “{name}” is not one	'עריכת מקור' פותח קובצי תמונות ומסמכים בלבד; “{name}” אינו כזה
 	Edit Path	עריכת נתיב
 	Edit Pattern	עריכת תבנית
 	Edit PDF Preset	עריכת הגדרת PDF קבועה מראש
@@ -1384,7 +1384,7 @@ swatch	Espresso	אספרסו
 	Expanded Patterns	תבניות מורחבות
 	Expand…	הרחבה…
 	Export All…	ייצוא הכול…
-	Export and Clipboard Transparency Flattener Settings	הגדרות משטח שקיפות לייצוא וללוח העריכה
+	Export and Clipboard Transparency Flattener Settings	הגדרות שיטוח שקיפות לייצוא וללוח
 	Export Artboard	ייצוא משטח יצירה
 	Export As PNG…	ייצוא כ-PNG…
 	Export As SVG…	ייצוא כ-SVG…
@@ -1434,8 +1434,8 @@ swatch	Espresso	אספרסו
 	Eyedropper Applies:	הטפטפת מחילה:
 	Eyedropper Options	אפשרויות טפטפת
 	Eyedropper Picks Up:	הטפטפת דוגמת:
-	Eyedropper: click the art to sample the key color	טפטפת: לחץ על הגרפיקה לדגימת צבע המפתח
-	Eyedropper: click the art to sample the stop's colour	טפטפת: לחץ על הגרפיקה לדגימת צבע התחנה
+	Eyedropper: click the art to sample the key color	טפטפת: יש ללחוץ על הגרפיקה לדגימת צבע המפתח
+	Eyedropper: click the art to sample the stop's colour	טפטפת: יש ללחוץ על הגרפיקה לדגימת צבע התחנה
 	Farsi	פרסית
 	Feather…	ריכוך קצוות…
 	Feet	רגל (Feet)
@@ -1456,7 +1456,7 @@ swatch	Espresso	אספרסו
 	Files of a PDF standard can't be password-protected.	קבצים בתקן PDF אינם ניתנים להגנה בסיסמה.
 	Files of this standard tag their colours with ICC profiles.	קבצים בתקן זה מתייגים את הצבעים שלהם בפרופילי ICC.
 	Fill & Stroke	מילוי וקו מתאר
-	Fill (X), double-click for the Color Picker	מילוי (X), לחץ לחיצה כפולה לבורר הצבעים
+	Fill (X), double-click for the Color Picker	מילוי (X), לחיצה כפולה לבורר הצבעים
 	Fill and Stroke	מילוי וקו מתאר
 	Fill and Stroke Controls	פקדי מילוי וקו מתאר
 	Fill Arc	מילוי קשת
@@ -1466,7 +1466,7 @@ swatch	Espresso	אספרסו
 	Fill New Type Objects With Placeholder Text	מילוי אובייקטי טקסט חדשים בטקסט ממלא מקום
 	Fill Rule	כלל מילוי
 	Fill with Placeholder Text	מילוי בטקסט ממלא מקום
-	Fill: click for swatches, Shift-click for the color mixer	מילוי: לחץ לדוגמיות צבע, Shift+לחיצה למערבל הצבעים
+	Fill: click for swatches, Shift-click for the color mixer	מילוי: לחיצה לדוגמיות צבע, Shift+לחיצה למערבל הצבעים
 	Filling in form fields and signing	מילוי שדות טופס וחתימה
 	Fills	מילויים
 	Film & Video	קולנוע ווידאו
@@ -1515,7 +1515,7 @@ swatch	Espresso	אספרסו
 	Flatness:	שטוחות:
 	Flatten Artwork	שטח גרפיקה
 	Flatten Transparency	שטח שקיפות
-@msg	Flatten Transparency: select objects to flatten	שיטוח שקיפות: בחר אובייקטים לשיטוח
+@msg	Flatten Transparency: select objects to flatten	שיטוח שקיפות: יש לבחור אובייקטים לשיטוח
 @msg	Flatten Transparency: {e}	שיטוח שקיפות: {e}
 	Flatten Transparency…	שטח שקיפות…
 	Flattener preset:	הגדרה קבועה מראש למשטח שקיפות:
@@ -1590,14 +1590,14 @@ file-filter	Flattener presets	הגדרות קבועות מראש למשטח שק
 	Get Preferences	קבל העדפות
 	Get Text Range	קבל טווח טקסט
 	GIF, 128 colours	GIF, 128 צבעים
-@msg	give a fraction `t` from 0 to 1	ציין שבר `t` בין 0 ל-1
-@msg	give both `start` and `end` [x, y] (or neither)	ציין גם `start` וגם `end` [x, y] (או אף אחד מהם)
-@msg	give corners of the path: anchors between two straight sides	ציין פינות של הנתיב: נקודות עוגן בין שתי צלעות ישרות
-@msg	give corners of the path: anchors where its sides meet at an angle	ציין פינות של הנתיב: נקודות עוגן שבהן הצלעות נפגשות בזווית
-@msg	give horizontal or vertical	ציין horizontal או vertical
-@msg	give only one of onto, below and above	ציין רק אחד מבין onto, below ו-above
-@msg	give the path `id`	ציין את ה-`id` של הנתיב
-@msg	give the path `id` and the width point `index`	ציין את ה-`id` של הנתיב ואת ה-`index` של נקודת הרוחב
+@msg	give a fraction `t` from 0 to 1	יש לציין שבר `t` בין 0 ל-1
+@msg	give both `start` and `end` [x, y] (or neither)	יש לציין גם `start` וגם `end` [x, y] (או אף אחד מהם)
+@msg	give corners of the path: anchors between two straight sides	יש לציין פינות של הנתיב: נקודות עוגן בין שתי צלעות ישרות
+@msg	give corners of the path: anchors where its sides meet at an angle	יש לציין פינות של הנתיב: נקודות עוגן שבהן הצלעות נפגשות בזווית
+@msg	give horizontal or vertical	יש לציין horizontal או vertical
+@msg	give only one of onto, below and above	יש לציין רק אחד מבין onto, below ו-above
+@msg	give the path `id`	יש לציין את ה-`id` של הנתיב
+@msg	give the path `id` and the width point `index`	יש לציין את ה-`id` של הנתיב ואת ה-`index` של נקודת הרוחב
 	Glass…	זכוכית…
 	Global Brush Dimensions	ממדי מברשת גלובליים
 	Global Process Color	צבע פרוצס גלובלי
@@ -1617,7 +1617,7 @@ file-filter	Flattener presets	הגדרות קבועות מראש למשטח שק
 	Gradient across stroke	מעבר צבע לרוחב קו המתאר
 	Gradient along stroke	מעבר צבע לאורך קו המתאר
 	Gradient and Mesh Resolution:	רזולוציית מעבר צבע ורשת:
-	Gradient Fill: click to apply, drag onto art	מילוי מעבר צבע: לחץ להחלה, גרור על גרפיקה
+	Gradient Fill: click to apply, drag onto art	מילוי מעבר צבע: לחיצה להחלה, גרירה על גרפיקה
 	Gradient Finishes	גימורי מעבר צבע
 	Gradient Mesh	רשת מעבר צבע
 	Gradient swatches	דוגמיות מעבר צבע
@@ -1765,7 +1765,7 @@ effect	Horizontal	אופקי
 @msg	icon only docks a panel in the icon column, with no anchor	icon מעגן חלונית בעמודת הסמלים בלבד, ללא עוגן
 	Identify Objects By	זהה אובייקטים לפי
 @msg	ids must contain 1–10000 object ids	ids חייב להכיל 1–10000 מזהי אובייקטים
-	If a drawing tablet's pen doesn't draw, choose an X11 (XWayland) option.	אם עט של לוח ציור אינו מצייר, בחר באפשרות X11 (XWayland).
+	If a drawing tablet's pen doesn't draw, choose an X11 (XWayland) option.	אם עט של לוח ציור אינו מצייר, יש לבחור באפשרות X11 (XWayland).
 	Ignore Artboards (all the art as one page)	התעלמות ממשטחי יצירה (כל הגרפיקה כעמוד אחד)
 	Ignore Color	התעלמות מצבע
 	Ignore White	התעלמות מלבן
@@ -1780,7 +1780,7 @@ effect	Horizontal	אופקי
 	Image Trace View	תצוגת עקיבת תמונה
 @msg	Image Trace: the traced image is missing	עקיבת תמונה: התמונה הנעקבת חסרה
 	Image Tracing	עקיבת תמונה
-@msg	image would be too large; lower the resolution	התמונה תהיה גדולה מדי; הנמך את הרזולוציה
+@msg	image would be too large; lower the resolution	התמונה תהיה גדולה מדי; יש להנמיך את הרזולוציה
 	Image:	תמונה:
 	Images Only	תמונות בלבד
 	Images:	תמונות:
@@ -1801,7 +1801,7 @@ effect	Horizontal	אופקי
 @msg	Imported library {name}	יובאה ספרייה {name}
 @msg	Imported {what}: {_1}	יובא {what}: {_1}
 	Imported {what}: {}	יובא {what}: {}
-	Imported. Press OK to keep the imported set.	יובא. לחץ על אישור כדי לשמור את הערכה המיובאת.
+	Imported. Press OK to keep the imported set.	יובא. יש ללחוץ על אישור כדי לשמור את הערכה המיובאת.
 	In Merge Mode, Clicking Stroke Splits the Path	במצב מיזוג, לחיצה על קו מתאר מפצלת את הנתיב
 	In Tangent Handles	ידיות משיק נכנס
 	In the File	בקובץ
@@ -1846,7 +1846,7 @@ swatch	Indigo	אינדיגו
 	Inspect Object	בדיקת אובייקט
 @msg	Installed plug-in {_1}	הותקן תוסף {_1}
 	Installed plug-in {}	הותקן תוסף {}
-@msg	installing from a path is not available on the web; pass the module as `dataBase64`	התקנה מנתיב אינה זמינה בדפדפן; העבר את המודול בתור `dataBase64`
+@msg	installing from a path is not available on the web; pass the module as `dataBase64`	התקנה מנתיב אינה זמינה בדפדפן; יש להעביר את המודול בתור `dataBase64`
 	Intensity:	עוצמה:
 	Intent:	כוונת רינדור:
 	Internal CSS	CSS פנימי
@@ -1987,8 +1987,8 @@ mark-style	Japanese	יפנית
 	Legacy (version 7)	מדור קודם (גרסה 7)
 	Legacy .ai Options	אפשרויות .ai מדור קודם
 	Legacy Macintosh RGB (Gamma 1.8)	RGB של Macintosh מדור קודם (גמא 1.8)
-	Legacy vector clipboard	לוח עריכה וקטורי מדור קודם
-	Legacy vector clipboard (no transparency)	לוח עריכה וקטורי מדור קודם (ללא שקיפות)
+	Legacy vector clipboard	לוח וקטורי מדור קודם
+	Legacy vector clipboard (no transparency)	לוח וקטורי מדור קודם (ללא שקיפות)
 	Legends in Wedges	מקרא בתוך פלחים
 	Length X-Axis:	אורך ציר X:
 	Length Y-Axis:	אורך ציר Y:
@@ -2060,21 +2060,21 @@ swatch	Lime	ליים
 	Live Paint Bucket	דלי צביעה חיה
 	Live Paint Bucket (Stroke)	דלי צביעה חיה (קו מתאר)
 	Live Paint Info	פרטי צביעה חיה
-@msg	Live Paint Merge: select a Live Paint group and the paths to add	מיזוג צביעה חיה: בחר קבוצת צביעה חיה ואת הנתיבים להוספה
+@msg	Live Paint Merge: select a Live Paint group and the paths to add	מיזוג צביעה חיה: יש לבחור קבוצת צביעה חיה ואת הנתיבים להוספה
 	Live Paint Selection Tool	כלי בחירה של צביעה חיה
-@msg	Live Paint: select paths or compound paths	צביעה חיה: בחר נתיבים או נתיבים מורכבים
+@msg	Live Paint: select paths or compound paths	צביעה חיה: יש לבחור נתיבים או נתיבים מורכבים
 @msg	Live Paint: these paths are too degenerate to paint	צביעה חיה: נתיבים אלה מנוונים מכדי לצבוע אותם
 	Live Shape	צורה חיה
 	Live Shape Properties	מאפייני צורה חיה
 	Load Color Profile…	טעינת פרופיל צבע…
-	Load EPS into Clipboard	טעינת EPS ללוח העריכה
-	Load Image into Clipboard	טעינת תמונה ללוח העריכה
-	Load Metafile into Clipboard	טעינת Metafile ללוח העריכה
-	Load PDF into Clipboard	טעינת PDF ללוח העריכה
+	Load EPS into Clipboard	טעינת EPS ללוח
+	Load Image into Clipboard	טעינת תמונה ללוח
+	Load Metafile into Clipboard	טעינת Metafile ללוח
+	Load PDF into Clipboard	טעינת PDF ללוח
 	Load Place Cursor	טעינת סמן מיקום
 	Load Profile…	טעינת פרופיל…
-	Load SVG into Clipboard	טעינת SVG ללוח העריכה
-	Load Text into Clipboard	טעינת טקסט ללוח העריכה
+	Load SVG into Clipboard	טעינת SVG ללוח
+	Load Text into Clipboard	טעינת טקסט ללוח
 	Load Texture…	טעינת מרקם…
 	Load Variable Library…	טעינת ספריית משתנים…
 	Loaded Texture	מרקם טעון
@@ -2116,7 +2116,7 @@ swatch	Magenta	מג׳נטה
 	Make Envelope	יצירת מעטפת
 	Make Graph Dynamic	הפיכת תרשים לדינמי
 	Make Guides	יצירת קווי עזר
-@msg	Make Guides: select paths	יצירת קווי עזר: בחר נתיבים
+@msg	Make Guides: select paths	יצירת קווי עזר: יש לבחור נתיבים
 	Make Image Dynamic	הפיכת תמונה לדינמית
 	Make Intertwine	יצירת שזירה
 	Make Live Paint	יצירת צביעה חיה
@@ -2188,7 +2188,7 @@ swatch	Magenta	מג׳נטה
 	Mirror & Cut Tool	כלי שיקוף וחיתוך
 	Mirror Repeat	חזרת מראה
 @msg	missing `folder`	חסר `folder`
-@msg	missing `id` (see plugin.list)	חסר `id` (ראה plugin.list)
+@msg	missing `id` (see plugin.list)	חסר `id` (ראו plugin.list)
 @msg	missing `name`	חסר `name`
 @msg	missing `tool`	חסר `tool`
 	Missing Fonts	גופנים חסרים
@@ -2253,7 +2253,7 @@ swatch	Magenta	מג׳נטה
 	Move Type on a Path	הזזת טקסט על נתיב
 	Move…	הזזה…
 	Movie Clip	קליפ סרטון
-@msg	Multichannel PSD files can't be read: save it in RGB, CMYK or Grayscale mode	לא ניתן לקרוא קובצי PSD מרובי-ערוצים: שמור אותם במצב RGB, CMYK או גווני אפור
+@msg	Multichannel PSD files can't be read: save it in RGB, CMYK or Grayscale mode	לא ניתן לקרוא קובצי PSD מרובי-ערוצים: יש לשמור אותם במצב RGB, CMYK או גווני אפור
 	Multiple objects	אובייקטים מרובים
 @msg	multiple windows land with M11.5	ריבוי חלונות יגיע בגרסה M11.5
 	Muted	מעומעם
@@ -2330,7 +2330,7 @@ swatch	Magenta	מג׳נטה
 	Next Library	הספרייה הבאה
 	Next Object Above	האובייקט הבא מעל
 	Next Object Below	האובייקט הבא מתחת
-	No actions. Press ● to record.	אין פעולות. לחץ על ● להקלטה.
+	No actions. Press ● to record.	אין פעולות. יש ללחוץ על ● להקלטה.
 @msg	no active document	אין מסמך פעיל
 @msg	no active perspective plane	אין מישור פרספקטיבה פעיל
 @msg	no anchor points selected	לא נבחרו נקודות עוגן
@@ -2341,7 +2341,7 @@ swatch	Magenta	מג׳נטה
 @msg	no artboards named	לא צוינו שמות משטחי יצירה
 @msg	no artwork	אין גרפיקה
 	No assets	אין נכסים
-	No assets yet. Collect art with Object › Collect for Export, or drag it into the Asset Export panel.	אין נכסים עדיין. אסוף גרפיקה באמצעות אובייקט › אסוף לייצוא, או גרור אותה לחלונית ייצוא הנכסים.
+	No assets yet. Collect art with Object › Collect for Export, or drag it into the Asset Export panel.	אין נכסים עדיין. ניתן לאסוף גרפיקה באמצעות אובייקט › איסוף לייצוא, או לגרור אותה לחלונית ייצוא הנכסים.
 @msg	no blend options	אין אפשרויות מיזוג
 @msg	no bounds	אין גבולות
 	No Break	ללא שבירת שורה
@@ -2357,7 +2357,7 @@ swatch	Magenta	מג׳נטה
 	No conversion	ללא המרה
 @msg	no cross-reference table	אין טבלת הפניות צולבות
 	No CSS	אין CSS
-@msg	no CSS to copy: select objects with CSS of their own	אין CSS להעתקה: בחר אובייקטים עם CSS משלהם
+@msg	no CSS to copy: select objects with CSS of their own	אין CSS להעתקה: יש לבחור אובייקטים עם CSS משלהם
 @msg	no current layer	אין שכבה נוכחית
 @msg	no data	אין נתונים
 	no data set to edit	אין ערכת נתונים לעריכה
@@ -2395,7 +2395,7 @@ swatch	Magenta	מג׳נטה
 @msg	no key object	אין אובייקט מפתח
 	No Legend	ללא מקרא
 @msg	no library `{id}`	אין ספרייה `{id}`
-@msg	no library `{key}` (see {list})	אין ספרייה `{key}` (ראה {list})
+@msg	no library `{key}` (see {list})	אין ספרייה `{key}` (ראו {list})
 @msg	No linked files to look for	אין קבצים מקושרים לחיפוש
 @msg	no Live Paint edge near that point	אין קצה צביעה חיה ליד נקודה זו
 @msg	no Live Paint face at that point	אין משטח צביעה חיה בנקודה זו
@@ -2429,7 +2429,7 @@ swatch	Magenta	מג׳נטה
 	No saved views (View → New View…)	אין תצוגות שמורות (תצוגה ← תצוגה חדשה…)
 @msg	No saved views (View → New View…)	אין תצוגות שמורות (תצוגה ← תצוגה חדשה…)
 @msg	no segment {segment} on line {line}	אין מקטע {segment} בקו {line}
-@msg	no selected slice in the image: select slices, or save all of them	אין גזיר נבחר בתמונה: בחר גזירים, או שמור את כולם
+@msg	no selected slice in the image: select slices, or save all of them	אין גזיר נבחר בתמונה: יש לבחור גזירים, או לשמור את כולם
 @msg	no selection bounds	אין גבולות בחירה
 @msg	no slice selected	לא נבחר גזיר
 	No Slices	ללא גזירים
@@ -2452,11 +2452,11 @@ swatch	Magenta	מג׳נטה
 @msg	no such view	אין תצוגה כזו
 @msg	no such width point	אין נקודת רוחב כזו
 @msg	no swatch `{name}`	אין דוגמית צבע `{name}`
-@msg	no swatch library `{l}` (see swatch.library.list)	אין ספריית דוגמיות צבע `{l}` (ראה swatch.library.list)
+@msg	no swatch library `{l}` (see swatch.library.list)	אין ספריית דוגמיות צבע `{l}` (ראו swatch.library.list)
 @msg	no symbol instances selected	לא נבחרו מופעי סמלים
 @msg	no symbol named `{n}`	אין סמל בשם `{n}`
 	No symbols in this document	אין סמלים במסמך זה
-@msg	no target object has an opacity mask: select one or give `id`	לאף אובייקט יעד אין מסכת אטימות: בחר אחד או ספק `id`
+@msg	no target object has an opacity mask: select one or give `id`	לאף אובייקט יעד אין מסכת אטימות: יש לבחור אחד או לספק `id`
 	No text selected	לא נבחר טקסט
 @msg	no threaded text selected	לא נבחר טקסט משורשר
 	No Thumbnails	ללא תמונות ממוזערות
@@ -2497,12 +2497,12 @@ swatch	Magenta	מג׳נטה
 	Note:	הערה:
 @msg	nothing encoded	דבר לא קודד
 @msg	nothing in data set {name} was applied: no object is bound to a variable it has a value for	דבר בערכת הנתונים {name} לא הוחל: אף אובייקט אינו קשור למשתנה שיש לה ערך עבורו
-	Nothing is selected. Select the art to export, then open this tab again.	דבר אינו נבחר. בחר את הגרפיקה לייצוא, ולאחר מכן פתח כרטיסייה זו שוב.
+	Nothing is selected. Select the art to export, then open this tab again.	דבר אינו נבחר. יש לבחור את הגרפיקה לייצוא, ולאחר מכן לפתוח כרטיסייה זו שוב.
 	Nothing matches the Show filter.	דבר אינו תואם למסנן התצוגה.
 @msg	nothing selected	לא נבחר דבר
 @msg	nothing to align	אין מה ליישר
 @msg	nothing to distort	אין מה לעוות
-@msg	nothing to export: the document has no visible art (or turn on Use Artboards)	אין מה לייצא: למסמך אין גרפיקה גלויה (או הפעל את 'השתמש במשטחי יצירה')
+@msg	nothing to export: the document has no visible art (or turn on Use Artboards)	אין מה לייצא: למסמך אין גרפיקה גלויה (או יש להפעיל את 'שימוש במשטחי יצירה')
 @msg	nothing to preview	אין מה להציג בתצוגה מקדימה
 	Nothing to print	אין מה להדפיס
 @msg	nothing to print	אין מה להדפיס
@@ -2554,7 +2554,7 @@ swatch	Ocean	אוקיינוס
 	Off-Axis Top	מחוץ לציר עליון
 	Off: an editable copy of its art, embedded in this document.	כבוי: עותק ניתן לעריכה של הגרפיקה שלו, מוטבע במסמך זה.
 	Offset Path	היסט נתיב
-@msg	Offset Path: select paths	היסט נתיב: בחר נתיבים
+@msg	Offset Path: select paths	היסט נתיב: יש לבחור נתיבים
 @msg	Offset Path: the offset leaves nothing of the selected paths (an inset larger than the shapes)	היסט נתיב: ההיסט אינו משאיר דבר מהנתיבים הנבחרים (היסט פנימי גדול מהצורות)
 	Offset Path…	היסט נתיב…
 	Offset X	היסט X
@@ -2652,7 +2652,7 @@ swatch	Ocean	אוקיינוס
 swatch	Orange	כתום
 swatch	Orange Red	כתום-אדום
 	Order:	סדר:
-	Original: click to restore	מקורי: לחץ לשחזור
+	Original: click to restore	מקורי: לחיצה לשחזור
 	Other Layers	שכבות אחרות
 	Other Libraries	ספריות אחרות
 	Other Library…	ספרייה אחרת…
@@ -2748,7 +2748,7 @@ imageTrace	Outline	קו מתאר
 	Paste on All Artboards	הדבקה בכל משטחי היצירה
 	Paste Remembers Layers	הדבקה זוכרת שכבות
 @msg	paste unavailable	הדבקה אינה זמינה
-	Paste without Formatting	הדבקת ללא עיצוב
+	Paste without Formatting	הדבקה ללא עיצוב
 	Pasted	הודבק
 	Pastels	צבעי פסטל
 	Patchwork…	טלאים…
@@ -3209,7 +3209,7 @@ diagnostics	render	רינדור
 	Restore every preference to its default (applied on OK)	שחזור כל העדפה לברירת המחדל שלה (מוחל בלחיצה על אישור)
 	Restore Recovered Documents	שחזור מסמכים משוחזרים
 	Restored documents open unsaved: save them to keep them.	מסמכים משוחזרים נפתחים ללא שמירה: יש לשמור אותם כדי להשאירם.
-@msg	Restored {_1} recovered document(s): save them to keep them	שוחזרו {_1} מסמכים: שמור אותם כדי להשאירם
+@msg	Restored {_1} recovered document(s): save them to keep them	שוחזרו {_1} מסמכים: יש לשמור אותם כדי להשאירם
 	Restored {} recovered document(s): save them to keep them	שוחזרו {} מסמכים: יש לשמור אותם כדי להשאירם
 	Restrict printing, editing and other tasks	הגבל הדפסה, עריכה ומשימות אחרות
 	Restricted Colors	צבעים מוגבלים
@@ -3337,10 +3337,10 @@ swatch	Sand	חול
 	Save To:	שמירה אל:
 	Save Transparency Flattener Preset	שמירת ערכת השטחת שקיפות מוגדרת מראש
 	Save Transparency Flattener Preset…	שמירת ערכת השטחת שקיפות מוגדרת מראש…
-@msg	Save writes {_1}, not {_2}: use document.export for other formats	שמירה כותבת {_1}, לא {_2}: השתמש ב-document.export עבור תבניות אחרות
-@msg	Save writes {_1}, not {_2}: use file.saveAsTemplate to write it	שמירה כותבת {_1}, לא {_2}: השתמש ב-file.saveAsTemplate כדי לכתוב זאת
+@msg	Save writes {_1}, not {_2}: use document.export for other formats	שמירה כותבת {_1}, לא {_2}: יש להשתמש ב-document.export עבור תבניות אחרות
+@msg	Save writes {_1}, not {_2}: use file.saveAsTemplate to write it	שמירה כותבת {_1}, לא {_2}: יש להשתמש ב-file.saveAsTemplate כדי לכתוב זאת
 	SAVED	נשמר
-@msg	saved panel layout is invalid; reset the workspace first	פריסת החלוניות השמורה אינה תקינה; אפס תחילה את סביבת העבודה
+@msg	saved panel layout is invalid; reset the workspace first	פריסת החלוניות השמורה אינה תקינה; יש לאפס תחילה את סביבת העבודה
 	Saved recovery data for {title}	נשמרו נתוני שחזור עבור {title}
 @msg	Saved recovery data for {title}	נשמרו נתוני שחזור עבור {title}
 	Saved Selection 1	בחירה שמורה 1
@@ -3445,7 +3445,7 @@ swatch	Sand	חול
 @msg	Second measured segment no longer exists	המקטע המדוד השני אינו קיים עוד
 	Secondary	משני
 	Section Symbol	סמל סעיף
-@msg	select (or target) objects whose appearance isn't basic	יש לבחור (או סמן כיעד) אובייקטים שהמראה שלהם אינו בסיסי
+@msg	select (or target) objects whose appearance isn't basic	יש לבחור (או לסמן כיעד) אובייקטים שהמראה שלהם אינו בסיסי
 @msg	select a blend	יש לבחור מיזוג
 @msg	select a blend or give `id`	יש לבחור מיזוג או ספק `id`
 @msg	select a clip group	יש לבחור קבוצת חיתוך
@@ -3570,7 +3570,7 @@ swatch	Sand	חול
 	Shape Builder Regions	אזורי בונה צורות
 	Shape Builder Tool	כלי בונה הצורות
 @msg	Shape Builder: no region under the pointer	בונה צורות: אין אזור מתחת למצביע
-@msg	Shape Builder: select paths or compound paths	בונה צורות: בחר נתיבים או נתיבים מורכבים
+@msg	Shape Builder: select paths or compound paths	בונה צורות: יש לבחור נתיבים או נתיבים מורכבים
 	Shape Modes:	מצבי צורה:
 	Shape Properties:	מאפייני צורה:
 	Shaper	מעצב צורות (Shaper)
@@ -3754,7 +3754,7 @@ effect	Soft	רך
 	Spatter…	התזה…
 	Specified Distance	מרחק מוגדר
 	Specified Steps	שלבים מוגדרים
-	Specify:	ציין:
+	Specify:	יש לציין:
 	Spectrum	ספקטרום
 	Spectrum Gradients	מעברי צבע של ספקטרום
 	Spin	סחרור
@@ -3813,14 +3813,14 @@ effect	Soft	רך
 	Stretch to fit	מתח להתאמה
 	Stretch to Fit Stroke Length	מתח להתאמה לאורך קו המתאר
 	String not closed	מחרוזת לא סגורה
-	Stroke (X), double-click for the Color Picker	קו מתאר (X), לחץ לחיצה כפולה לבורר הצבעים
+	Stroke (X), double-click for the Color Picker	קו מתאר (X), לחיצה כפולה לבורר הצבעים
 	Stroke Direction	כיוון קו מתאר
 	Stroke options	אפשרויות קו מתאר
 	Stroke Pressure	לחץ קו מתאר
 	Stroke Weight	עובי קו מתאר
 	Stroke When Editable	קו מתאר כאשר ניתן לעריכה
 	Stroke Width	רוחב קו מתאר
-	Stroke: click for swatches, Shift-click for the color mixer	קו מתאר: לחץ לדוגמיות צבע, Shift+לחיצה למערבל הצבעים
+	Stroke: click for swatches, Shift-click for the color mixer	קו מתאר: לחיצה לדוגמיות צבע, Shift+לחיצה למערבל הצבעים
 	Strokes	קווי מתאר
 	Style Attributes	תכונות סגנון
 	Style Attributes (Entity References)	תכונות סגנון (הפניות ישות)
@@ -3927,7 +3927,7 @@ file-filter	Templates	תבניות
 	Text Wrap	גלישת טקסט
 	Text Wrap Options	אפשרויות גלישת טקסט
 	Text Wrap Options…	אפשרויות גלישת טקסט…
-@msg	Text Wrap: select a wrap object	גלישת טקסט: בחר אובייקט גלישה
+@msg	Text Wrap: select a wrap object	גלישת טקסט: יש לבחור אובייקט גלישה
 	Texture Coverage	כיסוי טקסטורה
 	Texture Image	תמונת טקסטורה
 	Texturizer	יוצר טקסטורה
@@ -3960,7 +3960,7 @@ file-filter	Templates	תבניות
 @msg	the document has no patterns	למסמך אין דוגמאות מילוי
 @msg	the document has no slices	למסמך אין גזירים
 @msg	the document has no symbols	למסמך אין סמלים
-@msg	the document is too large to save compressed ({0}): save it with Use Compression off	המסמך גדול מדי לשמירה בדחיסה ({0}): שמור אותו כש'השתמש בדחיסה' כבוי
+@msg	the document is too large to save compressed ({0}): save it with Use Compression off	המסמך גדול מדי לשמירה בדחיסה ({0}): יש לשמור אותו כש'שימוש בדחיסה' כבוי
 	The document was closed while its file dialog was open	המסמך נסגר בזמן שתיבת הדו-שיח של הקובץ שלו הייתה פתוחה
 @msg	the drawing has no layout `{_1}` (it has {_2})	לשרטוט אין פריסה `{_1}` (יש לו {_2})
 @msg	the drawing is no longer loaded	השרטוט אינו טעון עוד
@@ -3971,16 +3971,16 @@ file-filter	Templates	תבניות
 @msg	the export region is not finite	אזור הייצוא אינו סופי
 @msg	the export returned unreadable data	הייצוא החזיר נתונים בלתי קריאים
 @msg	the export wrote no file	הייצוא לא כתב קובץ
-@msg	the file holds only a placeholder page, not its art (it was saved without PDF compatibility): save it again with PDF compatibility on, or as PDF or SVG	הקובץ מכיל רק עמוד מציין מיקום, לא את הגרפיקה שלו (הוא נשמר ללא תאימות PDF): שמור אותו שוב עם תאימות PDF מופעלת, או כ-PDF או SVG
+@msg	the file holds only a placeholder page, not its art (it was saved without PDF compatibility): save it again with PDF compatibility on, or as PDF or SVG	הקובץ מכיל רק עמוד מציין מיקום, לא את הגרפיקה שלו (הוא נשמר ללא תאימות PDF): יש לשמור אותו שוב עם תאימות PDF מופעלת, או כ-PDF או SVG
 	The file is too large to read in full, so only its first part is listed.	הקובץ גדול מדי לקריאה במלואו, ולכן רק חלקו הראשון מוצג ברשימה.
 @msg	the file stopped being read (please report this bug)	קריאת הקובץ הופסקה (אנא דווח על באג זה)
 @msg	the file was read up to an error ({why}): what follows it was left out	הקובץ נקרא עד לשגיאה ({why}): מה שאחריה הושמט
-	The file writes keys and modifiers as codes. Check the proposed meanings and answer the codes that are not known yet.	הקובץ כותב מקשים ומקשי שינוי כקודים. בדוק את המשמעויות המוצעות והשלם את הקודים שטרם ידועים.
+	The file writes keys and modifiers as codes. Check the proposed meanings and answer the codes that are not known yet.	הקובץ כותב מקשים ומקשי שינוי כקודים. יש לבדוק את המשמעויות המוצעות ולהשלים את הקודים שטרם ידועים.
 @msg	the file's layers weren't read ({_1}): it comes in as its page, in one layer	השכבות של הקובץ לא נקראו ({_1}): הוא מיובא כעמוד שלו, בשכבה אחת
 @msg	the file's layers weren't read from its editing data ({_1}): they come from its PDF part	השכבות של הקובץ לא נקראו מנתוני העריכה שלו ({_1}): הן מגיעות מחלק ה-PDF שלו
 @msg	the file's preview header points outside the file	כותרת התצוגה המקדימה של הקובץ מצביעה מחוץ לקובץ
 @msg	the file's variables and data sets weren't read (variables: {variables}, data sets: {data_sets}): the Variables panel doesn't list them	המשתנים וערכות הנתונים של הקובץ לא נקראו (משתנים: {variables}, ערכות נתונים: {data_sets}): חלונית המשתנים אינה מציגה אותם
-@msg	the files come to more than 1 GB: add fewer at a time	הקבצים מסתכמים ביותר מ-1 ג"ב: הוסף פחות קבצים בכל פעם
+@msg	the files come to more than 1 GB: add fewer at a time	הקבצים מסתכמים ביותר מ-1 ג"ב: יש להוסיף פחות קבצים בכל פעם
 @msg	The graphics processor tried first couldn't show the window, so VectorCraft started again on {summary}	המעבד הגרפי שנוסה ראשון לא הצליח להציג את החלון, ולכן VectorCraft הופעלה מחדש על {summary}
 @msg	The graphics were lost and couldn't be restarted.	הגרפיקה אבדה ולא ניתן היה להפעילה מחדש.
 @msg	The graphics were lost and have been restarted	הגרפיקה אבדה והופעלה מחדש
@@ -3993,8 +3993,8 @@ file-filter	Templates	תבניות
 @msg	the image's pixels can't be read	לא ניתן לקרוא את הפיקסלים של התמונה
 @msg	the image's pixels don't match its size	הפיקסלים של התמונה אינם תואמים לגודלה
 	The key color becomes the stroke color. The other colors shift their hue by the same amount and keep their saturation and brightness.	צבע המפתח הופך לצבע קו המתאר. שאר הצבעים מזיזים את הגוון שלהם באותה מידה ושומרים על הרוויה והבהירות שלהם.
-@msg	The last start of VectorCraft ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	ההפעלה האחרונה של VectorCraft הסתיימה ב-{name} לפני שהחלון שלה הופיע, ולכן היא הופעלה על {summary}. כדי לנסות שוב את המעבד הגרפי ההוא, שנה את העדפות › ביצועים › מעבד גרפי או הפעל עם WGPU_BACKEND מוגדר
-@msg	The last start of VectorCraft ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	ההפעלה האחרונה של VectorCraft הסתיימה בזמן שהיא הציגה את רשימת המעבדים הגרפיים, ולכן היא הופעלה על {summary} עם OpenGL בלבד. כדי לנסות שוב את מנועי הגרפיקה האחרים, שנה את העדפות › ביצועים › מעבד גרפי או הפעל עם WGPU_BACKEND מוגדר
+@msg	The last start of VectorCraft ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	ההפעלה האחרונה של VectorCraft הסתיימה ב-{name} לפני שהחלון שלה הופיע, ולכן היא הופעלה על {summary}. כדי לנסות שוב את המעבד הגרפי ההוא, יש לשנות את העדפות › ביצועים › מעבד גרפי או להפעיל עם WGPU_BACKEND מוגדר
+@msg	The last start of VectorCraft ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	ההפעלה האחרונה של VectorCraft הסתיימה בזמן שהיא הציגה את רשימת המעבדים הגרפיים, ולכן היא הופעלה על {summary} עם OpenGL בלבד. כדי לנסות שוב את מנועי הגרפיקה האחרים, יש לשנות את העדפות › ביצועים › מעבד גרפי או להפעיל עם WGPU_BACKEND מוגדר
 @msg	the layer has no objects to clip by	לשכבה אין אובייקטים לחתוך לפיהם
 @msg	the layer or group is locked	השכבה או הקבוצה נעולה
 @msg	the layer to flatten into is hidden	השכבה להשטחה לתוכה מוסתרת
@@ -4039,9 +4039,9 @@ file-filter	Templates	תבניות
 @msg	the Save PDF dialog didn't open	תיבת הדו-שיח לשמירת PDF לא נפתחה
 @msg	the scale is not a usable number	קנה המידה אינו מספר שמיש
 @msg	the screen color sampler is already open	דוגם צבעי המסך כבר פתוח
-@msg	the search couldn't start: try again in a moment	לא ניתן היה להתחיל בחיפוש: נסה שוב בעוד רגע
-	The search stopped at its limit: search a smaller folder.	החיפוש נעצר במגבלה שלו: חפש בתיקייה קטנה יותר.
-	The selected objects have no CSS of their own (see below).	לאובייקטים הנבחרים אין CSS משלהם (ראה להלן).
+@msg	the search couldn't start: try again in a moment	לא ניתן היה להתחיל בחיפוש: יש לנסות שוב בעוד רגע
+	The search stopped at its limit: search a smaller folder.	החיפוש נעצר במגבלה שלו: יש לחפש בתיקייה קטנה יותר.
+	The selected objects have no CSS of their own (see below).	לאובייקטים הנבחרים אין CSS משלהם (ראו להלן).
 @msg	the selected stroke's profile is already listed as {_1}	הפרופיל של קו המתאר הנבחר כבר מופיע ברשימה בתור {_1}
 @msg	the selection has no URL (or they differ)	לבחירה אין כתובת URL (או שהן שונות)
 @msg	the selection isn't in perspective	הבחירה אינה בפרספקטיבה
@@ -4065,22 +4065,22 @@ file-filter	Templates	תבניות
 	This document already has a swatch named “{name}” with another color.	למסמך זה כבר יש דוגמית צבע בשם “{name}” עם צבע אחר.
 @msg	this file was saved without PDF compatibility, and its editing data can't be read ({why})	קובץ זה נשמר ללא תאימות PDF, ולא ניתן לקרוא את נתוני העריכה שלו ({why})
 @msg	this file's PostScript couldn't be read ({why}): {what}	לא ניתן היה לקרוא את ה-PostScript של קובץ זה ({why}): {what}
-@msg	this format holds one artboard: export several as PDF or with document.exportForScreens	תבנית זו מכילה משטח יצירה אחד: ייצא מספר משטחים כ-PDF או באמצעות document.exportForScreens
-@msg	this is a DWG drawing, which can't be read: save it from the CAD app as an ASCII DXF and open that	זהו שרטוט DWG, שלא ניתן לקרוא: שמור אותו מיישום ה-CAD כקובץ ASCII DXF ופתח אותו
+@msg	this format holds one artboard: export several as PDF or with document.exportForScreens	תבנית זו מכילה משטח יצירה אחד: יש לייצא מספר משטחים כ-PDF או באמצעות document.exportForScreens
+@msg	this is a DWG drawing, which can't be read: save it from the CAD app as an ASCII DXF and open that	זהו שרטוט DWG, שלא ניתן לקרוא: יש לשמור אותו מיישום ה-CAD כקובץ ASCII DXF ולפתוח אותו
 @msg	this is a PostScript file (an .ai saved in an older format or without PDF compatibility, or an EPS file), not a PDF: File › Open and File › Place read it as EPS	זהו קובץ PostScript (קובץ .ai שנשמר בתבנית ישנה יותר או ללא תאימות PDF, או קובץ EPS), לא PDF: קובץ › פתיחה וקובץ › מיקום קוראים אותו כ-EPS
-@msg	this is a PostScript file (an .ai saved in an older format or without PDF compatibility, or an EPS file), which can't be opened yet: save it as PDF, PDF-compatible .ai or SVG	זהו קובץ PostScript (קובץ .ai שנשמר בתבנית ישנה יותר או ללא תאימות PDF, או קובץ EPS), שעדיין לא ניתן לפתוח: שמור אותו כ-PDF, קובץ .ai תואם PDF או SVG
+@msg	this is a PostScript file (an .ai saved in an older format or without PDF compatibility, or an EPS file), which can't be opened yet: save it as PDF, PDF-compatible .ai or SVG	זהו קובץ PostScript (קובץ .ai שנשמר בתבנית ישנה יותר או ללא תאימות PDF, או קובץ EPS), שעדיין לא ניתן לפתוח: יש לשמור אותו כ-PDF, קובץ .ai תואם PDF או SVG
 @msg	this is not a PostScript file	זה אינו קובץ PostScript
-@msg	this isn't a flat-colour logo ({_1}% of its solid areas match a few flat colours), so Flat Logo mode would turn its gradients into patches: use Color mode instead	זה אינו לוגו בצבעים שטוחים ({_1}% מהאזורים האחידים שלו תואמים למספר צבעים שטוחים), ולכן מצב 'לוגו שטוח' יהפוך את מעברי הצבע שלו לטלאים: השתמש במצב 'צבע' במקום זאת
+@msg	this isn't a flat-colour logo ({_1}% of its solid areas match a few flat colours), so Flat Logo mode would turn its gradients into patches: use Color mode instead	זה אינו לוגו בצבעים שטוחים ({_1}% מהאזורים האחידים שלו תואמים למספר צבעים שטוחים), ולכן מצב 'לוגו שטוח' יהפוך את מעברי הצבע שלו לטלאים: יש להשתמש במצב 'צבע' במקום זאת
 @msg	this kind of brush has no options dialog yet	לסוג מברשת זה עדיין אין תיבת דו-שיח של אפשרויות
 	This library is empty	ספרייה זו ריקה
 	This library is empty.	ספרייה זו ריקה.
-	This panel is on the roadmap (see the parity plan).	חלונית זו נמצאת בתוכנית הפיתוח (ראה תוכנית השוואת תכונות).
-@msg	this PostScript file can't be read ({why}): save it as PDF or SVG in the app that made it	לא ניתן לקרוא קובץ PostScript זה ({why}): שמור אותו כ-PDF או SVG ביישום שיצר אותו
+	This panel is on the roadmap (see the parity plan).	חלונית זו נמצאת בתוכנית הפיתוח (ראו תוכנית השוואת תכונות).
+@msg	this PostScript file can't be read ({why}): save it as PDF or SVG in the app that made it	לא ניתן לקרוא קובץ PostScript זה ({why}): יש לשמור אותו כ-PDF או SVG ביישום שיצר אותו
 @msg	This shortcut file is in a form VectorCraft can't read.	קובץ קיצורי דרך זה נמצא במבנה ש-VectorCraft אינה יכולה לקרוא.
 	This system has no screen color sampler	למערכת זו אין דוגם צבעי מסך
 @msg	this system has no screen color sampler	למערכת זו אין דוגם צבעי מסך
-@msg	this trace would make more than {max} anchor points, more than the document can show smoothly: raise Noise, lower Paths or Colors, or pick a lower-fidelity preset	עקיבה זו תיצור יותר מ-{max} נקודות עוגן, יותר ממה שהמסמך יכול להציג בצורה חלקה: העלה את 'רעש', הנמך את 'נתיבים' או 'צבעים', או בחר ערכה בדיוק נמוך יותר
-	Thread Text	שרשר טקסט
+@msg	this trace would make more than {max} anchor points, more than the document can show smoothly: raise Noise, lower Paths or Colors, or pick a lower-fidelity preset	עקיבה זו תיצור יותר מ-{max} נקודות עוגן, יותר ממה שהמסמך יכול להציג בצורה חלקה: יש להעלות את 'רעש', להנמיך את 'נתיבים' או 'צבעים', או לבחור ערכה בדיוק נמוך יותר
+	Thread Text	שרשור טקסט
 	Threaded Text	טקסט משורשר
 	Threads	תהליכונים
 	Three Point	שלוש נקודות מגוז
@@ -4102,7 +4102,7 @@ file-filter	Templates	תבניות
 	Tile Range:	טווח אריחים:
 	Tile Type:	סוג אריח:
 	tile {number}	אריח {number}
-	Tiles are numbered across, then down; leave the range empty for every tile.	האריחים ממוספרים לרוחב, ואז כלפי מטה; השאר את הטווח ריק עבור כל האריחים.
+	Tiles are numbered across, then down; leave the range empty for every tile.	האריחים ממוספרים לרוחב, ואז כלפי מטה; יש להשאיר את הטווח ריק עבור כל האריחים.
 	Time (hhmmss)	שעה (hhmmss)
 	Tints	גוונים בהירים (Tints)
 	Tints and Shades	גוונים בהירים וכהים
@@ -4181,7 +4181,7 @@ file-filter	Templates	תבניות
 	Triangle (open)	משולש (פתוח)
 	Triangle to Bar	משולש לקו
 	Trim	קיצוץ
-	Trim covered geometry on Expand Appearance. Live preview keeps the full surface. Transparent paints and surfaces exceeding visibility limits retain all faces.	קצץ גיאומטריה מכוסה בעת הרחבת מראה. תצוגה מקדימה חיה שומרת על המשטח המלא. צבעים שקופים ומשטחים החורגים ממגבלות הנראות שומרים על כל הפאות.
+	Trim covered geometry on Expand Appearance. Live preview keeps the full surface. Transparent paints and surfaces exceeding visibility limits retain all faces.	קיצוץ גאומטריה מכוסה בעת הרחבת מראה. תצוגה מקדימה חיה שומרת על המשטח המלא. צבעים שקופים ומשטחים החורגים ממגבלות הנראות שומרים על כל הפאות.
 	Trim mark weight:	עובי סימני חיתוך:
 	Trim marks	סימני חיתוך
 	Trim View	תצוגת חיתוך
@@ -4252,11 +4252,11 @@ diagnostics	ui	ממשק משתמש
 @msg	unknown parameter `{key}`; the command takes: {keys}	פרמטר לא ידוע `{key}`; הפקודה מקבלת: {keys}
 @msg	unknown preference `{key}`	העדפה לא ידועה `{key}`
 @msg	unknown preset (one of {_1})	ערכה מוגדרת מראש לא ידועה (אחת מתוך {_1})
-@msg	unknown preset `{name}` (high, medium, low or a saved one: see flattener.presets.list)	ערכה מוגדרת מראש לא ידועה `{name}` (high, medium, low או ערכה שמורה: ראה flattener.presets.list)
-@msg	unknown preset `{name}` (see flattener.presets.list)	ערכה מוגדרת מראש לא ידועה `{name}` (ראה flattener.presets.list)
-@msg	unknown preset `{name}` (see webExport.presets.list)	ערכה מוגדרת מראש לא ידועה `{name}` (ראה webExport.presets.list)
+@msg	unknown preset `{name}` (high, medium, low or a saved one: see flattener.presets.list)	ערכה מוגדרת מראש לא ידועה `{name}` (high, medium, low או ערכה שמורה: ראו flattener.presets.list)
+@msg	unknown preset `{name}` (see flattener.presets.list)	ערכה מוגדרת מראש לא ידועה `{name}` (ראו flattener.presets.list)
+@msg	unknown preset `{name}` (see webExport.presets.list)	ערכה מוגדרת מראש לא ידועה `{name}` (ראו webExport.presets.list)
 @msg	unknown side `{other}` (left|right|top|bottom)	צד לא ידוע `{other}` (left|right|top|bottom)
-@msg	unknown snap option `{key}` (use {options})	אפשרות הצמדה לא ידועה `{key}` (השתמש ב-{options})
+@msg	unknown snap option `{key}` (use {options})	אפשרות הצמדה לא ידועה `{key}` (יש להשתמש ב-{options})
 @msg	unknown tool `{tool}`	כלי לא ידוע `{tool}`
 @msg	unknown tool `{t}`	כלי לא ידוע `{t}`
 @msg	unknown tool or command `{key}`	כלי או פקודה לא ידועים `{key}`
@@ -4484,14 +4484,14 @@ swatch	Yellow Green	צהוב-ירוק
 @msg	{_1} failed: {e}	{_1} נכשל: {e}
 @msg	{_1} files	קובצי {_1}
 @msg	{_1} files are written by file.saveAsTemplate	קובצי {_1} נכתבים על ידי file.saveAsTemplate
-@msg	{_1} files can be opened but not written (see document.formats)	ניתן לפתוח קובצי {_1} אך לא לכתוב אותם (ראה document.formats)
+@msg	{_1} files can be opened but not written (see document.formats)	ניתן לפתוח קובצי {_1} אך לא לכתוב אותם (ראו document.formats)
 @msg	{_1} font families available	{_1} משפחות גופנים זמינות
 @msg	{_1} has no {_2} style	ל-{_1} אין סגנון {_2}
 @msg	{_1} is a live effect (Effect › Plug-ins)	{_1} הוא אפקט חי (אפקט › תוספים)
 @msg	{_1} is already used by {_2}	{_1} כבר נמצא בשימוש על ידי {_2}
-@msg	{_1} is an exporter (File › Export › Export As…)	{_1} הוא מייצא (קובץ › ייצוא › ייצא בשם…)
+@msg	{_1} is an exporter (File › Export › Export As…)	{_1} הוא מייצא (קובץ › ייצוא › ייצוא בשם…)
 @msg	{_1} linked file(s) can't be read here: their previews show	לא ניתן לקרוא כאן {_1} קבצים מקושרים: התצוגות המקדימות שלהם מוצגות
-@msg	{_1} linked image(s) changed on disk: Update Links shows the new versions	{_1} תמונות מקושרות השתנו בכונן: 'עדכן קישורים' מציג את הגרסאות החדשות
+@msg	{_1} linked image(s) changed on disk: Update Links shows the new versions	{_1} תמונות מקושרות השתנו בכונן: 'עדכון קישורים' מציג את הגרסאות החדשות
 @msg	{_1}: not saved, so not closed	{_1}: לא נשמר, ולכן לא נסגר
 @msg	{bpp}-bit bitmaps can't be read	לא ניתן לקרוא תמונות סיביות של {bpp} סיביות
 @msg	{command} didn't create an object	{command} לא יצרה אובייקט
@@ -4505,7 +4505,7 @@ swatch	Yellow Green	צהוב-ירוק
 	{count} linked image(s) changed since this document was saved. Show the new versions?	{count} תמונות מקושרות השתנו מאז שמסמך זה נשמר. להציג את הגרסאות החדשות?
 	{count} more rules: Export writes every one.	עוד {count} כללים: הייצוא כותב את כולם.
 	{count} of {total} artboards	{count} מתוך {total} משטחי יצירה
-	{count} unnamed objects left out: name them, or turn on Unnamed Objects in the panel menu.	{count} אובייקטים ללא שם הושמטו: תן להם שם, או הפעל את 'אובייקטים ללא שם' בתפריט החלונית.
+	{count} unnamed objects left out: name them, or turn on Unnamed Objects in the panel menu.	{count} אובייקטים ללא שם הושמטו: יש לתת להם שם, או להפעיל את 'אובייקטים ללא שם' בתפריט החלונית.
 @msg	{C}: no effect at index {from}	{C}: אין אפקט באינדקס {from}
 @msg	{depth}-bit PSD files in this colour mode can't be read	לא ניתן לקרוא קובצי PSD של {depth} סיביות במצב צבע זה
 	{effect} is already applied	{effect} כבר מוחל
@@ -4521,12 +4521,12 @@ swatch	Yellow Green	צהוב-ירוק
 	{kind} Style Options…	אפשרויות סגנון {kind}…
 	{kind}, {model}	{kind}, {model}
 @msg	{label} currently requires a path or compound path. Convert type, images and groups to paths first.	{label} דורש כעת נתיב או נתיב מורכב. המר תחילה טקסט, תמונות וקבוצות לנתיבים.
-@msg	{label} keeps 1 of the document's {n} artboards: the file reopens with one. Turn on Preserve Editing Capabilities to keep them all.	{label} שומר 1 מתוך {n} משטחי היצירה של המסמך: הקובץ נפתח מחדש עם אחד. הפעל את 'שמור על יכולות עריכה' כדי לשמור את כולם.
+@msg	{label} keeps 1 of the document's {n} artboards: the file reopens with one. Turn on Preserve Editing Capabilities to keep them all.	{label} שומר 1 מתוך {n} משטחי היצירה של המסמך: הקובץ נפתח מחדש עם אחד. יש להפעיל את 'שמירה על יכולות עריכה' כדי לשמור את כולם.
 @msg	{label} produced an empty result	{label} הפיק תוצאה ריקה
 @msg	{label} requires a shape with at least two anchors	{label} דורש צורה עם שני עוגנים לפחות
 @msg	{label}: lost track of a shape's style	{label}: אבד המעקב אחר סגנון של צורה
-@msg	{label}: select paths	{label}: בחר נתיבים
-@msg	{label}: select paths, compound paths, groups or text	{label}: בחר נתיבים, נתיבים מורכבים, קבוצות או טקסט
+@msg	{label}: select paths	{label}: יש לבחור נתיבים
+@msg	{label}: select paths, compound paths, groups or text	{label}: יש לבחור נתיבים, נתיבים מורכבים, קבוצות או טקסט
 @msg	{label}…	{label}…
 	{name} (spot)	{name} (ספוט)
 @msg	{name}: CRC mismatch	{name}: אי-התאמת CRC
@@ -4552,7 +4552,7 @@ swatch	Yellow Green	צהוב-ירוק
 	{page} of {count}	{page} מתוך {count}
 @msg	{path} can't be found: relink it first	לא ניתן למצוא את {path}: קשר אותו מחדש תחילה
 @msg	{path} is not a folder	{path} אינו תיקייה
-@msg	{path}: no file system here (pass dataBase64 to open; omit the path to get dataBase64)	{path}: אין כאן מערכת קבצים (העבר dataBase64 לפתיחה; השמט את הנתיב כדי לקבל dataBase64)
+@msg	{path}: no file system here (pass dataBase64 to open; omit the path to get dataBase64)	{path}: אין כאן מערכת קבצים (יש להעביר dataBase64 לפתיחה; יש להשמיט את הנתיב כדי לקבל dataBase64)
 @msg	{path}: not a file	{path}: אינו קובץ
 @msg	{path}: {e}	{path}: {e}
 	{people} contributors · {commits} commits	{people} תורמים · {commits} קומיטים
@@ -4565,7 +4565,7 @@ swatch	Yellow Green	צהוב-ירוק
 @msg	{tool} isn't in a toolbar group of several tools	{tool} אינו בקבוצת סרגל כלים של מספר כלים
 	{tool} Options	אפשרויות {tool}
 	{tool} Tool Options	אפשרויות כלי {tool}
-	{warning}: click to correct to the closest color ({hex})	{warning}: לחץ לתיקון לצבע הקרוב ביותר ({hex})
+	{warning}: click to correct to the closest color ({hex})	{warning}: לחיצה לתיקון לצבע הקרוב ביותר ({hex})
 	“{file}” is protected by a password.	“{file}” מוגן בסיסמה.
 	“{name}” already exists. Replace it?	“{name}” כבר קיים. להחליף אותו?
 @msg	“{name}” is not a file	“{name}” אינו קובץ
