@@ -317,7 +317,7 @@ wordcraft	Writing and document design	כתיבה ועיצוב מסמכים
 	Pre-release builds are off. Installed copies and their data are kept.	גרסאות מוקדמות מושבתות. העותקים המותקנים והנתונים שלהם נשמרים.
 	Pre-release installation is unavailable on this platform.	לא ניתן להתקין גרסאות מוקדמות בפלטפורמה זו.
 	Show installed copy	הצגת העותק המותקן
-	Stable	יציבות
+	Stable	גרסאות יציבות
 	These are pre-release builds. They will have issues and may lose work.	אלו גרסאות מוקדמות. צפויות בהן תקלות, ועבודה עלולה ללכת לאיבוד.
 	They install separately with separate settings. Keep backups: files saved by a newer build may not open in stable versions.	הן מותקנות בנפרד, עם הגדרות משלהן. מומלץ לשמור גיבויים: ייתכן שקבצים שנשמרו בגרסה חדשה יותר לא ייפתחו בגרסאות יציבות.
 	Try nightly builds	התנסות בגרסאות ליליות
@@ -334,7 +334,7 @@ wordcraft	Writing and document design	כתיבה ועיצוב מסמכים
 	The pre-release channel is updated automatically every night with the latest code. It may have bugs, performance and stability issues, and unfinished work. Please use the stable channel for important work.	ערוץ הגרסאות המוקדמות מתעדכן אוטומטית מדי לילה בקוד העדכני ביותר. ייתכנו בו באגים, בעיות ביצועים ויציבות ותכונות שטרם הושלמו. לעבודה חשובה מומלץ להשתמש בערוץ היציב.
 	Pre-release builds let you try new work early, but they will have bugs and may lose unsaved work.	גרסאות מוקדמות מאפשרות להתנסות בפיתוחים חדשים לפני השחרור, אך יהיו בהן באגים ועבודה שלא נשמרה עלולה ללכת לאיבוד.
 	They install alongside your stable apps with their own settings and data, leaving your stable setup untouched. Always back up important files before opening them in a pre-release build, as newer saves may not open in stable versions.	הן מותקנות לצד היישומים היציבים, עם הגדרות ונתונים משלהן, מבלי לשנות את סביבת העבודה היציבה. יש לגבות תמיד קבצים חשובים לפני פתיחתם בגרסה מוקדמת, משום שקבצים שנשמרו בגרסאות חדשות יותר עלולים שלא להיפתח בגרסאות יציבות.
-	You can turn this off at any time without deleting your installed pre-release apps or their data.	ניתן לכבות אפשרות זו בכל עת מבלי למחוק יישומים מוקדמים שהותקנו או את הנתונים שלהם.
+	You can turn this off at any time without deleting your installed pre-release apps or their data.	ניתן לכבות אפשרות זו בכל עת מבלי למחוק את היישומים שהותקנו בגרסאות מוקדמות או את הנתונים שלהם.
 	{month}/{day}/{year}	{day}/{month}/{year}
 	Nightly builds	גרסאות ליליות
 	Discover nightly builds (Pre-Release page)	איתור גרסאות ליליות (דף גרסאות מוקדמות)
@@ -350,7 +350,7 @@ wordcraft	Writing and document design	כתיבה ועיצוב מסמכים
 	Enable automatic installs in Settings to follow new nightly builds.	יש להפעיל התקנות אוטומטיות בהגדרות כדי לקבל גרסאות ליליות חדשות.
 	Check for updates	בדיקת עדכונים
 	Settings	הגדרות
-	Waiting for another download…	ממתין לסיום הורדה אחרת…
+	Waiting for another download…	בהמתנה לסיום הורדה אחרת…
 	just now	זה עתה
 	yesterday	אתמול
 
