@@ -49,7 +49,7 @@
 	Add the stroke colour as a swatch	הוספת צבע קו המתאר כדוגמית
 	Add the swatches in a swatch file (.json) or a GIMP palette (.gpl)	הוספת דוגמיות צבע מקובץ .json או מלוח צבעים של GIMP (.gpl)
 	Add Warp Pin	הוספת נקודת עיגון לעיוות
-	Adds the brushes in a brush set file to yours	הוספת המברשות מקובץ אוסף מברשות למברשות האישיות.
+	Adds the brushes in a brush set file to yours	הוספת המברשות מקובץ אוסף מברשות למברשות האישיות
 	Align left	יישור לשמאל
 	Align right	יישור לימין
 	Alpha	ערוץ אלפא
@@ -111,7 +111,7 @@
 	Alpha offset	היסט אלפא
 	Also morphs one shape into another	גם מתמיר צורה אחת לאחרת
 	Always Show Markers	הצגת סמנים תמיד
-	Always render off the UI thread. The window never waits; the picture can trail by a frame.	רנדר תמיד מחוץ לתהליכון הממשק. החלון לעולם אינו ממתין; התמונה עשויה לפגר בפריים אחד.
+	Always render off the UI thread. The window never waits; the picture can trail by a frame.	רינדור תמיד מחוץ לתהליכון הממשק. החלון לעולם אינו ממתין; התמונה עשויה לפגר בפריים אחד.
 	An AniCraft document, or an Animate .fla or .xfl	מסמך AniCraft, או קובץ .fla או .xfl של Animate
 	An animated GIF, with exact frame timing.	GIF מונפש, עם תזמון פריימים מדויק.
 	An animated PNG: full colour and real transparency, for the web and chat apps.	PNG מונפש: צבע מלא ושקיפות אמיתית, לאתרים וליישומי שיחה.
@@ -126,7 +126,7 @@
 	AniCraft: Apache License 2.0	AniCraft: רישיון Apache 2.0
 	AniCraft: MIT License	AniCraft: רישיון MIT
 	Animate each property on its own curve	הנפשת כל מאפיין בעקומה משלו
-	Animate this span's object property by property	הנפש את העצם של מקטע זה מאפיין אחר מאפיין
+	Animate this span's object property by property	הנפשת העצם של מקטע זה מאפיין אחר מאפיין
 	Animate this span's object property by property (edit the curves in the Motion Editor)	הנפשת העצם של מקטע זה מאפיין אחר מאפיין (עריכת העקומות בעורך התנועה)
 	Animated GIF	GIF מונפש
 	Animated PNG	PNG מונפש
@@ -1189,7 +1189,7 @@
 	Plays the sound on its own	מנגן את הצליל לבדו
 	Plug-in	תוסף
 	Plug-in · {by}	תוסף · {by}
-	Plug-ins are installed into a folder on your computer: use the desktop app	תוספים מותקנים בתיקייה במחשב שלך: השתמש ביישום שולחן העבודה
+	Plug-ins are installed into a folder on your computer: use the desktop app	תוספים מותקנים בתיקייה במחשב: יש להשתמש ביישום שולחן העבודה
 	Plug-ins run sandboxed: they can change the open document through AniCraft's commands, never your files.	תוספים רצים בארגז חול: הם יכולים לשנות את המסמך הפתוח דרך פקודות AniCraft, לעולם לא את קבציך.
 	Plug-ins: {error}	תוספים: {error}
 	Point	נקודה
@@ -1385,7 +1385,7 @@
 	Saved eases	עקומות האטה שמורות
 	Saved the brush “{name}” to your brushes.	המברשת ״{name}״ נשמרה באוסף המברשות האישיות.
 	Saved:	נשמר:
-	Saves the brush in hand as one of yours (one with that name is replaced)	שומר את המברשת הנוכחית באוסף האישי (מברשת קיימת באותו שם תוחלף).
+	Saves the brush in hand as one of yours (one with that name is replaced)	שמירת המברשת שביד באוסף האישי (מברשת קיימת באותו שם תוחלף)
 	Scale, turn and skew it with the Gradient Transform tool (F).	ניתן לשנות את הגודל, הסיבוב וההטיה באמצעות הכלי לשינוי צורת מעבר צבע (F).
 	Scaling	שינוי קנה מידה
 	Scatter	פיזור
@@ -1435,7 +1435,7 @@
 	Save the document first: Publish writes its files beside it.	יש לשמור את המסמך תחילה: הפרסום כותב את קובציו לצדו.
 	Save the document first: files go beside it.	יש לשמור את המסמך תחילה: הקבצים נשמרים לצדו.
 	Save your work and stop running tasks before installing an update.	יש לשמור את העבודה ולעצור משימות פועלות לפני התקנת עדכון.
-	Saved documents and exports go where you type in the save box; a plain name lands in the folder AniCraft was started from.	מסמכים שמורים וייצואים נכתבים למיקום שתקליד בתיבת השמירה; שם פשוט נשמר בתיקייה שממנה AniCraft הופעל.
+	Saved documents and exports go where you type in the save box; a plain name lands in the folder AniCraft was started from.	מסמכים שמורים וייצואים נכתבים למיקום המוקלד בתיבת השמירה; שם פשוט נשמר בתיקייה שממנה AniCraft הופעל.
 	Saved the preset “{name}”	נשמרה הערכה המוגדרת “{name}”
 	Saved the template “{name}”. File › New from Template starts a document from it.	נשמרה התבנית “{name}”. קובץ › חדש מתבנית מתחיל מסמך ממנה.
 	Saved {path}	נשמר {path}
@@ -1610,7 +1610,7 @@
 	Texture	מרקם
 	That autosaved copy is gone	עותק השמירה האוטומטית ההוא איננו
 	That bone is pinned (or hangs from a pinned bone): unpin it in Properties to drag it.	עצם זו נעוצה (או תלויה בעצם נעוצה): יש לבטל את נעיצתה במאפיינים כדי לגרור אותה.
-	The distance between dabs, as a part of the size	המרחק בין טביעות המברשת, ביחס לגודל המברשת.
+	The distance between dabs, as a part of the size	המרחק בין טביעות המברשת, ביחס לגודל המברשת
 	The GPU stage drew a picture the window can't show.	הבמה על ה-GPU ציירה תמונה שהחלון אינו יכול להציג.
 	The HTML page on, every other format off	דף ה-HTML פועל, כל שאר התבניות כבויות
 	The Library folder the new symbol goes into (the next conversion offers it again)	תיקיית הספרייה שבה יישמר הסמל החדש (ההמרה הבאה תציע אותה שוב)
@@ -1779,7 +1779,7 @@
 	Wheel	גלגלת
 	Where AniCraft's documents and files are on this computer	היכן מסמכי AniCraft וקובציו נשמרים במחשב זה
 	Where the motion starts. Changing it moves the whole path, and the object with it; the timing stays.	היכן התנועה מתחילה. שינוי זה מזיז את כל הנתיב, ואת העצם איתו; התזמון נשמר.
-	Where the ramp starts, from the centre along the gradient's axis (drag the triangle with the Gradient Transform tool)	נקודת ההתחלה של רצף הצבעים, מן המרכז לאורך ציר מעבר הצבע (גררו את המשולש באמצעות הכלי לשינוי צורת מעבר צבע)
+	Where the ramp starts, from the centre along the gradient's axis (drag the triangle with the Gradient Transform tool)	נקודת ההתחלה של רצף הצבעים, מן המרכז לאורך ציר מעבר הצבע (יש לגרור את המשולש באמצעות הכלי לשינוי צורת מעבר צבע)
 	Where to search	היכן לחפש
 	Whichever comes first. 0 changes: by time only. Copies are written in the background, so drawing never waits.	המוקדם מביניהם. 0 שינויים: לפי זמן בלבד. העותקים נכתבים ברקע, כך שהציור לעולם אינו ממתין.
 	White text on black, a yellow focus and selection colour, outlined controls.	טקסט לבן על רקע שחור, צבע צהוב למיקוד ולבחירה, פקדים עם קו מתאר.
@@ -1795,7 +1795,7 @@
 	Workspace	סביבת עבודה
 	Wrap	גלישת שורות
 	Wrap lines at a fixed width; off, each paragraph stays on one line	גלישת שורות ברוחב קבוע; כבוי משאיר כל פסקה בשורה אחת
-	Writes your brushes to a brush set file, to use on another computer	ייצוא המברשות האישיות לקובץ אוסף מברשות לשימוש במחשב אחר.
+	Writes your brushes to a brush set file, to use on another computer	ייצוא המברשות האישיות לקובץ אוסף מברשות לשימוש במחשב אחר
 	yesterday	אתמול
 	You have unsaved changes.	יש לך שינויים שלא נשמרו.
 	You have {n} presets, the most there can be: delete one first	קיימות {n} ערכות מוגדרות, המספר המרבי המותר: יש למחוק אחת תחילה
@@ -1803,7 +1803,7 @@
 	Your brush. Right-click to rename, export or delete it.	מברשת אישית. לחצו לחיצה ימנית כדי לשנות את שמה, לייצא אותה או למחוק אותה.
 	Your brushes	המברשות האישיות
 	Your own templates are kept in a folder on your computer: save them in the desktop app.	התבניות נשמרות בתיקייה במחשב: יש לשמור אותן ביישום שולחן העבודה.
-	Your templates are kept in a folder on your computer: use the desktop app (the built-in templates work here)	התבניות שלך נשמרות בתיקייה במחשב שלך: השתמש ביישום שולחן העבודה (התבניות המובנות פועלות כאן)
+	Your templates are kept in a folder on your computer: use the desktop app (the built-in templates work here)	התבניות נשמרות בתיקייה במחשב: יש להשתמש ביישום שולחן העבודה (התבניות המובנות פועלות כאן)
 	Zoom Camera	זום מצלמה
 	Zoom at the cursor	זום במיקום הסמן
 	Zoom in	הגדלת התצוגה

@@ -11,7 +11,7 @@
 # computing vocabulary. No other product's localisation, string table or translated UI was
 # consulted or copied; add entries the same way.
 	"{layer}" can't be filled: select a paint layer or a layer's mask	לא ניתן למלא את "{layer}": יש לבחור שכבת ציור או מסכת שכבה
-	"{layer}" has no paint yet: the filter changes what you paint on it.	ב-"{layer}" אין צבע עדיין: המסנן משנה את מה שתצייר עליה.
+	"{layer}" has no paint yet: the filter changes what you paint on it.	ב-"{layer}" אין צבע עדיין: המסנן משנה את מה שיצויר עליה.
 	0 turns autosave off. Copies go to {folder}	0 מכבה שמירה אוטומטית. עותקים נשמרים ב-{folder}
 	1 effect	אפקט 1
 	2D view only	תצוגת 2D בלבד
