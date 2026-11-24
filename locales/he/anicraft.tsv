@@ -54,7 +54,7 @@
 	Align right	יישור לימין
 	Alpha	ערוץ אלפא
 	Always snap	הצמדה תמידית
-	An export format: find it in File › Export	תבנית ייצוא: זמינה בתפריט קובץ › ייצוא
+	An export format: find it in File › Export	פורמט ייצוא: זמין בתפריט קובץ › ייצוא
 	Angle	זווית
 	AniCraft tries the best way for this computer first, and the next one if a way doesn't work.	AniCraft מנסה תחילה את שיטת התצוגה המתאימה ביותר למחשב זה, ואם היא אינה פועלת, עוברת לשיטה הבאה.
 	ANICRAFT_STAGE_RENDERER is set, and it takes precedence over this choice.	ANICRAFT_STAGE_RENDERER מוגדר, והוא מקבל עדיפות על פני בחירה זו.
@@ -209,7 +209,7 @@
 	Brush smoothing	החלקת מברשת
 	built in	מובנית
 	Built-in	מברשות מובנות
-	Built-in workspaces can be reset but not deleted. Save Workspace… adds one of your own.	אפשר לאפס סביבות עבודה מובנות, אך לא למחוק אותן. הפקודה שמירת סביבת עבודה… יוצרת סביבת עבודה משלכם.
+	Built-in workspaces can be reset but not deleted. Save Workspace… adds one of your own.	אפשר לאפס סביבות עבודה מובנות, אך לא למחוק אותן. הפקודה שמירת סביבת עבודה… יוצרת סביבת עבודה אישית.
 	Button	כפתור
 	Button (unnamed)	כפתור (ללא שם)
 	Button “{name}”	כפתור “{name}”
@@ -235,7 +235,7 @@
 	Colours you mix or type show here	צבעים שעורבבו או הוזנו מוצגים כאן
 	Constrain	הגבלה
 	Contrast	ניגודיות
-	Copy Ease	העתקת עקומת האטה
+	Copy Ease	העתקת עקומת קצב
 	Copy Filter	העתקת מסנן
 	Corners	פינות
 	CPU (GPU unavailable)	CPU (מעבד גרפי לא זמין)
@@ -363,7 +363,7 @@
 	Delete Point	מחיקת נקודה
 	Delete Points	מחיקת נקודות
 	Delete Preset	מחיקת הגדרה קבועה מראש
-	Delete Saved Ease	מחיקת עקומת האטה שמורה
+	Delete Saved Ease	מחיקת עקומת קצב שמורה
 	Delete Scene	מחיקת סצנה
 	Delete Sound	מחיקת צליל
 	Delete Swatch	מחיקת דוגמית צבע
@@ -424,7 +424,7 @@
 	Drag	גרירה
 	Drag Bone	גרירת עצם
 	Drag a corner or edge to scale (Shift keeps proportions, Alt scales from the centre), just outside a corner to rotate (Shift snaps 15°), inside to move.	גרירת פינה או שפה לשינוי גודל (Shift שומר על יחסים, Alt משנה גודל מהמרכז), מעט מחוץ לפינה לסיבוב (Shift מצמיד ל-15°), מבפנים להזזה.
-	Drag a key up or down to change it, or a handle to shape the ease. Double-click to add a key.	גרירת מפתח למעלה או למטה לשינויו, או ידית לעיצוב ההאצה/האטה. לחיצה כפולה מוסיפה מפתח.
+	Drag a key up or down to change it, or a handle to shape the ease. Double-click to add a key.	גרירת מפתח למעלה או למטה לשינויו, או ידית לעיצוב עקומת הקצב. לחיצה כפולה מוסיפה מפתח.
 	Drag bones or instances with the Selection tool to pose; a pose at another frame keys it, and poses tween.	גרירת עצמות או מופעים עם כלי הבחירה לקביעת תנוחה; תנוחה בפריים אחר יוצרת מפתח, והתנוחות מתמזגות בביניים.
 	Drag from one symbol instance to another to join them with a bone (they move to an armature layer); start on a bone's end to continue the chain. Click a bone to select it. Pose the armature by dragging bones or instances with the Selection tool.	גרירה ממופע סמל אחד לאחר מחברת ביניהם בעצם (הם עוברים לשכבת שלד); התחלה בקצה עצם ממשיכה את השרשרת. לחיצה על עצם בוחרת בה. קביעת תנוחת שלד נעשית בגרירת עצמות או מופעים עם כלי הבחירה.
 	Drag from the centre to draw a star.	גרירה מהמרכז לציור כוכב.
@@ -458,18 +458,18 @@
 	Duplicate Swatch	שכפול דוגמית
 	Duplicate Symbol	שכפול סמל
 	Dynamic text	טקסט דינמי
-	Ease	האצה/האטה
+	Ease	עקומת קצב
 	Ease in (cubic)	האצה בכניסה (מעוקבת)
 	Ease in (quad)	האצה בכניסה (ריבועית)
 	Ease in-out (cubic)	האצה והאטה (מעוקבת)
 	Ease in-out (quad)	האצה והאטה (ריבועית)
 	Ease out (cubic)	האטה ביציאה (מעוקבת)
 	Ease out (quad)	האטה ביציאה (ריבועית)
-	Eases: pick them in a tween's ease menu	עקומות שינוי קצב: בחרו אותן בתפריט שינוי הקצב של מעבר הביניים
+	Eases: pick them in a tween's ease menu	עקומות קצב: יש לבחור אותן בתפריט עקומת הקצב של מעבר הביניים
 	Easing	החלקת קצב (Easing)
 	Edit	עריכה
 	Edit Document	עריכת המסמך
-	Edit Ease…	עריכת עקומת ההאצה וההאטה…
+	Edit Ease…	עריכת עקומת קצב…
 	Edit Envelope — {name}	עריכת מעטפת — {name}
 	Edit Envelope: the volume of each channel over the sound's time	עריכת מעטפת: עוצמת השמע של כל ערוץ לאורך זמן הצליל
 	Edit Grid	עריכת רשת
@@ -486,10 +486,10 @@
 	Edit event	עריכת אירוע
 	Edit script	עריכת תסריט
 	Edit sound envelope	עריכת מעטפת צליל
-	Edit the ease: drag its points and handles	עריכת עקומת ההאצה וההאטה: גרירת נקודות ונקודות בקרה
+	Edit the ease: drag its points and handles	עריכת עקומת הקצב: גרירת נקודות ונקודות בקרה
 	Edit the property curves	עריכת עקומות המאפיינים
-	Edit the property curves and eases	עריכת עקומות המאפיינים וההאצות
-	Edit this saved ease	עריכת עקומת האטה שמורה זו
+	Edit the property curves and eases	עריכת עקומות המאפיינים ועקומות הקצב
+	Edit this saved ease	עריכת עקומת קצב שמורה זו
 	Edit what it does on clicks and the pointer ({key})	עריכת הפעולה בלחיצות ובמעבר מצביע ({key})
 	Edits show immediately; heavy scenes render in the background with an outline preview.	עריכות מופיעות מיידית; סצנות כבדות מתרנדרות ברקע עם תצוגה מקדימה של קווי מתאר.
 	Effect	אפקט
@@ -554,7 +554,7 @@
 	Export Sprite Sheet…	ייצוא גיליון ספרייטים…
 	Export swatches (a swatch file)	ייצוא דוגמיות צבע (קובץ דוגמיות)
 	Export Swatches…	ייצוא דוגמיות צבע…
-	Export the movie in this format	ייצוא הסרט בתבנית זו
+	Export the movie in this format	ייצוא הסרט בפורמט זה
 	Export to	ייצוא אל
 	Export Video…	ייצוא וידאו…
 	Export animated GIF	ייצוא GIF מונפש
@@ -672,7 +672,7 @@
 	Gap length	אורך מרווח
 	Gap size	גודל מרווח
 	Get Layer Properties	קבלת מאפייני שכבה
-	Give every property's segment at this frame this ease	קביעת האצה/האטה זו למקטע של כל מאפיין בפריים זה
+	Give every property's segment at this frame this ease	קביעת עקומת קצב זו למקטע של כל מאפיין בפריים זה
 	Glow options	אפשרויות הילה
 	Go to	מעבר אל
 	Go to First Frame	מעבר לפריים הראשון
@@ -740,7 +740,7 @@
 	If you don't save, your changes since the last save will be lost.	אם לא תשמור, השינויים מאז השמירה האחרונה יאבדו.
 	Image added to the Library	התמונה נוספה לספרייה
 	Immediate	מיידי
-	Import an image into the Library first (File › Import › Import to Library), then fill with it.	תחילה יבאו תמונה לספרייה (קובץ › ייבוא › ייבוא לספרייה), ולאחר מכן השתמשו בה למילוי.
+	Import an image into the Library first (File › Import › Import to Library), then fill with it.	תחילה יש לייבא תמונה לספרייה (קובץ › ייבוא › ייבוא לספרייה), ולאחר מכן להשתמש בה למילוי.
 	Import brushes (a brush set file)	ייבוא מברשות (קובץ ערכת מברשות)
 	Import Dropped Files	ייבוא קבצים שהושלכו
 	Import swatches (a swatch file or a GIMP palette)	ייבוא דוגמיות צבע (מקובץ דוגמיות או מלוח צבעים של GIMP)
@@ -979,14 +979,14 @@
 	New guide position	מיקום קו עזר חדש
 	New name for “{name}”	שם חדש עבור {name}
 	No colour	ללא צבע
-	No Ease	ללא שינוי קצב
+	No Ease	ללא עקומת קצב
 	No fill	ללא מילוי
-	No fill. Choose a type above to fill again.	ללא מילוי. בחרו סוג למעלה כדי להוסיף מילוי מחדש.
+	No fill. Choose a type above to fill again.	ללא מילוי. יש לבחור סוג למעלה כדי למלא שוב.
 	no limit	ללא הגבלה
 	No matching commands	לא נמצאו פקודות תואמות
-	No plug-ins installed yet. Plug-ins are WebAssembly (.wasm) files that add commands (generators, selection effects), export formats and eases.	עדיין לא הותקנו תוספים. תוספים הם קובצי WebAssembly (.wasm) שמוסיפים פקודות (מחוללים ואפקטים לבחירה), תבניות ייצוא ועקומות שינוי קצב.
+	No plug-ins installed yet. Plug-ins are WebAssembly (.wasm) files that add commands (generators, selection effects), export formats and eases.	עדיין לא הותקנו תוספים. תוספים הם קובצי WebAssembly (.wasm) שמוסיפים פקודות (מחוללים ואפקטים לבחירה), פורמטי ייצוא ועקומות קצב.
 	None yet. Add one below, or drag one from a ruler (View › Rulers).	עדיין אין קווי עזר. ניתן להוסיף קו למטה או לגרור קו מסרגל (תצוגה › סרגלים).
-	None yet. Set up a brush in Properties, then save it below.	עדיין אין מברשות אישיות. הגדירו מברשת בחלונית המאפיינים, ואז שמרו אותה למטה.
+	None yet. Set up a brush in Properties, then save it below.	עדיין אין מברשות אישיות. יש להגדיר מברשת בחלונית המאפיינים, ולאחר מכן לשמור אותה למטה.
 	Not Now	לא עכשיו
 	NOTICE	הודעה
 	Name it to address it from actions (letters, digits and _). Its events work without a name.	תן לו שם כדי לפנות אליו מפעולות (אותיות, ספרות ו-_). האירועים שלו פועלים גם ללא שם.
@@ -1082,7 +1082,7 @@
 	Open Recent	פתיחת קבצים אחרונים
 	Open {label}	פתיחת {label}
 	Open {name}	פתיחת {name}
-	Open {name} (you'll be asked about unsaved changes)	פתיחת {name} (תישאל לגבי שינויים שלא נשמרו)
+	Open {name} (you'll be asked about unsaved changes)	פתיחת {name} (תוצג שאלה לגבי שינויים שלא נשמרו)
 	Open {name}, pinned	פתיחת {name}, מוצמד
 	Open-source 2D vector animation studio, written in Rust.	סטודיו להנפשה וקטורית דו-ממדית בקוד פתוח, כתוב ב-Rust.
 	Opened	נפתח
@@ -1108,7 +1108,7 @@
 	Past its ends the gradient keeps its end colours	מעבר לקצותיו, מעבר הצבע שומר על צבעי הקצה
 	Past its ends the gradient mirrors back and forth	מעבר לקצותיו, מעבר הצבע משתקף הלוך ושוב
 	Past its ends the gradient starts again	מעבר לקצותיו, מעבר הצבע מתחיל מחדש
-	Paste Ease	הדבקת עקומת האטה
+	Paste Ease	הדבקת עקומת קצב
 	Path	נתיב
 	Pen pressure sets the stroke's opacity (its average over the stroke)	לחץ העט קובע את אטימות הקו (בממוצע לאורך הקו)
 	Pen pressure varies the size, from 10 % to the full size	לחץ העט משנה את גודל המברשת, מ־10% ועד לגודל המלא
@@ -1116,7 +1116,7 @@
 	Playback volume	עוצמת השמע בהפעלה
 	Playback volume: {pct} %	עוצמת השמעה: {pct} %
 	Plug-ins	תוספים
-	Plug-ins run sandboxed: they can change the open document through AniCraft's commands, never your files. An export format only reads the frames; AniCraft writes its file.	תוספים פועלים בסביבה מבודדת: הם יכולים לשנות את המסמך הפתוח באמצעות פקודות AniCraft, אך לא לגשת לקבצים שלכם. תבנית ייצוא קוראת את הפריימים בלבד; AniCraft כותבת את הקובץ.
+	Plug-ins run sandboxed: they can change the open document through AniCraft's commands, never your files. An export format only reads the frames; AniCraft writes its file.	תוספים פועלים בסביבה מבודדת: הם יכולים לשנות את המסמך הפתוח באמצעות פקודות AniCraft, אך לא לגשת לקבצים במחשב. פורמט ייצוא קורא את הפריימים בלבד; AniCraft כותבת את הקובץ.
 	PNG image	תמונת PNG
 	PNG sequence	רצף PNG
 	PNG sprite sheet	גיליון ספרייטים PNG
@@ -1190,7 +1190,7 @@
 	Plug-in	תוסף
 	Plug-in · {by}	תוסף · {by}
 	Plug-ins are installed into a folder on your computer: use the desktop app	תוספים מותקנים בתיקייה במחשב: יש להשתמש ביישום שולחן העבודה
-	Plug-ins run sandboxed: they can change the open document through AniCraft's commands, never your files.	תוספים רצים בארגז חול: הם יכולים לשנות את המסמך הפתוח דרך פקודות AniCraft, לעולם לא את קבציך.
+	Plug-ins run sandboxed: they can change the open document through AniCraft's commands, never your files.	תוספים רצים בארגז חול: הם יכולים לשנות את המסמך הפתוח דרך פקודות AniCraft, אך לא לגשת לקבצים במחשב.
 	Plug-ins: {error}	תוספים: {error}
 	Point	נקודה
 	Point size	גודל נקודה
@@ -1235,10 +1235,10 @@
 	Project folder	תיקיית פרויקט
 	Properties…	מאפיינים…
 	Property	מאפיין
-	Property Ease	האצת/האטת מאפיין
+	Property Ease	עקומת קצב של מאפיין
 	Property Keyframe	פריים-מפתח של מאפיין
 	Property curves of the motion tween at the playhead (double-click a motion span)	עקומות מאפיינים של ביניים התנועה בראש הנגינה (לחיצה כפולה על מקטע תנועה)
-	Property ease	האצת/האטת מאפיין
+	Property ease	עקומת קצב של מאפיין
 	Property keyframe	פריים-מפתח של מאפיין
 	Publish	פרסום
 	Publish Settings	הגדרות פרסום
@@ -1381,15 +1381,15 @@
 	Save these swatches as a swatch file (.json) for other documents	שמירת דוגמיות הצבע לקובץ .json לשימוש במסמכים אחרים
 	Save Workspace	שמירת סביבת עבודה
 	Save Workspace…	שמירת סביבת העבודה…
-	Saved ease name	שם עקומת ההאטה השמורה
-	Saved eases	עקומות האטה שמורות
+	Saved ease name	שם עקומת הקצב השמורה
+	Saved eases	עקומות קצב שמורות
 	Saved the brush “{name}” to your brushes.	המברשת ״{name}״ נשמרה באוסף המברשות האישיות.
 	Saved:	נשמר:
 	Saves the brush in hand as one of yours (one with that name is replaced)	שמירת המברשת שביד באוסף האישי (מברשת קיימת באותו שם תוחלף)
 	Scale, turn and skew it with the Gradient Transform tool (F).	ניתן לשנות את הגודל, הסיבוב וההטיה באמצעות הכלי לשינוי צורת מעבר צבע (F).
 	Scaling	שינוי קנה מידה
 	Scatter	פיזור
-	Select a tweened span to edit its ease	יש לבחור מקטע עם הנפשת מעבר כדי לערוך את עקומת ההאטה שלו
+	Select a tweened span to edit its ease	יש לבחור מקטע עם הנפשת מעבר כדי לערוך את עקומת הקצב שלו
 	Selectable	ניתן לבחירה
 	Settings	הגדרות
 	Shape	צורה
@@ -1545,7 +1545,7 @@
 	Starting the graphics card…	מאתחל את הכרטיס הגרפי…
 	Step one frame	צעד פריים אחד
 	Stereo	סטריאו
-	Stop after the frame being made; formats not started don't run	עצירה לאחר הפריים שנוצר כעת; תבניות שטרם החלו לא ירוצו
+	Stop after the frame being made; formats not started don't run	עצירה לאחר הפריים שנוצר כעת; פורמטים שטרם החלו לא ירוצו
 	Stop colour (this stop stays transparent)	צבע עצירה (עצירה זו נשארת שקופה)
 	Stop the preview	עצירת התצוגה המקדימה
 	Stopping…	עוצר…
@@ -1612,7 +1612,7 @@
 	That bone is pinned (or hangs from a pinned bone): unpin it in Properties to drag it.	עצם זו נעוצה (או תלויה בעצם נעוצה): יש לבטל את נעיצתה במאפיינים כדי לגרור אותה.
 	The distance between dabs, as a part of the size	המרחק בין טביעות המברשת, ביחס לגודל המברשת
 	The GPU stage drew a picture the window can't show.	הבמה על ה-GPU ציירה תמונה שהחלון אינו יכול להציג.
-	The HTML page on, every other format off	דף ה-HTML פועל, כל שאר התבניות כבויות
+	The HTML page on, every other format off	דף ה-HTML פועל, כל שאר הפורמטים כבויים
 	The Library folder the new symbol goes into (the next conversion offers it again)	תיקיית הספרייה שבה יישמר הסמל החדש (ההמרה הבאה תציע אותה שוב)
 	The Library has none	אין כזה בספרייה
 	The camera layer is hidden: the movie shows the stage as it is.	שכבת המצלמה מוסתרת: הסרט מציג את הבמה כפי שהיא.
@@ -1738,7 +1738,7 @@
 	Use Releases or your package manager to update this installation.	יש להשתמש בגרסאות (Releases) או במנהל החבילות כדי לעדכן התקנה זו.
 	Use count	מספר שימושים
 	Use it for {action}	שימוש בזה עבור {action}
-	Use the format's usual name: {name}	יש להשתמש בשם הרגיל של התבנית: {name}
+	Use the format's usual name: {name}	יש להשתמש בשם הרגיל של הפורמט: {name}
 	Use the system's open and save dialogs	שימוש בתיבות הדו-שיח של המערכת לפתיחה ולשמירה
 	Use This Copy	שימוש בעותק זה
 	User Guide	מדריך למשתמש
@@ -1797,10 +1797,10 @@
 	Wrap lines at a fixed width; off, each paragraph stays on one line	גלישת שורות ברוחב קבוע; כבוי משאיר כל פסקה בשורה אחת
 	Writes your brushes to a brush set file, to use on another computer	ייצוא המברשות האישיות לקובץ אוסף מברשות לשימוש במחשב אחר
 	yesterday	אתמול
-	You have unsaved changes.	יש לך שינויים שלא נשמרו.
+	You have unsaved changes.	קיימים שינויים שלא נשמרו.
 	You have {n} presets, the most there can be: delete one first	קיימות {n} ערכות מוגדרות, המספר המרבי המותר: יש למחוק אחת תחילה
 	You're up to date.	התוכנה מעודכנת.
-	Your brush. Right-click to rename, export or delete it.	מברשת אישית. לחצו לחיצה ימנית כדי לשנות את שמה, לייצא אותה או למחוק אותה.
+	Your brush. Right-click to rename, export or delete it.	מברשת אישית. יש ללחוץ לחיצה ימנית כדי לשנות את שמה, לייצא אותה או למחוק אותה.
 	Your brushes	המברשות האישיות
 	Your own templates are kept in a folder on your computer: save them in the desktop app.	התבניות נשמרות בתיקייה במחשב: יש לשמור אותן ביישום שולחן העבודה.
 	Your templates are kept in a folder on your computer: use the desktop app (the built-in templates work here)	התבניות נשמרות בתיקייה במחשב: יש להשתמש ביישום שולחן העבודה (התבניות המובנות פועלות כאן)
@@ -1865,7 +1865,7 @@
 	the browser's storage for this site is full (documents with large images or sounds may not fit)	אחסון הדפדפן לאתר זה מלא (מסמכים עם תמונות או צלילים גדולים עלולים שלא להיכנס)
 	the command palette	לוח הפקודות
 	the shortcut editor	עורך קיצורי המקשים
-	the sound device has no usable format ({error})	להתקן השמע אין תבנית שמישה ({error})
+	the sound device has no usable format ({error})	להתקן השמע אין פורמט שמיש ({error})
 	the sound device wants {format} samples, which AniCraft doesn't write yet	התקן השמע דורש דגימות {format}, ש-AniCraft עדיין אינו כותב
 	the web version of AniCraft has no sound output yet	לגרסת הדפדפן של AniCraft עדיין אין פלט שמע
 	these files	קבצים אלה
@@ -1959,7 +1959,7 @@
 	{place} › {layer}, frame {frame}	{place} › {layer}, פריים {frame}
 	{plugin}: {reason}	{plugin}: {reason}
 	{property} curve	עקומת {property}
-	{property} ease	האצת/האטת {property}
+	{property} ease	עקומת קצב של {property}
 	{property} has no keyframes: it stays {value}. Click ◇ or drag its value to key it here.	ל-{property} אין פריימים-מפתח: הוא נשאר {value}. ניתן ללחוץ על ◇ או לגרור את ערכו כדי ליצור לו מפתח כאן.
 	{property} keyframe at frame {frame}	פריים-מפתח של {property} בפריים {frame}
 	{property} · keyed	{property} · עם מפתח
@@ -2021,11 +2021,11 @@
 @plural	Placed {n} file on {layer} at frame {frame}, in a new keyframe — {undo} to undo|Placed {n} files on {layer} at frame {frame}, in a new keyframe — {undo} to undo	מוקם {n} קובץ ב-{layer} בפריים {frame}, בפריים-מפתח חדש — {undo} לביטול|מוקמו {n} קבצים ב-{layer} בפריים {frame}, בפריים-מפתח חדש — {undo} לביטול|מוקמו {n} קבצים ב-{layer} בפריים {frame}, בפריים-מפתח חדש — {undo} לביטול
 @plural	Placed {n} file on {layer} at frame {frame}, in the middle of the view — {undo} to undo|Placed {n} files on {layer} at frame {frame}, in the middle of the view — {undo} to undo	מוקם {n} קובץ ב-{layer} בפריים {frame}, במרכז התצוגה — {undo} לביטול|מוקמו {n} קבצים ב-{layer} בפריים {frame}, במרכז התצוגה — {undo} לביטול|מוקמו {n} קבצים ב-{layer} בפריים {frame}, במרכז התצוגה — {undo} לביטול
 @plural	Plays its {n}-frame timeline on a loop from when it appears.|Plays its {n}-frame timeline on a loop from when it appears.	מנגן את ציר הזמן בן {n} פריים שלו בלולאה מרגע הופעתו.|מנגן את ציר הזמן בן {n} פריימים שלו בלולאה מרגע הופעתו.|מנגן את ציר הזמן בן {n} פריימים שלו בלולאה מרגע הופעתו.
-@plural	Publish cancelled after {n} format|Publish cancelled after {n} formats	הפרסום בוטל לאחר {n} תבנית|הפרסום בוטל לאחר {n} תבניות|הפרסום בוטל לאחר {n} תבניות
-@plural	Publish the {n} format that is on|Publish the {n} formats that are on	פרסום {n} התבנית הפועלת|פרסום {n} התבניות הפועלות|פרסום {n} התבניות הפועלות
-@plural	Published {n} format ({files} files)|Published {n} formats ({files} files)	פורסמה {n} תבנית ({files} קבצים)|פורסמו {n} תבניות ({files} קבצים)|פורסמו {n} תבניות ({files} קבצים)
-@plural	Published {n} format; {failed} failed. The report says why.|Published {n} formats; {failed} failed. The report says why.	פורסמה {n} תבנית; {failed} נכשלו. הדוח מפרט מדוע.|פורסמו {n} תבניות; {failed} נכשלו. הדוח מפרט מדוע.|פורסמו {n} תבניות; {failed} נכשלו. הדוח מפרט מדוע.
-@plural	Published {n} format; {skipped} skipped (see the report)|Published {n} formats; {skipped} skipped (see the report)	פורסמה {n} תבנית; {skipped} דולגו (לפירוט בדוח)|פורסמו {n} תבניות; {skipped} דולגו (לפירוט בדוח)|פורסמו {n} תבניות; {skipped} דולגו (לפירוט בדוח)
+@plural	Publish cancelled after {n} format|Publish cancelled after {n} formats	הפרסום בוטל לאחר {n} פורמט|הפרסום בוטל לאחר {n} פורמטים|הפרסום בוטל לאחר {n} פורמטים
+@plural	Publish the {n} format that is on|Publish the {n} formats that are on	פרסום {n} הפורמט הפועל|פרסום {n} הפורמטים הפועלים|פרסום {n} הפורמטים הפועלים
+@plural	Published {n} format ({files} files)|Published {n} formats ({files} files)	פורסם {n} פורמט ({files} קבצים)|פורסמו {n} פורמטים ({files} קבצים)|פורסמו {n} פורמטים ({files} קבצים)
+@plural	Published {n} format; {failed} failed. The report says why.|Published {n} formats; {failed} failed. The report says why.	פורסם {n} פורמט; {failed} נכשלו. הדוח מפרט מדוע.|פורסמו {n} פורמטים; {failed} נכשלו. הדוח מפרט מדוע.|פורסמו {n} פורמטים; {failed} נכשלו. הדוח מפרט מדוע.
+@plural	Published {n} format; {skipped} skipped (see the report)|Published {n} formats; {skipped} skipped (see the report)	פורסם {n} פורמט; {skipped} דולגו (לפירוט בדוח)|פורסמו {n} פורמטים; {skipped} דולגו (לפירוט בדוח)|פורסמו {n} פורמטים; {skipped} דולגו (לפירוט בדוח)
 @plural	Removed {n} frame — {undo} to undo|Removed {n} frames — {undo} to undo	הוסר {n} פריים — {undo} לביטול|הוסרו {n} פריימים — {undo} לביטול|הוסרו {n} פריימים — {undo} לביטול
 @plural	Replaced {n} place — {undo} to undo|Replaced {n} places — {undo} to undo	הוחלף {n} מופע — {undo} לביטול|הוחלפו {n} מופעים — {undo} לביטול|הוחלפו {n} מופעים — {undo} לביטול
 @plural	Replaced {n} place, left {skipped} as it was — {undo} to undo|Replaced {n} places, left {skipped} as they were — {undo} to undo	הוחלף {n} מופע, {skipped} נשאר כפי שהיה — {undo} לביטול|הוחלפו {n} מופעים, {skipped} נשארו כפי שהיו — {undo} לביטול|הוחלפו {n} מופעים, {skipped} נשארו כפי שהיו — {undo} לביטול
@@ -2053,7 +2053,7 @@
 @plural	{n} element|{n} elements	{n} רכיב|{n} רכיבים|{n} רכיבים
 @plural	{n} engine command — all available headless via anicraft-cli.|{n} engine commands — all available headless via anicraft-cli.	{n} פקודת מנוע — זמינה ללא ממשק גרפי דרך anicraft-cli.|{n} פקודות מנוע — כולן זמינות ללא ממשק גרפי דרך anicraft-cli.|{n} פקודות מנוע — כולן זמינות ללא ממשק גרפי דרך anicraft-cli.
 @plural	{n} file|{n} files	{n} קובץ|{n} קבצים|{n} קבצים
-@plural	{n} format on|{n} formats on	{n} תבנית פועלת|{n} תבניות פועלות|{n} תבניות פועלות
+@plural	{n} format on|{n} formats on	{n} פורמט פועל|{n} פורמטים פועלים|{n} פורמטים פועלים
 @plural	{n} frame before and after the playhead|{n} frames before and after the playhead	{n} פריים לפני ראש הנגינה ואחריו|{n} פריימים לפני ראש הנגינה ואחריו|{n} פריימים לפני ראש הנגינה ואחריו
 @plural	{n} frame script doesn't run|{n} frame scripts don't run	{n} תסריט פריים אינו רץ|{n} תסריטי פריים אינם רצים|{n} תסריטי פריים אינם רצים
 @plural	{n} frame · {secs} s|{n} frames · {secs} s	{n} פריים · {secs} שנ'|{n} פריימים · {secs} שנ'|{n} פריימים · {secs} שנ'
