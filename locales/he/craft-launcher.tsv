@@ -303,3 +303,26 @@ wordcraft	Writing and document design	כתיבה ועיצוב מסמכים
 	{name} was installed from the {repo} repository or the AUR ({pkg}). Update it with your AUR helper (for example: yay -S {pkg}) or sudo pacman -Syu	היישום {name} הותקן ממאגר {repo} או מ־AUR ({pkg}). כדי לעדכן אותו, יש להשתמש בכלי העזר ל־AUR (למשל: yay -S {pkg}) או בפקודה sudo pacman -Syu
 	{name} was installed from the AUR ({pkg}). Update it with {cmd}	היישום {name} הותקן מ־AUR ({pkg}). כדי לעדכן אותו, יש להפעיל {cmd}
 	{name} was installed from the AUR ({pkg}). Update it with your AUR helper (for example: yay -S {pkg})	היישום {name} הותקן מ־AUR ({pkg}). כדי לעדכן אותו, יש להשתמש בכלי העזר ל־AUR (למשל: yay -S {pkg})
+
+# Pre-release workflow
+	Enable pre-release builds	הפעלת גרסאות טרום-הפצה
+	Enable pre-release builds?	להפעיל גרסאות טרום-הפצה?
+	Install pre-release	התקנת גרסת טרום-הפצה
+	No pre-release build is available yet.	עדיין אין גרסת טרום-הפצה זמינה.
+	Only this pre-release copy will be removed. Stable copies and user data are kept.	רק עותק זה של גרסת טרום-ההפצה יוסר. הגרסאות היציבות ונתוני המשתמש יישמרו.
+	Open stable	פתיחת הגרסה היציבה
+	Pre-Release	טרום-הפצה
+	Pre-release installation is unavailable on this platform.	לא ניתן להתקין גרסאות טרום-הפצה בפלטפורמה זו.
+	Show installed copy	הצגת העותק המותקן
+	Stable	גרסה יציבה
+	Try nightly builds	התנסות בגרסאות ליליות
+	Turn off pre-release builds	כיבוי גרסאות טרום-הפצה
+	Uninstall pre-release	הסרת גרסת טרום-הפצה
+	Uninstall pre-release?	להסיר את גרסת טרום-ההפצה?
+	Uninstall pre-release…	הסרת גרסת טרום-הפצה…
+	Pre-release builds are off.	גרסאות טרום-הפצה כבויות.
+	Installed copies and their data are kept. To discover new builds, enable pre-release builds in Settings.	העותקים המותקנים והנתונים שלהם יישמרו. כדי למצוא גרסאות חדשות, יש להפעיל גרסאות טרום-הפצה בהגדרות.
+	Installed pre-release copy	עותק טרום-הפצה מותקן
+	Could not check for pre-release builds.	לא ניתן היה לבדוק אם יש גרסאות טרום-הפצה.
+	No pre-release builds are available yet.	עדיין אין גרסאות טרום-הפצה זמינות.
+	Pre-release builds aren't available on this platform yet.	גרסאות טרום-הפצה עדיין אינן זמינות בפלטפורמה זו.
