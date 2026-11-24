@@ -414,10 +414,10 @@ swatch	Aqua	אקווה (טורקיז בהיר)
 	Area Type Options…	אפשרויות טקסט באזור…
 	Area Type Tool	כלי טקסט באזור
 	Around Object	מסביב לאובייקט
-	Arrange by Column	סדר לפי עמודה
-	Arrange by Row	סדר לפי שורה
-	Arrange Intertwine Area	סדר אזור שזירה
-	Arrange: Bring to Front	סידור: הבא לחזית
+	Arrange by Column	סידור לפי עמודה
+	Arrange by Row	סידור לפי שורה
+	Arrange Intertwine Area	סידור אזור שזירה
+	Arrange: Bring to Front	סידור: העברה לחזית
 	Arrow (open)	חץ (פתוח)
 	Arrowheads:	ראשי חץ:
 	Art	גרפיקה
@@ -1607,9 +1607,9 @@ file-filter	Flattener presets	הגדרות קבועות מראש למשטח שק
 	Glowing Edges…	קצוות זוהרים…
 	Glyph Scaling:	שינוי קנה מידה של גליפים:
 	glyph {id}	גליף {id}
-	Go to Artboard	עבור למשטח יצירה
-	Go to Conflict	עבור להתנגשות
-	Go To Link	עבור לקישור
+	Go to Artboard	מעבר למשטח יצירה
+	Go to Conflict	מעבר להתנגשות
+	Go To Link	מעבר לקישור
 	GPL palettes keep solid colours only, as RGB.	לוחות צבעים מסוג GPL שומרים צבעים מלאים בלבד, כ-RGB.
 	GPU Performance	ביצועי GPU
 	Grab bag	אוסף כלים
@@ -2417,9 +2417,9 @@ swatch	Magenta	מג׳נטה
 @msg	no print service	אין שירות הדפסה
 	No printer settings to open here	אין הגדרות מדפסת לפתיחה כאן
 @msg	no revert command	אין פקודת החזרה למצב קודם
-@msg	no saved PDF preset named `{name}` (built-in presets are read-only: start a new one from them)	אין ערכת PDF שמורה בשם `{name}` (ערכות מובנות הן לקריאה בלבד: התחל ערכה חדשה מהן)
+@msg	no saved PDF preset named `{name}` (built-in presets are read-only: start a new one from them)	אין ערכת PDF שמורה בשם `{name}` (ערכות מובנות הן לקריאה בלבד: יש להתחיל ערכה חדשה מהן)
 @msg	no saved presets	אין ערכות מוגדרות מראש שמורות
-@msg	no saved print preset named `{name}` ({DEFAULT_PRESET} is protected: start a new one from it)	אין ערכת הדפסה שמורה בשם `{name}` ({DEFAULT_PRESET} מוגנת: התחל ערכה חדשה ממנה)
+@msg	no saved print preset named `{name}` ({DEFAULT_PRESET} is protected: start a new one from it)	אין ערכת הדפסה שמורה בשם `{name}` ({DEFAULT_PRESET} מוגנת: יש להתחיל ערכה חדשה ממנה)
 @msg	no saved profiles	אין פרופילים שמורים
 @msg	no saved selection recalled	לא אוחזרה בחירה שמורה
 @msg	no saved selections	אין בחירות שמורות
@@ -3001,11 +3001,11 @@ swatch	Radial White, Black	מעגלי לבן, שחור
 	Reads or sets environment variables	קורא או מגדיר משתני סביבה
 	Real World:	עולם אמיתי:
 	Real-time Drawing and Editing	ציור ועריכה בזמן אמת
-	Rearrange All	סדר מחדש הכול
-	Rearrange All Artboards	סדר מחדש את כל משטחי היצירה
-	Rearrange All Artboards…	סדר מחדש את כל משטחי היצירה…
-	Rearrange Artboards	סדר מחדש משטחי יצירה
-	Recall Selection	אחזר בחירה
+	Rearrange All	סידור מחדש של הכול
+	Rearrange All Artboards	סידור מחדש של כל משטחי היצירה
+	Rearrange All Artboards…	סידור מחדש של כל משטחי היצירה…
+	Rearrange Artboards	סידור משטחי יצירה מחדש
+	Recall Selection	אחזור בחירה
 	RECENT	אחרונים
 	RECENT (1)	אחרונים (1)
 	Recent File	קובץ אחרון
@@ -3137,15 +3137,15 @@ effect	Regular	רגיל
 diagnostics	render	רינדור
 	Render Threads (-1 = Automatic)	תהליכוני רינדור (-1 = אוטומטי)
 	Rendering intent:	כוונת רינדור:
-	Reorder	סדר מחדש
-	Reorder Appearance	סדר מחדש מראה
-	Reorder Appearance Item	סדר מחדש פריט מראה
-	Reorder Artboards	סדר מחדש משטחי יצירה
-	Repeat Objects	חזור על אובייקטים
+	Reorder	סידור מחדש
+	Reorder Appearance	סידור מראה מחדש
+	Reorder Appearance Item	סידור פריט מראה מחדש
+	Reorder Artboards	סידור משטחי יצירה מחדש
+	Repeat Objects	חזרה על אובייקטים
 	Repeat Options	אפשרויות חזרה
-	Repeat Pathfinder	חזור על מיזוג צורות
-	Repeat Tab	חזור על טאב
-	Repeat {name}	חזור על {name}
+	Repeat Pathfinder	חזרה על מיזוג צורות
+	Repeat Tab	חזרה על טאב
+	Repeat {name}	חזרה על {name}
 	Repeating	חוזר
 	Replace Font	החלפת גופן
 	Replace it with another file, or ignore it: its images keep showing the preview saved with the document.	יש להחליף אותו בקובץ אחר, או להתעלם ממנו: התמונות שלו ימשיכו להציג את התצוגה המקדימה שנשמרה עם המסמך.
@@ -4473,8 +4473,8 @@ axis	Y Axis	ציר Y
 	Yards	יארדים
 swatch	Yellow	צהוב
 swatch	Yellow Green	צהוב-ירוק
-	Your browser downloads the files (several as one .zip).	הדפדפן שלך מוריד את הקבצים (מספר קבצים כקובץ .zip אחד).
-@msg	Your unsaved changes are kept in this browser: reload the page to get them back.	השינויים שלא נשמרו נשמרים בדפדפן זה: טען מחדש את העמוד כדי לשחזר אותם.
+	Your browser downloads the files (several as one .zip).	הדפדפן מוריד את הקבצים (מספר קבצים כקובץ .zip אחד).
+@msg	Your unsaved changes are kept in this browser: reload the page to get them back.	השינויים שלא נשמרו נשמרים בדפדפן זה: יש לטעון מחדש את העמוד כדי לשחזר אותם.
 	Zig Zag…	זיגזג…
 @msg	zipped 32-bit PSD image data with prediction can't be read	לא ניתן לקרוא נתוני תמונת PSD של 32 סיביות דחוסים ב-ZIP עם חיזוי
 @msg	zone must be a string	האזור (zone) חייב להיות מחרוזת

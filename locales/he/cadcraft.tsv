@@ -68,7 +68,7 @@
 	Append to current selection set	הוספה לקבוצת הבחירה הנוכחית
 	Apply true color	החלת צבע אמיתי
 	Arc Length	אורך קשת
-	Arrange Panel	סדר חלונית
+	Arrange Panel	סידור חלונית
 	Array	מערך
 	Associative	אסוציאטיבי
 	Attach	צרף
@@ -690,7 +690,7 @@ menu	Modify	שינוי
 	Rename Layout	שינוי שם פריסה
 	Rename Text Style	שינוי שם סגנון טקסט
 	Rename...	יש לשנות שם...
-	Repeat {command}	חזור על {command}
+	Repeat {command}	חזרה על {command}
 	Requires a point (x,y, @dx,dy or @d<a).	נדרשת נקודה (x,y, @dx,dy או @d<a).
 	Reset keeps the interface language.	האיפוס שומר על שפת הממשק.
 	Reset Palettes	איפוס לוחות כלים

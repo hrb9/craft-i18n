@@ -206,7 +206,7 @@
 	Assign an audio type to the selection:	הקצה סוג שמע לבחירה:
 	Assign {key} to {command}	הקצה את {key} אל {command}
 	Asymmetry	אסימטריה
-	At playback end, return to beginning when restarting playback	בסיום הניגון, חזור להתחלה בעת הפעלת הניגון מחדש
+	At playback end, return to beginning when restarting playback	בסיום הניגון, חזרה להתחלה בעת הפעלת הניגון מחדש
 	At Startup	בעת ההפעלה
 	At Unnumbered Markers	בסמנים לא ממוספרים
 	Att	הנחתה
@@ -1013,7 +1013,7 @@
 	Font family	משפחת גופנים
 	Font Style	סגנון גופן
 	Fonts used in the project:	גופנים בשימוש בפרויקט:
-	For color management parameters, go to the Settings tab in the Lumetri Color panel.	עבור פרמטרים של ניהול צבע, עבור לכרטיסיית ההגדרות בחלונית הצבע של Lumetri.
+	For color management parameters, go to the Settings tab in the Lumetri Color panel.	עבור פרמטרים של ניהול צבע, יש לעבור לכרטיסיית ההגדרות בחלונית הצבע של Lumetri.
 	Forest	יער
 	Format and size	תבנית וגודל
 	Four Scopes (RGB, 8 bit)	ארבעה מחוונים (RGB, 8 סיביות)
@@ -1088,28 +1088,28 @@
 	Glow Width	רוחב זוהר
 	Go Back	חזרה אחורה
 	Go Forward	התקדם קדימה
-	Go to Gap	עבור למרווח
-	Go to In	עבור לנקודת כניסה
-	Go to In (Shift+I)	עבור לנקודת כניסה (Shift+I)
-	Go to In Point	עבור לנקודת כניסה
-	Go to Next Caption Segment	עבור למקטע הכתוביות הבא
-	Go to Next Edit Point	עבור לנקודת העריכה הבאה
-	Go to Next Edit Point on Any Track	עבור לנקודת העריכה הבאה בערוץ כלשהו
-	Go to next keyframe	עבור לפריים המפתח הבא
-	Go to Next Marker	עבור לסמן הבא
-	Go to Out	עבור לנקודת יציאה
-	Go to Out (Shift+O)	עבור לנקודת יציאה (Shift+O)
-	Go to Out Point	עבור לנקודת יציאה
-	Go to Previous Caption Segment	עבור למקטע הכתוביות הקודם
-	Go to Previous Edit Point	עבור לנקודת העריכה הקודמת
-	Go to Previous Edit Point on Any Track	עבור לנקודת העריכה הקודמת בערוץ כלשהו
-	Go to previous keyframe	עבור לפריים המפתח הקודם
-	Go to Previous Marker	עבור לסמן הקודם
-	Go to Selected Clip End	עבור לסוף הקליפ הנבחר
-	Go to Selected Clip Start	עבור להתחלת הקליפ הנבחר
-	Go to Sequence End	עבור לסוף הרצף
-	Go to Sequence Start	עבור להתחלת הרצף
-	Go to Split	עבור לפיצול
+	Go to Gap	מעבר למרווח
+	Go to In	מעבר לנקודת כניסה
+	Go to In (Shift+I)	מעבר לנקודת כניסה (Shift+I)
+	Go to In Point	מעבר לנקודת כניסה
+	Go to Next Caption Segment	מעבר למקטע הכתוביות הבא
+	Go to Next Edit Point	מעבר לנקודת העריכה הבאה
+	Go to Next Edit Point on Any Track	מעבר לנקודת העריכה הבאה בערוץ כלשהו
+	Go to next keyframe	מעבר לפריים המפתח הבא
+	Go to Next Marker	מעבר לסמן הבא
+	Go to Out	מעבר לנקודת יציאה
+	Go to Out (Shift+O)	מעבר לנקודת יציאה (Shift+O)
+	Go to Out Point	מעבר לנקודת יציאה
+	Go to Previous Caption Segment	מעבר למקטע הכתוביות הקודם
+	Go to Previous Edit Point	מעבר לנקודת העריכה הקודמת
+	Go to Previous Edit Point on Any Track	מעבר לנקודת העריכה הקודמת בערוץ כלשהו
+	Go to previous keyframe	מעבר לפריים המפתח הקודם
+	Go to Previous Marker	מעבר לסמן הקודם
+	Go to Selected Clip End	מעבר לסוף הקליפ הנבחר
+	Go to Selected Clip Start	מעבר להתחלת הקליפ הנבחר
+	Go to Sequence End	מעבר לסוף הרצף
+	Go to Sequence Start	מעבר להתחלת הרצף
+	Go to Split	מעבר לפיצול
 	Golden Dusk	דמדומים מוזהבים
 	Golden Hour	שעת הזהב
 	GPU acceleration is unavailable; preview renders on the CPU	האצת GPU אינה זמינה; התצוגה המקדימה מרונדרת ב-CPU
@@ -2109,7 +2109,7 @@
 	Renderer:	מנוע רינדור:
 	Rendering:	רינדור:
 	Repair	תיקון
-	Repeat Edge Pixels	חזור על פיקסלי קצה
+	Repeat Edge Pixels	חזרה על פיקסלי קצה
 	Replace Color	החלפת צבע
 	Replace Fonts in Projects	החלפת גופנים בפרויקטים
 	Replace Fonts in Projects…	החלפת גופנים בפרויקטים…
@@ -2149,7 +2149,7 @@
 	Reverse Match Frame	התאמת פריים הפוכה
 	Reverse Speed	היפוך מהירות
 	Revert Remix	ביטול רמיקס
-	Revert to the preset's colors and names	חזור לצבעים ולשמות של ההגדרה הקבועה מראש
+	Revert to the preset's colors and names	חזרה לצבעים ולשמות של ההגדרה הקבועה מראש
 	RGB Curves	עקומות RGB
 	RGB Split	פיצול RGB
 	RGB-White	RGB-לבן
@@ -3013,8 +3013,8 @@
 
 # Hebrew: timeline search, audio/encoder warnings and interface controls
 	Animate zoom, scrolling and menus	הנפשת שינוי גודל התצוגה, גלילה ותפריטים
-	Audio output failed: playing without sound (check Settings > Audio Hardware)	פלט השמע נכשל: ההפעלה נמשכת ללא קול (בדקו הגדרות > חומרת שמע)
-	Audio output is not responding: playing without sound (check Settings > Audio Hardware)	פלט השמע אינו מגיב: ההפעלה נמשכת ללא קול (בדקו הגדרות > חומרת שמע)
+	Audio output failed: playing without sound (check Settings > Audio Hardware)	פלט השמע נכשל: ההפעלה נמשכת ללא קול (יש לבדוק הגדרות > חומרת שמע)
+	Audio output is not responding: playing without sound (check Settings > Audio Hardware)	פלט השמע אינו מגיב: ההפעלה נמשכת ללא קול (יש לבדוק הגדרות > חומרת שמע)
 	AV1 needs a hardware encoder; none was found on this machine, and FilmCraft has no software AV1 encoder yet.	AV1 דורש מקודד חומרה; לא נמצא מקודד כזה במחשב הזה, ול־FilmCraft עדיין אין מקודד AV1 תוכנתי.
 	Delete Redoable Actions	מחיקת פעולות שאפשר לבצע מחדש
 	Delete the dimmed actions after the current state? They cannot be redone.	למחוק את הפעולות המעומעמות שאחרי המצב הנוכחי? לא ניתן יהיה לבצע אותן מחדש.
