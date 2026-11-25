@@ -219,7 +219,7 @@ swatch	[Registration]	[רישום (Registration)]
 @msg	a key object sits on that point	אובייקט מפתח נמצא בנקודה זו
 	A later row takes this shortcut	שורה מאוחרת יותר משתמשת בקיצור דרך זה
 @msg	a layer couldn't be read	לא ניתן היה לקרוא שכבה
-	A legacy .ai file holds one artboard: each artboard you check is saved as a separate file.	קובץ .ai מדור קודם מכיל משטח יצירה אחד: כל משטח יצירה שתסמן יישמר כקובץ נפרד.
+	A legacy .ai file holds one artboard: each artboard you check is saved as a separate file.	קובץ .ai מדור קודם מכיל משטח יצירה אחד: כל משטח יצירה שיסומן יישמר כקובץ נפרד.
 @msg	a linked image can't become a gradient mesh: embed it first	תמונה מקושרת אינה יכולה להפוך לרשת מעבר צבע: הטמע אותה תחילה
 	A lower value follows the stroke closely; a higher one gives fewer points and smoother curves.	ערך נמוך יותר עוקב מקרוב אחר המשיכה; ערך גבוה יותר נותן פחות נקודות ועקומות חלקות יותר.
 @msg	a mask has more than one art block	למסכה יש יותר מבלוק גרפיקה אחד
@@ -485,7 +485,7 @@ swatch	Aqua	אקווה (טורקיז בהיר)
 swatch	Azure	תכלת עז (Azure)
 	B4	B4
 	B5	B5
-	Back	אחור
+	Back	חזרה
 	Background Color:	צבע רקע:
 	Background Contents:	תוכן הרקע:
 	Background Level	רמת רקע
@@ -637,10 +637,10 @@ swatch	Brown	חום
 3d	Cap	מכסה
 	Cap Height	גובה אות רישית (Cap Height)
 	Cap:	קצה קו:
-	Capture Data Set	לכוד ערכת נתונים
+	Capture Data Set	לכידת ערכת נתונים
 	Categories	קטגוריות
-	Center Artwork	מרכז גרפיקה
-	Center on Artboard	מרכז במשטח היצירה
+	Center Artwork	מרכוז גרפיקה
+	Center on Artboard	מרכוז במשטח היצירה
 	Center-Justified Tab	טאב ממורכז
 	Chalk & Charcoal	גיר ופחם
 	Chalk & Charcoal…	גיר ופחם…
@@ -1122,7 +1122,7 @@ swatch	Cyan Green	ציאן-ירוק
 	Dither	פיזור גוונים (Dither)
 	Dither:	פיזור גוונים:
 	Divide Horizontally Into	חלוקה אופקית ל-
-@msg	divide into 1 to {MAX_PIECES} slices	חלק ל-1 עד {MAX_PIECES} חיתוכים
+@msg	divide into 1 to {MAX_PIECES} slices	יש לחלק ל-1 עד {MAX_PIECES} חיתוכים
 	Divide Objects Below	חלוקת אובייקטים מתחת
 @msg	Divide Objects Below: select a path	חלוקת אובייקטים מתחת: יש לבחור נתיב
 @msg	Divide Objects Below: select exactly one path	חלוקת אובייקטים מתחת: יש לבחור נתיב אחד בדיוק
@@ -1329,7 +1329,7 @@ swatch	Emerald	אזמרגד (Emerald)
 	English: UK	אנגלית: בריטניה
 	English: USA	אנגלית: ארה״ב
 	Enhanced	משופר
-	Enter Isolation Mode	היכנס למצב בידוד
+	Enter Isolation Mode	כניסה למצב בידוד
 	Envelope	מעטפת
 	Envelope #10	מעטפה #10
 	Envelope Distort	עיוות מעטפת
@@ -1528,9 +1528,9 @@ file-filter	Flattener presets	הגדרות קבועות מראש למשטח שק
 	Flip Along Vertical Axis	היפוך לאורך הציר האנכי
 	Flip Row Order	היפוך סדר שורות
 	Flip:	היפוך:
-	Float in Window	הצף בחלון
-	Float Panel	הצף חלונית
-	Float Tool Group	הצף קבוצת כלים
+	Float in Window	הצפה בחלון
+	Float Panel	הצפת חלונית
+	Float Tool Group	הצפת קבוצת כלים
 	Focal Fill	מילוי מוקדי
 	Focal Stroke	קו מתאר מוקדי
 	Folder Name:	שם תיקייה:
@@ -1721,12 +1721,12 @@ swatch	Green	ירוק
 	High Fidelity Photo	תמונה בנאמנות גבוהה
 	High Performance (discrete)	ביצועים גבוהים (ייעודי)
 	High Quality Print	הדפסה באיכות גבוהה
-	Highlight Alternate Glyphs	הדגש גליפים חלופיים
-	Highlight anchors on mouse over	הדגש נקודות עוגן במעבר עכבר
-	Highlight Rows	הדגש שורות
-	Highlight Substituted Fonts	הדגש גופנים מוחלפים
-	Highlight Substituted Glyphs	הדגש גליפים מוחלפים
-	Highlight Variable	הדגש משתנה
+	Highlight Alternate Glyphs	הדגשת גליפים חלופיים
+	Highlight anchors on mouse over	הדגשת נקודות עוגן במעבר עכבר
+	Highlight Rows	הדגשת שורות
+	Highlight Substituted Fonts	הדגשת גופנים מוחלפים
+	Highlight Substituted Glyphs	הדגשת גליפים מוחלפים
+	Highlight Variable	הדגשת משתנה
 	Highlight:	הבהרה:
 	History Options…	אפשרויות היסטוריה…
 	History States	מצבי היסטוריה
@@ -1872,10 +1872,10 @@ swatch	Indigo	אינדיגו
 	Invert Pie	היפוך תרשים עוגה
 	Inverted Round	עגול הפוך
 @msg	is not an image VectorCraft reads	אינה תמונה ש-VectorCraft קוראת
-	Isolate Blending	בודד מיזוג
-	Isolate Group	בודד קבוצה
-	Isolate Selected Group	בודד קבוצה נבחרת
-	Isolate Selected Object	בודד אובייקט נבחר
+	Isolate Blending	בידוד מיזוג
+	Isolate Group	בידוד קבוצה
+	Isolate Selected Group	בידוד קבוצה נבחרת
+	Isolate Selected Object	בידוד אובייקט נבחר
 	Isometric Bottom	איזומטרי תחתון
 	Isometric Left	איזומטרי שמאלי
 	Isometric Right	איזומטרי ימני
@@ -1931,7 +1931,7 @@ mark-style	Japanese	יפנית
 	Keep graphics, colors and text styles here to use them in any document. Libraries are stored on this machine — no account required.	שמירת גרפיקה, צבעים וסגנונות טקסט לשימוש בכל מסמך. הספריות נשמרות במחשב זה — ללא צורך בחשבון.
 	Keep Original	שמירה על המקור
 	Keep Plain Text	שמירה על טקסט רגיל
-	Keep selected	השאר נבחר
+	Keep selected	השארה במצב נבחר
 	Keep the pasted color as a new swatch with a numbered name.	שמירת הצבע המודבק כדוגמית צבע חדשה עם שם ממוספר.
 	Keep this row's colors (exclude)	שמירה על צבעי שורה זו (הוצא מהחלפה)
 	Keep visible surfaces only when expanding	שמירה על משטחים גלויים בלבד בעת הרחבה
@@ -2033,12 +2033,12 @@ swatch	Lime	ליים
 	Line-end Punctuation Half Width	פיסוק בסוף שורה בחצי רוחב
 	lines {lines}	שורות {lines}
 	Lines: clicks add points joined by a line	קווים: לחיצות מוסיפות נקודות המחוברות בקו
-	Link harmony colors	קשר צבעי הרמוניה
+	Link harmony colors	קישור צבעי הרמוניה
 	Link Info	פרטי קישור
-	Link JavaScript Files…	קשר קובצי JavaScript…
-	Link Opacity Mask	קשר מסכת אטימות
-	Link start and end arrowhead scales	קשר קנה מידה של ראשי חץ בהתחלה ובסיום
-	Link the mask	קשר את המסכה
+	Link JavaScript Files…	קישור קובצי JavaScript…
+	Link Opacity Mask	קישור מסכת אטימות
+	Link start and end arrowhead scales	קישור קנה מידה של ראשי חץ בהתחלה ובסיום
+	Link the mask	קישור המסכה
 	Linked	מקושר
 	Linked File	קובץ מקושר
 	Linked File Not Found	קובץ מקושר לא נמצא
@@ -2081,9 +2081,9 @@ swatch	Lime	ליים
 @msg	Loading VectorCraft…	טוען את VectorCraft…
 	Loads native code	טוען קוד מכונה מקורי
 	Local Libraries	ספריות מקומיות
-	Locate Library…	אתר ספרייה…
-	Locate Object	אתר אובייקט
-	Locate Selected Objects	אתר אובייקטים נבחרים
+	Locate Library…	איתור ספרייה…
+	Locate Object	איתור אובייקט
+	Locate Selected Objects	איתור אובייקטים נבחרים
 	Lock (⌘2)	נעילה (⌘2)
 	Lock Grid	נעילת רשת
 	Lock Others	נעילת אחרים
@@ -2645,7 +2645,7 @@ swatch	Ocean	אוקיינוס
 	Opens files in other apps	פותח קבצים ביישומים אחרים
 	Opens network connections	פותח חיבורי רשת
 	Optical Margin Alignment	יישור שוליים אופטי
-	Optimize for fast web view	מטב לתצוגת אינטרנט מהירה
+	Optimize for fast web view	מיטוב לתצוגת אינטרנט מהירה
 	Options for Selection…	אפשרויות עבור הבחירה…
 	Options:	אפשרויות:
 	or more spaces with a tab	רווחים או יותר בטאב
@@ -2992,7 +2992,7 @@ swatch	Radial White, Black	מעגלי לבן, שחור
 	Raster File Format:	תבנית קובץ רסטר:
 	Raster Sample Size:	גודל דגימת רסטר:
 	Raster/Vector Balance:	איזון רסטר/וקטור:
-	Rasterize Unsupported Art	המרת לרסטר גרפיקה שאינה נתמכת
+	Rasterize Unsupported Art	המרת גרפיקה שאינה נתמכת לרסטר
 	Rasterized Complex Regions	אזורים מורכבים שהומרו לרסטר
 	Rasterize…	המרה לרסטר…
 	Rasters	רסטרים
@@ -3027,7 +3027,7 @@ swatch	Radial White, Black	מעגלי לבן, שחור
 	Recent Font 9	גופן אחרון 9
 	Recent Fonts	גופנים אחרונים
 	Recent URLs	כתובות URL אחרונות
-	Recolor	צבע מחדש
+	Recolor	צביעה מחדש
 	Recolor Artwork	צביעת גרפיקה מחדש
 	Recolor Artwork…	צביעת גרפיקה מחדש…
 	Recolor this row	צביעת שורה זו מחדש
@@ -3091,9 +3091,9 @@ effect	Regular	רגיל
 	Release to Layers (Sequence)	שחרור לשכבות (רצף)
 	Release with Perspective	שחרור עם פרספקטיבה
 @msg	Release: no layer to put the rectangle in	שחרור: אין שכבה להכניס אליה את המלבן
-	Relink	קשר מחדש
-	Relink Linked Files to the Document	קשר מחדש קבצים מקושרים למסמך
-	Relink to Folder…	קשר מחדש לתיקייה…
+	Relink	קישור מחדש
+	Relink Linked Files to the Document	קישור מחדש של קבצים מקושרים למסמך
+	Relink to Folder…	קישור מחדש לתיקייה…
 @msg	Relinked {_1} image(s)	קושרו מחדש {_1} תמונות
 	Relinked {n} image(s)	קושרו מחדש {n} תמונות
 @msg	Relinked {n} image(s)	קושרו מחדש {n} תמונות
@@ -3101,7 +3101,7 @@ effect	Regular	רגיל
 	Relinked {n} image(s); not in that folder: {}	קושרו מחדש {n} תמונות; לא בתיקייה זו: {}
 @msg	Relinked {n} image(s); {name} couldn't be relinked: {reason}	קושרו מחדש {n} תמונות; לא ניתן היה לקשר מחדש את {name}: {reason}
 	Relinked {} image(s)	קושרו מחדש {} תמונות
-	Relink…	קשר מחדש…
+	Relink…	קישור מחדש…
 	Reload Plug-ins	טעינה מחדש של תוספים
 @msg	Reload the page to go on (changes not saved yet may be lost).	יש לטעון מחדש את העמוד כדי להמשיך (שינויים שטרם נשמרו עלולים לאבוד).
 	Remember Import Matches	זכור התאמות ייבוא
@@ -3533,8 +3533,8 @@ swatch	Sand	חול
 	Sends messages to other apps	שולח הודעות ליישומים אחרים
 @msg	Sent to {_1}	נשלח אל {_1}
 	Sentence case	אותיות רישיות בתחילת משפט
-	Separate colors into rows	הפרד צבעים לשורות
-	Separate several keywords with commas.	הפרד מספר מילות מפתח בפסיקים.
+	Separate colors into rows	הפרדת צבעים לשורות
+	Separate several keywords with commas.	יש להפריד מספר מילות מפתח בפסיקים.
 	Separations	הפרדות צבע
 	Separations list the document's inks here: one page per ink that prints.	הפרדות צבע מציגות כאן את צבעי הדפוס של המסמך: עמוד אחד לכל צבע דפוס שמודפס.
 	Separations Preview	תצוגה מקדימה של הפרדות צבע
@@ -4097,8 +4097,8 @@ file-filter	Templates	תבניות
 	TIFF (Black & White)	TIFF (שחור-לבן)
 	Tile Edge Color	צבע קצה אריח
 	Tile Edge Color…	צבע קצה אריח…
-	Tile Full Pages	חלק לעמודים מלאים
-	Tile Imageable Areas	חלק לאזורים ניתנים להדפסה
+	Tile Full Pages	חלוקה לעמודים מלאים
+	Tile Imageable Areas	חלוקה לאזורים ניתנים להדפסה
 	Tile Range:	טווח אריחים:
 	Tile Type:	סוג אריח:
 	tile {number}	אריח {number}
@@ -4479,8 +4479,8 @@ swatch	Yellow Green	צהוב-ירוק
 @msg	zipped 32-bit PSD image data with prediction can't be read	לא ניתן לקרוא נתוני תמונת PSD של 32 סיביות דחוסים ב-ZIP עם חיזוי
 @msg	zone must be a string	האזור (zone) חייב להיות מחרוזת
 @msg	zone must be tab, center, left, right, top or bottom	האזור (zone) חייב להיות tab, center, left, right, top או bottom
-	Zoom to Selection	התקרב לבחירה
-	Zoom with Mouse Wheel	התקרב/התרחק עם גלגלת העכבר
+	Zoom to Selection	התקרבות לבחירה
+	Zoom with Mouse Wheel	התקרבות/התרחקות עם גלגלת העכבר
 @msg	{_1} failed: {e}	{_1} נכשל: {e}
 @msg	{_1} files	קובצי {_1}
 @msg	{_1} files are written by file.saveAsTemplate	קובצי {_1} נכתבים על ידי file.saveAsTemplate
@@ -4520,7 +4520,7 @@ swatch	Yellow Green	צהוב-ירוק
 	{kind} Gradient	מעבר צבע {kind}
 	{kind} Style Options…	אפשרויות סגנון {kind}…
 	{kind}, {model}	{kind}, {model}
-@msg	{label} currently requires a path or compound path. Convert type, images and groups to paths first.	{label} דורש כעת נתיב או נתיב מורכב. המר תחילה טקסט, תמונות וקבוצות לנתיבים.
+@msg	{label} currently requires a path or compound path. Convert type, images and groups to paths first.	{label} דורש כעת נתיב או נתיב מורכב. יש להמיר תחילה טקסט, תמונות וקבוצות לנתיבים.
 @msg	{label} keeps 1 of the document's {n} artboards: the file reopens with one. Turn on Preserve Editing Capabilities to keep them all.	{label} שומר 1 מתוך {n} משטחי היצירה של המסמך: הקובץ נפתח מחדש עם אחד. יש להפעיל את 'שמירה על יכולות עריכה' כדי לשמור את כולם.
 @msg	{label} produced an empty result	{label} הפיק תוצאה ריקה
 @msg	{label} requires a shape with at least two anchors	{label} דורש צורה עם שני עוגנים לפחות
@@ -4569,5 +4569,15 @@ swatch	Yellow Green	צהוב-ירוק
 	“{file}” is protected by a password.	“{file}” מוגן בסיסמה.
 	“{name}” already exists. Replace it?	“{name}” כבר קיים. להחליף אותו?
 @msg	“{name}” is not a file	“{name}” אינו קובץ
+	Open-source vector illustration in pure Rust.	איור וקטורי בקוד פתוח, שנכתב כולו ב־Rust.
+	VectorCraft Updates	עדכוני VectorCraft
+	VectorCraft Nightly's updates come from ArtCraft Launcher.	עדכוני הגרסה הלילית של VectorCraft מתקבלים דרך ArtCraft Launcher.
 	▾ Default Actions	▾ פעולות ברירת מחדל
+	Clear Selection	ניקוי הבחירה
+	Grid View	תצוגת רשת
+	Single File	קובץ יחיד
+	Multiple Files	קבצים מרובים
 	⚠ {chord} was already used by {names} — it has been removed there.	⚠ {chord} כבר היה בשימוש על ידי {names} — הוא הוסר משם.
+	Export PDFs As:	ייצוא קובצי PDF בתור:
+	Selected: {n}, Total number of files to export: {m}	נבחרו: {n}, מספר הקבצים הכולל לייצוא: {m}
+	Include Artboard Fill	הכללת מילוי משטח היצירה

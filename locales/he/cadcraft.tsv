@@ -327,9 +327,10 @@ menu	Draw	ציור
 	Exclude:	הוצאה:
 	Explode	פיצוץ
 	Export Table	ייצוא טבלה
-	Export to PDF...	יש לייצא ל-PDF...
+	Export to PDF...	ייצוא ל-PDF...
 	Export...	ייצוא...
 	Extend	הארכה
+	Extended Trim	קיצוץ מורחב
 	Extension	המשך קו
 	Extents	גבולות תחום
 	External Reference	הפניה חיצונית
@@ -343,12 +344,12 @@ menu	Draw	ציור
 	Fix	קיבוע
 	Flatten Objects	שיטוח אובייקטים
 	Freehand	יד חופשית
-	Freeze	הקפא
-	Freeze in new viewports	הקפא בחלונות תצוגה חדשים
-	Freeze Layer	הקפא שכבה
-	Freeze/Thaw	הקפא/הפשר
-	Freeze/Thaw in all viewports	הקפא/הפשר בכל חלונות התצוגה
-	Freeze/Thaw in the current viewport	הקפא/הפשר בחלון התצוגה הנוכחי
+	Freeze	הקפאה
+	Freeze in new viewports	הקפאה בחלונות תצוגה חדשים
+	Freeze Layer	הקפאת שכבה
+	Freeze/Thaw	הקפאה/הפשרה
+	Freeze/Thaw in all viewports	הקפאה/הפשרה בכל חלונות התצוגה
+	Freeze/Thaw in the current viewport	הקפאה/הפשרה בחלון התצוגה הנוכחי
 	From Template...	מתבנית...
 	Geometric Center	מרכז גאומטרי
 	Geometric Constraint	אילוץ גאומטרי
@@ -406,9 +407,17 @@ menu	Draw	ציור
 	Index Color	צבע אינדקס
 	Index color: {index}	צבע אינדקס: {index}
 	Indicate selection area	סימון אזור בחירה
-	Infer Constraints	הסק אילוצים
+	Infer Constraints	הסקת אילוצים
 	Inquiry	תחקור
 	Insert Block	הוספת בלוק
+	Add a drawing file as a block library	הוספת קובץ שרטוט כספריית בלוקים
+	Add a folder of drawings or a drawing file to use its blocks.	יש להוסיף תיקיית שרטוטים או קובץ שרטוט כדי להשתמש בבלוקים שבהם.
+	Click a block, then pick its insertion point.	יש ללחוץ על בלוק ולאחר מכן לבחור את נקודת ההוספה שלו.
+	No block matches the filter.	אין בלוקים התואמים למסנן.
+	Reading the library...	קריאת הספרייה...
+	Read the library again	קריאה מחדש של הספרייה
+	This drawing has no blocks.	אין בלוקים בשרטוט זה.
+	This library has no drawings or blocks.	אין שרטוטים או בלוקים בספרייה זו.
 	Insert Column	הוספת עמודה
 	Insert Row	הוספת שורה
 	Insert tab	הוספת טאב
@@ -424,8 +433,8 @@ menu	Draw	ציור
 	Interface theme	ערכת נושא לממשק
 	Inverted	הפוך
 	Island detection	זיהוי איים
-	Isolate Layer	בודד שכבה
-	Isolate Objects	בודד אובייקטים
+	Isolate Layer	בידוד שכבה
+	Isolate Objects	בידוד אובייקטים
 	Isometric Drafting	שרטוט איזומטרי
 	Isometric Plane	מישור איזומטרי
 	Isometric snap	הצמדה איזומטרית
@@ -600,6 +609,7 @@ menu	Modify	שינוי
 	Parameters Manager	מנהל פרמטרים
 	Parametric	פרמטרי
 	Paste as Block	הדבקה כבלוק
+	Paste Table	הדבקת טבלה
 	Paste to Command Line	הדבקה לשורת הפקודה
 	Paste to Original Coordinates	הדבקה לקואורדינטות המקוריות
 	Path Array	מערך נתיב
@@ -661,7 +671,7 @@ menu	Modify	שינוי
 	Ray	קרן
 	Read-only	לקריאה בלבד
 	Realtime	זמן אמת
-	Reassociate Dimensions	שייך מידות מחדש
+	Reassociate Dimensions	שיוך מידות מחדש
 	Recalculate Table Formulas	חישוב מחדש של נוסחאות טבלה
 	Recent Commands	פקודות אחרונות
 	Recent Input	קלט אחרון
@@ -986,8 +996,8 @@ menu	Modify	שינוי
 	Switch Drawing	החלפת שרטוט
 	Switch Layout	החלפת פריסה
 	Symmetric	סימטרי
-	Synchronize Attributes	סנכרן תכונות
-	Synchronize Multiple-scale Positions	סנכרן מיקומים בקני מידה מרובים
+	Synchronize Attributes	סנכרון תכונות
+	Synchronize Multiple-scale Positions	סנכרון מיקומים בקני מידה מרובים
 	Table Breaks	פיצולי טבלה
 	Table Cell Style	סגנון תא בטבלה
 	Table Style...	סגנון טבלה...
@@ -1032,12 +1042,14 @@ menu	Modify	שינוי
 	Type a command	יש להקליד פקודה
 	Type text; Enter starts a new paragraph	יש להקליד טקסט; Enter מתחיל פסקה חדשה
 	UCS Icon	סמל UCS
+	UCS Icon at Origin	סמל UCS בראשית הצירים
+	Keyboard Shortcuts...	קיצורי מקלדת...
 	Undo (⌘Z)	ביטול פעולה (⌘Z)
 	Unisolate Layer	ביטול בידוד שכבה
 	Units Conversion	המרת יחידות
 	Units...	יחידות...
-	Unload	פרוק
-	Unloaded	פרוק
+	Unload	פריקה
+	Unloaded	לא טעון
 	Unlock Layer	ביטול נעילת שכבה
 	Unlock viewport	ביטול נעילת חלון תצוגה
 	Unmerge Cells	ביטול מיזוג תאים
@@ -1104,7 +1116,7 @@ menu	View	תצוגה
 	Zoom Previous	תצוגה קודמת
 	Zoom Realtime	מרחק תצוגה בזמן אמת
 	Zoom sensitivity	רגישות מרחק תצוגה
-	Zoom Window	התמקד בחלון
+	Zoom Window	התמקדות בחלון
 	{contributors} · {commits}	{contributors} · {commits}
 	{kind} (constraint {id})	{kind} (אילוץ {id})
 	{kind} constraint {name} = {expression}  (double-click to edit)	אילוץ {kind} {name} = {expression}  (לחיצה כפולה לעריכה)
@@ -1260,3 +1272,14 @@ menu	View	תצוגה
 	The current file is kept as {name} until the next save.	הקובץ הנוכחי נשמר בשם {name} עד לשמירה הבאה.
 	This format can't keep these objects yet: {objects}.	הפורמט הזה עדיין אינו יכול לשמור את האובייקטים הבאים: {objects}.
 	{count} more types	עוד {count} סוגים
+	Extra Large Icons	סמלים גדולים במיוחד
+	Large Icons	סמלים גדולים
+	Medium Icons	סמלים בינוניים
+	Small Icons	סמלים קטנים
+	Current Drawing	השרטוט הנוכחי
+	Open Library...	פתיחת ספרייה...
+	Folder or file	תיקייה או קובץ
+	Remove from the list	הסרה מהרשימה
+	Insert and Explode	הוספה ופיצוץ
+	Repeat Placement	הצבה חוזרת
+	This block is already in the drawing, so its definition is used.	הבלוק כבר קיים בשרטוט, ולכן נעשה שימוש בהגדרה הקיימת שלו.

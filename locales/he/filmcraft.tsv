@@ -160,15 +160,15 @@
 	An earlier start failed with the default graphics. Updating the graphics driver usually fixes this.	הפעלה קודמת נכשלה עם הגרפיקה שבברירת המחדל. עדכון מנהל ההתקן הגרפי לרוב פותר זאת.
 	Analog	אנלוגי
 	Analog Delay	השהיה אנלוגית
-	Analyze	נתח
-	Analyze all imported media to search for visuals or audio	נתח את כל המדיה המיובאת לחיפוש חזותי או שמע
+	Analyze	ניתוח
+	Analyze all imported media to search for visuals or audio	ניתוח כל המדיה המיובאת לחיפוש חזותי או שמע
 	Anamorphic	אנמורפי
 	Anamorphic 2:1 (2.0)	אנמורפי 2:1 (2.0)
 	Anchor	עוגן
 	Anchor Point	נקודת עוגן
 	Anchor point	נקודת עוגן
-	Anchor to In Point	עגן לנקודת כניסה
-	Anchor to Out Point	עגן לנקודת יציאה
+	Anchor to In Point	עיגון לנקודת כניסה
+	Anchor to Out Point	עיגון לנקודת יציאה
 	Animated GIF	GIF מונפש
 	Animated GIF 640×360	GIF מונפש 640×360
 	Anti-aliasing Quality	איכות החלקת קצוות
@@ -270,9 +270,9 @@
 	Auto-Match	התאמה אוטומטית
 	Auto-Match Loudness	התאמת עוצמת קול אוטומטית
 	Auto-saves go to: {dir}	שמירות אוטומטיות נשמרות ב: {dir}
-	Auto-tag audio types in the timeline	תייג אוטומטית סוגי שמע בציר הזמן
-	Auto-transcribe all imported clips	תמלל אוטומטית את כל הקליפים המיובאים
-	Auto-transcribe only clips in sequences	תמלל אוטומטית רק קליפים ברצפים
+	Auto-tag audio types in the timeline	תיוג אוטומטי של סוגי שמע בציר הזמן
+	Auto-transcribe all imported clips	תמלול אוטומטי של כל הקליפים המיובאים
+	Auto-transcribe only clips in sequences	תמלול אוטומטי של קליפים ברצפים בלבד
 	Automatch Time	זמן התאמה אוטומטית
 	Automate To Sequence	שילוב אוטומטית ברצף
 	Automate to Sequence	שילוב אוטומטית ברצף
@@ -436,8 +436,8 @@
 	Center Align Text	יישור טקסט למרכז
 	Center align text	יישור טקסט למרכז
 	Center Channel Pan	צידוד ערוץ מרכזי
-	Center Gradient	מרכז מעבר צבע
-	Center Horizontally	מרכז אופקית
+	Center Gradient	מרכוז מעבר צבע
+	Center Horizontally	מרכוז אופקי
 	Center Input	קלט מרכז
 	Center Left	במרכז משמאל
 	Center of Sphere	מרכז הכדור
@@ -446,7 +446,7 @@
 	Center Point (Longitude)	נקודת מרכז (קו אורך)
 	Center Right	במרכז מימין
 	Center Split	פיצול מהמרכז
-	Center Vertically	מרכז אנכית
+	Center Vertically	מרכוז אנכי
 	Centred credits that roll up from below the frame and leave at the top.	כתוביות קרדיטים ממורכזות הנגללות מלמטה ויוצאות בחלק העליון.
 	Cents	סנטים (Cents)
 	Cerulean	תכלת שמיים
@@ -916,9 +916,9 @@
 	Extend Selection Right	הרחבת בחירה ימינה
 	Extend Selection Up	הרחבת בחירה למעלה
 	Extended Dynamic Range Monitoring	ניטור טווח דינמי מורחב
-	Extract (')	חלץ (')
-	Extract Audio	חלץ שמע
-	Extract selected text	חלץ טקסט נבחר
+	Extract (')	חילוץ (')
+	Extract Audio	חילוץ שמע
+	Extract selected text	חילוץ טקסט נבחר
 	Eyedropper (pick a color from the Program monitor)	טפטפת (בחירת צבע ממוניטור התוכנית)
 	Eyedropper: no picture to sample	טפטפת: אין תמונה לדגימה
 	Face Detection (protect skin tones)	זיהוי פנים (הגנה על גווני עור)
@@ -1061,7 +1061,7 @@
 	Fuzz	דיסטורשן (Fuzz)
 	Gain	הגבר (Gain)
 	Gamut Warning Color	צבע אזהרת טווח צבעים
-	Gang to Program	סנכרן עם מוניטור התוכנית
+	Gang to Program	סנכרון עם מוניטור התוכנית
 	Gap	מרווח
 	Gap Color	צבע מרווח
 	Gaps	מרווחים
@@ -1087,7 +1087,7 @@
 	Glow Saturation	רוויית זוהר
 	Glow Width	רוחב זוהר
 	Go Back	חזרה אחורה
-	Go Forward	התקדם קדימה
+	Go Forward	מעבר קדימה
 	Go to Gap	מעבר למרווח
 	Go to In	מעבר לנקודת כניסה
 	Go to In (Shift+I)	מעבר לנקודת כניסה (Shift+I)
@@ -1209,7 +1209,7 @@
 	HLS Vectorscope + Histogram	וקטורסקופ HLS + היסטוגרמה
 	Hold	החזקה
 	Hold Filters	מסנני הקפאה
-	Hold On	הקפא על
+	Hold On	הקפאה על
 	horizontal	אופקי
 	Horizontal 16:9	אופקי 16:9
 	Horizontal Alignment	יישור אופקי
@@ -1361,8 +1361,8 @@
 	Lens Type	סוג עדשה
 	Lift	הרמה (Lift)
 	Lift (;)	הרמה (;)
-	Lift selected text	הרם טקסט נבחר
-	Lift Shadows	הרם צללים
+	Lift selected text	הרמת טקסט נבחר
+	Lift Shadows	הרמת צללים
 	Lifted blacks, softer contrast, muted colour	שחורים מורמים, ניגודיות רכה יותר, צבע מעומעם
 	Ligatures	ליגטורות
 	Light 1	אור 1
@@ -1388,17 +1388,17 @@
 	Linear to Log	ליניארי ל-Log
 	Linear Wipe	מחיקה ליניארית
 	Linear Wipe (Legacy)	מחיקה ליניארית (מדור קודם)
-	Link Channels	קשר ערוצים
-	Link Media	קשר מדיה
-	Link Media…	קשר מדיה…
-	Link to Media	קשר למדיה
+	Link Channels	קישור ערוצים
+	Link Media	קישור מדיה
+	Link Media…	קישור מדיה…
+	Link to Media	קישור למדיה
 	Linked Selection	בחירה מקושרת
 	Linked {n} clip(s)	קושר/ו {n} קליפים
 	Liquid Distortion	עיוות נוזלי
 	Loaded “{name}”	נטען “{name}”
 	Local Drives	כוננים מקומיים
 	Local Projects	פרויקטים מקומיים
-	Locate…	אתר…
+	Locate…	איתור…
 	Log Note	הערת רישום
 	Log Note:	הערת רישום:
 	Log to Linear	Log לליניארי
@@ -1461,8 +1461,8 @@
 	Make {n} selected clip(s) offline. Their clips show the offline slate until you link them again.	הפיכת {n} קליפים נבחרים ללא מקוונים. הקליפים יציגו שקופית 'לא מקוון' עד לקישורם מחדש.
 	Makeup	פיצוי הגבר (Makeup)
 	Male	זכר
-	Manage Guides	נהל קווי עזר
-	Manage Guides…	נהל קווי עזר…
+	Manage Guides	ניהול קווי עזר
+	Manage Guides…	ניהול קווי עזר…
 	Manage Saved View Presets	ניהול הגדרות תצוגה שמורות
 	Mango	מנגו
 	Map Black To	מפה שחור אל
@@ -1555,7 +1555,7 @@
 	Metadata & Timecode Burn-in	צריבת מטא-נתונים וקוד זמן
 	Metadata Display	תצוגת מטא-נתונים
 	Metadata Display…	תצוגת מטא-נתונים…
-	Meter Input(s) Only	מדוד עוצמת קלט בלבד
+	Meter Input(s) Only	מדידת עוצמת קלט בלבד
 	Metrics Kerning	צימוד אותיות מטרי
 	Mid	אמצע
 	Mid Point	נקודת אמצע
@@ -2033,7 +2033,7 @@
 	Rec. 601	Rec. 601
 	Rec. 709	Rec. 709
 	Recent Directories	תיקיות אחרונות
-	Recognize when different speakers are talking	זהה מתי דוברים שונים מדברים
+	Recognize when different speakers are talking	זיהוי מתי דוברים שונים מדברים
 	Reconnect Full Resolution Media…	חיבור מחדש של מדיה ברזולוציה מלאה…
 	Record	הקלטה
 	Record (voice-over on the record-enabled track)	הקלטה (קריינות בערוץ המופעל להקלטה)
@@ -2295,7 +2295,7 @@
 	Send to Queue	שליחה לתור
 	Send {n} Level	רמת שליחה {n}
 	Sensitivity:	רגישות:
-	Separate Audio	הפרד שמע
+	Separate Audio	הפרדת שמע
 	Separate Files	קבצים נפרדים
 	Sepia Tone	גוון ספיה
 	Sequence	רצף
@@ -2344,7 +2344,7 @@
 	Shard Size	גודל רסיס
 	Sharp Colors	צבעים חדים
 	Sharpen Amount	כמות חידוד
-	Shift Center To	הסט מרכז אל
+	Shift Center To	הסטת מרכז אל
 	Shift clips that overlap trim point during ripple trimming	הזזת קליפים החופפים לנקודת הקיצוץ במהלך קיצוץ אדווה
 	Shot	שוט
 	Shot/Take:	שוט/טייק:
@@ -2454,6 +2454,9 @@
 	Sort Order	סדר מיון
 	Source channels the selected audio clips play:	ערוצי מקור שקליפי השמע הנבחרים מנגנים:
 	Source In/Out	כניסה/יציאה של מקור
+	1 frame ({seconds} s)	פריים אחד ({seconds} שנ׳)
+	{frames} frames ({seconds} s)	{frames} פריימים ({seconds} שנ׳)
+	Source In/Out is only 1 frame. Choose Entire Source to export the whole sequence.	טווח הכניסה/יציאה של המקור כולל פריים אחד בלבד. יש לבחור באפשרות ״כל המקור״ כדי לייצא את הרצף כולו.
 	Source Play/Stop	ניגון/עצירה במקור
 	Source Point	נקודת מקור
 	Source Settings	הגדרות מקור
@@ -2579,11 +2582,11 @@
 	Swap Channels	החלפת ערוצים
 	Switch Audio	החלפת שמע
 	Swivel	סיבוב אופקי (Swivel)
-	Sync Voice-over Capture	סנכרן לכידת קריינות
-	Synchronize Clips	סנכרן קליפים
+	Sync Voice-over Capture	סנכרון לכידת קריינות
+	Synchronize Clips	סנכרון קליפים
 	Synchronize Point	נקודת סנכרון
 	Synchronized {n} clip group(s)	סונכרנו {n} קבוצות קליפים
-	Synchronize…	סנכרן…
+	Synchronize…	סנכרון…
 	Synthetic	סינתטי
 	System Compatibility Report	דוח תאימות מערכת
 	System Compatibility Report…	דוח תאימות מערכת…
@@ -2638,7 +2641,7 @@
 	Ticker – Crawl	מבזק – זחילה
 	TIFF	TIFF
 	TIFF Sequence	רצף TIFF
-	Tile Gradient	רצף מעבר צבע באריחים
+	Tile Gradient	ריצוף מעבר צבע באריחים
 	Tilt (X Axis)	נטייה (ציר X)
 	Time and Pitch	זמן וגובה צליל
 	Time Interpolation	אינטרפולציית זמן
@@ -3132,3 +3135,11 @@
 	Left click is reserved for controlling the application and cannot be assigned.	לחיצה בלחצן השמאלי שמורה לשליטה ביישום ולא ניתן להקצות אותה.
 	Right click is reserved for opening slider settings and cannot be assigned.	לחיצה בלחצן הימני שמורה לפתיחת הגדרות המחוון ולא ניתן להקצות אותה.
 	This shortcut is already assigned. Open Keyboard Shortcuts to review it.	קיצור דרך זה כבר מוקצה. יש לפתוח את הגדרות קיצורי המקלדת כדי לבדוק אותו.
+
+# Caption and video export settings
+	Caption Export Settings	הגדרות ייצוא כתוביות
+	Caption Track	רצועת כתוביות
+	When enabled, GIF transparency is on/off: alpha below 128 is transparent; 128 and above is opaque.	כאשר האפשרות מופעלת, השקיפות ב־GIF היא בינארית: ערך אלפא נמוך מ־128 הוא שקוף, וערך של 128 ומעלה הוא אטום.
+	10-bit color	צבע בעומק 10 סיביות
+	All Intra	קידוד תוך־תמונתי בלבד (All Intra)
+	Every frame a keyframe (edit-friendly, larger files)	כל פריים הוא פריים מפתח (נוח לעריכה, קבצים גדולים יותר)
