@@ -224,8 +224,11 @@ menu	Dimension	מידות
 	Dimension Objects Only	אובייקטי מידות בלבד
 	Dimension Space	מרווח מידות
 	Dimension style	סגנון מידות
+	Dimension Style	סגנון מידות
 	Dimension Style Override	דריסת סגנון מידות
 	Dimension Style...	סגנון מידות...
+	Remove Style Overrides	הסרת דריסות סגנון מידות
+	Save as New Style...	שמירה כסגנון חדש...
 	Dimension Text Edit	עריכת טקסט מידה
 	Dimensional Constraint	אילוץ מידתי
 	Dimensional Constraint Parameters	פרמטרים של אילוץ מידתי
@@ -1283,3 +1286,7 @@ menu	View	תצוגה
 	Insert and Explode	הוספה ופיצוץ
 	Repeat Placement	הצבה חוזרת
 	This block is already in the drawing, so its definition is used.	הבלוק כבר קיים בשרטוט, ולכן נעשה שימוש בהגדרה הקיימת שלו.
+	Block Library	ספריית בלוקים
+	Block Libraries	ספריות בלוקים
+	Import Library Block	ייבוא בלוק מספרייה
+	Only the first {n} are shown.	מוצגים רק {n} הפריטים הראשונים.
