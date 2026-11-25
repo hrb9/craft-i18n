@@ -1885,7 +1885,7 @@
 	{axis} guide {n} position	מיקום קו עזר {n} בציר {axis}
 	{bits}-bit	{bits} סיביות
 	{channel}: click to add a volume point	{channel}: לחיצה להוספת נקודת עוצמה
-	{command}\nSelect something to align	{command}\nבחר משהו ליישור
+	{command}\nSelect something to align	{command}\nיש לבחור אובייקט ליישור
 	{description} · {fps} fps	{description} · {fps} פר'/שנ'
 	{detail} · locked	{detail} · נעול
 	{done}. Left out {file}: {why}	{done}. לא נכלל {file}: {why}

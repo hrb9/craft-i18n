@@ -675,7 +675,7 @@
 	Re-cook	חישוב מחדש
 	Read the mesh file again, keeping the layers and painted strokes	קריאה מחדש של קובץ הרשת תוך שמירה על השכבות ומשיכות הציור
 	Reads the curvature map as baked: changing the mode or a size turns detail sizes on.	קורא את מפת העקמומיות כפי שנאפתה: שינוי המצב או גודל מפעיל גדלי פרטים.
-	Rebind any menu item, tool or command	הקצה מחדש כל פריט תפריט, כלי או פקודה
+	Rebind any menu item, tool or command	הקצאה מחדש של כל פריט תפריט, כלי או פקודה
 	Recent projects	פרויקטים אחרונים
 	Records the stack up to this layer. Fill effects in masks (and fill layers) above can read it as a source.	מתעד את הערימה עד לשכבה זו. אפקטי מילוי במסכות (ובשכבות מילוי) שמעל יכולים לקרוא אותה כמקור.
 	Rectangle fill	מילוי מלבן
