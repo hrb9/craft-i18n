@@ -264,12 +264,12 @@ menu	Draw	ציור
 	Dynamic Input (F12)	קלט דינמי (F12)
 	E	מז'
 	Edit Array	עריכת מערך
-	Edit Attributes...	יש לערוך תכונות...
+	Edit Attributes...	עריכת תכונות...
 	Edit Block Definition	עריכת הגדרת בלוק
 	Edit Multileader	עריכת קו הובלה מרובה
 	Edit Reference In-Place	עריכת הפניה במקום
 	Edit Table Cell	עריכת תא בטבלה
-	Edit Text...	יש לערוך טקסט...
+	Edit Text...	עריכת טקסט...
 	Elliptical Arc	קשת אליפטית
 	Enable 3D mouse navigation	הפעלת ניווט עכבר תלת-ממדי
 	Enable Dynamic Input (F12)	הפעלת קלט דינמי (F12)
@@ -1011,13 +1011,16 @@ menu	Modify	שינוי
 	Temporary track point	נקודת מעקב זמנית
 	Text Editor	עורך טקסט
 	Text Height	גובה טקסט
+	Edit Text	עריכת טקסט
+	Ctrl+Enter to apply	יש ללחוץ על Ctrl+Enter להחלה
+	The drawing changed. Close the window and open it again.	השרטוט השתנה. יש לסגור את החלון ולפתוח אותו מחדש.
 	Text height	גובה טקסט
 	Text Objects Only	אובייקטי טקסט בלבד
 	Text override	דריסת טקסט
 	Text style	סגנון טקסט
 	Text Style...	סגנון טקסט...
-	Thaw All Layers	הפשר את כל השכבות
-	Thaw Layer	הפשר שכבה
+	Thaw All Layers	הפשרת כל השכבות
+	Thaw Layer	הפשרת שכבה
 	The aperture is how near the cursor must come to a point for an object snap to find it.	מפתח ההצמדה הוא המרחק המרבי שבו הסמן צריך להימצא מנקודה כדי שהצמדה לאובייקט תאתר אותה.
 	There is nothing here yet.	אין כאן דבר עדיין.
 	This drawing	שרטוט זה

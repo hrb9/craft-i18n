@@ -32,7 +32,7 @@
 	 on the canvas to create one (	 על משטח העבודה ליצירה (
 	 out from a highlighted edge to place its dimension  |  	 החוצה מצלע מודגשת להצבת המידה שלה  |  
 	 over paths to roughen their outlines  |  	 מעל נתיבים לחספוס קווי המתאר שלהם  |  
-	 over paths, and hold still to keep going  |  	 מעל נתיבים, והחזק במקום כדי להמשיך  |  
+	 over paths, and hold still to keep going  |  	 מעל נתיבים, ולהחזיק במקום כדי להמשיך  |  
 	 right or left to zoom in or out  |  	 ימינה או שמאלה להתקרבות או להתרחקות  |  
 	 selects several, or draws one inside an artboard)	 בוחר אחדים, או מצייר אחד בתוך משטח יצירה)
 	 the art to add a pin  |  	 בגרפיקה להוספת סיכה  |  
@@ -75,7 +75,7 @@
 	 to zoom into an area	 להתקרבות לאזור
 	 to zoom out  |  	 להתרחקות  |  
 	 while dragging to move perpendicular to the plane  |  	 תוך כדי גרירה לתנועה במאונך למישור  |  
-@msg	"{0}" is not a colour: write it as #rrggbb	"{0}" אינו צבע: כתוב אותו בתבנית #rrggbb
+@msg	"{0}" is not a colour: write it as #rrggbb	"{0}" אינו צבע: יש לכתוב אותו בתבנית #rrggbb
 	(closest)	(הקרוב ביותר)
 	+ Add Scale	+ הוספת קנה מידה
 	0.2 (quality) to 100 (speed)	0.2 (איכות) עד 100 (מהירות)
@@ -192,8 +192,8 @@ swatch	[Registration]	[רישום (Registration)]
 @msg	`{name}` isn't a colour swatch	`{name}` אינה דוגמית צבע
 @msg	`{path}` must be a bool or an object of bools	`{path}` חייב להיות ערך בוליאני או אובייקט של ערכים בוליאניים
 @msg	`{s}` is not a colour (#rrggbb or a preset name)	`{s}` אינו צבע (#rrggbb או שם מוגדר מראש)
-@msg	`{text}`: step {i}'s result has no such value (write $$ for a literal $)	`{text}`: בתוצאה של צעד {i} אין ערך כזה (כתוב $$ עבור התו $)
-@msg	`{text}`: there is no step {i} before this one (steps count from 0; write $$ for a literal $)	`{text}`: אין צעד {i} לפני צעד זה (צעדים נספרים מ-0; כתוב $$ עבור התו $)
+@msg	`{text}`: step {i}'s result has no such value (write $$ for a literal $)	`{text}`: בתוצאה של צעד {i} אין ערך כזה (יש לכתוב $$ עבור התו $)
+@msg	`{text}`: there is no step {i} before this one (steps count from 0; write $$ for a literal $)	`{text}`: אין צעד {i} לפני צעד זה (צעדים נספרים מ-0; יש לכתוב $$ עבור התו $)
 @msg	`{tool}` isn't a freehand tool	`{tool}` אינו כלי יד חופשית
 @msg	`{tool}` isn't a Liquify tool	`{tool}` אינו כלי נזילות (Liquify)
 @msg	`{to}` is not an available name	`{to}` אינו שם זמין
