@@ -752,7 +752,7 @@
 	Directional Blur	טשטוש כיווני
 	Directional Blur (Legacy)	טשטוש כיווני (מדור קודם)
 	DirectX 12 only	DirectX 12 בלבד
-	Disable video output when in the background	השבת פלט וידאו כאשר היישום ברקע
+	Disable video output when in the background	השבתת פלט וידאו כאשר היישום ברקע
 	Disabled clips	קליפים מושבתים
 	Discard take	ביטול טייק
 	Discard Unsaved Changes	ביטול שינויים שלא נשמרו
@@ -2052,7 +2052,7 @@
 	Red-Const	אדום-קבוע
 	Red-Green	אדום-ירוק
 	Red-Red	אדום-אדום
-	Reduce Axis	צמצם ציר
+	Reduce Axis	צמצום ציר
 	Reduce By	הפחת ב-
 	Reduce Interlace Flicker	הפחת הבהוב שזירה
 	Reduce Reverb	הפחת הדהוד
@@ -3028,5 +3028,94 @@
 	Show Duplicate Frame Markers	הצגת סמנים של פריימים כפולים
 	Start: {tc}	התחלה: {tc}
 	Track Color	צבע רצועה
+
+# Timeline and track slider settings
+	Timeline Slider Settings	הגדרות מחוון ציר הזמן
+	Track Slider Settings	הגדרות מחוון הרצועות
+	Unhide Timeline Slider	הצגת מחוון ציר הזמן
+	Unhide Track Slider	הצגת מחוון הרצועות
+	Slider Minimap	מפת ניווט ממוזערת במחוון
+	Show Whole Timeline	הצגת ציר הזמן כולו
+	Prioritise Audio	מתן עדיפות לשמע
+	Position Indicator	מציין מיקום
+	Fill Clips	מילוי קליפים
+	Decouple Edges	ניתוק הקישור בין הקצוות
+	Alternate Slider Position	מיקום חלופי של המחוון
+	Playhead Centering	מרכוז סביב סמן הניגון
+	Smooth Animations	הנפשות חלקות
+	Alternate Drag Speed	מהירות גרירה חלופית
+	Playhead Centering Range	טווח מרכוז סביב סמן הניגון
+	Snap to Tracks	הצמדה לרצועות
+	Hide Slider	הסתרת המחוון
+	Unhide Slider	הצגת המחוון
+	Maximum Zoom Level	רמת הגדלה מרבית
 	Transparency Grid	רשת שקיפות
 	Work Area Bar	סרגל אזור העבודה
+
+# FilmCraft Script window
+	Script	תסריט
+	Open Script	פתיחת תסריט
+	Find in Script	חיפוש בתסריט
+	Take	טייק
+	Add Script Mark	הוספת סימון בתסריט
+	Script Thumbnail Back	תמונה ממוזערת קודמת בתסריט
+	Script Thumbnail Forward	תמונה ממוזערת הבאה בתסריט
+	Toggle Script Offscreen	החלפת מצב מחוץ לפריים בתסריט
+	Add Another Candle	הוספת טייק נוסף
+	Add a mark at the Source playhead; cues the selected candle's source if needed	הוספת סימון במיקום סמן הניגון של המקור; טעינת המקור של הטייק שנבחר לפי הצורך
+	Add or edit Page on the selected line	הוספה או עריכה של מספר העמוד בשורה שנבחרה
+	Add or edit Scene on the selected line	הוספה או עריכה של הסצנה בשורה שנבחרה
+	Candle Color	צבע הטייק
+	Candle color	צבע הטייק
+	Cannot read script as UTF-8 text: {error}	לא ניתן לקרוא את התסריט כטקסט UTF-8: {error}
+	Cannot read script: {error}	לא ניתן לקרוא את התסריט: {error}
+	Choose a script	בחירת תסריט
+	Choose linked take ({count})	בחירת טייק מקושר ({count})
+	Clear Offscreen	ביטול סימון מחוץ לפריים
+	Click to cue Source; Command/Ctrl-drag to move this mark to another script line	לחיצה למעבר למיקום במקור; גרירה עם Command/Ctrl להעברת הסימון לשורה אחרת בתסריט
+	Command-drag (Mac) or Ctrl-drag (Windows) to adjust candle length	גרירה עם Command (Mac) או Ctrl (Windows) לשינוי אורך הטייק
+	Delete Line	מחיקת שורה
+	Delete Mark	מחיקת סימון
+	Double-click to edit Page	לחיצה כפולה לעריכת מספר העמוד
+	Double-click to edit Scene	לחיצה כפולה לעריכת הסצנה
+	Drag to change script wrapping	גרירה לשינוי גלישת השורות בתסריט
+	Drag to change the script's left margin	גרירה לשינוי השוליים השמאליים של התסריט
+	Edit Line	עריכת שורה
+	Find in Project	חיפוש בפרויקט
+	Import Text…	ייבוא טקסט…
+	Insert Line Below	הוספת שורה מתחת
+	Jump to {caption} label	מעבר לתווית {caption}
+	Left margin	שוליים שמאליים
+	Mark Offscreen	סימון מחוץ לפריים
+	Mark or clear the selected candle rows as off-screen	סימון או ביטול סימון מחוץ לפריים בשורות הטייק שנבחרו
+	Move Left	הזזה שמאלה
+	Move Right	הזזה ימינה
+	Next match (Enter)	התוצאה הבאה (Enter)
+	No matches	לא נמצאו תוצאות
+	Plain text .txt supported.	קובצי טקסט פשוט מסוג .txt נתמכים.
+	Plain-text script	תסריט בטקסט פשוט
+	Previous match (Shift+Enter)	התוצאה הקודמת (Shift+Enter)
+	Replace and Clear Marks	החלפה ומחיקת סימונים
+	Replace take?	להחליף את הטייק?
+	Script section copied	קטע התסריט הועתק
+	Script settings	הגדרות התסריט
+	Script text exceeds the 4 MiB import limit	טקסט התסריט חורג ממגבלת הייבוא של 4 MiB
+	Script text needs room for five leading setup lines	נדרש מקום לחמש שורות הכנה בתחילת טקסט התסריט
+	Search text	חיפוש טקסט
+	Set selected candle rows to the current color; right-click for palette	החלת הצבע הנוכחי על שורות הטייק שנבחרו; לחיצה ימנית לפתיחת לוח הצבעים
+	Show line numbers	הצגת מספרי שורות
+	Show row colors	הצגת צבעי שורות
+	Text size	גודל הטקסט
+	This replacement could be different footage. Old script marks would point to the wrong frames.	הקובץ החלופי עשוי להכיל חומר מצולם אחר. הסימונים הישנים בתסריט יצביעו על פריימים שגויים.
+	Thumbnail size	גודל התמונה הממוזערת
+	Untitled Script	תסריט ללא שם
+	Wrap margin	שוליים לגלישת שורות
+	{current} of {count}	{current} מתוך {count}
+	Line {current} of {total}	שורה {current} מתוך {total}
+	Cancel relink	ביטול קישור מחדש
+	Confirm Same Footage and Relink	אישור שזהו אותו חומר מצולם וקישור מחדש
+	FilmCraft cannot confirm this is the same footage used by linked Script takes.	ל־FilmCraft אין אפשרות לוודא שזהו אותו חומר מצולם המשמש את הטייקים המקושרים לתסריט.
+	If it is the same footage, confirm the relink to preserve their marks. Otherwise cancel and replace the takes in Script.	אם זהו אותו חומר מצולם, יש לאשר את הקישור מחדש כדי לשמור על הסימונים. אחרת יש לבטל ולהחליף את הטייקים בתסריט.
+	Relink canceled; Script marks were preserved.	הקישור מחדש בוטל; הסימונים בתסריט נשמרו.
+	Review Script marks	בדיקת הסימונים בתסריט
+	{n} Script-linked clip(s) still need review. Select each remaining source to relink.	נותרו {n} קליפים המקושרים לתסריט שדורשים בדיקה. יש לבחור כל מקור שנותר כדי לקשר אותו מחדש.

@@ -1098,8 +1098,8 @@ swatch	Cyan Green	ציאן-ירוק
 @msg	direct-select anchor points to cut at (not the end points of open paths)	יש לבחור ישירות נקודות עוגן לחיתוך בהן (לא נקודות הקצה של נתיבים פתוחים)
 	Direction Handles	ידיות כיוון
 	Directives	הנחיות (Directives)
-	Disable Auto Add/Delete	השבת הוספה/מחיקה אוטומטית
-	Disable Opacity Mask	השבת מסכת אטימות
+	Disable Auto Add/Delete	השבתת הוספה/מחיקה אוטומטית
+	Disable Opacity Mask	השבתת מסכת אטימות
 	Discard Empty Type	מחיקת אובייקטי טקסט ריקים
 	Discard Recovered Documents	ביטול מסמכים משוחזרים
 	Discard White Overprint in Output	ביטול הדפסת-על של לבן בפלט
@@ -3053,7 +3053,7 @@ swatch	Red	אדום
 	Redo {name}	ביצוע מחדש: {name}
 	Redo {}	ביצוע מחדש: {}
 	Reduce Colors	הפחת צבעים
-	Reduce to Basic Appearance	צמצם למראה בסיסי
+	Reduce to Basic Appearance	צמצום למראה בסיסי
 	Reduction:	הפחתה:
 	Reference Point	נקודת ייחוס
 	Reflect	שיקוף

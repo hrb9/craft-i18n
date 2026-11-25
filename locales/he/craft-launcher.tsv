@@ -326,3 +326,18 @@ wordcraft	Writing and document design	כתיבה ועיצוב מסמכים
 	Could not check for pre-release builds.	לא ניתן היה לבדוק אם יש גרסאות טרום-הפצה.
 	No pre-release builds are available yet.	עדיין אין גרסאות טרום-הפצה זמינות.
 	Pre-release builds aren't available on this platform yet.	גרסאות טרום-הפצה עדיין אינן זמינות בפלטפורמה זו.
+
+# Launcher controls
+	AI agents	סוכני בינה מלאכותית
+	Apps agents can reach: {count}	יישומים הזמינים לסוכנים: {count}
+	Let AI agents use Craft apps	מתן אפשרות לסוכני בינה מלאכותית להשתמש ביישומי Craft
+	Launch options…	אפשרויות הפעלה…
+	{name} launch options	אפשרויות הפעלה של {name}
+	{name} wasn't opened: a quote in its launch options isn't closed.	היישום {name} לא נפתח: באפשרויות ההפעלה יש מירכאות שלא נסגרו.
+	Pin to top	הצמדה לראש התצוגה
+	Pin {name} to top	הצמדה של {name} לראש התצוגה
+	Pinned	מוצמדים
+	Unpin	ביטול הצמדה
+	Unpin {name}	ביטול ההצמדה של {name}
+	Announcements	הודעות
+	No announcements	אין הודעות

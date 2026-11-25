@@ -1083,13 +1083,24 @@ menu	View	תצוגה
 	Working Set	ערכת עבודה
 	Workspace Switching	החלפת סביבת עבודה
 	Write Block	כתיבת בלוק לקובץ
+	(select)	(בחירה)
+	A file path is required.	יש לציין נתיב לקובץ.
+	Base point	נקודת בסיס
+	File name and path	שם הקובץ והנתיב
+	Invalid base X coordinate.	קואורדינטת X של נקודת הבסיס אינה חוקית.
+	Invalid base Y coordinate.	קואורדינטת Y של נקודת הבסיס אינה חוקית.
+	No objects selected	לא נבחרו אובייקטים
+	Objects	אובייקטים
+	Pick point	בחירת נקודה
+	Select a block.	יש לבחור בלוק.
+	Write Block was opened on another drawing; open it again.	חלון כתיבת בלוק לקובץ נפתח בשרטוט אחר; יש לפתוח אותו מחדש.
 	Xline	קו עזר אינסופי (Xline)
 	Xref and Block In-place Editing	עריכת הפניה חיצונית ובלוק במקום
 	Xrefs	הפניות חיצוניות (Xrefs)
 	Zoom All	הצגת הכול
 	Zoom Dynamic	מרחק תצוגה דינמי
 	Zoom Extents	הצגת גבולות תחום
-	Zoom Object	התמקד באובייקט
+	Zoom Object	התמקדות באובייקט
 	Zoom Previous	תצוגה קודמת
 	Zoom Realtime	מרחק תצוגה בזמן אמת
 	Zoom sensitivity	רגישות מרחק תצוגה
