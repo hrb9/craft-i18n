@@ -415,7 +415,7 @@
 	Document Info	פרטי מסמך
 	Document Settings	הגדרות מסמך
 	Document class	מחלקת מסמך
-	Documents you open or save show here, with a picture of their first frame.	מסמכים שפתחת או שמרת מופיעים כאן, עם תמונה של הפריים הראשון שלהם.
+	Documents you open or save show here, with a picture of their first frame.	מסמכים שנפתחו או נשמרו מופיעים כאן, עם תמונה של הפריים הראשון שלהם.
 	Don't ask again this session	לא להציג שאלה זו שוב בהפעלה הנוכחית
 	Don't close gaps	אל תסגור מרווחים
 	Dot spacing	מרווח בין נקודות
@@ -1017,7 +1017,7 @@
 	No plug-ins installed yet	אין תוספים מותקנים עדיין
 	No plug-ins installed yet. Plug-ins are WebAssembly (.wasm) files that add commands, such as generators and selection effects.	אין תוספים מותקנים עדיין. תוספים הם קובצי WebAssembly (.wasm) המוסיפים פקודות, כגון מחוללים ואפקטי בחירה.
 	No property keyframes yet: move or change the object at a later frame to add some.	אין פריימים-מפתח של מאפיינים עדיין: ניתן להזיז או לשנות את העצם בפריים מאוחר יותר כדי להוסיף.
-	No recent files yet. Documents you open or save show here.	אין קבצים אחרונים עדיין. מסמכים שפתחת או שמרת מופיעים כאן.
+	No recent files yet. Documents you open or save show here.	אין קבצים אחרונים עדיין. מסמכים שנפתחו או נשמרו מופיעים כאן.
 	No sound: {error}	אין שמע: {error}
 	No symbols, images or sounds yet. Select artwork and press {convert} to make a symbol, or import an image or a sound with {import}.	אין סמלים, תמונות או צלילים עדיין. יש לבחור גרפיקה ולהקיש {convert} ליצירת סמל, או לייבא תמונה או צליל עם {import}.
 	No text uses a font yet	אין טקסט המשתמש בגופן עדיין

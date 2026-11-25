@@ -723,7 +723,7 @@
 	PowerPoint Presentation (.pptx)	מצגת PowerPoint (.pptx)
 	Presentations	מצגות
 	Presentations and slide shows, rebuilt from scratch in pure Rust.	מצגות והצגות שקופיות, בנויות מחדש מאפס ב-Rust טהור.
-	Presentations you open show up here. Use Open to browse for one.	מצגות שפתחת יופיעו כאן. אפשר להשתמש ב"פתיחה" כדי לאתר קובץ.
+	Presentations you open show up here. Use Open to browse for one.	מצגות שנפתחו יופיעו כאן. ניתן להשתמש ב"פתיחה" כדי לאתר קובץ.
 	Presented by a speaker (full screen)	מוצג על-ידי דובר (מסך מלא)
 	Presenter View	תצוגת מגיש
 	Presenter\nView	תצוגת\nמגיש
@@ -1084,7 +1084,7 @@
 	“{font}” isn't used explicitly.	הגופן “{font}” אינו בשימוש מפורש.
 	“{name}” is not available yet.	“{name}” עדיין אינו זמין.
 @plural	First {n} slide|First {n} slides	{n} השקופית הראשונה|{n} השקופיות הראשונות|{n} השקופיות הראשונות
-@plural	Inserted {n} slide|Inserted {n} slides	הוספה {n} שקופית|הוספו {n} שקופיות|הוספו {n} שקופיות
+@plural	Inserted {n} slide|Inserted {n} slides	נוספה {n} שקופית|נוספו {n} שקופיות|נוספו {n} שקופיות
 @plural	Replaced {n} occurrence.|Replaced {n} occurrences.	הוחלף {n} מופע.|הוחלפו {n} מופעים.|הוחלפו {n} מופעים.
 @plural	{name} ({n} slide)|{name} ({n} slides)	{name} ({n} שקופית)|{name} ({n} שקופיות)|{name} ({n} שקופיות)
 @plural	{n} Column|{n} Columns	{n} עמודה|{n} עמודות|{n} עמודות
