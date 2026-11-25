@@ -71,8 +71,8 @@
 	Arrange Panel	סידור חלונית
 	Array	מערך
 	Associative	אסוציאטיבי
-	Attach	צרף
-	Attach DWG...	צרף DWG...
+	Attach	צירוף
+	Attach DWG...	צירוף DWG...
 	Attribute	תכונה
 	Attribute Definition	הגדרת תכונה
 	Attribute Display	תצוגת תכונות
@@ -341,7 +341,7 @@ menu	Draw	ציור
 	Find...	חיפוש...
 	Fit Points	נקודות התאמה
 	Fix	קיבוע
-	Flatten Objects	שטח אובייקטים
+	Flatten Objects	שיטוח אובייקטים
 	Freehand	יד חופשית
 	Freeze	הקפא
 	Freeze in new viewports	הקפא בחלונות תצוגה חדשים
@@ -353,9 +353,9 @@ menu	Draw	ציור
 	Geometric Center	מרכז גאומטרי
 	Geometric Constraint	אילוץ גאומטרי
 	Geometric Constraints	אילוצים גאומטריים
-	Get from the Drawing	קבל מהשרטוט
-	Get Variable	קבל משתנה
-	Get View	קבל תצוגה
+	Get from the Drawing	קבלה מהשרטוט
+	Get Variable	קבלת משתנה
+	Get View	קבלת תצוגה
 	Global width	רוחב גלובלי
 	Grab bag	אוסף כלים
 	Gradient...	מעבר צבע...
@@ -489,8 +489,8 @@ menu	Draw	ציור
 	Make...	יצירה...
 	Match Layer	התאמת שכבה
 	Match Properties	התאמת מאפיינים
-	Measure Distance	מדוד מרחק
-	Measure Geometry	מדוד גאומטריה
+	Measure Distance	מדידת מרחק
+	Measure Geometry	מדידת גאומטריה
 	Mid Between 2 Points	אמצע בין 2 נקודות
 	min	דק'
 	MIT OR Apache-2.0. Not affiliated with Autodesk, Inc.	MIT או Apache-2.0. אינו קשור ל-Autodesk, Inc.
@@ -536,7 +536,7 @@ menu	Modify	שינוי
 	No blocks defined in this drawing.	לא הוגדרו בלוקים בשרטוט זה.
 	No contributor data was built into this copy.	לא נכללו נתוני תורמים בעותק זה.
 	No external references are attached.	לא מצורפות הפניות חיצוניות.
-	No model credits were built into this copy.	לא נכללו קרדיטים של מודלים בעותק זה.
+	No model credits were built into this copy.	לא נכללו קרדיטים למודלים בעותק זה.
 	No plot style tables.	אין טבלאות סגנון הדפסה.
 	No saved layer states	אין מצבי שכבות שמורים
 	No supported 3D mouse found	לא נמצא עכבר תלת-ממדי נתמך
@@ -700,7 +700,7 @@ menu	Modify	שינוי
 	Reverse zoom direction	היפוך כיוון התקרבות/התרחקות
 	Revision Cloud	ענן מהדורה
 	Revolve	סיבוב סביב ציר (Revolve)
-	Run Script...	הרץ סקריפט...
+	Run Script...	הרצת סקריפט...
 	S	ד'
 	Save (⌘S)	שמירה (⌘S)
 	Save As...	שמירה בשם...
@@ -978,7 +978,7 @@ menu	Modify	שינוי
 	Start, End, Angle	התחלה, סיום, זווית
 	Start, End, Direction	התחלה, סיום, כיוון
 	Start, End, Radius	התחלה, סיום, רדיוס
-	Stretch Vertex	מתח קודקוד
+	Stretch Vertex	מתיחת קודקוד
 	Style: Standard	סגנון: רגיל
 	SVG drawings (SVG, SVGZ)	שרטוטי SVG (SVG, SVGZ)
 	Sweep	סחיפה (Sweep)

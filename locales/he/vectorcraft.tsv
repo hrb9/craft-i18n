@@ -881,7 +881,7 @@ swatch	Coffee	קפה
 @msg	Copied the CSS of {rules} object(s)	הועתק ה-CSS של {rules} אובייקטים
 @msg	Copied the script report	דוח הסקריפט הועתק
 swatch	Copper	נחושת
-	Copy (make a transformed copy)	העתקה (צור עותק לאחר שינוי צורה)
+	Copy (make a transformed copy)	העתקה (יצירת עותק לאחר שינוי צורה)
 	Copy All Objects	העתקת כל האובייקטים
 	Copy All Styles	העתקת כל הסגנונות
 	Copy Appearance	העתקת מראה
@@ -1121,14 +1121,14 @@ swatch	Cyan Green	ציאן-ירוק
 	Distribute Spacing:	פיזור מרווחים:
 	Dither	פיזור גוונים (Dither)
 	Dither:	פיזור גוונים:
-	Divide Horizontally Into	חלק אופקית ל-
+	Divide Horizontally Into	חלוקה אופקית ל-
 @msg	divide into 1 to {MAX_PIECES} slices	חלק ל-1 עד {MAX_PIECES} חיתוכים
-	Divide Objects Below	חלק אובייקטים מתחת
+	Divide Objects Below	חלוקת אובייקטים מתחת
 @msg	Divide Objects Below: select a path	חלוקת אובייקטים מתחת: יש לבחור נתיב
 @msg	Divide Objects Below: select exactly one path	חלוקת אובייקטים מתחת: יש לבחור נתיב אחד בדיוק
-	Divide Slices	חלק חיתוכים
-	Divide Slices…	חלק חיתוכים…
-	Divide Vertically Into	חלק אנכית ל-
+	Divide Slices	חלוקת חיתוכים
+	Divide Slices…	חלוקת חיתוכים…
+	Divide Vertically Into	חלוקה אנכית ל-
 	Do Not Move	ללא הזזה
 	Do Not Scale	ללא שינוי קנה מידה
 	Do you want to save the changes you made to “{name}”?	האם ברצונך לשמור את השינויים שביצעת ב-“{name}”?
@@ -1194,9 +1194,9 @@ swatch	Cyan Green	ציאן-ירוק
 	Drag to move out of the set	יש לגרור להוצאה מהקבוצה
 	Drag to the window's left edge to dock	יש לגרור לקצה השמאלי של החלון לעיגון
 	Drag values or labels. Double-click a value to type.	יש לגרור ערכים או תוויות, או ללחוץ לחיצה כפולה על ערך להקלדה.
-	Draw Behind	צייר מאחור
-	Draw in Perspective	צייר בפרספקטיבה
-	Draw Inside	צייר בפנים
+	Draw Behind	ציור מאחור
+	Draw in Perspective	ציור בפרספקטיבה
+	Draw Inside	ציור בפנים
 	Draw Mode Controls	פקדי מצב ציור
 	Draw Normal	ציור רגיל
 	Draw:	ציור:
@@ -1286,13 +1286,13 @@ swatch	Cyan Green	ציאן-ירוק
 	Em Box Bottom/Left	תחתית/שמאל של תיבת Em
 	Em Box Center	מרכז תיבת Em
 	Em Box Top/Right	חלק עליון/ימין של תיבת Em
-	Embed Fonts (for other applications)	הטמע גופנים (עבור יישומים אחרים)
-	Embed Fonts (Glyphs Used)	הטמע גופנים (גליפים שבשימוש)
-	Embed ICC Profile	הטמע פרופיל ICC
-	Embed ICC Profiles	הטמע פרופילי ICC
-	Embed Image	הטמע תמונה
-	Embed Image(s)	הטמע תמונות
-	Embed page thumbnails	הטמע תמונות ממוזערות של עמודים
+	Embed Fonts (for other applications)	הטמעת גופנים (עבור יישומים אחרים)
+	Embed Fonts (Glyphs Used)	הטמעת גופנים (גליפים שבשימוש)
+	Embed ICC Profile	הטמעת פרופיל ICC
+	Embed ICC Profiles	הטמעת פרופילי ICC
+	Embed Image	הטמעת תמונה
+	Embed Image(s)	הטמעת תמונות
+	Embed page thumbnails	הטמעת תמונות ממוזערות של עמודים
 	Embedded	מוטמע
 	Embedded Image	תמונה מוטמעת
 	Embedded {n} image(s)	הוטמעו {n} תמונות
@@ -1513,11 +1513,11 @@ swatch	Espresso	אספרסו
 	Flat Logo	לוגו בצבעים שטוחים
 	Flat Point	שטוח מחודד
 	Flatness:	שטוחות:
-	Flatten Artwork	שטח גרפיקה
-	Flatten Transparency	שטח שקיפות
+	Flatten Artwork	שיטוח גרפיקה
+	Flatten Transparency	שיטוח שקיפות
 @msg	Flatten Transparency: select objects to flatten	שיטוח שקיפות: יש לבחור אובייקטים לשיטוח
 @msg	Flatten Transparency: {e}	שיטוח שקיפות: {e}
-	Flatten Transparency…	שטח שקיפות…
+	Flatten Transparency…	שיטוח שקיפות…
 	Flattener preset:	הגדרה קבועה מראש למשטח שקיפות:
 	Flattener presets	הגדרות קבועות מראש למשטח שקיפות
 file-filter	Flattener presets	הגדרות קבועות מראש למשטח שקיפות
@@ -1587,8 +1587,8 @@ file-filter	Flattener presets	הגדרות קבועות מראש למשטח שק
 	Generate CSS	יצירת CSS
 	Generate CSS: the whole document's CSS while nothing is selected	יצירת CSS: קוד ה-CSS של המסמך כולו כשדבר אינו נבחר
 	Geometric Guides	קווי עזר גאומטריים
-	Get Preferences	קבל העדפות
-	Get Text Range	קבל טווח טקסט
+	Get Preferences	קבלת העדפות
+	Get Text Range	קבלת טווח טקסט
 	GIF, 128 colours	GIF, 128 צבעים
 @msg	give a fraction `t` from 0 to 1	יש לציין שבר `t` בין 0 ל-1
 @msg	give both `start` and `end` [x, y] (or neither)	יש לציין גם `start` וגם `end` [x, y] (או אף אחד מהם)
@@ -2135,8 +2135,8 @@ swatch	Magenta	מג׳נטה
 	Make with Top Object	יצירה עם האובייקט העליון
 	Make with Warp…	יצירה עם עיוות…
 	Make/Release Clipping Mask	יצירת/שחרור מסכת חיתוך
-	Manage Workspaces	נהל סביבות עבודה
-	Manage Workspaces…	נהל סביבות עבודה…
+	Manage Workspaces	ניהול סביבות עבודה
+	Manage Workspaces…	ניהול סביבות עבודה…
 	Manually	ידנית
 	Mark as trapped	סימון כבעל לכידת צבע (Trapped)
 	Mark Older Files as [Converted] When Opened	סימון קבצים ישנים כ-[מומר] בעת הפתיחה
@@ -2824,7 +2824,7 @@ file-filter	PDF-compatible .ai	קובץ .ai תואם PDF
 	Photo Low Fidelity	תצלום בדיוק נמוך
 	Photocopy…	צילום מסמכים…
 @msg	pick a colour, gradient or pattern to save as a swatch	יש לבחור צבע, מעבר צבע או דוגמת מילוי לשמירה כדוגמית
-	Pick Color From:	דגום צבע מתוך:
+	Pick Color From:	דגימת צבע מתוך:
 	Pie End Angle:	זווית סיום עוגה:
 	Pie Graph Tool	כלי תרשים העוגה
 	Pie Start Angle:	זווית התחלת עוגה:
@@ -3028,10 +3028,10 @@ swatch	Radial White, Black	מעגלי לבן, שחור
 	Recent Fonts	גופנים אחרונים
 	Recent URLs	כתובות URL אחרונות
 	Recolor	צבע מחדש
-	Recolor Artwork	צבע גרפיקה מחדש
-	Recolor Artwork…	צבע גרפיקה מחדש…
-	Recolor this row	צבע שורה זו מחדש
-	Recolor with Preset	צבע מחדש עם ערכה מוגדרת מראש
+	Recolor Artwork	צביעת גרפיקה מחדש
+	Recolor Artwork…	צביעת גרפיקה מחדש…
+	Recolor this row	צביעת שורה זו מחדש
+	Recolor with Preset	צביעה מחדש עם ערכה מוגדרת מראש
 	Recover Documents	שחזור מסמכים
 @msg	recovery copy `{file}`: {e}	עותק שחזור `{file}`: {e}
 	Recovery Data	נתוני שחזור
@@ -3809,9 +3809,9 @@ effect	Soft	רך
 @msg	stop {i}: `{k}` must be a number	תחנה {i}: `{k}` חייב להיות מספר
 	Straight Line	קו ישר
 	Stray Points	נקודות בודדות
-	Stretch Between Guides	מתח בין קווי עזר
-	Stretch to fit	מתח להתאמה
-	Stretch to Fit Stroke Length	מתח להתאמה לאורך קו המתאר
+	Stretch Between Guides	מתיחה בין קווי עזר
+	Stretch to fit	מתיחה להתאמה
+	Stretch to Fit Stroke Length	מתיחה להתאמה לאורך קו המתאר
 	String not closed	מחרוזת לא סגורה
 	Stroke (X), double-click for the Color Picker	קו מתאר (X), לחיצה כפולה לבורר הצבעים
 	Stroke Direction	כיוון קו מתאר

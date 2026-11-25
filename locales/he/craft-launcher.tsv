@@ -341,3 +341,100 @@ wordcraft	Writing and document design	כתיבה ועיצוב מסמכים
 	Unpin {name}	ביטול ההצמדה של {name}
 	Announcements	הודעות
 	No announcements	אין הודעות
+
+# MCP client configuration
+	Adds the Craft apps to that client. Restart the client afterwards.	הוספת יישומי Craft ללקוח זה. לאחר מכן יש להפעיל את הלקוח מחדש.
+	Other clients	לקוחות נוספים
+	Copy the configuration and paste it into the client's MCP settings.	יש להעתיק את התצורה ולהדביק אותה בהגדרות MCP של הלקוח.
+	Copy JSON	העתקת JSON
+	Copy for VS Code	העתקה עבור VS Code
+	Copy for Codex (TOML)	העתקה עבור Codex (TOML)
+	Configuration copied.	התצורה הועתקה.
+	Restart {client}	הפעלה מחדש של {client}
+	Restarting {client}…	מפעיל מחדש את {client}…
+	The Craft gateway (craft-ai-mcp) is not installed beside the launcher.	שער התקשורת של Craft (craft-ai-mcp) אינו מותקן לצד מפעיל היישומים.
+	Quick install	התקנה מהירה
+	Added	נוסף
+	{client} loads its MCP servers only when it starts, so the Craft apps appear after a restart. Restarting closes {client}, including a reply it is still writing.	{client} טוען את שרתי ה־MCP שלו רק בעת ההפעלה, ולכן יישומי Craft יופיעו לאחר הפעלה מחדש. הפעלה מחדש תסגור את {client}, לרבות תשובה שעדיין נמצאת בתהליך כתיבה.
+	While this is on, AI apps that use MCP, such as Claude, Cursor or LM Studio, can work with every installed Craft app through one entry. While it is off, no agent can reach them, and the entries added here are removed.	כאשר האפשרות מופעלת, יישומי בינה מלאכותית המשתמשים ב־MCP, כגון Claude, Cursor או LM Studio, יכולים לעבוד עם כל יישומי Craft המותקנים דרך רשומת חיבור אחת. כאשר היא כבויה, הסוכנים אינם יכולים לגשת ליישומים והרשומות שנוספו כאן מוסרות.
+
+# Download, font and visibility settings
+	Ask for permission once when updating all apps	בקשת אישור פעם אחת בעת עדכון כל היישומים
+	Simultaneous downloads	הורדות בו־זמניות
+	Downloads running together share your connection, so each one is slower.	הורדות בו־זמניות חולקות את חיבור האינטרנט, ולכן כל אחת מהן איטית יותר.
+	Betas and release candidates can replace your stable installation.	גרסאות בטא וגרסאות מועמדות להפצה עשויות להחליף את ההתקנה היציבה.
+	Launcher version	גרסת מפעיל היישומים
+	Allow font downloads	מתן אפשרות להורדת גופנים
+	Couldn't change the font download setting: {e}	לא ניתן היה לשנות את הגדרת הורדת הגופנים: {e}
+	Fonts download from their sources only when you install one. Font previews have their own setting below. Every Craft app shares this setting.	גופנים יורדים ממקורותיהם רק בעת התקנתם. לתצוגה מקדימה של גופנים יש הגדרה נפרדת בהמשך. הגדרה זו משותפת לכל יישומי Craft.
+	Sources	מקורות
+	Hide ArtCraft Launcher from the Dock while in the background	הסתרת ArtCraft Launcher מה־Dock בעת פעולה ברקע
+	Hide community apps	הסתרת יישומי הקהילה
+	Show font previews	הצגת תצוגות מקדימות של גופנים
+	Font preview server	שרת תצוגה מקדימה של גופנים
+	Set by {name} in the environment.	מוגדר באמצעות {name} בסביבה.
+	Couldn't change the font previews setting: {e}	לא ניתן לשנות את הגדרת התצוגה המקדימה של גופנים: {e}
+	Couldn't use this server: {e}	לא ניתן להשתמש בשרת זה: {e}
+	Fonts you haven't installed show their previews from this server, and installs try it first. Empty uses the default server.	תצוגות מקדימות של גופנים שטרם הותקנו נטענות משרת זה, וגם ההתקנה מנסה להשתמש בו תחילה. אם השדה ריק, ייעשה שימוש בשרת ברירת המחדל.
+
+# Version selection, pinning and views
+	Open {version}	פתיחת גרסה {version}
+	Open {installed} without updating. {latest} stays available.	פתיחת {installed} ללא עדכון. הגרסה {latest} תישאר זמינה.
+	{latest} is out, but ArtCraft Launcher can't install it over this copy.	הגרסה {latest} זמינה, אך ArtCraft Launcher אינו יכול להתקין אותה במקום העותק הנוכחי.
+	Waiting for another download…	ממתין להשלמת הורדה אחרת…
+	Download size: {size}	גודל ההורדה: {size}
+	latest {version}	הגרסה העדכנית: {version}
+	Install version {version}	התקנת גרסה {version}
+	Choose version	בחירת גרסה
+	Version pinned to {version}. Click to unlock.	הגרסה מקובעת ל־{version}. לחיצה לביטול הקיבוע.
+	Unlock version?	לבטל את קיבוע הגרסה?
+	{app} is pinned to {version}. Follow the latest release instead?	{app} מקובע לגרסה {version}. לעקוב במקום זאת אחר הגרסה העדכנית?
+	Your files may not open in older versions.	ייתכן שהקבצים לא ייפתחו בגרסאות קודמות.
+	{version} (latest release)	{version} (הגרסה העדכנית)
+	Download selected version	הורדת הגרסה שנבחרה
+	Older launcher versions require a manual reinstall.	גרסאות קודמות של מפעיל היישומים מחייבות התקנה מחדש באופן ידני.
+	by {name}	מאת {name}
+	Next GitHub check at {time}	הבדיקה הבאה ב־GitHub: {time}
+	Next check at {time}	הבדיקה הבאה: {time}
+	Retry update	ניסיון עדכון חוזר
+	Reorder {name}	שינוי המיקום של {name}
+	Move up	העברה למעלה
+	Move down	העברה למטה
+	Add desktop shortcut	הוספת קיצור דרך לשולחן העבודה
+	Apps	יישומים
+	Fonts for every Craft app	גופנים לכל יישומי Craft
+	ArtCraft Launcher can't install version {version} over this copy.	ArtCraft Launcher אינו יכול להתקין את גרסה {version} במקום עותק זה.
+
+# Developer builds and nightly channel
+	Developer Build	גרסת פיתוח
+	Developer Builds	גרסאות פיתוח
+	Nightly builds	גרסאות ליליות
+	Discover nightly builds (Developer Builds page)	חיפוש גרסאות ליליות (בדף גרסאות הפיתוח)
+	Turn off developer builds	כיבוי גרסאות פיתוח
+	Developer builds aren't available on this platform yet.	גרסאות פיתוח עדיין אינן זמינות בפלטפורמה זו.
+	Developer builds are off.	גרסאות פיתוח כבויות.
+	Installed copies and their data are kept. To discover new builds, enable developer builds in Settings.	העותקים המותקנים והנתונים שלהם נשמרים. כדי למצוא גרסאות חדשות, יש להפעיל גרסאות פיתוח בהגדרות.
+	Developer build installation is unavailable on this platform.	לא ניתן להתקין גרסאות פיתוח בפלטפורמה זו.
+	Could not check for developer builds.	לא ניתן היה לבדוק אם יש גרסאות פיתוח.
+	No developer builds are available yet.	עדיין אין גרסאות פיתוח זמינות.
+	Installed developer build	גרסת פיתוח מותקנת
+	No developer build is available yet.	עדיין אין גרסת פיתוח זמינה.
+	Uninstall developer build…	הסרת גרסת פיתוח…
+	Install developer build	התקנת גרסת פיתוח
+	Uninstall developer build?	להסיר את גרסת הפיתוח?
+	Only this developer build will be removed. Stable copies and user data are kept.	רק גרסת פיתוח זו תוסר. העותקים היציבים ונתוני המשתמש יישמרו.
+	Uninstall developer build	הסרת גרסת פיתוח
+	Enable developer builds?	להפעיל גרסאות פיתוח?
+	Developer builds let you try new work early, but they will have bugs and may lose unsaved work.	גרסאות פיתוח מאפשרות להתנסות בחידושים בשלב מוקדם, אך הן יכילו תקלות ועבודה שלא נשמרה עלולה ללכת לאיבוד.
+	Enable developer builds	הפעלת גרסאות פיתוח
+	Separate installs, settings and data. Turning this off keeps installed copies and their data.	התקנות, הגדרות ונתונים נפרדים. כיבוי האפשרות אינו מסיר את העותקים המותקנים ואת הנתונים שלהם.
+	Previous verified result is stale. Check again before installing.	התוצאה האחרונה שאומתה אינה עדכנית. יש לבדוק שוב לפני ההתקנה.
+	Last verified: {ago}	אימות אחרון: {ago}
+	Last attempt: {ago}	ניסיון אחרון: {ago}
+	Retry available in {minutes} min	ניתן לנסות שוב בעוד {minutes} דקות
+	The developer channel is updated automatically every night with the latest code. It may have bugs, performance and stability issues, and unfinished work. Please use the stable channel for important work.	ערוץ הפיתוח מתעדכן אוטומטית בכל לילה בקוד העדכני ביותר. הוא עשוי לכלול תקלות, בעיות ביצועים ויציבות ועבודה שטרם הושלמה. לעבודה חשובה מומלץ להשתמש בערוץ היציב.
+	Nightly builds use a separate install and settings. Stable updates stay unchanged.	גרסאות ליליות משתמשות בהתקנה ובהגדרות נפרדות. עדכוני הגרסה היציבה נשארים ללא שינוי.
+	Enable automatic installs in Settings to follow new nightly builds.	יש להפעיל התקנות אוטומטיות בהגדרות כדי לקבל גרסאות ליליות חדשות.
+	Nightly (none published yet)	גרסה לילית (טרם פורסמה)
+	They install alongside your stable apps with their own settings and data, leaving your stable setup untouched. Always back up important files before opening them in a developer build, as newer saves may not open in stable versions.	גרסאות אלה מותקנות לצד היישומים היציבים, עם הגדרות ונתונים נפרדים, מבלי לשנות את סביבת העבודה היציבה. יש לגבות קבצים חשובים לפני פתיחתם בגרסת פיתוח, משום שקבצים שנשמרו בגרסאות חדשות יותר עלולים שלא להיפתח בגרסאות היציבות.
+	You can turn this off at any time without deleting your installed developer builds or their data.	ניתן לכבות אפשרות זו בכל עת, מבלי למחוק את גרסאות הפיתוח המותקנות או את הנתונים שלהן.

@@ -203,14 +203,14 @@
 	ASC CDL	ASC CDL
 	Aspect	יחס גובה-רוחב
 	Assembly	הרכבה
-	Assign an audio type to the selection:	הקצה סוג שמע לבחירה:
-	Assign {key} to {command}	הקצה את {key} אל {command}
+	Assign an audio type to the selection:	הקצאת סוג שמע לבחירה:
+	Assign {key} to {command}	הקצאת {key} אל {command}
 	Asymmetry	אסימטריה
 	At playback end, return to beginning when restarting playback	בסיום הניגון, חזרה להתחלה בעת הפעלת הניגון מחדש
 	At Startup	בעת ההפעלה
 	At Unnumbered Markers	בסמנים לא ממוספרים
 	Att	הנחתה
-	Attach Proxies…	צרף קובצי פרוקסי…
+	Attach Proxies…	צירוף קובצי פרוקסי…
 	Attack	זמן תקיפה (Attack)
 	Attempt to force hardware to document sample rate	ניסיון לאלץ את החומרה לקצב הדגימה של המסמך
 	Audio analysis:	ניתוח שמע:
@@ -1076,8 +1076,8 @@
 	Generate waveforms and conform audio using multithreading	יצירת צורות גל והתאמת שמע באמצעות ריבוי תהליכונים
 	Generate waveforms automatically during import	יצירת צורות גל אוטומטית במהלך הייבוא
 	Generating waveform…	יוצר צורת גל…
-	Get Media File Properties for	קבל מאפייני קובץ מדיה עבור
-	Get Project Notes	קבל הערות פרויקט
+	Get Media File Properties for	קבלת מאפייני קובץ מדיה עבור
+	Get Project Notes	קבלת הערות פרויקט
 	Ghosts	דמויות רפאים
 	Glint	נצנוץ
 	Glitch	תקלה דיגיטלית (Glitch)
@@ -1463,7 +1463,7 @@
 	Male	זכר
 	Manage Guides	נהל קווי עזר
 	Manage Guides…	נהל קווי עזר…
-	Manage Saved View Presets	נהל הגדרות תצוגה שמורות
+	Manage Saved View Presets	ניהול הגדרות תצוגה שמורות
 	Mango	מנגו
 	Map Black To	מפה שחור אל
 	Map White To	מפה לבן אל
@@ -1710,7 +1710,7 @@
 	no Korean font is installed on this system; the interface stays in English	לא מותקן גופן קוריאני במערכת זו; הממשק נשאר באנגלית
 	No markers. Press M to add one.	אין סמנים. יש להקיש M להוספת סמן.
 	No matching captions.	אין כתוביות תואמות.
-	No model credits were built into this copy.	לא נכללו קרדיטים של מודלים בעותק זה.
+	No model credits were built into this copy.	לא נכללו קרדיטים למודלים בעותק זה.
 	No Motion	ללא תנועה
 	No multi-camera clip at the playhead	אין קליפ מרובה-מצלמות במיקום סמן הניגון
 	No plugins are installed. Changes will take effect the next time you start FilmCraft.	לא מותקנים תוספים. השינויים ייכנסו לתוקף בפעם הבאה שתפעיל את FilmCraft.
@@ -1777,7 +1777,7 @@
 	Offline All	ניתוק הכול
 	Offline File…	קובץ לא מקוון…
 	Offset (Turbulence)	היסט (מערבולת)
-	Offset Audio by:	הסט שמע ב:
+	Offset Audio by:	היסט שמע ב:
 	Offset From	היסט מתוך
 	Offset To	היסט אל
 	OMF Export Settings	הגדרות ייצוא OMF
@@ -2539,11 +2539,11 @@
 	Stop Voice-over Recording	עצירת הקלטת קריינות
 	Stopband Attenuation	הנחתה בפס החסימה
 	Straight Color	צבע ישיר
-	Stretch Gradient to Fit	מתח מעבר צבע להתאמה
-	Stretch Map to Fit	מתח מפה להתאמה
-	Stretch To Fill	מתח למילוי
-	Stretch to Fit Frame	מתח להתאמה למסגרת
-	Stretch Width or Height	מתח רוחב או גובה
+	Stretch Gradient to Fit	מתיחת מעבר צבע להתאמה
+	Stretch Map to Fit	מתיחת מפה להתאמה
+	Stretch To Fill	מתיחה למילוי
+	Stretch to Fit Frame	מתיחה להתאמה למסגרת
+	Stretch Width or Height	מתיחת רוחב או גובה
 	Stretch Wipe	מחיקת מתיחה
 	Stripe	פס
 	Stripes	פסים
@@ -2728,15 +2728,15 @@
 	Travel Motion	תנועת מסע
 	Treble	טרבל (גבוהים)
 	Trim	קיצוץ
-	Trim audio files	קצץ קובצי שמע
-	Trim Backward	קצץ אחורה
-	Trim Backward Many	קצץ אחורה משמעותית
+	Trim audio files	קיצוץ קובצי שמע
+	Trim Backward	קיצוץ אחורה
+	Trim Backward Many	קיצוץ אחורה משמעותית
 	Trim Edit	עריכת קיצוץ
-	Trim Forward	קצץ קדימה
-	Trim Forward Many	קצץ קדימה משמעותית
-	Trim In	קצץ כניסה
+	Trim Forward	קיצוץ קדימה
+	Trim Forward Many	קיצוץ קדימה משמעותית
+	Trim In	קיצוץ כניסה
 	Trim Next Edit to Playhead	קיצוץ העריכה הבאה עד סמן הניגון
-	Trim Out	קצץ יציאה
+	Trim Out	קיצוץ יציאה
 	Trim Previous Edit to Playhead	קיצוץ העריכה הקודמת עד סמן הניגון
 	Trimming	קיצוץ
 	Trim…	קיצוץ…
@@ -3119,3 +3119,16 @@
 	Relink canceled; Script marks were preserved.	הקישור מחדש בוטל; הסימונים בתסריט נשמרו.
 	Review Script marks	בדיקת הסימונים בתסריט
 	{n} Script-linked clip(s) still need review. Select each remaining source to relink.	נותרו {n} קליפים המקושרים לתסריט שדורשים בדיקה. יש לבחור כל מקור שנותר כדי לקשר אותו מחדש.
+
+# Timeline and track-slider shortcuts and warnings
+	Adjust Track Height:	שינוי גובה הרצועה:
+	Fast Timeline Scroll:	גלילה מהירה בציר הזמן:
+	Mirror Sliders:	היפוך מיקום המחוונים:
+	Scroll Track Rows:	גלילה בשורות הרצועות:
+	Zoom In:	הגדלת התצוגה:
+	Zoom Out:	הקטנת התצוגה:
+	Zoom Timeline:	שינוי קנה המידה של ציר הזמן:
+	Shortcut unavailable	קיצור הדרך אינו זמין
+	Left click is reserved for controlling the application and cannot be assigned.	לחיצה בלחצן השמאלי שמורה לשליטה ביישום ולא ניתן להקצות אותה.
+	Right click is reserved for opening slider settings and cannot be assigned.	לחיצה בלחצן הימני שמורה לפתיחת הגדרות המחוון ולא ניתן להקצות אותה.
+	This shortcut is already assigned. Open Keyboard Shortcuts to review it.	קיצור דרך זה כבר מוקצה. יש לפתוח את הגדרות קיצורי המקלדת כדי לבדוק אותו.
