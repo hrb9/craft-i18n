@@ -1171,8 +1171,8 @@ swatch	Cyan Green	ציאן-ירוק
 	Down (right reading)	למטה (קריאה תקינה)
 	Download:	הורדה:
 @msg	Downloaded {_1} file(s)	הורדו {_1} קבצים
-	Downloaded {what}	הורד {what}
-@msg	Downloaded {what}	הורד {what}
+	Downloaded {what}	{what} הורד
+@msg	Downloaded {what}	{what} הורד
 	Downloaded {} file(s)	הורדו {} קבצים
 	Drag	גרירה
 	Drag a handle	גרירת ידית
@@ -2105,7 +2105,7 @@ swatch	Magenta	מג׳נטה
 	Magic Wand Settings	הגדרות מטה קסם
 	Maintain Envelope Shape	שמירה על צורת המעטפת
 	Make	יצירה
-	Make a theme on Create and save it.	יש ליצור ערכת נושא בלשונית 'צור' ולשמור אותה.
+	Make a theme on Create and save it.	יש ליצור ערכת נושא בלשונית 'יצירה' ולשמור אותה.
 	Make all bleed settings the same	השוואת כל הגדרות גלישת הדפוס
 	Make and Expand	יצירה והרחבה
 	Make Blend	יצירת מיזוג

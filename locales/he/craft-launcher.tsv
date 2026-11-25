@@ -326,6 +326,15 @@ wordcraft	Writing and document design	כתיבה ועיצוב מסמכים
 	Could not check for pre-release builds.	לא ניתן היה לבדוק אם יש גרסאות טרום-הפצה.
 	No pre-release builds are available yet.	עדיין אין גרסאות טרום-הפצה זמינות.
 	Pre-release builds aren't available on this platform yet.	גרסאות טרום-הפצה עדיין אינן זמינות בפלטפורמה זו.
+	New builds as the apps evolve. Stable copies stay separate.	גרסאות חדשות ככל שהיישומים מתפתחים. הגרסאות היציבות נשארות נפרדות.
+	Only verified, isolated builds are installable. Turning this off never deletes installed copies or their data.	ניתן להתקין רק גרסאות מאומתות ומבודדות. כיבוי אפשרות זו אינו מוחק עותקים מותקנים או את הנתונים שלהם.
+	They install separately with separate settings. Keep backups: files saved by a newer build may not open in stable versions.	הן מותקנות בנפרד, עם הגדרות משלהן. מומלץ לשמור גיבויים: ייתכן שקבצים שנשמרו בגרסה חדשה יותר לא ייפתחו בגרסאות יציבות.
+	{month}/{day}/{year}	{day}/{month}/{year}
+	Nightly	גרסה לילית
+	Check for updates	בדיקת עדכונים
+	Settings	הגדרות
+	just now	זה עתה
+	yesterday	אתמול
 
 # Launcher controls
 	AI agents	סוכני בינה מלאכותית
@@ -438,3 +447,5 @@ wordcraft	Writing and document design	כתיבה ועיצוב מסמכים
 	Nightly (none published yet)	גרסה לילית (טרם פורסמה)
 	They install alongside your stable apps with their own settings and data, leaving your stable setup untouched. Always back up important files before opening them in a developer build, as newer saves may not open in stable versions.	גרסאות אלה מותקנות לצד היישומים היציבים, עם הגדרות ונתונים נפרדים, מבלי לשנות את סביבת העבודה היציבה. יש לגבות קבצים חשובים לפני פתיחתם בגרסת פיתוח, משום שקבצים שנשמרו בגרסאות חדשות יותר עלולים שלא להיפתח בגרסאות היציבות.
 	You can turn this off at any time without deleting your installed developer builds or their data.	ניתן לכבות אפשרות זו בכל עת, מבלי למחוק את גרסאות הפיתוח המותקנות או את הנתונים שלהן.
+	Developer builds are off. Installed copies and their data are kept.	גרסאות פיתוח כבויות. העותקים המותקנים והנתונים שלהם נשמרים.
+	These are developer builds. They will have issues and may lose work.	אלו גרסאות פיתוח. צפויות בהן תקלות, ועבודה עלולה ללכת לאיבוד.
