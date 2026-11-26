@@ -978,7 +978,7 @@
 	16f bits	16 סיביות בנקודה צפה
 	32f bits	32 סיביות בנקודה צפה
 	3D projection settings	הגדרות הקרנה תלת־ממדית
-	8 bits + dithering	8 סיביות + דיתור
+	8 bits + dithering	8 סיביות + פיזור שגיאת כימות (Dithering)
 	A checker over the UV layout.	דוגמת משבצות על פריסת ה־UV.
 	A custom OpenColorIO configuration file	קובץ תצורה מותאם אישית של OpenColorIO
 	A gradient across the mesh.	מעבר הדרגתי על פני הרשת.
@@ -993,31 +993,31 @@
 	Add the location	הוספת המיקום
 	Adds fine noise over the view	מוסיף רעש עדין על פני התצוגה
 	All Axis	כל הצירים
-	All selected texture sets processed	העיבוד של כל ערכות המרקמים שנבחרו הסתיים
-	Also write <mesh>.usd next to the textures: the whole mesh, with a material per texture set that reads the exported textures	כתוב גם את <mesh>.usd לצד המרקמים: הרשת השלמה, עם חומר לכל ערכת מרקמים שקורא את המרקמים שיוצאו
+	All selected texture sets processed	העיבוד של כל ערכות הטקסטורות שנבחרו הסתיים
+	Also write <mesh>.usd next to the textures: the whole mesh, with a material per texture set that reads the exported textures	כתוב גם את <mesh>.usd לצד הטקסטורות: הרשת השלמה, עם חומר לכל ערכת טקסטורות שקורא את הטקסטורות שיוצאו
 	An image turned gray.	תמונה שהומרה לגוני אפור.
 	Anchor points	נקודות עיגון
 	Angle	זווית
-	Apply Checked to All Texture Sets	החלת המסומנות על כל ערכות הטקסטורות
-	Apply Checked to More Texture Sets...	החלת המסומנות על ערכות טקסטורות נוספות...
+	Apply Checked to All Texture Sets	החלת הפריטים המסומנים על כל ערכות הטקסטורות
+	Apply Checked to More Texture Sets...	החלת הפריטים המסומנים על ערכות טקסטורות נוספות...
 	Apply to All Texture Sets	החלה על כל ערכות הטקסטורות
 	Apply triangulation	חלוקה למשולשים
-	Apply {map} Settings to More Texture Sets	החלת הגדרות {map} על קבוצות מרקמים נוספות
+	Apply {map} Settings to More Texture Sets	החלת הגדרות {map} על ערכות טקסטורות נוספות
 	Attributes	מאפיינים
 	Auto Tonemapping (per UV Tile)	מיפוי גוונים אוטומטי (לכל אריח UV)
-	Auto and UV tile use the UV tile's resolution, Texture set the texture set's, Custom a size of its own.	מצבים אוטומטי ואריח UV משתמשים ברזולוציית אריח ה-UV, מצב ערכת מרקמים ברזולוציית הערכה, ומצב מותאם אישית בגודל נפרד.
+	Auto and UV tile use the UV tile's resolution, Texture set the texture set's, Custom a size of its own.	מצבים אוטומטי ואריח UV משתמשים ברזולוציית אריח ה-UV, מצב ערכת טקסטורות ברזולוציית הערכה, ומצב מותאם אישית בגודל נפרד.
 	Auto-unwrap	פריסת UV אוטומטית
 	Auto-unwrap options	אפשרויות פריסת UV אוטומטית
 	Automatic (Experimental)	אוטומטי (ניסיוני)
 	BAKING OPTIONS	אפשרויות אפייה
 	Background color	צבע רקע
-	Bake mesh maps for curvature, AO and thickness based generators.	אפו מפות רשת עבור מחוללים המבוססים על עקמומיות, חסימה סביבתית (AO) ועובי.
+	Bake mesh maps for curvature, AO and thickness based generators.	אפיית מפות רשת עבור מחוללים המבוססים על עקמומיות, הצללה סביבתית (AO) ועובי.
 	Bake {map} Only	אפיית {map} בלבד
 	Baked {maps} maps in {time}	נאפו {maps} מפות בתוך {time}
 	Baked {maps} maps in {time}, {failed} failed.	נאפו {maps} מפות בתוך {time}; {failed} נכשלו.
 	Bakes cast their rays on the graphics card when one is available. Off, they run on the CPU.	בעת האפייה, חישוב הקרניים מתבצע בכרטיס הגרפי אם הוא זמין. כשהאפשרות כבויה, החישוב מתבצע במעבד המרכזי.
 	Base Surface	משטח בסיס
-	Based on each Texture Set's size	לפי הגודל של כל ערכת מרקמים
+	Based on each Texture Set's size	לפי הגודל של כל ערכת טקסטורות
 	Based on output template	לפי תבנית הפלט
 	Bent Normal	נורמל מוטה
 	Bent Normal Diffuse Amount	עוצמת השפעת הנורמל המוטה על ההחזרה המפוזרת
@@ -1030,8 +1030,8 @@
 	Cache directory	תיקיית מטמון
 	Cage Surface	משטח הכלוב
 	Cage Surface Opacity	אטימות משטח הכלוב
-	Cage Wireframe	קווי המתאר של הכלוב
-	Cage Wireframe Opacity	אטימות קווי המתאר של הכלוב
+	Cage Wireframe	שלד הקווים של הכלוב
+	Cage Wireframe Opacity	אטימות שלד הקווים של הכלוב
 	Cancel Export	בטל ייצוא
 	Cannot remove the default library.	לא ניתן להסיר את ספריית ברירת המחדל.
 	Cast shadows	הטלת צללים
@@ -1040,7 +1040,7 @@
 	Channels mapping	מיפוי ערוצים
 	Check All Mesh Maps	סימון כל מפות הרשת
 	Check all	סמן הכול
-	Check {map} for More Texture Sets	סימון {map} בקבוצות מרקמים נוספות
+	Check {map} for More Texture Sets	סימון {map} בערכות טקסטורות נוספות
 	Checker mask	מסכת לוח שחמט
 	Choose how the input maps are named in this editor.	בחרו כיצד ייקראו מפות הקלט בעורך זה.
 	Choose the data folder	בחירת תיקיית הנתונים
@@ -1062,7 +1062,7 @@
 	Could not open {folder}: {error}	לא ניתן לפתוח את {folder}: {error}
 	Create:	יצירה:
 	Cropped to Shape	חתוך לפי הצורה
-	Current preset:	ההגדרה המוגדרת מראש הנוכחית:
+	Current preset:	ההגדרה הקבועה מראש הנוכחית:
 	Custom unit scale	קנה מידה מותאם אישית ליחידות
 	Darkens the corners of the view	מכהה את פינות התצוגה
 	Default (System Language)	ברירת מחדל (שפת המערכת)
@@ -1085,7 +1085,7 @@
 	Empty (writes black)	ריק (כותב שחור)
 	Empty (writes white)	ריק (כותב לבן)
 	Empty this input	ריקון קלט זה
-	Enable GPU raytracing	הפעלת ניתוב קרניים באמצעות המעבד הגרפי
+	Enable GPU raytracing	הפעלת מעקב קרניים באמצעות המעבד הגרפי
 	Enable anisotropy	הפעלת אנאיזוטרופיה
 	Enable live preview baking process	הפעלת תצוגה מקדימה בזמן האפייה
 	Enable override	הפעל הגדרה עוקפת
@@ -1094,10 +1094,10 @@
 	Enlarge preview	הגדל את התצוגה המקדימה
 	Environment Alignment	יישור הסביבה
 	Export MaterialX	ייצא MaterialX
-	Export Textures	ייצוא מרקמים
+	Export Textures	ייצוא טקסטורות
 	Export USD asset	ייצא נכס USD
 	Export color spaces	מרחבי צבע לייצוא
-	Export shader settings	ייצא הגדרות שיידר
+	Export shader settings	ייצא הגדרות מצליל
 	Export stopped: another project was opened	הייצוא הופסק: נפתח פרויקט אחר
 	Export stopped: the planned files for {set} changed	הייצוא הופסק: הקבצים המתוכננים עבור {set} השתנו
 	Extends Outside Shape	משתרע מעבר לצורה
@@ -1110,9 +1110,9 @@
 	Film grain	גרעיניות סרט
 	Filtering	סינון
 	Filtering and edges	סינון וקצוות
-	Finished writing this texture set	כתיבת ערכת המרקמים הזו הושלמה
+	Finished writing this texture set	כתיבת ערכת הטקסטורות הזו הושלמה
 	Flip copy	היפוך העותק
-	GPU raytracing not available for your hardware.	ניתוב קרניים באמצעות המעבד הגרפי אינו זמין בחומרה זו.
+	GPU raytracing not available for your hardware.	מעקב קרניים באמצעות המעבד הגרפי אינו זמין בחומרה זו.
 	General Export Parameters	פרמטרים כלליים לייצוא
 	Generate UVs for meshes that have none	יצירת קואורדינטות UV לרשתות שאין להן קואורדינטות כאלה
 	Generate a fresh UV layout even when the mesh already has UVs. Meshes without UVs are always unwrapped.	יצירת פריסת UV חדשה גם אם לרשת כבר יש קואורדינטות UV. רשתות ללא קואורדינטות UV נפרסות תמיד.
@@ -1164,14 +1164,14 @@
 	Map Preview	תצוגה מקדימה של המפה
 	Matching Error	שגיאת התאמה
 	Material color space default	מרחב צבע ברירת מחדל לחומרים
-	Material preview shader	מצלל לתצוגה מקדימה של חומרים
+	Material preview shader	מצליל לתצוגה מקדימה של חומרים
 	Max CPU threads for work	מספר מרבי של תהליכוני מעבד לעיבוד
-	Maximum size for all Texture Sets	גודל מרבי לכל ערכות המרקמים
+	Maximum size for all Texture Sets	גודל מרבי לכל ערכות הטקסטורות
 	Medium (32 spp)	בינונית (32 דגימות לפיקסל)
 	Mesh Export Options	אפשרויות ייצוא רשת
 	Mesh ID / Polygroup	מזהה רשת / קבוצת פוליגונים
 	Mesh Map Bakers Menu	תפריט כלי אפיית מפות הרשת
-	Mesh wireframe	שלד הרשת
+	Mesh wireframe	שלד הקווים של הרשת
 	Middle size horizontal	גודל אמצעי אופקי
 	Middle size vertical	גודל אמצעי אנכי
 	Missing Seams on Hard Edges	תפרים חסרים בקצוות חדים
@@ -1195,7 +1195,7 @@
 	One Axis	ציר אחד
 	One or several errors have been found in Shortcuts settings	נמצאה שגיאה אחת או יותר בהגדרות קיצורי המקשים
 	Only display the selected material when painting	הצגת החומר הנבחר בלבד בעת הצביעה
-	Only the cage and the high poly meshes of the selected texture set show.	יוצגו רק הכלוב ורשתות עתירות המצולעים של ערכת המרקמים שנבחרה.
+	Only the cage and the high poly meshes of the selected texture set show.	יוצגו רק הכלוב ורשתות עתירות המצולעים של ערכת הטקסטורות שנבחרה.
 	Open output directory	פתח תיקיית פלט
 	Output Settings	הגדרות פלט
 	Output maps	מפות פלט
@@ -1213,7 +1213,7 @@
 	Position random Y	מיקום אקראי בציר Y
 	Post effects	אפקטים לאחר העיבוד
 	Post effects (viewport and Rendering mode)	אפקטים לאחר העיבוד (חלון התצוגה ומצב הרינדור)
-	Preparing texture export	מתכונן לייצוא המרקמים
+	Preparing texture export	מתכונן לייצוא הטקסטורות
 	Preset name	שם ההגדרה הקבועה מראש
 	Preview the Selected Map	תצוגה מקדימה של המפה שנבחרה
 	Project Mesh	רשת הפרויקט
@@ -1240,21 +1240,21 @@
 	Resolution X	רזולוציה בציר X
 	Resolution Y	רזולוציה בציר Y
 	Restore the default export parameters	שחזר את פרמטרי ברירת המחדל לייצוא
-	Restore the export defaults and select every texture	שחזר את ברירות המחדל לייצוא ובחר את כל המרקמים
+	Restore the export defaults and select every texture	שחזר את ברירות המחדל לייצוא ובחר את כל הטקסטורות
 	Return to the preset's view	חזרה לתצוגה של ההגדרה המוגדרת מראש
 	Reverse rendering order	היפוך סדר הרינדור
 	Rotation 45°	סיבוב ב-45°
 	Rotation random	סיבוב אקראי
 	Rotation speed	מהירות סיבוב
 	Rust in occluded areas, running down in drips.	חלודה באזורים חסומים, הזולגת מטה בטיפות.
-	SPARSE VIRTUAL TEXTURE	מרקם וירטואלי דליל
+	SPARSE VIRTUAL TEXTURE	טקסטורה וירטואלית דלילה
 	Same as context	זהה לרזולוציית ההקשר
 	Save Preset	שמירת הגדרה קבועה מראש
 	Save preprocessed scene files	שמירת קובצי סצנה שעברו עיבוד מקדים
 	Save settings	שמור הגדרות
-	Save the settings of each shader instance in a JSON file	שמור את ההגדרות של כל מופע שיידר בקובץ JSON
-	Saved texture {file}	המרקם {file} נשמר
-	Saving texture files	שומר קובצי מרקמים
+	Save the settings of each shader instance in a JSON file	שמור את ההגדרות של כל מופע מצליל בקובץ JSON
+	Saved texture {file}	הטקסטורה {file} נשמרה
+	Saving texture files	שומר קובצי טקסטורות
 	Scale amount	ערך קנה המידה
 	Scale material fills in real-world units	שינוי קנה המידה של מילויי חומרים ביחידות פיזיות
 	Scale random	קנה מידה אקראי
@@ -1262,8 +1262,8 @@
 	Scale unit	יחידת קנה מידה
 	Scales the base resolution: below 1 the pattern is drawn coarser and smoothed back up.	משנה את רזולוציית הבסיס: בערך נמוך מ-1 התבנית מצוירת ברזולוציה נמוכה יותר ומוגדלת בהחלקה.
 	Select a 3D mesh first	יש לבחור תחילה רשת תלת־ממדית
-	Select a preview shader	בחירת מצלל לתצוגה מקדימה
-	Select every texture set, UV tile and output map	בחר את כל ערכות המרקמים, אריחי UV ומפות הפלט
+	Select a preview shader	בחירת מצליל לתצוגה מקדימה
+	Select every texture set, UV tile and output map	בחר את כל ערכות הטקסטורות, אריחי UV ומפות הפלט
 	Separate R, G and B	הפרדת R, G ו-B
 	Set the size of one unit yourself	הגדרה ידנית של גודל יחידה אחת
 	Shadows opacity	אטימות הצללים
@@ -1271,7 +1271,7 @@
 	Shapes laid out in a grid of tiles: rows, offsets, random size, rotation and brightness.	צורות המסודרות ברשת אריחים: שורות, היסטים, גודל, סיבוב ובהירות אקראיים.
 	Show Console	הצג מסוף
 	Show keyboard helper	הצגת עזר מקלדת
-	Show mesh wireframe	הצגת שלד הרשת
+	Show mesh wireframe	הצגת שלד הקווים של הרשת
 	Show projection gizmos	הצגת ידיות ההקרנה
 	Show world axes	הצגת צירי העולם
 	Show {map} in the Viewport	הצגת {map} בחלון התצוגה
@@ -1290,7 +1290,7 @@
 	Source Channel	ערוץ מקור
 	Splits every face with more than three corners into triangles; triangles stay as they are.	חלוקת כל פאה בעלת יותר משלושה קודקודים למשולשים; משולשים קיימים נשארים ללא שינוי.
 	Standard sRGB color space	מרחב צבע sRGB תקני
-	Stop Painting	הפסקת ציור
+	Stop Painting	הפסקת צביעה
 	Subdivision Count	מספר חלוקות
 	Subdivision Mode	מצב חלוקה
 	Subsurface	פיזור תת־משטחי
@@ -1308,15 +1308,15 @@
 	TEMPORARY FILES	קבצים זמניים
 	Tags	תגיות
 	Template actions	פעולות בתבנית
-	Templates set the starting channels, resolution, normal map format and shader settings.	תבניות מגדירות את הערוצים ההתחלתיים, הרזולוציה, פורמט מפת הנורמלים והגדרות השיידר.
+	Templates set the starting channels, resolution, normal map format and shader settings.	תבניות מגדירות את הערוצים ההתחלתיים, הרזולוציה, פורמט מפת הנורמלים והגדרות המצליל.
 	Tessellation	טסלציה (חלוקת רשת)
-	Texture export complete	ייצוא המרקמים הושלם
-	Texture set {set}	ערכת מרקמים {set}
-	Texture sets {first} and {second} both export {file}: add $textureSet to the template's file names or rename a texture set	ערכות המרקמים {first} ו-{second} מייצאות שתיהן את {file}: יש להוסיף את $textureSet לשמות הקבצים בתבנית או לשנות שם של אחת הערכות
+	Texture export complete	ייצוא הטקסטורות הושלם
+	Texture set {set}	ערכת טקסטורות {set}
+	Texture sets {first} and {second} both export {file}: add $textureSet to the template's file names or rename a texture set	ערכות הטקסטורות {first} ו-{second} מייצאות שתיהן את {file}: יש להוסיף את $textureSet לשמות הקבצים בתבנית או לשנות שם של אחת הערכות
 	TextureCraft Nightly keeps its autosaves, smart materials, presets, templates and UI layouts in its own profile, beside its settings.	TextureCraft Nightly שומרת את קובצי השמירה האוטומטית, החומרים החכמים, ההגדרות המוגדרות מראש, התבניות ופריסות הממשק בפרופיל נפרד, לצד ההגדרות שלה.
 	TextureCraft cannot do this yet: it writes the vertex normals the mesh has in the project.	אפשרות זו עדיין אינה נתמכת ב-TextureCraft: התוכנה מייצאת את נורמלי הקודקודים הקיימים ברשת שבפרויקט.
 	TextureCraft keeps meshes as triangles, so the exported mesh is always triangulated.	TextureCraft שומר רשתות כמשולשים, ולכן הרשת המיוצאת תמיד מחולקת למשולשים.
-	The active texture set’s shader can affect the available map names.	השיידר של ערכת הטקסטורות הפעילה עשוי להשפיע על שמות המפות הזמינים.
+	The active texture set’s shader can affect the available map names.	המצליל של ערכת הטקסטורות הפעילה עשוי להשפיע על שמות המפות הזמינים.
 	The cage applies once a high poly mesh is loaded.	הכלוב ייכנס לשימוש לאחר טעינת רשת עתירת פוליגונים.
 	The cage is not used while the low poly mesh is used as the high poly mesh.	הכלוב אינו בשימוש כאשר הרשת דלת הפוליגונים משמשת כרשת עתירת הפוליגונים.
 	The color space layers are blended in	מרחב הצבע שבו השכבות מתמזגות
@@ -1358,14 +1358,14 @@
 	Warning: {message}	אזהרה: {message}
 	Wheel speed	מהירות גלגלת העכבר
 	Which part of {map}?	איזה חלק של {map}?
-	Wireframe color	צבע שלד הרשת
+	Wireframe color	צבע שלד הקווים של הרשת
 	With displacement/tessellation	עם היסט גאומטרי וטסלציה
 	Without displacement/tessellation	ללא היסט גאומטרי או טסלציה
 	Working color space	מרחב צבע לעבודה
 	Worn fibreglass edges.	קצוות פיברגלס שחוקים.
 	Worn metal edges, scratched.	קצוות מתכת שחוקים ושרוטים.
 	Write 1 minus the value in this channel	כתיבת 1 פחות הערך בערוץ זה
-	Write the selected textures, and the extra files ticked in the settings	כתוב את המרקמים שנבחרו ואת הקבצים הנוספים שסומנו בהגדרות
+	Write the selected textures, and the extra files ticked in the settings	כתוב את הטקסטורות שנבחרו ואת הקבצים הנוספים שסומנו בהגדרות
 	X amount	כמות בציר X
 	Y amount	כמות בציר Y
 	You can enable or disable UV tiles later in Texture Set Settings.	ניתן להפעיל או להשבית אריחי UV בהמשך, בהגדרות ערכת הטקסטורות.
@@ -1373,10 +1373,10 @@
 	{count} differing settings	הגדרות שונות: {count}
 	{names} and {count} more	{names} ועוד {count}
 	{n} output maps will be exported.	מספר מפות הפלט לייצוא: {n}.
-	{n} textures selected for export	מספר המרקמים שנבחרו לייצוא: {n}
-	{n}x{n} (Texture Set size)	{n}x{n} (גודל ערכת המרקמים)
+	{n} textures selected for export	מספר הטקסטורות שנבחרו לייצוא: {n}
+	{n}x{n} (Texture Set size)	{n}x{n} (גודל ערכת הטקסטורות)
 	{settings} Sync	סנכרון {settings}
 	{set}: no high poly part matches {names}	{set}: לא נמצא חלק עתיר פוליגונים התואם ל־{names}
-	{set}: {percent}% of the UV layout overlaps, so those texels bake one place for several	{set}: קיימת חפיפה ב־{percent}% מפריסת ה־UV, ולכן באותם טקסלים נאפה מידע ממיקום אחד עבור כמה מיקומים
+	{set}: {percent}% of the UV layout overlaps, so those texels bake one place for several	{set}: קיימת חפיפה ב־{percent}% מפריסת ה־UV, ולכן הטקסלים החופפים מקבלים באפייה מידע ממיקום אחד המשותף לכמה אזורים ברשת
 	{swatch}, inverted	{swatch}, לאחר היפוך
 	{values} · {count} more	{values} · ועוד {count}
