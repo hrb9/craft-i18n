@@ -402,3 +402,7 @@ catalogs, with the same AI-assisted origin and no native-speaker review.
 ## FilmCraft, VectorCraft, and CADCraft: Hebrew export, block-library, and menu additions (2026-11-25)
 
 50 clean-room Hebrew additions (9 in FilmCraft from `filmcraft@740adb3`, 10 in VectorCraft from `vectorcraft@01c602d` and `vectorcraft@8b0b808`, and 31 in CADCraft from `cadcraft@0d4b100`) contributed by @nocturney (AI-assisted) and integrated in #42 by @hrb9 with gender-neutral and suite-terminology adjustments (`cadcraft.tsv` block-library instructions and `Keyboard Shortcuts...`). Independent native-speaker review pending.
+
+## CADCraft: consolidated Hebrew dialog proposals (2026-11-26)
+
+52 previously proposed catalog rows from @nocturney review comments on #42, consolidated without new translation count. Clean-room Hebrew, AI-assisted; exact English source literals checked against `storytold/cadcraft@12eef22768ac855196b3d8b943145003f746d8fb`. Existing catalog wording retained. Independent native-speaker and in-app RTL review pending; catalog inclusion alone does not establish lookup wiring.

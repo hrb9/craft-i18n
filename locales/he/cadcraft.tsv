@@ -1303,3 +1303,57 @@ menu	View	תצוגה
 	Fill angle	זווית מילוי
 	Rotate items	סיבוב פריטים
 	Select objects first	יש לבחור תחילה אובייקטים
+
+# Previously proposed CADCraft dialog additions (source-backed)
+	DXF 2007 and later keep them. Use Save As to keep them in the drawing.	גרסאות DXF משנת 2007 ואילך שומרות אותם. יש לבחור בשמירה בשם כדי לשמור אותם בשרטוט.
+	DXF 2013 and later keep them. Use Save As to keep them in the drawing.	גרסאות DXF משנת 2013 ואילך שומרות אותם. יש לבחור בשמירה בשם כדי לשמור אותם בשרטוט.
+	Import PDF	ייבוא PDF
+	Page number	מספר עמוד
+	Scale factor	מקדם קנה מידה
+	Import text as TEXT	ייבוא טקסט כאובייקטי TEXT
+	Import filled shapes as solid hatches	ייבוא צורות ממולאות כמילויים מלאים (Solid Hatch)
+	Use the PDF's line widths	שימוש בעובי הקווים של ה־PDF
+	Import Page	ייבוא עמוד
+	The drawing this window was opened for is closed; nothing was imported.	השרטוט שעבורו נפתח חלון זה נסגר; לא יובא דבר.
+	Block name:	שם הבלוק:
+	Values typed at the command line work too	ניתן גם להזין ערכים בשורת הפקודה
+	Paper units	יחידות נייר
+	What one paper-space unit is on this layout	יחידת המידה של מרחב הנייר בפריסה זו
+	Symbols and Arrows	סמלים וחצים
+	Primary Units	יחידות ראשיות
+	Alternate Units	יחידות חלופיות
+	Tolerances	סבולות
+	Dimension Style Manager	מנהל סגנונות המידות
+	Create New Dimension Style	יצירת סגנון מידות חדש
+	Compare Dimension Styles	השוואת סגנונות מידות
+	<style overrides>	<דריסות סגנון>
+	Save to current style	שמירה בסגנון הנוכחי
+	Styles in use	סגנונות בשימוש
+	All styles	כל הסגנונות
+	New...	חדש...
+	Modify...	שינוי...
+	Override...	דריסה...
+	Compare...	השוואה...
+	Annotative	מותאם לקנה מידה של הערות
+	New style name	שם הסגנון החדש
+	Start with	סגנון בסיס
+	A dimension style with this name already exists.	כבר קיים סגנון מידות בשם זה.
+	Variable	משתנה
+	Modify Dimension Style: {style}	שינוי סגנון מידות: {style}
+	Override Current Style: {style}	דריסת הסגנון הנוכחי: {style}
+	New Dimension Style: {style}	סגנון מידות חדש: {style}
+	All properties of {style}	כל המאפיינים של {style}
+	{count} differences	{count} הבדלים
+	This drawing has no blocks with attributes.	בשרטוט זה אין בלוקים עם תכונות.
+	Block:	בלוק:
+	Tag	תג
+	Modes	מצבים
+	Bring every reference in line with these definitions	התאמת כל מופעי הבלוק להגדרות אלה
+	Invisible	מוסתר
+	Constant	קבוע
+	Apply changes to existing references	החלת השינויים על מופעי בלוק קיימים
+	WCS	WCS
+	Unnamed	ללא שם
+	{objects} written to "{path}".	כתיבה לקובץ "{path}" הושלמה: {objects}.
+	Import failed: {error}	הייבוא נכשל: {error}
+	{property}: that value can't be used here.	{property}: לא ניתן להשתמש בערך הזה כאן.
