@@ -386,3 +386,8 @@ catalogs, with the same AI-assisted origin and no native-speaker review.
 - TextureCraft wording corrections: based on @nocturney’s original Hebrew contributions in [#260](https://github.com/storytold/craft-i18n/pull/260) (head 0e9bdd9b52cc0ba09a0148ef7ebb61c433279cff).
 - Consolidation base: [#326](https://github.com/storytold/craft-i18n/pull/326), retaining the translations and prior review contributions of @hrb9 and @yonatan-langer83. English keys checked against AniCraft 837c3edfd69956a41c1bda21db2718a67dfb5ee6 and TextureCraft 998e68da74dcf02af767b3a0a84451fe075796d0.
 - AI-assisted translation and review; wording derived from English source meaning and code context, not copied from other products. The new consolidation draft has not yet received native-speaker or in-app review.
+
+### Hebrew TextureCraft source-backed follow-up
+
+- Consolidates 407 previously proposed Hebrew rows by @nocturney from [PR #326](https://github.com/storytold/craft-i18n/pull/326) discussion, 2026-11-26, preserving prior contributor credits and existing catalog rows. English keys were previously checked against official TextureCraft source; changed export/display files were rechecked at `4ff7cb6165f425079de3e8275cb3a8d03a1053a8`.
+- AI-assisted translations derived from English source and context; independent native-speaker and in-app RTL review have not yet occurred. No legacy migration rows added where a catalog already covers the key.
