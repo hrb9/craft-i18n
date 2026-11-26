@@ -1303,3 +1303,125 @@ menu	View	תצוגה
 	Fill angle	זווית מילוי
 	Rotate items	סיבוב פריטים
 	Select objects first	יש לבחור תחילה אובייקטים
+
+# CADCraft dialog, manager, settings, and recovery additions (2026-11-26)
+	DXF 2007 and later keep them. Use Save As to keep them in the drawing.	גרסאות DXF משנת 2007 ואילך שומרות אותם. יש לבחור בשמירה בשם כדי לשמור אותם בשרטוט.
+	DXF 2013 and later keep them. Use Save As to keep them in the drawing.	גרסאות DXF משנת 2013 ואילך שומרות אותם. יש לבחור בשמירה בשם כדי לשמור אותם בשרטוט.
+	Import PDF	ייבוא PDF
+	Page number	מספר עמוד
+	Scale factor	מקדם קנה מידה
+	Import text as TEXT	ייבוא טקסט כאובייקטי TEXT
+	Import filled shapes as solid hatches	ייבוא צורות ממולאות כמילויים מלאים (Solid Hatch)
+	Use the PDF's line widths	שימוש בעובי הקווים של ה־PDF
+	Import Page	ייבוא עמוד
+	The drawing this window was opened for is closed; nothing was imported.	השרטוט שעבורו נפתח חלון זה נסגר; לא יובא דבר.
+	Block name:	שם הבלוק:
+	Values typed at the command line work too	ניתן גם להזין ערכים בשורת הפקודה
+	Paper units	יחידות נייר
+	What one paper-space unit is on this layout	יחידת המידה של מרחב הנייר בפריסה זו
+	Symbols and Arrows	סמלים וחצים
+	Primary Units	יחידות ראשיות
+	Alternate Units	יחידות חלופיות
+	Tolerances	סבולות
+	Dimension Style Manager	מנהל סגנונות המידות
+	Create New Dimension Style	יצירת סגנון מידות חדש
+	Compare Dimension Styles	השוואת סגנונות מידות
+	<style overrides>	<דריסות סגנון>
+	Save to current style	שמירה בסגנון הנוכחי
+	Styles in use	סגנונות בשימוש
+	All styles	כל הסגנונות
+	New...	חדש...
+	Modify...	שינוי...
+	Override...	דריסה...
+	Compare...	השוואה...
+	Annotative	מותאם לקנה מידה של הערות
+	New style name	שם הסגנון החדש
+	Start with	סגנון בסיס
+	A dimension style with this name already exists.	כבר קיים סגנון מידות בשם זה.
+	Variable	משתנה
+	Modify Dimension Style: {style}	שינוי סגנון מידות: {style}
+	Override Current Style: {style}	דריסת הסגנון הנוכחי: {style}
+	New Dimension Style: {style}	סגנון מידות חדש: {style}
+	All properties of {style}	כל המאפיינים של {style}
+	{count} differences	{count} הבדלים
+	This drawing has no blocks with attributes.	בשרטוט זה אין בלוקים עם תכונות.
+	Block:	בלוק:
+	Tag	תג
+	Modes	מצבים
+	Bring every reference in line with these definitions	התאמת כל מופעי הבלוק להגדרות אלה
+	Invisible	מוסתר
+	Constant	קבוע
+	Apply changes to existing references	החלת השינויים על מופעי בלוק קיימים
+	WCS	WCS
+	Unnamed	ללא שם
+	{objects} written to "{path}".	כתיבה לקובץ "{path}" הושלמה: {objects}.
+	Import failed: {error}	הייבוא נכשל: {error}
+	{property}: that value can't be used here.	{property}: לא ניתן להשתמש בערך הזה כאן.
+	Import: there is no file dialog here; run ALIASEDIT with the file's contents using its text parameter.	ייבוא: אין כאן חלון לבחירת קובץ. יש להפעיל את הפקודה ALIASEDIT ולהעביר את תוכן הקובץ בפרמטר text.
+	Aliases are saved in your CADCraft profile and survive restarts.	כינויי הפקודות נשמרים בפרופיל CADCraft גם לאחר הפעלה מחדש.
+	Run ALIASEDIT with the file's contents using its text parameter.	יש להפעיל את הפקודה ALIASEDIT ולהעביר את תוכן הקובץ בפרמטר text.
+	Import and replace	ייבוא והחלפה
+	Keep my aliases	שמירת הכינויים הקיימים
+	Turned off, a right-click while a command runs does what Right-Click Customization sets for Command mode.	כאשר אפשרות זו כבויה, לחיצה ימנית בזמן הפעלת פקודה פועלת לפי ההגדרות של התאמה אישית של לחיצה ימנית במצב פקודה.
+	Right-Click Customization...	התאמה אישית של לחיצה ימנית...
+	Check for updates when CADCraft starts	בדיקת עדכונים בעת הפעלת CADCraft
+	Turned off, CADCraft never offers an update on its own; Help ▸ Check for Updates… still looks.	כאשר אפשרות זו כבויה, CADCraft לא מציע עדכונים מיוזמתו; עזרה ▸ בדיקת עדכונים… עדיין בודקת.
+	Right-Click Customization	התאמה אישית של לחיצה ימנית
+	Turn on time-sensitive right-click	הפעלת לחיצה ימנית לפי משך הלחיצה
+	Longer click duration:	משך לחיצה ארוכה:
+	milliseconds	אלפיות שנייה
+	While a command runs, a quick click is Enter and a longer click opens the shortcut menu.	בזמן הפעלת פקודה, לחיצה קצרה שקולה ל-Enter ולחיצה ארוכה פותחת את תפריט הקיצור.
+	With no command running, a quick click repeats the last command or runs what was typed.	כאשר אין פקודה פעילה, לחיצה קצרה חוזרת על הפקודה האחרונה או מפעילה את הפקודה שהוקלדה.
+	Default Mode	מצב ברירת מחדל
+	No objects selected and no command running:	כאשר לא נבחרו אובייקטים ואין פקודה פעילה:
+	Edit Mode	מצב עריכה
+	Objects selected and no command running:	כאשר נבחרו אובייקטים ואין פקודה פעילה:
+	Repeat last command	חזרה על הפקודה האחרונה
+	Shortcut Menu	תפריט קיצור
+	Command Mode	מצב פקודה
+	While a command runs:	בזמן הפעלת פקודה:
+	Shortcut Menu: always enabled	תפריט קיצור: זמין תמיד
+	Shortcut Menu: enabled when command options are present	תפריט קיצור: זמין כאשר קיימות אפשרויות לפקודה
+	Type something to find	יש להקליד טקסט לחיפוש
+	Island	אי
+	Named Viewports	אשנבי תצוגה בעלי שם
+	Saved model space configurations to place in this layout	תצורות שמורות של מרחב המודל להצבה בפריסה זו
+	This drawing has no named viewport configurations.	בשרטוט זה אין תצורות אשנבי תצוגה בעלות שם.
+	Show this configuration's viewports	הצגת אשנבי התצוגה של תצורה זו
+	Place this configuration's viewports in the layout	הצבת אשנבי התצוגה של תצורה זו בפריסה
+	Delete the saved configuration	מחיקת התצורה השמורה
+	CADCraft did not close normally. These drawings were autosaved:	CADCraft לא נסגר כראוי. השרטוטים הבאים נשמרו אוטומטית:
+	Opened drawings have no file name: save them to keep them.	לשרטוטים שנפתחו אין שם קובץ. יש לשמור אותם כדי שלא יאבדו.
+	Keep the files and ask again next time	שמירת הקבצים והצגת השאלה שוב בפעם הבאה
+	Graphics error	שגיאה גרפית
+	The graphics device stopped working (a driver reset or a GPU that stopped responding). CADCraft can't draw again until it restarts.	ההתקן הגרפי הפסיק לפעול (עקב איפוס מנהל ההתקן או מעבד גרפי שאינו מגיב). CADCraft לא יוכל להציג את השרטוט עד להפעלה מחדש.
+	Nothing needed autosaving.	לא היה צורך בשמירה אוטומטית.
+	A recovery copy of the open drawing with unsaved changes was autosaved.	עותק שחזור של השרטוט הפתוח הכולל שינויים שלא נשמרו נשמר אוטומטית.
+	Save your work and restart CADCraft. Recovery copies are offered at the next start if needed.	יש לשמור את העבודה ולהפעיל מחדש את CADCraft. עותקי שחזור יוצעו בהפעלה הבאה לפי הצורך.
+	Autosave failed	השמירה האוטומטית נכשלה
+	CADCraft could not write a recovery copy, so recent changes would be lost if the app stopped now.	CADCraft לא הצליח לשמור עותק שחזור. אם היישום יפסיק לפעול כעת, השינויים האחרונים יאבדו.
+	Save your work. Autosave tries again after the SAVETIME interval; its folder is in Options.	יש לשמור את העבודה. השמירה האוטומטית תנסה שוב לאחר פרק הזמן המוגדר ב-SAVETIME; תיקיית השמירה מוגדרת באפשרויות.
+	 ({} times)	 ({} פעמים)
+	The graphics driver reported an error{times}. CADCraft kept running, but the drawing may not display correctly.	מנהל ההתקן הגרפי דיווח על שגיאה{times}. CADCraft המשיך לפעול, אך ייתכן שהשרטוט לא יוצג כראוי.
+	Recovery copies of {k} drawings with unsaved changes were autosaved.	עותקי שחזור של {k} שרטוטים הכוללים שינויים שלא נשמרו נשמרו אוטומטית.
+	{n} more warnings; see the command line.	עוד {n} אזהרות; יש לעיין בשורת הפקודה.
+	Importing a file replaces your {n} aliases, and any changes not applied yet.	ייבוא הקובץ יחליף {n} כינויים קיימים ושינויים שטרם הוחלו.
+	Replaces the shortcut of {commands}	מחליף את קיצור הדרך של {commands}
+	Part of CADCraft failed, and the app kept running.	חלק מ־CADCraft נתקל בכשל, אך היישום המשיך לפעול.
+	CADCraft has to close	יש לסגור את CADCraft
+	Part of CADCraft keeps failing, so it can't continue.	חלק מ־CADCraft נכשל שוב ושוב, ולכן היישום אינו יכול להמשיך לפעול.
+	Drawing Recovery offers them at the next start.	עותקי השחזור יוצעו במנהל שחזור השרטוטים בהפעלה הבאה.
+	Close CADCraft	סגירת CADCraft
+	No drawing needed a new recovery copy.	לא נדרש עותק שחזור חדש עבור אף שרטוט.
+	A recovery copy of the drawing with unsaved changes was autosaved.	עותק שחזור של השרטוט הכולל שינויים שלא נשמרו נשמר אוטומטית.
+	Report: {}	דוח: {}
+	Animation effects	אפקטים של הנפשה
+	Groups	קבוצות
+	Source	מקור
+	Destination	יעד
+	Reload	טעינה מחדש
+	Overlay	שכבת־על
+	Pattern	תבנית
+	Gradient	מעבר צבע
+	Shape	צורה
+	Ignore	התעלמות
