@@ -220,7 +220,7 @@ swatch	[Registration]	[רישום (Registration)]
 	A later row takes this shortcut	שורה מאוחרת יותר משתמשת בקיצור דרך זה
 @msg	a layer couldn't be read	לא ניתן היה לקרוא שכבה
 	A legacy .ai file holds one artboard: each artboard you check is saved as a separate file.	קובץ .ai מדור קודם מכיל משטח יצירה אחד: כל משטח יצירה שיסומן יישמר כקובץ נפרד.
-@msg	a linked image can't become a gradient mesh: embed it first	תמונה מקושרת אינה יכולה להפוך לרשת מעבר צבע: הטמע אותה תחילה
+@msg	a linked image can't become a gradient mesh: embed it first	תמונה מקושרת אינה יכולה להפוך לרשת מעבר צבע: יש להטמיע אותה תחילה
 	A lower value follows the stroke closely; a higher one gives fewer points and smoother curves.	ערך נמוך יותר עוקב מקרוב אחר המשיכה; ערך גבוה יותר נותן פחות נקודות ועקומות חלקות יותר.
 @msg	a mask has more than one art block	למסכה יש יותר מבלוק גרפיקה אחד
 	A new preset starting from the selected one	הגדרה קבועה מראש חדשה המתחילה מזו שנבחרה
@@ -521,7 +521,7 @@ swatch	Azure	תכלת עז (Azure)
 	Bevel Inside	שיפוע קצה פנימה
 	Bevel Join	חיבור קטום
 	Bevel Shape	צורת שיפוע קצה
-	Bind Variable	קשר משתנה
+	Bind Variable	קישור משתנה
 swatch	Black	שחור
 	Black and White	שחור-לבן
 	Black and White Logo	לוגו שחור-לבן
@@ -1131,7 +1131,7 @@ swatch	Cyan Green	ציאן-ירוק
 	Divide Vertically Into	חלוקה אנכית ל-
 	Do Not Move	ללא הזזה
 	Do Not Scale	ללא שינוי קנה מידה
-	Do you want to save the changes you made to “{name}”?	האם ברצונך לשמור את השינויים שביצעת ב-“{name}”?
+	Do you want to save the changes you made to “{name}”?	האם לשמור את השינויים שבוצעו ב-“{name}”?
 @msg	docking action contains an unknown panel or an excessive split path	פעולת העיגון מכילה חלונית לא מוכרת או נתיב פיצול חריג
 	Document Color Mode	מצב צבע של מסמך
 	Document Info	פרטי מסמך
@@ -1297,8 +1297,8 @@ swatch	Cyan Green	ציאן-ירוק
 	Embedded Image	תמונה מוטמעת
 	Embedded {n} image(s)	הוטמעו {n} תמונות
 @msg	Embedded {n} image(s)	הוטמעו {n} תמונות
-	Embedded {n} image(s); {missing} missing: relink them first	הוטמעו {n} תמונות; {missing} חסרות: קשר אותן מחדש תחילה
-@msg	Embedded {n} image(s); {missing} missing: relink them first	הוטמעו {n} תמונות; {missing} חסרות: קשר אותן מחדש תחילה
+	Embedded {n} image(s); {missing} missing: relink them first	הוטמעו {n} תמונות; {missing} חסרות: יש לקשר אותן מחדש תחילה
+@msg	Embedded {n} image(s); {missing} missing: relink them first	הוטמעו {n} תמונות; {missing} חסרות: יש לקשר אותן מחדש תחילה
 swatch	Emerald	אזמרגד (Emerald)
 @msg	empty brush stroke	משיכת מברשת ריקה
 @msg	empty cutter	חותך ריק
@@ -1763,7 +1763,7 @@ effect	Horizontal	אופקי
 	ICF Top/Right	חלק עליון/ימין של תיבת ICF
 @msg	icon must be true or false	icon חייב להיות true או false
 @msg	icon only docks a panel in the icon column, with no anchor	icon מעגן חלונית בעמודת הסמלים בלבד, ללא עוגן
-	Identify Objects By	זהה אובייקטים לפי
+	Identify Objects By	זיהוי אובייקטים לפי
 @msg	ids must contain 1–10000 object ids	ids חייב להכיל 1–10000 מזהי אובייקטים
 	If a drawing tablet's pen doesn't draw, choose an X11 (XWayland) option.	אם עט של לוח ציור אינו מצייר, יש לבחור באפשרות X11 (XWayland).
 	Ignore Artboards (all the art as one page)	התעלמות ממשטחי יצירה (כל הגרפיקה כעמוד אחד)
@@ -1784,7 +1784,7 @@ effect	Horizontal	אופקי
 	Image:	תמונה:
 	Images Only	תמונות בלבד
 	Images:	תמונות:
-	Images: link to the file instead of only embedding it.	תמונות: קשר לקובץ במקום להטמיע אותו בלבד.
+	Images: link to the file instead of only embedding it.	תמונות: יש לקשר לקובץ במקום להטמיע אותו בלבד.
 	Import Data Sets…	ייבוא ערכות נתונים…
 	Import Data…	ייבוא נתונים…
 	Import Keyboard Shortcuts…	ייבוא קיצורי מקלדת…
@@ -2010,10 +2010,10 @@ lighting	Light	תאורה
 	Lighten Grout	הבהרת מישקים
 	Lights	תאורות
 swatch	Lime	ליים
-	Limit Color Guide to Library	הגבל מדריך צבעים לספרייה
-	Limit colors to swatch library	הגבל צבעים לספריית דוגמיות צבע
-	Limit colors to swatch library: {name}	הגבל צבעים לספריית דוגמיות צבע: {name}
-	Limit to Library:	הגבל לספרייה:
+	Limit Color Guide to Library	הגבלת מדריך צבעים לספרייה
+	Limit colors to swatch library	הגבלת צבעים לספריית דוגמיות צבע
+	Limit colors to swatch library: {name}	הגבלת צבעים לספריית דוגמיות צבע: {name}
+	Limit to Library:	הגבלה לספרייה:
 	Limit:	מגבלה:
 	Limited	מוגבל
 	Line Art	גרפיקת קווים
@@ -2043,7 +2043,7 @@ swatch	Lime	ליים
 	Linked File	קובץ מקושר
 	Linked File Not Found	קובץ מקושר לא נמצא
 	Linked Files	קבצים מקושרים
-@msg	linked pictures show the low-resolution preview saved in the file until their files are found: relink them in the Links panel	תמונות מקושרות מציגות את התצוגה המקדימה ברזולוציה נמוכה שנשמרה בקובץ עד שיימצאו הקבצים שלהן: קשר אותן מחדש בחלונית הקישורים
+@msg	linked pictures show the low-resolution preview saved in the file until their files are found: relink them in the Links panel	תמונות מקושרות מציגות את התצוגה המקדימה ברזולוציה נמוכה שנשמרה בקובץ עד שיימצאו הקבצים שלהן: יש לקשר אותן מחדש בחלונית הקישורים
 	Linux Display Server	שרת תצוגה של Linux
 	Liquify	נזילות (Liquify)
 	List Data Sets	רשימת ערכות נתונים
@@ -3211,7 +3211,7 @@ diagnostics	render	רינדור
 	Restored documents open unsaved: save them to keep them.	מסמכים משוחזרים נפתחים ללא שמירה: יש לשמור אותם כדי להשאירם.
 @msg	Restored {_1} recovered document(s): save them to keep them	שוחזרו {_1} מסמכים: יש לשמור אותם כדי להשאירם
 	Restored {} recovered document(s): save them to keep them	שוחזרו {} מסמכים: יש לשמור אותם כדי להשאירם
-	Restrict printing, editing and other tasks	הגבל הדפסה, עריכה ומשימות אחרות
+	Restrict printing, editing and other tasks	הגבלת הדפסה, עריכה ומשימות אחרות
 	Restricted Colors	צבעים מוגבלים
 @msg	result would exceed the canvas (coordinates out of range)	התוצאה תחרוג ממשטח הציור (קואורדינטות מחוץ לטווח)
 	Reticulation	רשתית (Reticulation)
@@ -3286,8 +3286,8 @@ swatch	Rust	חלודה
 	Same file	אותו קובץ
 	Same item as a later row	אותו פריט כמו בשורה מאוחרת יותר
 	Same size	אותו גודל
-	Sample Color	דגום צבע
-	Sample Color from Screen	דגום צבע מהמסך
+	Sample Color	דגימת צבע
+	Sample Color from Screen	דגימת צבע מהמסך
 swatch	Sand	חול
 	Sans Serif / Gothic	ללא סריף / גותי
 	Saturate	הרווה
@@ -4550,7 +4550,7 @@ swatch	Yellow Green	צהוב-ירוק
 @plural	{n} stroke|{n} strokes	{n} קו מתאר|שני קווי מתאר ({n})|{n} קווי מתאר
 	{pages} in all, {count} per copy	{pages} בסך הכול, {count} לכל עותק
 	{page} of {count}	{page} מתוך {count}
-@msg	{path} can't be found: relink it first	לא ניתן למצוא את {path}: קשר אותו מחדש תחילה
+@msg	{path} can't be found: relink it first	לא ניתן למצוא את {path}: יש לקשר אותו מחדש תחילה
 @msg	{path} is not a folder	{path} אינו תיקייה
 @msg	{path}: no file system here (pass dataBase64 to open; omit the path to get dataBase64)	{path}: אין כאן מערכת קבצים (יש להעביר dataBase64 לפתיחה; יש להשמיט את הנתיב כדי לקבל dataBase64)
 @msg	{path}: not a file	{path}: אינו קובץ

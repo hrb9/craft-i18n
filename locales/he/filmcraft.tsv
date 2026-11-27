@@ -199,7 +199,7 @@
 	APV	APV
 	APV 422-10	APV 422-10
 	APV 422-12	APV 422-12
-	Are you sure you want to discard your changes to '{file}'?	האם אתה בטוח שברצונך לבטל את השינויים בקובץ '{file}'?
+	Are you sure you want to discard your changes to '{file}'?	האם לבטל את השינויים בקובץ '{file}'?
 	ASC CDL	ASC CDL
 	Aspect	יחס גובה-רוחב
 	Assembly	הרכבה
@@ -1986,7 +1986,7 @@
 	ProjectPanel	חלונית פרויקט
 	Projects	פרויקטים
 	Project…	פרויקט…
-	Protect Highlights	הגן על אזורים בהירים
+	Protect Highlights	הגנה על אזורים בהירים
 	Proxies are made in the background and attached when done. Export always uses full-resolution media.	קובצי פרוקסי נוצרים ברקע ומצורפים בסיום. הייצוא תמיד משתמש במדיה ברזולוציה מלאה.
 	Proxy	פרוקסי
 	Pull Motion	תנועת משיכה
@@ -2075,7 +2075,7 @@
 	Rel	שחרור
 	Release	שחרור (Release)
 	Release Time	זמן שחרור
-	Relink others automatically	קשר מחדש אחרים אוטומטית
+	Relink others automatically	קישור מחדש של אחרים אוטומטית
 	Remaining	נותר
 	Remix	רמיקס
 	Remix Properties	מאפייני רמיקס
@@ -2134,7 +2134,7 @@
 	Restore Original	שחזור מקור
 	Restore View Preset	שחזור הגדרת תצוגה קבועה מראש
 	Restore Workspace	שחזור סביבת עבודה
-	Restrict Trims To Subclip Boundaries	הגבל קיצוצים לגבולות תת-הקליפ
+	Restrict Trims To Subclip Boundaries	הגבלת קיצוצים לגבולות תת-הקליפ
 	Resulting Project	פרויקט סופי
 	Retro	רטרו
 	Reveal in Project	חשוף בפרויקט
@@ -2411,10 +2411,10 @@
 	Slats	שלבים
 	Slide	החלקה (Slide)
 	Slide (Legacy)	החלקה (מדור קודם)
-	Slide Clip Selection Left Five Frames	החלק בחירת קליפים שמאלה בחמישה פריימים
-	Slide Clip Selection Left One Frame	החלק בחירת קליפים שמאלה בפריים אחד
-	Slide Clip Selection Right Five Frames	החלק בחירת קליפים ימינה בחמישה פריימים
-	Slide Clip Selection Right One Frame	החלק בחירת קליפים ימינה בפריים אחד
+	Slide Clip Selection Left Five Frames	החלקת בחירת קליפים שמאלה בחמישה פריימים
+	Slide Clip Selection Left One Frame	החלקת בחירת קליפים שמאלה בפריים אחד
+	Slide Clip Selection Right Five Frames	החלקת בחירת קליפים ימינה בחמישה פריימים
+	Slide Clip Selection Right One Frame	החלקת בחירת קליפים ימינה בפריים אחד
 	Slide Tool	כלי החלקה (Slide)
 	Slip Clip Selection Left Five Frames	הזזת תוכן קליפים נבחרים שמאלה בחמישה פריימים
 	Slip Clip Selection Left One Frame	הזזת תוכן קליפים נבחרים שמאלה בפריים אחד
