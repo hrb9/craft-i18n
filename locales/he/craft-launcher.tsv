@@ -449,3 +449,16 @@ wordcraft	Writing and document design	כתיבה ועיצוב מסמכים
 	You can turn this off at any time without deleting your installed developer builds or their data.	ניתן לכבות אפשרות זו בכל עת, מבלי למחוק את גרסאות הפיתוח המותקנות או את הנתונים שלהן.
 	Developer builds are off. Installed copies and their data are kept.	גרסאות פיתוח כבויות. העותקים המותקנים והנתונים שלהם נשמרים.
 	These are developer builds. They will have issues and may lose work.	אלו גרסאות פיתוח. צפויות בהן תקלות, ועבודה עלולה ללכת לאיבוד.
+
+# Launcher launch flags, version rollback and desktop shortcut feedback
+	A quote isn't closed.	מרכאות לא נסגרו.
+	Flags added each time the app is opened	דגלים שמתווספים בכל פעם שהאפליקציה נפתחת
+	Separate flags with spaces. Quote a value that has spaces in it.	יש להפריד בין הדגלים ברווחים. יש להקיף במירכאות ערך המכיל רווחים.
+@msg	A desktop shortcut named {name} already exists	קיצור דרך בשולחן העבודה בשם {name} כבר קיים
+@msg	Couldn't create the desktop shortcut: {e}	לא ניתן היה ליצור קיצור דרך בשולחן העבודה: {e}
+@msg	Desktop shortcut created for {name}	קיצור דרך בשולחן העבודה נוצר עבור {name}
+	Go back	חזרה לגרסה קודמת
+	Go back to {version}?	לחזור לגרסה {version}?
+	Going back to an older version of {app} isn't available for this kind of install yet.	חזרה לגרסה קודמת של {app} עדיין אינה זמינה עבור סוג התקנה זה.
+	{app} {installed} isn't published, so if going back to {chosen} fails, the launcher reinstalls {fallback} instead. That's most likely the version you have.	הגרסה {installed} של {app} אינה זמינה להורדה, ולכן אם החזרה לגרסה {chosen} תיכשל, מנהל היישומים יתקין מחדש את {fallback} במקומה. סביר שזו הגרסה המותקנת אצלך.
+	{app} {version} isn't published any more, so it couldn't be put back if going back fails.	הגרסה {version} של {app} אינה זמינה עוד להורדה, ולכן לא ניתן יהיה לשחזר אותה אם החזרה לגרסה קודמת תיכשל.
