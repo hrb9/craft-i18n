@@ -398,3 +398,7 @@ The two panel layout recovery messages were migrated from PhotoCraft commit `786
 
 - Consolidates 407 previously proposed Hebrew rows by @nocturney from [PR #326](https://github.com/storytold/craft-i18n/pull/326) discussion (`hrb9/craft-i18n#8`), 2026-11-26, preserving prior contributor credits and existing catalog rows. English keys were checked against official TextureCraft source; changed export/display files were rechecked at `4ff7cb6165f425079de3e8275cb3a8d03a1053a8`.
 - Action-noun and gender-neutral wording refinements across 27 new TextureCraft entries (plus `Include in Bake` and AniCraft `Include sound`/`Include sounds`) reviewed by Hagai Baram (@hrb9). AI-assisted translations derived from English source and context; independent second-speaker and in-app RTL review have not yet occurred.
+
+### Hebrew AniCraft parity follow-up (draft)
+
+- 29 new Hebrew interface rows by @nocturney, AI-assisted from English source meaning and code context, checked against official AniCraft commit c44b0c971d48c29b67693c2f624c9cc6bd2e3303 (merged PR #625). Existing catalog wording and prior credits are unchanged. Independent native-speaker and in-app RTL review remain pending; no runtime or cutover change.

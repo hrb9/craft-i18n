@@ -2078,3 +2078,32 @@ button state	Hit	אזור לחיצה
 button state	Over	ריחוף
 left channel	L	ש'
 right channel	R	י'
+	Selection edges hidden	קצוות הבחירה מוסתרים
+	Selection edges shown	קצוות הבחירה מוצגים
+	Data Table	טבלת נתונים
+	Window grip: drag to dock this window	ידית החלון: יש לגרור כדי לעגן את החלון
+	Tools panel menu	תפריט חלונית הכלים
+	Collapse to icons	צמצום לסמלים
+	Close {panel}	סגירת {panel}
+	Resize	שינוי גודל
+	Convert Lines to Fills	המרת קווים למילויים
+	Turns each selected line into a fill of its outline, in the line's colour, and keeps a fill the shape already has	המרת כל קו שנבחר למילוי בצורת המתאר שלו ובצבע הקו, תוך שמירה על המילוי הקיים של הצורה
+	Select a line to turn it into a fill. A fill on its own stays as it is	יש לבחור קו כדי להמיר אותו למילוי. מילוי ללא קו נשאר כפי שהוא
+	Move {filter}: drag, or {up} and {down}	הזזת {filter}: בגרירה או באמצעות {up} ו־{down}
+	Fold {filter}	כיווץ {filter}
+	Unfold {filter}	הרחבת {filter}
+	Turn {filter} off (it keeps its settings)	כיבוי {filter} (ההגדרות נשמרות)
+	Turn {filter} on	הפעלת {filter}
+	{filter} (off)	{filter} (כבוי)
+	Parenting view	תצוגת יחסי הורה־ילד
+	Swatch {n}: {name}	דוגמית צבע {n}: {name}
+	{name} (imported)	{name} (לאחר ייבוא)
+	{name}, imported, unsaved changes	{name}, לאחר ייבוא, שינויים שלא נשמרו
+	{name}, imported	{name}, לאחר ייבוא
+	{name}, unsaved changes	{name}, שינויים שלא נשמרו
+	Imported	לאחר ייבוא
+	Close {name}	סגירת {name}
+	Imported from {path}. Saving makes a new AniCraft document; the original is never changed.	המסמך יובא מ־{path}. השמירה יוצרת מסמך AniCraft חדש; המקור נשאר ללא שינוי.
+	Not saved yet	טרם נשמר
+	View only the active layer	הצגת השכבה הפעילה בלבד
+	View only the active layer: hide the other layers' rows here (they stay on the stage). Click again to show every layer	הצגת השכבה הפעילה בלבד: הסתרת השורות של שאר השכבות כאן (הן נשארות על הבמה). לחיצה נוספת תציג את כל השכבות
