@@ -414,3 +414,7 @@ The two panel layout recovery messages were migrated from PhotoCraft commit `786
 ## CADCraft: Hebrew dialog, manager, settings, and recovery additions (2026-11-26)
 
 120 clean-room Hebrew CADCraft rows (52 consolidated by @nocturney in `hrb9/craft-i18n#9` against `cadcraft@12eef227` plus 68 source-backed rows from `cadcraft@0d4b100`, `cadcraft@29baf193`, `cadcraft@414e5442`, and `cadcraft#3210` at `33e4068f`, covering alias import, right-click/update/options settings, find/hatch, PDF import, Dimension Style Manager, Block Attribute Manager, Named Viewports, autosave/fault recovery notices, WCS migration, and drawing-dialog labels) contributed by @nocturney (AI-assisted; `Type something to find` carried from `cadcraft#3210` by @hrb9). Verified against `cadcraft` `origin/main`; independent native-speaker and live RTL validation pending.
+
+## FilmCraft: Hebrew Script window incremental sync (2026-11-27)
+
+19 existing clean-room Hebrew rows by @nocturney (AI-assisted, ChatGPT; saved in `nocturney/filmcraft@5016dc02`), synced from `filmcraft@a88cc3a0` (base `a3b8b29c`), source strings checked at official `filmcraft@7b8e522d` after `filmcraft#2726` merged. Existing translations and contributor provenance preserved. Independent native-speaker and running RTL review pending; no new translation count. This is a scoped incremental contribution, not the final app cutover sync.

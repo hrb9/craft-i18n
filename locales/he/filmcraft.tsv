@@ -3143,3 +3143,24 @@
 	10-bit color	צבע בעומק 10 סיביות
 	All Intra	קידוד תוך־תמונתי בלבד (All Intra)
 	Every frame a keyframe (edit-friendly, larger files)	כל פריים הוא פריים מפתח (נוח לעריכה, קבצים גדולים יותר)
+
+# FilmCraft Script window: incremental sync from filmcraft@a88cc3a03b16983142077d093fd2592c19711fbe.
+	0. Export Script text	0. ייצוא טקסט התסריט
+	1. Import Text	1. ייבוא טקסט
+	2. Add clips	2. הוספת קליפים
+	3. Follow candles	3. מעקב אחר קווי הטייק
+	4. Add marks	4. הוספת סמנים
+	A candle shows a take's row coverage. Double-click a candle or thumbnail to open Source; press Space to play.	קו טייק מציג את השורות המכוסות על ידי הטייק. לחיצה כפולה על קו טייק או על תמונה ממוזערת תפתח את מוניטור המקור; לחיצה על מקש הרווח תתחיל את הניגון.
+	Get started with Script	צעדים ראשונים בחלון התסריט
+	Pasted text exceeds the 4 MiB limit.	הטקסט שהודבק חורג מהמגבלה של 4 MiB.
+	Reattach this candle's source first.	יש לחבר מחדש תחילה את המקור של קו טייק זה.
+	Rebind to Selected Project Clip	קישור מחדש לקליפ שנבחר בפרויקט
+	Reconnect every matching candle in all scripts. Matching footage keeps its marks; other replacements require review.	חיבור מחדש של כל קווי הטייק התואמים בכל התסריטים. אם חומר הגלם זהה, הסמנים נשמרים; החלפות אחרות מחייבות בדיקה.
+	Reconnected {count} Script candle(s)	קווי טייק שחוברו מחדש בתסריט: {count}
+	Replace matching candles and clear their marks?	להחליף את קווי הטייק התואמים ולמחוק את הסמנים שלהם?
+	Save your .txt file as UTF-8 plain text, then choose Import Text… above. Or choose New to write a script.	יש לשמור את קובץ ה-.txt כטקסט פשוט בקידוד UTF-8, ואז לבחור באפשרות ייבוא טקסט… שלמעלה. לחלופין, יש לבחור באפשרות חדש כדי לכתוב תסריט.
+	Script help	עזרה בחלון התסריט
+	Select a candle row, find the matching frame in Source, then click the diamond Mark button in Script. Click a mark to return to that frame.	יש לבחור שורה בקו הטייק, לאתר את הפריים המתאים במוניטור המקור וללחוץ על לחצן הסימון בצורת מעוין בחלון התסריט. לחיצה על סמן תחזיר לאותו פריים.
+	Select one available media clip, subclip, or multicamera source in Project first.	יש לבחור תחילה בפרויקט קליפ מדיה זמין, קליפ משנה או מקור מרובה מצלמות.
+	Select rows, then drag a clip from the Project panel onto the selection.	יש לבחור שורות ולגרור קליפ מלוח הפרויקט אל השורות שנבחרו.
+	This updates every matching candle in all scripts.	פעולה זו תעדכן את כל קווי הטייק התואמים בכל התסריטים.
