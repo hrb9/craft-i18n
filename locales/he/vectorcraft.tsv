@@ -1550,7 +1550,7 @@ file-filter	Flattener presets	הגדרות קבועות מראש למשטח שק
 	Force	כוח
 	Forced Line Break	מעבר שורה מאולץ
 	Foreground Level	רמת קדמה
-	Forget Import Matches	שכח התאמות ייבוא
+	Forget Import Matches	מחיקת התאמות ייבוא
 	Fork	מזלג
 	Format Options	אפשרויות תבנית
 	Format Settings	הגדרות תבנית
@@ -2007,7 +2007,7 @@ lighting	Light	תאורה
 	Light behind the object	תאורה מאחורי האובייקט
 	Light Rough	בהיר מחוספס
 	Light/Dark Balance	איזון בהיר/כהה
-	Lighten Grout	הבהר מישקים
+	Lighten Grout	הבהרת מישקים
 	Lights	תאורות
 swatch	Lime	ליים
 	Limit Color Guide to Library	הגבל מדריך צבעים לספרייה
@@ -3104,8 +3104,8 @@ effect	Regular	רגיל
 	Relink…	קישור מחדש…
 	Reload Plug-ins	טעינה מחדש של תוספים
 @msg	Reload the page to go on (changes not saved yet may be lost).	יש לטעון מחדש את העמוד כדי להמשיך (שינויים שטרם נשמרו עלולים לאבוד).
-	Remember Import Matches	זכור התאמות ייבוא
-	Remember My Choices	זכור את הבחירות שלי
+	Remember Import Matches	שמירת התאמות ייבוא
+	Remember My Choices	שמירת הבחירות שלי
 	Remove Anchor Points	הסרת נקודות עוגן
 	Remove Asset	הסרת נכס
 	Remove blank lines between paragraphs	הסרת שורות ריקות בין פסקאות
@@ -4450,7 +4450,7 @@ swatch	White, Black	לבן, שחור
 	Width Tool	כלי הרוחב
 	Word Spacing:	מרווח בין מילים:
 	Words Longer Than:	מילים ארוכות מ:
-	Working CMYK (don't tag)	CMYK של מרחב עבודה (אל תתייג)
+	Working CMYK (don't tag)	CMYK של מרחב עבודה (ללא תיוג)
 	Working RGB	RGB של מרחב עבודה
 @msg	workspace name can't be empty	שם סביבת העבודה אינו יכול להיות ריק
 	Workspace {i}	סביבת עבודה {i}
