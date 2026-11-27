@@ -1380,3 +1380,4 @@
 	{set}: {percent}% of the UV layout overlaps, so those texels bake one place for several	{set}: קיימת חפיפה ב־{percent}% מפריסת ה־UV, ולכן הטקסלים החופפים מקבלים באפייה מידע ממיקום אחד המשותף לכמה אזורים ברשת
 	{swatch}, inverted	{swatch}, לאחר היפוך
 	{values} · {count} more	{values} · ועוד {count}
+	Images	תמונות

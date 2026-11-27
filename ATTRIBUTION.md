@@ -391,3 +391,5 @@ catalogs, with the same AI-assisted origin and no native-speaker review.
 
 - Consolidates 407 previously proposed Hebrew rows by @nocturney from [PR #326](https://github.com/storytold/craft-i18n/pull/326) discussion, 2026-11-26, preserving prior contributor credits and existing catalog rows. English keys were previously checked against official TextureCraft source; changed export/display files were rechecked at `4ff7cb6165f425079de3e8275cb3a8d03a1053a8`.
 - AI-assisted translations derived from English source and context; independent native-speaker and in-app RTL review have not yet occurred. No legacy migration rows added where a catalog already covers the key.
+
+- One additional previously translated file-filter label (Images) from the retained Hebrew TextureCraft export/advanced-settings batch, verified against official `new_project_advanced.rs` blob `68593bea4da4762a213605678c52a1197c33fbc7` at line 418. AI-assisted, independent Hebrew review pending.
