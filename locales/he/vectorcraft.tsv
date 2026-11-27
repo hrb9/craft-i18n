@@ -447,7 +447,7 @@ swatch	Aqua	אקווה (טורקיז בהיר)
 	Asset Export	ייצוא נכסים
 	Asset Export Settings	הגדרות ייצוא נכסים
 	Assets	נכסים
-	Assign:	הקצה:
+	Assign:	הקצאה:
 @msg	at this scale the drawing is {w} × {h} pt, more than the canvas holds: choose a smaller scale or fit it to the artboard	בקנה מידה זה השרטוט הוא {w} × {h} נק', יותר ממה שמשטח העבודה מכיל: יש לבחור קנה מידה קטן יותר או להתאים אותו למשטח היצירה
 	Attach	חיבור
 	Attach Objects on Path	חיבור אובייקטים על נתיב
@@ -3195,11 +3195,11 @@ diagnostics	render	רינדור
 	Reset {name}	איפוס {name}
 	Reset {}	איפוס {}
 	Reshape	עיצוב מחדש
-	Reshape Segment	עצב מקטע מחדש
-	Reshape Spine	עצב שדרה מחדש
-	Reshape Spine Segment	עצב מקטע שדרה מחדש
+	Reshape Segment	עיצוב מקטע מחדש
+	Reshape Spine	עיצוב שדרה מחדש
+	Reshape Spine Segment	עיצוב מקטע שדרה מחדש
 	Reshape Tool	כלי העיצוב מחדש
-	Reshape Type Area	עצב אזור טקסט מחדש
+	Reshape Type Area	עיצוב אזור טקסט מחדש
 	Resize	שינוי גודל
 	Resize Artboard	שינוי גודל משטח יצירה
 	Resize Slice	שינוי גודל גזיר
@@ -3290,7 +3290,7 @@ swatch	Rust	חלודה
 	Sample Color from Screen	דגימת צבע מהמסך
 swatch	Sand	חול
 	Sans Serif / Gothic	ללא סריף / גותי
-	Saturate	הרווה
+	Saturate	הרוויה
 	Saturate…	הרוויה…
 	Save and Close	שמירה וסגירה
 	Save as PDF…	שמירה כ-PDF…

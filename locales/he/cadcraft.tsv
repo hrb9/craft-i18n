@@ -115,7 +115,7 @@
 	CADCraft Help	עזרה של CADCraft
 	CADCraft keeps these preferences, object snap modes and drafting toggles for your user account and restores them when it starts.	CADCraft שומרת העדפות אלו, מצבי הצמדה לאובייקטים ומתגי שרטוט עבור חשבון המשתמש שלך ומשחזרת אותם בעת ההפעלה.
 	Calibrate	כיול
-	Calibrate 3D Mouse	כייל עכבר תלת-ממדי
+	Calibrate 3D Mouse	כיול עכבר תלת-ממדי
 	Cartesian (x, y)	קרטזי (x, y)
 	Center Line	קו מרכז
 	Center Mark	סימן מרכז
@@ -143,8 +143,8 @@
 	Coincident	מתלכד
 	Collapse Palettes	כיווץ לוחות כלים
 	Collapse Tool Sets	כיווץ ערכות כלים
-	Collect	אסוף
-	Collect Multileaders	אסוף קווי הובלה מרובים
+	Collect	איסוף
+	Collect Multileaders	איסוף קווי הובלה מרובים
 	Collinear	על ישר אחד
 	Color 1	צבע 1
 	Color 2	צבע 2
@@ -690,7 +690,7 @@ menu	Modify	שינוי
 	Regen All	רענון הכול
 	Region	אזור
 	Region/Mass Properties	מאפייני אזור/מסה
-	Reinitialize	אתחל מחדש
+	Reinitialize	אתחול מחדש
 	Relative to last segment	יחסית למקטע האחרון
 	Release the 3D mouse to calibrate its resting position	יש לשחרר את העכבר התלת-ממדי לכיול מצב המנוחה שלו
 	Reload All	טעינת הכול מחדש

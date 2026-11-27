@@ -1465,8 +1465,8 @@
 	Manage Guides…	ניהול קווי עזר…
 	Manage Saved View Presets	ניהול הגדרות תצוגה שמורות
 	Mango	מנגו
-	Map Black To	מפה שחור אל
-	Map White To	מפה לבן אל
+	Map Black To	מיפוי שחור אל
+	Map White To	מיפוי לבן אל
 	Maps full-range levels into 16–235 (video range) with a luma curve	ממפה רמות טווח מלא אל 16–235 (טווח וידאו) באמצעות עקומת בהירות
 	Mark Clip	סימון קליפ
 	Mark In	סימון נקודת כניסה
@@ -1723,11 +1723,11 @@
 	Noise Reduction/Restoration	הפחתת רעש/שחזור
 	Noise Type	סוג רעש
 	Non-Additive Dissolve	התפוגגות לא-חיבורית
-	Normalize All Peaks to:	נרמל את כל השיאים אל:
-	Normalize Max Peak to:	נרמל שיא מרבי אל:
-	Normalize Mix Track	נרמל ערוץ מיקס
-	Normalize Mix Track to:	נרמל ערוץ מיקס אל:
-	Normalize Mix Track…	נרמל ערוץ מיקס…
+	Normalize All Peaks to:	נרמול כל השיאים אל:
+	Normalize Max Peak to:	נרמול שיא מרבי אל:
+	Normalize Mix Track	נרמול ערוץ מיקס
+	Normalize Mix Track to:	נרמול ערוץ מיקס אל:
+	Normalize Mix Track…	נרמול ערוץ מיקס…
 	not available in this session	לא זמין בהפעלה זו
 	Not matched yet	טרם הותאם
 	Not Now	לא עכשיו
@@ -2097,14 +2097,14 @@
 	Remove Row	הסרת שורה
 	Remove Send	הסרת שליחה
 	Remove Unused	הסרת פריטים שאינם בשימוש
-	Render at Maximum Depth	רנדר בעומק מרבי
-	Render Audio	רנדר שמע
-	Render audio clip effects	רנדר אפקטים של קליפי שמע
-	Render audio when rendering video	רנדר שמע בעת רינדור וידאו
+	Render at Maximum Depth	רינדור בעומק מרבי
+	Render Audio	רינדור שמע
+	Render audio clip effects	רינדור אפקטים של קליפי שמע
+	Render audio when rendering video	רינדור שמע בעת רינדור וידאו
 	Render Edit in Audition files to:	רינדור קובצי 'עריכה ב-Audition' אל:
-	Render Effects In to Out	רנדר אפקטים מנקודת הכניסה עד היציאה
-	Render In to Out	רנדר מנקודת הכניסה עד היציאה
-	Render Selection	רנדר בחירה
+	Render Effects In to Out	רינדור אפקטים מנקודת הכניסה עד היציאה
+	Render In to Out	רינדור מנקודת הכניסה עד היציאה
+	Render Selection	רינדור בחירה
 	Rendered preview	תצוגה מקדימה מרונדרת
 	Renderer:	מנוע רינדור:
 	Rendering:	רינדור:
@@ -2573,7 +2573,7 @@
 	Subclip: {name}	תת-קליפ: {name}
 	SubRip Subtitle (.srt)	כתוביות SubRip (.srt)
 	Subspace Warp	עיוות תת-מרחב
-	Sum multichannel outputs to mono in Source Monitor	סכם יציאות מרובות-ערוצים למונו במוניטור המקור
+	Sum multichannel outputs to mono in Source Monitor	סיכום יציאות מרובות-ערוצים למונו במוניטור המקור
 	Super Narrow	צר במיוחד
 	Surface Gloss	ברק משטח
 	Surface Material	חומר משטח
@@ -2629,7 +2629,7 @@
 	The language changed but could not be saved: {e}	השפה שונתה אך לא ניתן היה לשמור אותה: {e}
 	The media cache holds render previews of unsaved projects and other files FilmCraft can recreate. Deleting them is always safe; FilmCraft rebuilds them as needed.	מטמון המדיה מחזיק תצוגות מקדימות מרונדרות של פרויקטים שלא נשמרו וקבצים אחרים ש-FilmCraft יכולה ליצור מחדש. מחיקתם תמיד בטוחה; FilmCraft בונה אותם מחדש לפי הצורך.
 	The project had not been saved yet.	הפרויקט טרם נשמר.
-	The selected clips have different audio types. Assign one type to edit them together.	לקליפים הנבחרים יש סוגי שמע שונים. הקצה סוג אחד כדי לערוך אותם יחד.
+	The selected clips have different audio types. Assign one type to edit them together.	לקליפים הנבחרים יש סוגי שמע שונים. יש להקצות סוג אחד כדי לערוך אותם יחד.
 	The sequence has no caption track.	לרצף אין ערוץ כתוביות.
 	This build has no speech-to-text; import a transcript with transcript.set.	בגרסה זו אין דיבור-לטקסט; ניתן לייבא תמלול באמצעות transcript.set.
 	Thr	סף
@@ -2725,7 +2725,7 @@
 	Transition Completion	השלמת מעבר
 	Transition Softness	רכות מעבר
 	Transitions	מעברים
-	Transmit Multi-Camera View	שדר תצוגה מרובת-מצלמות
+	Transmit Multi-Camera View	שידור תצוגה מרובת-מצלמות
 	Transparent Video…	וידאו שקוף…
 	Trash	אשפה
 	Travel Motion	תנועת מסע
@@ -2769,7 +2769,7 @@
 	Universal Counting Leader…	ספירה לאחור אוניברסלית…
 	Unlink	ביטול קישור
 	Unreadable	לא קריא
-	Unrendered: render to play back in real time	לא מרונדר: רנדר לניגון בזמן אמת
+	Unrendered: render to play back in real time	לא מרונדר: יש לרנדר לניגון בזמן אמת
 	Unrendered: should play back in real time	לא מרונדר: אמור להתנגן בזמן אמת
 	Unstack	ביטול הערמה
 	Unstack Clips	ביטול הערמת קליפים
@@ -2800,7 +2800,7 @@
 	Use Tint Color	שימוש בצבע הגוון
 	User Order	סדר משתמש
 	Utility	כלי עזר
-	Validate Content Credentials on import	אמת אישורי תוכן (Content Credentials) בעת הייבוא
+	Validate Content Credentials on import	אימות אישורי תוכן (Content Credentials) בעת הייבוא
 	Variations:	וריאציות:
 	VBR, 1 pass	VBR, מעבר 1
 	VBR, 2 pass	VBR, 2 מעברים
