@@ -3164,3 +3164,4 @@
 	Select one available media clip, subclip, or multicamera source in Project first.	יש לבחור תחילה בפרויקט קליפ מדיה זמין, קליפ משנה או מקור מרובה מצלמות.
 	Select rows, then drag a clip from the Project panel onto the selection.	יש לבחור שורות ולגרור קליפ מלוח הפרויקט אל השורות שנבחרו.
 	This updates every matching candle in all scripts.	פעולה זו תעדכן את כל קווי הטייק התואמים בכל התסריטים.
+	Final Draft export:\n    • macOS: File → Export → Script → Avid Script-Based Editing (.txt).\n    • Windows: File → Export → Document → Save as Type → Avid Script-Based Editing (.txt).	ייצוא מ-Final Draft:\n    • macOS: File → Export → Script → Avid Script-Based Editing (.txt).\n    • Windows: File → Export → Document → Save as Type → Avid Script-Based Editing (.txt).

@@ -417,4 +417,4 @@ The two panel layout recovery messages were migrated from PhotoCraft commit `786
 
 ## FilmCraft: Hebrew Script window incremental sync (2026-11-27)
 
-19 existing clean-room Hebrew rows by @nocturney (AI-assisted, ChatGPT; saved in `nocturney/filmcraft@5016dc02`), synced from `filmcraft@a88cc3a0` (base `a3b8b29c`), source strings checked at official `filmcraft@7b8e522d` after `filmcraft#2726` merged. Existing translations and contributor provenance preserved. Independent native-speaker and running RTL review pending; no new translation count. This is a scoped incremental contribution, not the final app cutover sync.
+20 existing clean-room Hebrew rows by @nocturney (AI-assisted, ChatGPT; saved in `nocturney/filmcraft@5016dc02`), synced from `filmcraft@71e9bbf8` (base `a3b8b29c`; two incremental syncs), source strings checked at official `filmcraft@7b8e522d` after `filmcraft#2726` merged. Existing translations and contributor provenance preserved. Independent native-speaker and running RTL review pending; no new translation count. This is a scoped incremental contribution, not the final app cutover sync.
