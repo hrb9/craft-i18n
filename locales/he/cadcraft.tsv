@@ -105,8 +105,8 @@
 	Box	תיבה
 	Break	שבירה
 	Break At Point	שבירה בנקודה
-	Bring Above Objects	הבא מעל אובייקטים
-	Bring Annotations to Front	הבא הערות לחזית
+	Bring Above Objects	הבאה מעל אובייקטים
+	Bring Annotations to Front	הבאת הערות לחזית
 	Bulleted list	רשימה עם תבליטים
 	ByBlock	לפי בלוק
 	ByColor	לפי צבע
@@ -1435,18 +1435,18 @@ menu	View	תצוגה
 	Blocks	בלוקים
 	Blocks Palette	לוח בלוקים
 	Blue	כחול
-	Bring to Front	הבא לחזית
+	Bring to Front	הבאה לחזית
 	Center X	מרכז X
 	Center Y	מרכז Y
 	Chamfer	פאזה
-	Close All	סגור הכל
+	Close All	סגירת הכול
 	Cone	חרוט
 	Continue	המשך
 	Cyan	ציאן
-	Delete Layer	מחק שכבה
-	Describe Properties	תאר מאפיינים
+	Delete Layer	מחיקת שכבה
+	Describe Properties	תיאור מאפיינים
 	Description	תיאור
-	Deselect All	בטל בחירת הכול
+	Deselect All	ביטול בחירת הכול
 	Details	פרטים
 	Diameter	קוטר
 	Distance	מרחק
@@ -1455,32 +1455,32 @@ menu	View	תצוגה
 	Elevation	גובה (Elevation)
 	Ellipse	אליפסה
 	Endpoint	נקודת קצה
-	Erase	מחק
+	Erase	מחיקה
 	Filter	מסנן
 	From	מתוך
 	Global	גלובלי
 	Green	ירוק
 	Height	גובה
-	Hide All	הסתר הכול
-	Hide Others	הסתר אחרים
+	Hide All	הסתרת הכול
+	Hide Others	הסתרת אחרים
 	Import	ייבוא
 	Interface Language	שפת ממשק
 	Intersect	חיתוך (Intersect)
 	Isolate	בידוד
-	Join	חבר
-	Join the ArtCraft Discord…	הצטרף ל-Discord של ArtCraft…
-	Join us on Discord	הצטרף אלינו ב-Discord
+	Join	חיבור
+	Join the ArtCraft Discord…	הצטרפות ל-Discord של ArtCraft…
+	Join us on Discord	הצטרפות אלינו ב-Discord
 	Layer	שכבה
 	Layers	שכבות
 	Length	אורך
 	Libraries	ספריות
-	Lock	נעל
+	Lock	נעילה
 	Magenta	מג׳נטה
-	Measure	מדוד
+	Measure	מדידה
 	Midpoint	נקודת אמצע
 	Mirror	שיקוף
 	Modify	עריכה
-	Move	הזז
+	Move	הזזה
 	New Layer	שכבה חדשה
 	No selection	אין בחירה
 	Not available	לא זמין
@@ -1493,17 +1493,17 @@ menu	View	תצוגה
 	Rectangular	מלבני
 	Red	אדום
 	Relative	יחסי
-	Restore	שחזר
+	Restore	שחזור
 	Reverse	היפוך
-	Send to Back	שלח לאחור
+	Send to Back	שליחה לאחור
 	Services	שירותים
-	Show All	הצג הכול
+	Show All	הצגת הכול
 	Status	מצב
-	Stretch	מתח
+	Stretch	מתיחה
 	Subtract	חיסור (Subtract)
 	Text color	צבע טקסט
 	Time	זמן
-	Update	עדכן
+	Update	עדכון
 	User	משתמש
 	Value:	ערך:
 	Version {version}	גרסה {version}

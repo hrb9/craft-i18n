@@ -421,4 +421,4 @@ The two panel layout recovery messages were migrated from PhotoCraft commit `786
 
 ## CADCraft: Hebrew current catalog reconciliation (2026-11-27)
 
-84 existing Hebrew draft rows from @hrb9’s CADCraft #3284 (900bac86), checked against CADCraft main a3ed0682; shared prior source coverage also includes @nocturney’s CADCraft #3210 (33e4068f, AI-assisted). Existing contributor wording retained. No newly authored translations, independent native-speaker review or live RTL validation claimed.
+84 existing Hebrew draft rows from @hrb9’s CADCraft #3284 (900bac86), checked against CADCraft main a3ed0682; shared prior source coverage also includes @nocturney’s CADCraft #3210 (33e4068f, AI-assisted). 19 imperative labels refined to Hebrew action nouns (plus 3 pre-existing `Bring ...` labels in CADCraft and VectorCraft) reviewed by @hrb9; AI-assisted translations with independent native-speaker and live RTL validation still pending.
