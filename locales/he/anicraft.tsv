@@ -733,7 +733,7 @@
 	How far behind the stage this layer is: when the camera pans, a deeper layer moves less (parallax). Negative is in front.	עד כמה שכבה זו מרוחקת מאחורי הבמה: בהזזת מצלמה, שכבה עמוקה יותר זזה פחות (פרלקסה). ערך שלילי נמצא מלפנים.
 	How much the stroke is smoothed: 0 follows the hand closely	מידת החלקת המשיכה: 0 עוקב מקרוב אחר תנועת היד
 	How open ends finish: flat at the end (None), rounded, or squared off past it	אופן סיום קצוות פתוחים: ישר בקצה (ללא), מעוגל או מרובע מעבר לקצה
-	How the stroke's width varies along it. Shape it by hand with the Width tool (U).	אופן השתנות רוחב הקו לאורכו. עצב ידנית עם כלי הרוחב (U).
+	How the stroke's width varies along it. Shape it by hand with the Width tool (U).	אופן השתנות רוחב הקו לאורכו. ניתן לעצב אותו ידנית בעזרת כלי הרוחב (U).
 	Hue	גוון
 	Icons: Lucide (ISC)	סמלים: Lucide (ISC)
 	If AniCraft closes unexpectedly, the next start offers to restore it. Copies stay in the settings folder, never over your files, and go away when you save.	אם AniCraft נסגר במפתיע, ההפעלה הבאה תציע לשחזר אותו. העותקים נשמרים בתיקיית ההגדרות, לעולם לא על הקבצים שלך, ונמחקים בעת שמירה.
