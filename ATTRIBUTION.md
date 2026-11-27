@@ -418,3 +418,7 @@ The two panel layout recovery messages were migrated from PhotoCraft commit `786
 ## FilmCraft: Hebrew Script window incremental sync (2026-11-27)
 
 20 existing clean-room Hebrew rows by @nocturney (AI-assisted, ChatGPT; saved in `nocturney/filmcraft@5016dc02`), synced from `filmcraft@71e9bbf8` (base `a3b8b29c`; two incremental syncs), source strings checked at official `filmcraft@7b8e522d` after `filmcraft#2726` merged. Existing translations and contributor provenance preserved. Independent native-speaker and running RTL review pending; no new translation count. This is a scoped incremental contribution, not the final app cutover sync.
+
+## CADCraft: Hebrew current catalog reconciliation (2026-11-27)
+
+84 existing Hebrew draft rows from @hrb9’s CADCraft #3284 (900bac86), checked against CADCraft main a3ed0682; shared prior source coverage also includes @nocturney’s CADCraft #3210 (33e4068f, AI-assisted). Existing contributor wording retained. No newly authored translations, independent native-speaker review or live RTL validation claimed.

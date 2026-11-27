@@ -1425,3 +1425,87 @@ menu	View	תצוגה
 	Gradient	מעבר צבע
 	Shape	צורה
 	Ignore	התעלמות
+	Absolute	מוחלט
+	Additional Tools	כלים נוספים
+	Angle	זווית
+	Angular	זוויתי
+	Arc	קשת
+	Baseline	קו בסיס
+	Block	בלוק
+	Blocks	בלוקים
+	Blocks Palette	לוח בלוקים
+	Blue	כחול
+	Bring to Front	הבא לחזית
+	Center X	מרכז X
+	Center Y	מרכז Y
+	Chamfer	פאזה
+	Close All	סגור הכל
+	Cone	חרוט
+	Continue	המשך
+	Cyan	ציאן
+	Delete Layer	מחק שכבה
+	Describe Properties	תאר מאפיינים
+	Description	תיאור
+	Deselect All	בטל בחירת הכול
+	Details	פרטים
+	Diameter	קוטר
+	Distance	מרחק
+	Divide	חלוקה
+	Edit	עריכה
+	Elevation	גובה (Elevation)
+	Ellipse	אליפסה
+	Endpoint	נקודת קצה
+	Erase	מחק
+	Filter	מסנן
+	From	מתוך
+	Global	גלובלי
+	Green	ירוק
+	Height	גובה
+	Hide All	הסתר הכול
+	Hide Others	הסתר אחרים
+	Import	ייבוא
+	Interface Language	שפת ממשק
+	Intersect	חיתוך (Intersect)
+	Isolate	בידוד
+	Join	חבר
+	Join the ArtCraft Discord…	הצטרף ל-Discord של ArtCraft…
+	Join us on Discord	הצטרף אלינו ב-Discord
+	Layer	שכבה
+	Layers	שכבות
+	Length	אורך
+	Libraries	ספריות
+	Lock	נעל
+	Magenta	מג׳נטה
+	Measure	מדוד
+	Midpoint	נקודת אמצע
+	Mirror	שיקוף
+	Modify	עריכה
+	Move	הזז
+	New Layer	שכבה חדשה
+	No selection	אין בחירה
+	Not available	לא זמין
+	Offset	הסטה
+	Percent	אחוז
+	Point	נקודה
+	Polygon	מצולע
+	Polyline	פוליליין
+	Radius	רדיוס
+	Rectangular	מלבני
+	Red	אדום
+	Relative	יחסי
+	Restore	שחזר
+	Reverse	היפוך
+	Send to Back	שלח לאחור
+	Services	שירותים
+	Show All	הצג הכול
+	Status	מצב
+	Stretch	מתח
+	Subtract	חיסור (Subtract)
+	Text color	צבע טקסט
+	Time	זמן
+	Update	עדכן
+	User	משתמש
+	Value:	ערך:
+	Version {version}	גרסה {version}
+	White	לבן
+	Yellow	צהוב
